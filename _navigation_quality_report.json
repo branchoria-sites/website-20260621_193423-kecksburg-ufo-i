@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-06-21T18:29:07.929558Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1307,
+    "inline_internal_target_page_count": 211,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 211,
+    "average_inline_inbound_links_per_visible_page": 6.19,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2",
+        "title": "Witnesses",
+        "permalink": "/witnesses/",
+        "inline_inbound_count": 166
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e",
+        "title": "Kecksburg UFO incide",
+        "permalink": "/the-kecksburg-ufo-incident/",
+        "inline_inbound_count": 67
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_reentry_vehicle_69783c",
+        "title": "Re entry",
+        "permalink": "/re-entry/",
+        "inline_inbound_count": 55
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_kosmos96_timing_prob_0a1914",
+        "title": "Timing",
+        "permalink": "/timing/",
+        "inline_inbound_count": 53
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d",
+        "title": "Great Lakes",
+        "permalink": "/great-lakes/",
+        "inline_inbound_count": 51
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_acorn_object_335442_kecksburg_markings_384117",
+        "title": "Markings",
+        "permalink": "/markings/",
+        "inline_inbound_count": 49
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_physical_evidence_ga_4e2226",
+        "title": "No Object",
+        "permalink": "/no-object/",
+        "inline_inbound_count": 48
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_acorn_object_335442_acorn_shape_fireball_7c49e4",
+        "title": "Shape",
+        "permalink": "/shape/",
+        "inline_inbound_count": 46
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b",
+        "title": "Symbols",
+        "permalink": "/symbols/",
+        "inline_inbound_count": 35
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_early_newspapers_e36aa7_regional_fireball_la_4adcb3",
+        "title": "Fireball Map",
+        "permalink": "/fireball-map/",
+        "inline_inbound_count": 32
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_hieroglyphics_compar_2bc6d5",
+        "title": "Hieroglyphics",
+        "permalink": "/hieroglyphics/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8_seismograph_shock_wa_ac833b",
+        "title": "Shock Waves",
+        "permalink": "/shock-waves/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_acorn_object_335442_unsolved_mysteries_r_fa69e8",
+        "title": "Replica",
+        "permalink": "/replica/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "title": "Booms",
+        "permalink": "/booms/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_acorn_object_335442_covered_flatbed_clai_8126d5",
+        "title": "Flatbed",
+        "permalink": "/flatbed/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "title": "Kosmos 96",
+        "permalink": "/kosmos-96/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_kecksburg_roswell_co_339d60_acorn_object_origins_9290ee",
+        "title": "The acorn shaped object",
+        "permalink": "/the-acorn-shaped-object/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_missing_files_e58f73_missing_fragology_bo_b0a146",
+        "title": "Missing Boxes",
+        "permalink": "/missing-boxes/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "title": "Stan Gordon",
+        "permalink": "/stan-gordon/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "title": "Landmark",
+        "permalink": "/landmark/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8",
+        "title": "Aviation",
+        "permalink": "/aviation/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_kecksburg_roswell_co_339d60_military_recovery_di_c1520b",
+        "title": "Did the military",
+        "permalink": "/did-the-military/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_early_newspapers_e36aa7",
+        "title": "Newspapers",
+        "permalink": "/newspapers/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1",
+        "title": "Bolides",
+        "permalink": "/bolides/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_military_presence_cl_874768",
+        "title": "Military Claims",
+        "permalink": "/military-claims/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_nasa_records_lawsuit_90a24e_missing_fragology_fi_ae2676",
+        "title": "Fragology Files",
+        "permalink": "/fragology-files/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_595755_kecksburg_tourism_la_33c977",
+        "title": "Landmarks",
+        "permalink": "/landmarks/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e_nasa_fragology_90e5bb",
+        "title": "Fragology",
+        "permalink": "/fragology/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8_emergency_response_l_653545",
+        "title": "Search Response",
+        "permalink": "/search-response/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c_ufo_festival_ritual_ff3430",
+        "title": "Festival",
+        "permalink": "/festival/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_reentry_vehicle_69783c_heat_shield_metal_4ada3d",
+        "title": "Heat Shield",
+        "permalink": "/heat-shield/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8_pilot_reports_offici_f933ac",
+        "title": "Pilot Reports",
+        "permalink": "/pilot-reports/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_kecksburg_roswell_co_339d60_fireball_vs_crash_cl_9fc866",
+        "title": "Kecksburg fireball",
+        "permalink": "/kecksburg-fireball/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_meteor_vs_crash_806783_kosmos_96_theory_0717fe",
+        "title": "Kosmos 96",
+        "permalink": "/kosmos-96-fc7c69/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_595755_ufo_festival_identit_86c061",
+        "title": "UFO Festival",
+        "permalink": "/ufo-festival/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_fireball_science_3dbbe4_fireball_triangulati_fff404",
+        "title": "Triangulation",
+        "permalink": "/triangulation/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_umich_seismic_record_9b0dac",
+        "title": "Seismic Record",
+        "permalink": "/seismic-record/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3",
+        "title": "Cold War",
+        "permalink": "/cold-war/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_595755_media_retellings_mem_643c04",
+        "title": "Media Retellings",
+        "permalink": "/media-retellings/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Kecksburg_UFO_incide_ab793e_alien_craft_limits_550ff0_acorn_shape_folklore_18f325",
+        "title": "Acorn Shape",
+        "permalink": "/acorn-shape/",
+        "inline_inbound_count": 7
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_acorn_object_335442",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_alien_craft_limits_550ff0",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_early_newspapers_e36aa7",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_evidence_evaluation_65cdb3",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_fireball_science_3dbbe4",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_index",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_kecksburg_roswell_co_339d60",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_lorry_removal_d828cd",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_media_reconstruction_9160d9",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_meteor_vs_crash_806783",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_missing_files_e58f73",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_nasa_records_lawsuit_90a24e",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_official_trust_gap_c78489",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_595755",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_physical_evidence_ga_4e2226",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_proof_standards_bd0f6d",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_reentry_vehicle_69783c",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_unsolved_mysteries_i_e933ac",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e",
+        "to": "Kecksburg_UFO_incide_ab793e_woods_searches_25e161",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e",
+        "type": "parent"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_acorn_object_335442",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_alien_craft_limits_550ff0",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_early_newspapers_e36aa7",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_evidence_evaluation_65cdb3",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_fireball_science_3dbbe4",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_kecksburg_roswell_co_339d60",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_lorry_removal_d828cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_media_reconstruction_9160d9",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_meteor_vs_crash_806783",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_missing_files_e58f73",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_nasa_records_lawsuit_90a24e",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_official_trust_gap_c78489",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_595755",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_physical_evidence_ga_4e2226",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_proof_standards_bd0f6d",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_reentry_vehicle_69783c",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_unsolved_mysteries_i_e933ac",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_woods_searches_25e161",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_cold_war_kosmos96_ap_de5943",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_index",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_kosmos96_timing_prob_0a1914",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_kosmos96_trajectory_4bb883",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_kosmos96_vs_meteor_e_325ea9",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_nasa_russian_satelli_deecf9",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_venus_probe_survival_dc3911",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "to": "Kecksburg_UFO_incide_ab793e",
+        "type": "ancestor"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e",
+        "type": "parent"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_acorn_object_335442",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_alien_craft_limits_550ff0",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_early_newspapers_e36aa7",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_evidence_evaluation_65cdb3",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_fireball_science_3dbbe4",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_kecksburg_roswell_co_339d60",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_lorry_removal_d828cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_media_reconstruction_9160d9",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_meteor_vs_crash_806783",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_missing_files_e58f73",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_nasa_records_lawsuit_90a24e",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_official_trust_gap_c78489",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_595755",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_physical_evidence_ga_4e2226",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_proof_standards_bd0f6d",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_reentry_vehicle_69783c",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_unsolved_mysteries_i_e933ac",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_woods_searches_25e161",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3_index",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3_kalp_hollow_smoke_a1a926",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3_nearby_booms_d16d86",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3_pilot_seismograph_re_6e7e19",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3_pittsburgh_booms_61ca89",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3_search_scene_smoke_24e18b",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3_smoke_trails_0df6d8",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "to": "Kecksburg_UFO_incide_ab793e",
+        "type": "ancestor"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e",
+        "type": "parent"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_acorn_object_335442",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_alien_craft_limits_550ff0",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_early_newspapers_e36aa7",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_evidence_evaluation_65cdb3",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_fireball_science_3dbbe4",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_kecksburg_roswell_co_339d60",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_lorry_removal_d828cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_media_reconstruction_9160d9",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_meteor_vs_crash_806783",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_missing_files_e58f73",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_nasa_records_lawsuit_90a24e",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_official_trust_gap_c78489",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_595755",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_physical_evidence_ga_4e2226",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_proof_standards_bd0f6d",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_reentry_vehicle_69783c",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_unsolved_mysteries_i_e933ac",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_woods_searches_25e161",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_archive_limits_3f5bb5",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_index",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_late_witness_memory_d62bb0",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_military_presence_cl_874768",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_missing_photo_appeal_ead8c3",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_romansky_close_objec_db58e6",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_witness_categories_c34ea8",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "to": "Kecksburg_UFO_incide_ab793e",
+        "type": "ancestor"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e",
+        "type": "parent"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_acorn_object_335442",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_alien_craft_limits_550ff0",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_early_newspapers_e36aa7",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_evidence_evaluation_65cdb3",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_fireball_science_3dbbe4",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_kecksburg_roswell_co_339d60",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_lorry_removal_d828cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_media_reconstruction_9160d9",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_meteor_vs_crash_806783",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_missing_files_e58f73",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_nasa_records_lawsuit_90a24e",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_official_trust_gap_c78489",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_595755",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_physical_evidence_ga_4e2226",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_proof_standards_bd0f6d",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_reentry_vehicle_69783c",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_stan_gordon_896e09",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_unsolved_mysteries_i_e933ac",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_woods_searches_25e161",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c_believers_skeptics_t_e26dc0",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c_index",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c_kecksburg_roswell_to_5b9ed7",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c_space_acorn_landmark_35d80e",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c_ufo_festival_ritual_ff3430",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c_ufo_store_souvenirs_a7e76d",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c_vfd_tourism_hub_305490",
+        "type": "child"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c",
+        "to": "Kecksburg_UFO_incide_ab793e",
+        "type": "ancestor"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_acorn_object_335442",
+        "to": "Kecksburg_UFO_incide_ab793e",
+        "type": "parent"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_acorn_object_335442",
+        "to": "Kecksburg_UFO_incide_ab793e_alien_craft_limits_550ff0",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_acorn_object_335442",
+        "to": "Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_acorn_object_335442",
+        "to": "Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_acorn_object_335442",
+        "to": "Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_acorn_object_335442",
+        "to": "Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_acorn_object_335442",
+        "to": "Kecksburg_UFO_incide_ab793e_early_newspapers_e36aa7",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_acorn_object_335442",
+        "to": "Kecksburg_UFO_incide_ab793e_evidence_evaluation_65cdb3",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_acorn_object_335442",
+        "to": "Kecksburg_UFO_incide_ab793e_fireball_science_3dbbe4",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_acorn_object_335442",
+        "to": "Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_acorn_object_335442",
+        "to": "Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_acorn_object_335442",
+        "to": "Kecksburg_UFO_incide_ab793e_kecksburg_roswell_co_339d60",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_acorn_object_335442",
+        "to": "Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_acorn_object_335442",
+        "to": "Kecksburg_UFO_incide_ab793e_lorry_removal_d828cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_acorn_object_335442",
+        "to": "Kecksburg_UFO_incide_ab793e_media_reconstruction_9160d9",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_acorn_object_335442",
+        "to": "Kecksburg_UFO_incide_ab793e_meteor_vs_crash_806783",
+        "type": "sibling"
+      },
+      {
+        "from": "Kecksburg_UFO_incide_ab793e_acorn_object_335442",
+        "to": "Kecksburg_UFO_incide_ab793e_missing_files_e58f73",
+        "type": "sibling"
+      }
+    ]
+  }
+}
