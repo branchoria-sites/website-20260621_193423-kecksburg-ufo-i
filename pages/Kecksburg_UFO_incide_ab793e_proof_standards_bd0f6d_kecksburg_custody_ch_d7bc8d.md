@@ -274,7 +274,7 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_proof_standards_bd0f6d_kecksbu
 
 ## Introduction
 
-For any claim that an object was recovered from the Kecksburg woods in December 1965, the decisive question is not whether [witnesses]({{ 'witnesses/' | relative_url }}) reported military activity or whether an unusual object was seen. The decisive question is whether a documented chain of custody can connect a specific recovered item to the alleged recovery site and then follow that item through transport, storage and analysis without unexplained gaps. In evidence handling, a chain of custody is the documented record of who possessed an item, when they possessed it, where it was stored and how it was transferred. Without that record, even a genuine artefact cannot reliably be linked to the event being investigated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice+2NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">chain custody</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody of Evidence &#124; National Institute of Justice7 Jun 2023 — The chain of custody of evidence is...</span></span></span>
+For any claim that an object was recovered from the Kecksburg woods in December 1965, the decisive question is not whether [witnesses]({{ 'witnesses/' | relative_url }}) reported military activity or whether an unusual object was seen. The decisive question is whether a documented chain of custody can connect a specific recovered item to the alleged recovery site and then follow that item through transport, storage and analysis without unexplained gaps. In evidence handling, a chain of custody is the documented record of who possessed an item, when they possessed it, where it was stored and how it was transferred. Without that record, even a genuine artefact cannot reliably be linked to the event being investigated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">chain custody</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody of Evidence &#124; National Institute of Justice7 Jun 2023 — The chain of custody of evidence is...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_proof_standards_bd0f6d_kecksburg_custody_ch_d7bc8d-Illustration-1-dark.svg" | relative_url }}" alt="Custody Chain illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_proof_standards_bd0f6d_kecksburg_custody_ch_d7bc8d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_proof_standards_bd0f6d_kecksburg_custody_ch_d7bc8d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -286,7 +286,7 @@ Applied to Kecksburg, a credible custody trail would be one of the few forms of 
 
 A credible Kecksburg custody chain would require more than a single document or witness statement. It would need a sequence of mutually supporting records.
 
-The first link would be recovery documentation created at or near the scene. Standard evidence practices require the location, condition and identifying characteristics of an object to be recorded when it is first collected. The record should identify who recovered it, when it was recovered and how it was packaged. National Institute of Justice+2National Institute of Justice <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody/chain-custody-record" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[nij.ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody Record &#124; National Institute of JusticeThe chain of custody record must contain identifiers...</span></span></span>
+The first link would be recovery documentation created at or near the scene. Standard evidence practices require the location, condition and identifying characteristics of an object to be recorded when it is first collected. The record should identify who recovered it, when it was recovered and how it was packaged. National Institute of Justice+2National Institute of Justice<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody/chain-custody-record" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[nij.ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody Record &#124; National Institute of JusticeThe chain of custody record must contain identifiers...</span></span></span>
 
 For a purported Kecksburg object, the minimum field-level evidence would include:
 
@@ -297,13 +297,13 @@ For a purported Kecksburg object, the minimum field-level evidence would include
 * The date and approximate time of recovery.
 * A description matching later reports of the item.
 * Maps, coordinates, sketches or photographs identifying the recovery location.
-* Packaging or tagging records showing that the item was sealed and labelled. National Institute of Justice+2National Institute of Justice <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody/chain-custody-record" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[nij.ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody Record &#124; National Institute of JusticeThe chain of custody record must contain identifiers...</span></span></span>
+* Packaging or tagging records showing that the item was sealed and labelled. National Institute of Justice+2National Institute of Justice<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody/chain-custody-record" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[nij.ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody Record &#124; National Institute of JusticeThe chain of custody record must contain identifiers...</span></span></span>
 
 </div>
 
-The second link would be transport records. If an object was allegedly loaded onto a military vehicle and removed from the site, there should be evidence that custody changed hands. Standard chain-of-custody procedures require each transfer to be documented with names, dates and signatures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI+2New York City Government]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Chain of Custody - StatPearls - NCBI Bookshelf - NIHby A Badiye · 2023 · Cited by 42 — Each time the charge of evidence is changed, t...</span></span></span>
+The second link would be transport records. If an object was allegedly loaded onto a military vehicle and removed from the site, there should be evidence that custody changed hands. Standard chain-of-custody procedures require each transfer to be documented with names, dates and signatures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Chain of Custody - StatPearls - NCBI Bookshelf - NIHby A Badiye · 2023 · Cited by 42 — Each time the charge of evidence is changed, t...</span></span></span>
 
-The third link would be receipt at a storage or examination facility. A recovered object normally receives an inventory number, accession number or specimen identifier. That identifier becomes the anchor that connects every later document to the original recovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lsdfc.org/wp-content/uploads/2020/05/Chain-of-Custody-v2.0-DFB-SOP-CW-002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lsdfc.org">[lsdfc.org+2US EPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lsdfc.org</span><span class="citation-popover-title">Chain o f Custod y</span><span class="citation-popover-snippet">April 22, 2020 — The specimen number follows the LSD&amp;FC case number, separated by a dash. For Human Identity Casework. CH = Child. AF = A...</span><span class="citation-popover-meta">Published: April 22, 2020</span></span></span>
+The third link would be receipt at a storage or examination facility. A recovered object normally receives an inventory number, accession number or specimen identifier. That identifier becomes the anchor that connects every later document to the original recovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lsdfc.org/wp-content/uploads/2020/05/Chain-of-Custody-v2.0-DFB-SOP-CW-002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lsdfc.org">[lsdfc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lsdfc.org</span><span class="citation-popover-title">Chain o f Custod y</span><span class="citation-popover-snippet">April 22, 2020 — The specimen number follows the LSD&amp;FC case number, separated by a dash. For Human Identity Casework. CH = Child. AF = A...</span><span class="citation-popover-meta">Published: April 22, 2020</span></span></span>
 
 Without all three links—recovery, transfer and receipt—a claimed Kecksburg artefact would remain disconnected from the event it is supposed to prove.
 
@@ -314,11 +314,11 @@ Without all three links—recovery, transfer and receipt—a claimed Kecksburg a
 
 The Kecksburg case presents unusual difficulties because the alleged recovery happened decades ago and because public records are incomplete or disputed.
 
-One potential break occurs at the very beginning of the chain. Publicly available accounts disagree about whether anything was recovered at all. Contemporary reports include accounts that the search area was secured and inspected, while Air Force-related records associated with the incident state that searchers found nothing. A custody chain cannot begin unless a recoverable object is documented at the scene. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+One potential break occurs at the very beginning of the chain. Publicly available accounts disagree about whether anything was recovered at all. Contemporary reports include accounts that the search area was secured and inspected, while Air Force-related records associated with the incident state that searchers found nothing. A custody chain cannot begin unless a recoverable object is documented at the scene.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-A second likely break concerns transportation and storage records. Many recovery stories describe military personnel removing an object, but eyewitness testimony alone does not identify specific custodians, vehicle numbers, receiving facilities or inventory systems. A chain of custody requires those details because every transfer must be traceable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2New York City Government]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Chain of Custody in the Era of Modern Forensics</span><span class="citation-popover-snippet">During the trial, if...</span></span></span>
+A second likely break concerns transportation and storage records. Many recovery stories describe military personnel removing an object, but eyewitness testimony alone does not identify specific custodians, vehicle numbers, receiving facilities or inventory systems. A chain of custody requires those details because every transfer must be traceable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Chain of Custody in the Era of Modern Forensics</span><span class="citation-popover-snippet">During the trial, if...</span></span></span>
 
-A third problem involves archival continuity. The Kecksburg controversy has long included disputes over missing or incomplete government records. NASA's later acknowledgement that certain historical records connected to the incident could not be located illustrates how documentary gaps emerge over time. Even if an object once entered an official system, proving that path decades later becomes difficult when records disappear or cannot be matched to surviving inventories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+A third problem involves archival continuity. The Kecksburg controversy has long included disputes over missing or incomplete government records. NASA's later acknowledgement that certain historical records connected to the incident could not be located illustrates how documentary gaps emerge over time. Even if an object once entered an official system, proving that path decades later becomes difficult when records disappear or cannot be matched to surviving inventories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 From an evidentiary perspective, the weakest point in most recovery narratives is not the absence of dramatic testimony but the absence of routine paperwork. Extraordinary claims often fail because ordinary administrative records are missing.
 
@@ -331,7 +331,7 @@ From an evidentiary perspective, the weakest point in most recovery narratives i
 
 The strongest possible custody evidence would involve matching identifiers appearing across independent records.
 
-Imagine that a recovery tag assigned an object a number on the night of 9 December 1965. If that same number appeared later on a transport manifest, a warehouse receipt and a laboratory report, researchers could follow a continuous trail from the woods to scientific examination. This is precisely why evidence systems rely on unique identifiers and documented transfers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://19january2021snapshot.epa.gov/sites/static/files/2015-06/documents/Sample-and-Evidence-Management.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epa.gov">[US EPA+2lsdfc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epa.gov</span><span class="citation-popover-title">US EPAsample and evidence management (pdf)The Chain-Of-Custody Record documents transfer of custody of samples from the sample custodian</span><span class="citation-popover-snippet">to another person, to the laboratory or other organizational ...Read more</span></span></span>
+Imagine that a recovery tag assigned an object a number on the night of 9 December 1965. If that same number appeared later on a transport manifest, a warehouse receipt and a laboratory report, researchers could follow a continuous trail from the woods to scientific examination. This is precisely why evidence systems rely on unique identifiers and documented transfers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://19january2021snapshot.epa.gov/sites/static/files/2015-06/documents/Sample-and-Evidence-Management.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epa.gov">[epa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epa.gov</span><span class="citation-popover-title">US EPAsample and evidence management (pdf)The Chain-Of-Custody Record documents transfer of custody of samples from the sample custodian</span><span class="citation-popover-snippet">to another person, to the laboratory or other organizational ...Read more</span></span></span>
 
 For a Kecksburg claim, the most persuasive documentary package would contain:
 
@@ -368,194 +368,194 @@ The most convincing package would therefore combine:
 In the context of proving a Kecksburg recovery, chain of custody is not a technical detail. It is the practical test that separates a story about an object from evidence that an object was actually recovered, transported and retained. Without that unbroken documentary trail, even a remarkable artefact cannot be confidently connected to the events in the Kecksburg woods.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could a Chain of Custody Prove Kecksburg?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could a Chain of Custody Prove Kecksburg?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Emphasizes evidence quality and verification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Emphasizes evidence quality and verification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights cases supported by documentation and records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights cases supported by documentation and records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hMf3TgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a>
-        </h4>
-        <p class="fr-book-author">By Stan Gordon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hMf3TgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a>
+</h4>
+<p class="fr-book-author">By Stan Gordon</p>
         
-        <p class="fr-book-desc">Provides background on long-term investigations in Pennsylvania.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on long-term investigations in Pennsylvania.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Forensic+Evidence+by+Terrence+F.+Kiely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Evidence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forensic+Evidence+by+Terrence+F.+Kiely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Evidence">Forensic Evidence</a>
-        </h4>
-        <p class="fr-book-author">By Terrence F. Kiely</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Forensic+Evidence+by+Terrence+F.+Kiely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Evidence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Forensic+Evidence+by+Terrence+F.+Kiely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Evidence">Forensic Evidence</a>
+</h4>
+<p class="fr-book-author">By Terrence F. Kiely</p>
         
-        <p class="fr-book-desc">Explains chain-of-custody requirements and evidence handling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forensic+Evidence+by+Terrence+F.+Kiely&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains chain-of-custody requirements and evidence handling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Forensic+Evidence+by+Terrence+F.+Kiely&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Silent+Invasion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silent Invasion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Silent+Invasion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silent Invasion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg Ufo Alien Incident Brand New Shirt Multiple Sizes and Colors"><img src="{{ '/assets/images/marketplace-covers/a3ba1466e686f0cce89f.jpg' | relative_url }}" alt="Listing image for Kecksburg Ufo Alien Incident Brand New Shirt Multiple Sizes and Colors" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Kecksburg Ufo Alien Incident Brand New Shirt Multiple Sizes and Colors</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg Ufo Alien Incident Brand New Shirt Multiple Sizes and Colors"><img src="{{ '/assets/images/marketplace-covers/a3ba1466e686f0cce89f.jpg' | relative_url }}" alt="Listing image for Kecksburg Ufo Alien Incident Brand New Shirt Multiple Sizes and Colors" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Kecksburg Ufo Alien Incident Brand New Shirt Multiple Sizes and Colors</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KECKSBURG 65 Unisex embroidered Classic Tee – UFO Mystery Apparel"><img src="{{ '/assets/images/marketplace-covers/e04cd349c4832a9c0b4a.jpg' | relative_url }}" alt="Listing image for KECKSBURG 65 Unisex embroidered Classic Tee – UFO Mystery Apparel" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">KECKSBURG 65 Unisex embroidered Classic Tee – UFO Mystery Apparel</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KECKSBURG 65 Unisex embroidered Classic Tee – UFO Mystery Apparel"><img src="{{ '/assets/images/marketplace-covers/e04cd349c4832a9c0b4a.jpg' | relative_url }}" alt="Listing image for KECKSBURG 65 Unisex embroidered Classic Tee – UFO Mystery Apparel" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">KECKSBURG 65 Unisex embroidered Classic Tee – UFO Mystery Apparel</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KECKSBURG PA Military GAS MASK WWII 12/09/1965 UFO Incident BLUE T-Shirt Men&#x27;s L"><img src="{{ '/assets/images/marketplace-covers/6c34441edd0ad961e35c.jpg' | relative_url }}" alt="Listing image for KECKSBURG PA Military GAS MASK WWII 12/09/1965 UFO Incident BLUE T-Shirt Men&#x27;s L" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">KECKSBURG PA Military GAS MASK WWII 12/09/1965 UFO Incident BLUE T-Shirt Men&#x27;s L</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KECKSBURG PA Military GAS MASK WWII 12/09/1965 UFO Incident BLUE T-Shirt Men&#x27;s L"><img src="{{ '/assets/images/marketplace-covers/6c34441edd0ad961e35c.jpg' | relative_url }}" alt="Listing image for KECKSBURG PA Military GAS MASK WWII 12/09/1965 UFO Incident BLUE T-Shirt Men&#x27;s L" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">KECKSBURG PA Military GAS MASK WWII 12/09/1965 UFO Incident BLUE T-Shirt Men&#x27;s L</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bell Bell Wonder Weapon Myth Kecksburg UFO Secret Project T-Shirt #46876"><img src="{{ '/assets/images/marketplace-covers/e314f32d00be674bc7bb.jpg' | relative_url }}" alt="Listing image for The Bell Bell Wonder Weapon Myth Kecksburg UFO Secret Project T-Shirt #46876" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">The Bell Bell Wonder Weapon Myth Kecksburg UFO Secret Project T-Shirt #46876</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bell Bell Wonder Weapon Myth Kecksburg UFO Secret Project T-Shirt #46876"><img src="{{ '/assets/images/marketplace-covers/e314f32d00be674bc7bb.jpg' | relative_url }}" alt="Listing image for The Bell Bell Wonder Weapon Myth Kecksburg UFO Secret Project T-Shirt #46876" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">The Bell Bell Wonder Weapon Myth Kecksburg UFO Secret Project T-Shirt #46876</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="custody-chain-could-a-chain-of-custody-prove-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ In the context of proving a Kecksburg recovery, chain of custody is not a techni
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ In the context of proving a Kecksburg recovery, chain of custody is not a techni
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ In the context of proving a Kecksburg recovery, chain of custody is not a techni
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ In the context of proving a Kecksburg recovery, chain of custody is not a techni
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ In the context of proving a Kecksburg recovery, chain of custody is not a techni
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,118 +761,118 @@ In the context of proving a Kecksburg recovery, chain of custody is not a techni
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK551677/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody - StatPearls - NCBI Bookshelf - NIHby A Badiye · 2023 · Cited by 42 — Each time the charge of evidence is changed, t...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK551677/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody - StatPearls - NCBI Bookshelf - NIHby A Badiye · 2023 · Cited by 42 — Each time the charge of evidence is changed, t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Chain of Custody in the Era of Modern Forensics  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>During the trial, if...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>During the trial, if...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lsdfc.org  
    Title: Chain o f Custod y  
-   Link: <a href="https://www.lsdfc.org/wp-content/uploads/2020/05/Chain-of-Custody-v2.0-DFB-SOP-CW-002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lsdfc.org/wp-content/uploads/2020/05/Chain-of-Custody-v2.0-DFB-SOP-CW-002.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 22, 2020 — The specimen number follows the LSD&amp;FC case number, separated by a dash. For Human Identity Casework. CH = Child. AF = A...</p></details>
+   Link:<a href="https://www.lsdfc.org/wp-content/uploads/2020/05/Chain-of-Custody-v2.0-DFB-SOP-CW-002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lsdfc.org/wp-content/uploads/2020/05/Chain-of-Custody-v2.0-DFB-SOP-CW-002.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 22, 2020 — The specimen number follows the LSD&amp;FC case number, separated by a dash. For Human Identity Casework. CH = Child. AF = A...</p></details>
    Published: April 22, 2020  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nij.ojp.gov  
    Title: chain custody  
-   Link: <a href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeChain of Custody of Evidence | National Institute of Justice7 Jun 2023 — The chain of custody of evidence is...</p></details>
+   Link:<a href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeChain of Custody of Evidence | National Institute of Justice7 Jun 2023 — The chain of custody of evidence is...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nij.ojp.gov  
-   Link: <a href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody/chain-custody-record" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody/chain-custody-record</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeChain of Custody Record | National Institute of JusticeThe chain of custody record must contain identifiers...</p></details>
+   Link:<a href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody/chain-custody-record" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody/chain-custody-record</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeChain of Custody Record | National Institute of JusticeThe chain of custody record must contain identifiers...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nij.ojp.gov  
    Title: chain custody  
-   Link: <a href="https://nij.ojp.gov/nij-hosted-online-training-courses/collecting-dna-evidence-at-property-crime-scenes/evidence-collection/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/collecting-dna-evidence-at-property-crime-scenes/evidence-collection/chain-custody</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeCollecting DNA Evidence at Property Crime Scenes | Chain of...7 Jun 2023 — The chain of custody is a tracki...</p></details>
+   Link:<a href="https://nij.ojp.gov/nij-hosted-online-training-courses/collecting-dna-evidence-at-property-crime-scenes/evidence-collection/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/collecting-dna-evidence-at-property-crime-scenes/evidence-collection/chain-custody</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeCollecting DNA Evidence at Property Crime Scenes | Chain of...7 Jun 2023 — The chain of custody is a tracki...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nyc.gov  
    Title: evidence control 062016  
-   Link: <a href="https://www.nyc.gov/assets/ocme/downloads/pdf/technical-manuals/forensic-biology-technical-manuals/evidence_control_062016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nyc.gov/assets/ocme/downloads/pdf/technical-manuals/forensic-biology-technical-manuals/evidence_control_062016.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New York City GovernmentEvidence Control20 Jun 2016 — The chain-of-custody process records the transfer of evidence between individuals a...</p></details>
+   Link:<a href="https://www.nyc.gov/assets/ocme/downloads/pdf/technical-manuals/forensic-biology-technical-manuals/evidence_control_062016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nyc.gov/assets/ocme/downloads/pdf/technical-manuals/forensic-biology-technical-manuals/evidence_control_062016.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New York City GovernmentEvidence Control20 Jun 2016 — The chain-of-custody process records the transfer of evidence between individuals a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: labmanager.com  
-   Link: <a href="https://www.labmanager.com/evidence-chain-of-custody-best-practices-building-trust-and-traceability-across-scientific-and-forensic-labs-34564" target="_blank" rel="noopener noreferrer nofollow">https://www.labmanager.com/evidence-chain-of-custody-best-practices-building-trust-and-traceability-across-scientific-and-forensic-labs-34564</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence Chain of Custody Best Practices for LabsA secure evidence chain of custody is the backbone of laboratory credibility—linking eve...</p></details>
+   Link:<a href="https://www.labmanager.com/evidence-chain-of-custody-best-practices-building-trust-and-traceability-across-scientific-and-forensic-labs-34564" target="_blank" rel="noopener noreferrer nofollow">https://www.labmanager.com/evidence-chain-of-custody-best-practices-building-trust-and-traceability-across-scientific-and-forensic-labs-34564</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence Chain of Custody Best Practices for LabsA secure evidence chain of custody is the backbone of laboratory credibility—linking eve...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nij.ojp.gov  
    Title: maintaining chain custody  
-   Link: <a href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/sources-scientific-evidence/testing-or-evaluating-evidence-and-writing-reports/maintaining-chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/sources-scientific-evidence/testing-or-evaluating-evidence-and-writing-reports/maintaining-chain-custody</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>101: Legal Guide for the Forensic Expert | Maintaining a...Learn more about how forensic experts maintain a chain of custody for recover...</p></details>
+   Link:<a href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/sources-scientific-evidence/testing-or-evaluating-evidence-and-writing-reports/maintaining-chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/sources-scientific-evidence/testing-or-evaluating-evidence-and-writing-reports/maintaining-chain-custody</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>101: Legal Guide for the Forensic Expert | Maintaining a...Learn more about how forensic experts maintain a chain of custody for recover...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/369940913_Maintaining_the_chain_of_custody_Anti-contamination_measures_for_trace_DNA_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369940913_Maintaining_the_chain_of_custody_Anti-contamination_measures_for_trace_DNA_evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Maintaining the chain of custody: Anti-contamination...11 Apr 2023 — Maintaining a clear chain of custody is critical to the admis...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/369940913_Maintaining_the_chain_of_custody_Anti-contamination_measures_for_trace_DNA_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369940913_Maintaining_the_chain_of_custody_Anti-contamination_measures_for_trace_DNA_evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Maintaining the chain of custody: Anti-contamination...11 Apr 2023 — Maintaining a clear chain of custody is critical to the admis...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsAfter investigations found no evidence of any UFO that was extraterrestrial in nature or...</p></details>
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsAfter investigations found no evidence of any UFO that was extraterrestrial in nature or...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/359449110_Chain_of_Custody_Scaling_the_Investigation_to_the_Event" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359449110_Chain_of_Custody_Scaling_the_Investigation_to_the_Event</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody: Scaling the Investigation to the EventChain of custody is defined as the chronological documentation of handling, trans...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/359449110_Chain_of_Custody_Scaling_the_Investigation_to_the_Event" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359449110_Chain_of_Custody_Scaling_the_Investigation_to_the_Event</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody: Scaling the Investigation to the EventChain of custody is defined as the chronological documentation of handling, trans...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ijeais.org  
-   Link: <a href="https://ijeais.org/wp-content/uploads/2025/6/IJAAFMR250624.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ijeais.org/wp-content/uploads/2025/6/IJAAFMR250624.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Evidence Management: Chain Of Custody ProcessThe chain of custody is vital for documenting evidence management, ensuring its aut...</p></details>
+   Link:<a href="https://ijeais.org/wp-content/uploads/2025/6/IJAAFMR250624.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ijeais.org/wp-content/uploads/2025/6/IJAAFMR250624.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Evidence Management: Chain Of Custody ProcessThe chain of custody is vital for documenting evidence management, ensuring its aut...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: positivelypittsburgh.com  
-   Link: <a href="https://positivelypittsburgh.com/[the-kecksburg-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/[the-kecksburg-ufo-incident</a>  
+   Link:<a href="https://positivelypittsburgh.com/[the-kecksburg-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/[the-kecksburg-ufo-incident</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: evidencemanagement.com  
-   Link: <a href="https://evidencemanagement.com/the-crucial-role-of-chain-of-custody-ensuring-evidence-integrity-and-quality-assurance/" target="_blank" rel="noopener noreferrer nofollow">https://evidencemanagement.com/the-crucial-role-of-chain-of-custody-ensuring-evidence-integrity-and-quality-assurance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Crucial Role of Chain of Custody: Ensuring Evidence...21 May 2024 — The chain of custody is a term that encapsulates the chronologic...</p></details>
+   Link:<a href="https://evidencemanagement.com/the-crucial-role-of-chain-of-custody-ensuring-evidence-integrity-and-quality-assurance/" target="_blank" rel="noopener noreferrer nofollow">https://evidencemanagement.com/the-crucial-role-of-chain-of-custody-ensuring-evidence-integrity-and-quality-assurance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Crucial Role of Chain of Custody: Ensuring Evidence...21 May 2024 — The chain of custody is a term that encapsulates the chronologic...</p></details>
    Published: May 2024  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ucr.fbi.gov  
    Title: quality assurance standards for forensic dna testing laboratories  
-   Link: <a href="https://ucr.fbi.gov/lab/biometric-analysis/codis/quality-assurance-standards-for-forensic-dna-testing-laboratories" target="_blank" rel="noopener noreferrer nofollow">https://ucr.fbi.gov/lab/biometric-analysis/codis/quality-assurance-standards-for-forensic-dna-testing-laboratories</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASSURANCE STANDARDS FOR FORENSIC DNA...The standards describe the quality assurance requirements that laboratories performing forensic D...</p></details>
+   Link:<a href="https://ucr.fbi.gov/lab/biometric-analysis/codis/quality-assurance-standards-for-forensic-dna-testing-laboratories" target="_blank" rel="noopener noreferrer nofollow">https://ucr.fbi.gov/lab/biometric-analysis/codis/quality-assurance-standards-for-forensic-dna-testing-laboratories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASSURANCE STANDARDS FOR FORENSIC DNA...The standards describe the quality assurance requirements that laboratories performing forensic D...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mained &quot;unidentified.&quot; (1) no UFO reported, investigated and evaluated by the Air Force was ever an...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mained &quot;unidentified.&quot; (1) no UFO reported, investigated and evaluated by the Air Force was ever an...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: docsteach.org  
-   Link: <a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s investigations into UFOs. Periodically, Project Bluebook staff created...Read more...</p></details>
+   Link:<a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s investigations into UFOs. Periodically, Project Bluebook staff created...Read more...</p></details>

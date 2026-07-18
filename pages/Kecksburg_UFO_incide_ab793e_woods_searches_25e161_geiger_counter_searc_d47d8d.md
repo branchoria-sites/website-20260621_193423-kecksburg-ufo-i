@@ -274,7 +274,7 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_woods_searches_25e161_geiger_c
 
 ## Introduction
 
-One of the most frequently repeated details in accounts of [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}) is that search teams entered the woods carrying Geiger counters. The image is memorable because it suggests officials were worried about more than a routine meteor sighting. Contemporary news reports stated that Pennsylvania State Police and Air Force personnel searched the area for hours with radiation-detection equipment and then reported finding nothing. The presence of Geiger counters is therefore genuine evidence that authorities considered the possibility of a hazardous object, but it is not evidence that radioactive wreckage was actually found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+One of the most frequently repeated details in accounts of [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}) is that search teams entered the woods carrying Geiger counters. The image is memorable because it suggests officials were worried about more than a routine meteor sighting. Contemporary news reports stated that Pennsylvania State Police and Air Force personnel searched the area for hours with radiation-detection equipment and then reported finding nothing. The presence of Geiger counters is therefore genuine evidence that authorities considered the possibility of a hazardous object, but it is not evidence that radioactive wreckage was actually found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_woods_searches_25e161_geiger_counter_searc_d47d8d-Illustration-1-dark.svg" | relative_url }}" alt="Geiger Search illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_woods_searches_25e161_geiger_counter_searc_d47d8d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_woods_searches_25e161_geiger_counter_searc_d47d8d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ Understanding why those instruments were used helps separate what is documented 
 
 ## What Did the Geiger Counters Mean?
 
-The Geiger-counter reports appeared in contemporary coverage immediately after the incident. Associated Press accounts described state troopers and Air Force personnel searching the suspected impact area with Geiger counters before ending the operation and announcing that nothing had been located. Similar summaries appeared in later historical reviews of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The Geiger-counter reports appeared in contemporary coverage immediately after the incident. Associated Press accounts described state troopers and Air Force personnel searching the suspected impact area with Geiger counters before ending the operation and announcing that nothing had been located. Similar summaries appeared in later historical reviews of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 In the context of December 1965, using radiation-detection equipment was not unusual when authorities did not know what had come down from the sky. [Witnesses]({{ 'witnesses/' | relative_url }}) had reported a brilliant fireball crossing several states. Emergency responders initially had to consider multiple possibilities, including:
 
@@ -297,16 +297,16 @@ In the context of December 1965, using radiation-detection equipment was not unu
 
 </div>
 
-Any object originating from military, nuclear, or space-related activities could potentially raise contamination concerns. Radiation surveys were therefore a practical safety measure rather than an automatic indication that responders expected to find a UFO. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Any object originating from military, nuclear, or space-related activities could potentially raise contamination concerns. Radiation surveys were therefore a practical safety measure rather than an automatic indication that responders expected to find a UFO.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CVIKnA8cWak" title="When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer">When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 97.1K &middot; Uploaded: May 2025 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CVIKnA8cWak">Open on YouTube</a></p></div></div></div>
 
 ## Why Searchers Brought Radiation Equipment
 
-To modern readers, a Geiger counter may seem like specialised equipment reserved for extraordinary situations. During the Cold War, however, radiation survey instruments were widely distributed among military, civil-defence, and [emergency-response]({{ 'search-response/' | relative_url }}) organisations. Governments expected responders to assess possible radioactive hazards whenever unexplained debris or suspected aerospace accidents occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Civil_defense_Geiger_counters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Civil defense Geiger counters</span><span class="citation-popover-snippet">Civil defense Geiger counters</span></span></span>
+To modern readers, a Geiger counter may seem like specialised equipment reserved for extraordinary situations. During the Cold War, however, radiation survey instruments were widely distributed among military, civil-defence, and [emergency-response]({{ 'search-response/' | relative_url }}) organisations. Governments expected responders to assess possible radioactive hazards whenever unexplained debris or suspected aerospace accidents occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Civil_defense_Geiger_counters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Civil defense Geiger counters</span><span class="citation-popover-snippet">Civil defense Geiger counters</span></span></span>
 
-A Geiger counter's purpose is straightforward: it measures ionising radiation. If searchers believed a falling object might be connected to a satellite, missile, military payload, or another technological source, checking for radiation would have been a sensible first step before allowing unrestricted access to the area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Civil_defense_Geiger_counters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Civil defense Geiger counters</span><span class="citation-popover-snippet">Civil defense Geiger counters</span></span></span>
+A Geiger counter's purpose is straightforward: it measures ionising radiation. If searchers believed a falling object might be connected to a satellite, missile, military payload, or another technological source, checking for radiation would have been a sensible first step before allowing unrestricted access to the area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Civil_defense_Geiger_counters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Civil defense Geiger counters</span><span class="citation-popover-snippet">Civil defense Geiger counters</span></span></span>
 
 The Kecksburg search occurred during an era of intense public awareness of nuclear technology and the space race. Investigators did not have the benefit of knowing in advance whether the reported object was natural or artificial. Bringing radiation-detection equipment therefore reflected uncertainty rather than a conclusion.
 
@@ -314,18 +314,18 @@ The Kecksburg search occurred during an era of intense public awareness of nucle
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_woods_searches_25e161_geiger_counter_searc_d47d8d-Illustration-2-dark.svg" | relative_url }}" alt="Geiger Search illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_woods_searches_25e161_geiger_counter_searc_d47d8d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_woods_searches_25e161_geiger_counter_searc_d47d8d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Space Debris and Contamination Fears
 
-The strongest practical explanation for the Geiger-counter searches is concern about space-related debris. In the 1960s, satellites and space probes occasionally re-entered the atmosphere unexpectedly. When reports arrived that something fiery had descended from the sky, authorities had reason to consider whether it could be connected to a spacecraft or military hardware. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The strongest practical explanation for the Geiger-counter searches is concern about space-related debris. In the 1960s, satellites and space probes occasionally re-entered the atmosphere unexpectedly. When reports arrived that something fiery had descended from the sky, authorities had reason to consider whether it could be connected to a spacecraft or military hardware.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 Even if an object was unlikely to contain radioactive material, responders would have preferred to verify that assumption. A negative radiation reading would help eliminate one category of hazard before searchers moved closer or allowed civilians into the area.
 
-This context explains why later investigators and journalists often highlighted the Geiger counters. The equipment suggests officials were conducting a systematic assessment rather than merely looking for a meteorite. However, it does not establish what they expected to find, only that they were checking possibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+This context explains why later investigators and journalists often highlighted the Geiger counters. The equipment suggests officials were conducting a systematic assessment rather than merely looking for a meteorite. However, it does not establish what they expected to find, only that they were checking possibilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ac3hYt3k-Eo" title="The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer">The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 149.6K &middot; Uploaded: July 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ac3hYt3k-Eo">Open on YouTube</a></p></div></div></div>
 
 ## What the Geiger Detail Can and Cannot Prove
 
-The Geiger-counter reports occupy an unusual place in the Kecksburg debate because they are among the better-documented elements of the search. Unlike some later witness claims, the use of radiation-detection equipment appears in contemporary reporting and is not solely a product of decades-later recollections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The Geiger-counter reports occupy an unusual place in the Kecksburg debate because they are among the better-documented elements of the search. Unlike some later witness claims, the use of radiation-detection equipment appears in contemporary reporting and is not solely a product of decades-later recollections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 What the detail can support:
 
@@ -334,7 +334,7 @@ What the detail can support:
 
 * Authorities treated the report seriously enough to conduct a structured search.
 * Searchers considered the possibility of a hazardous object.
-* Radiation screening formed part of the investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+* Radiation screening formed part of the investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 </div>
 
@@ -346,11 +346,11 @@ What it cannot support on its own:
 * That radioactive material was discovered.
 * That a spacecraft or military vehicle crashed.
 * That an object was secretly recovered.
-* That officials concealed positive radiation readings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+* That officials concealed positive radiation readings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 </div>
 
-In fact, the documented official position was the opposite. Search personnel reported that they found no object and detected no radiation before ending the search. Later newspaper retrospectives and historical summaries have repeated that no radiation was recorded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Observer-Reporter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+In fact, the documented official position was the opposite. Search personnel reported that they found no object and detected no radiation before ending the search. Later newspaper retrospectives and historical summaries have repeated that no radiation was recorded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_woods_searches_25e161_geiger_counter_searc_d47d8d-Illustration-3-dark.svg" | relative_url }}" alt="Geiger Search illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_woods_searches_25e161_geiger_counter_searc_d47d8d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_woods_searches_25e161_geiger_counter_searc_d47d8d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -358,201 +358,201 @@ In fact, the documented official position was the opposite. Search personnel rep
 
 The lasting significance of the Geiger-counter story lies less in what the instruments detected than in what their presence reveals about the search itself. They show that responders approached the situation as a potential hazard investigation rather than a casual check of a meteor report. That fact helped [shape]({{ 'shape/' | relative_url }}) public perceptions that something unusual had occurred in the woods.
 
-For believers in a recovery operation, the Geiger counters became one more indication that authorities were dealing with an extraordinary object. For sceptics, they demonstrate only that officials were following sensible safety procedures while investigating reports of a fiery object from the sky. The surviving evidence supports the latter conclusion more strongly: radiation equipment was used, no radiation was reported, and the existence of the equipment alone does not establish the nature of whatever, if anything, came down near Kecksburg. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2PhillyVoice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+For believers in a recovery operation, the Geiger counters became one more indication that authorities were dealing with an extraordinary object. For sceptics, they demonstrate only that officials were following sensible safety procedures while investigating reports of a fiery object from the sky. The surviving evidence supports the latter conclusion more strongly: radiation equipment was used, no radiation was reported, and the existence of the equipment alone does not establish the nature of whatever, if anything, came down near Kecksburg.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Ka9dOx7ZWY" title="The Kecksburg UFO Case: Finally Solved After 60 Years?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer">The Kecksburg UFO Case: Finally Solved After 60 Years?</a></p><p class="youtube-embed-meta">Channel: Redoubt Productions &middot; Views: 851 &middot; Uploaded: December 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Ka9dOx7ZWY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did The Geiger Counters Mean?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did The Geiger Counters Mean?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Evidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Gic3gcQysOsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Evidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Evidence">The UFO Evidence</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Hall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Evidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Gic3gcQysOsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Evidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Evidence">The UFO Evidence</a>
+</h4>
+<p class="fr-book-author">By Richard H. Hall</p>
         
-        <p class="fr-book-desc">Provides historical context for UFO case investigation methods, evidence claims, and how incidents such as Kecksburg are evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for UFO case investigation methods, evidence claims, and how incidents such as Kecksburg are evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Explores official investigations, evidence assessment, and government responses to alleged anomalous events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores official investigations, evidence assessment, and government responses to alleged anomalous events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Discusses how officials evaluate unexplained aerial events and the limits of available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how officials evaluate unexplained aerial events and the limits of available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hMf3TgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a>
-        </h4>
-        <p class="fr-book-author">By Stan Gordon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hMf3TgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a>
+</h4>
+<p class="fr-book-author">By Stan Gordon</p>
         
-        <p class="fr-book-desc">Covers Pennsylvania UFO history and research from an investigator closely connected to the region and era of the Kecksburg case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers Pennsylvania UFO history and research from an investigator closely connected to the region and era of the Kecksburg case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Evidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Evidence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Evidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Evidence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;"><img src="{{ '/assets/images/marketplace-covers/bb1ce154941236052aff.jpg' | relative_url }}" alt="Listing image for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;"><img src="{{ '/assets/images/marketplace-covers/bb1ce154941236052aff.jpg' | relative_url }}" alt="Listing image for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed"><img src="{{ '/assets/images/marketplace-covers/e4340afcb137f2bf938a.jpg' | relative_url }}" alt="Listing image for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed"><img src="{{ '/assets/images/marketplace-covers/e4340afcb137f2bf938a.jpg' | relative_url }}" alt="Listing image for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed"><img src="{{ '/assets/images/marketplace-covers/2d28adb2b053d08362c1.jpg' | relative_url }}" alt="Listing image for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed"><img src="{{ '/assets/images/marketplace-covers/2d28adb2b053d08362c1.jpg' | relative_url }}" alt="Listing image for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/fd6cb10c53a539320230.jpg' | relative_url }}" alt="Listing image for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/fd6cb10c53a539320230.jpg' | relative_url }}" alt="Listing image for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="geiger-search-what-did-the-geiger-counters-mean-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -568,7 +568,7 @@ For believers in a recovery operation, the Geiger counters became one more indic
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -588,7 +588,7 @@ For believers in a recovery operation, the Geiger counters became one more indic
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -620,7 +620,7 @@ For believers in a recovery operation, the Geiger counters became one more indic
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -672,7 +672,7 @@ For believers in a recovery operation, the Geiger counters became one more indic
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -717,7 +717,7 @@ For believers in a recovery operation, the Geiger counters became one more indic
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -758,85 +758,85 @@ For believers in a recovery operation, the Geiger counters became one more indic
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: observer-reporter.com  
    Title: “We definitely believe it was a meteor,” Dussin said  
-   Link: <a href="https://www.observer-reporter.com/news/local-news/2025/dec/20/kecksburg-ufo-incident-60-years-ago-put-westmoreland-county-community-on-the-map/" target="_blank" rel="noopener noreferrer nofollow">https://www.observer-reporter.com/news/local-news/2025/dec/20/kecksburg-ufo-incident-60-years-ago-put-westmoreland-county-community-on-the-map/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incident 60 years ago put Westmoreland...20 Dec 2025 — Geiger counters were used to measure potential rad...</p></details>
+   Link:<a href="https://www.observer-reporter.com/news/local-news/2025/dec/20/kecksburg-ufo-incident-60-years-ago-put-westmoreland-county-community-on-the-map/" target="_blank" rel="noopener noreferrer nofollow">https://www.observer-reporter.com/news/local-news/2025/dec/20/kecksburg-ufo-incident-60-years-ago-put-westmoreland-county-community-on-the-map/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incident 60 years ago put Westmoreland...20 Dec 2025 — Geiger counters were used to measure potential rad...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: phillyvoice.com  
-   Link: <a href="https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Long rumored alien encounter in &#x27;Pennsylvania&#x27;s Roswell&#x27;...12 Jun 2026 — The police and military said they had found no evide...</p></details>
+   Link:<a href="https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Long rumored alien encounter in &#x27;Pennsylvania&#x27;s Roswell&#x27;...12 Jun 2026 — The police and military said they had found no evide...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Civil defense Geiger counters  
-   Link: <a href="https://en.wikipedia.org/wiki/Civil_defense_Geiger_counters" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Civil_defense_Geiger_counters</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Civil_defense_Geiger_counters" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Civil_defense_Geiger_counters</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: unsolved.com  
    Title: Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesThe official Air Force explanation was that it was likely a meteor. And basically what it goes on to say is, the fact t...</p></details>
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesThe official Air Force explanation was that it was likely a meteor. And basically what it goes on to say is, the fact t...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ArcRaiders/comments/1sq2no4/is_the_geiger_counter_used_fir_anything/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArcRaiders/comments/1sq2no4/is_the_geiger_counter_used_fir_anything/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Geiger counter used fir anything?: r/ArcRaidersIts used for determining if something is radioactive. I use it in Stella to measur...</p></details>
+   Link:<a href="https://www.reddit.com/r/ArcRaiders/comments/1sq2no4/is_the_geiger_counter_used_fir_anything/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArcRaiders/comments/1sq2no4/is_the_geiger_counter_used_fir_anything/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Geiger counter used fir anything?: r/ArcRaidersIts used for determining if something is radioactive. I use it in Stella to measur...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: fate of ufo investigators in the 1960s under the lens officers probing ufos died  
-   Link: <a href="https://www.facebook.com/WIONews/posts/fate-of-ufo-investigators-in-the-1960s-under-the-lens-officers-probing-ufos-died/1332551805650657/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/fate-of-ufo-investigators-in-the-1960s-under-the-lens-officers-probing-ufos-died/1332551805650657/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fate of UFO investigators in the 1960s under the lens...In the famous Zamora case this included bringing in Geiger counters from Kirtlan...</p></details>
+   Link:<a href="https://www.facebook.com/WIONews/posts/fate-of-ufo-investigators-in-the-1960s-under-the-lens-officers-probing-ufos-died/1332551805650657/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/fate-of-ufo-investigators-in-the-1960s-under-the-lens-officers-probing-ufos-died/1332551805650657/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fate of UFO investigators in the 1960s under the lens...In the famous Zamora case this included bringing in Geiger counters from Kirtlan...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: What fell from the sky in Kecksburg PA  
-   Link: <a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The military claimed they searched the woods and found &quot;absolutely nothing.&quot; The Tribune-Review from nearby Greensburg which had a report...</p></details>
+   Link:<a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The military claimed they searched the woods and found &quot;absolutely nothing.&quot; The Tribune-Review from nearby Greensburg which had a report...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>object up close before US military officials were able to...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>object up close before US military officials were able to...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: roadunraveled.com  
    Title: kecksburg ufo crash pennsylvania  
-   Link: <a href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Crash and the Roswell of Pennsylvania1 Oct 2020 — A raging fireball was reportedly seen falling from the sky before fin...</p></details>
+   Link:<a href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Crash and the Roswell of Pennsylvania1 Oct 2020 — A raging fireball was reportedly seen falling from the sky before fin...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟...At the time, however, the military claimed they searched the woods and found &quot;absolutely nothing&quot;...</p></details>
+   Link:<a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟...At the time, however, the military claimed they searched the woods and found &quot;absolutely nothing&quot;...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel  
-   Link: <a href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CVIKnA8cWak</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1965 Kecksburg Incident: A UFO Crash the Government Hides to This Day...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CVIKnA8cWak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1965 Kecksburg Incident: A UFO Crash the Government Hides to This Day...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ac3hYt3k-Eo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ac3hYt3k-Eo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: 60-year mystery: Questions surrounding Kecksburg UFO incident in Pennsylvania  
-   Link: <a href="https://www.youtube.com/watch?v=vROJdm_xGAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vROJdm_xGAQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Case: Finally Solved After 60 Years?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vROJdm_xGAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vROJdm_xGAQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Case: Finally Solved After 60 Years?...</p></details>

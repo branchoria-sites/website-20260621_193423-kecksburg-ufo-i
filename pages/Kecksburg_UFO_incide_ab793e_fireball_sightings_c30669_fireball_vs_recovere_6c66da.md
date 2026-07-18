@@ -280,7 +280,7 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_fire
 
 ## Introduction
 
-The strongest evidence in the Kecksburg case supports a large [regional fireball]({{ 'fireball-map/' | relative_url }}) seen across multiple US states and parts of Canada on 9 December 1965. The much more famous claim—that an acorn-shaped object crashed near Kecksburg and was secretly recovered by military personnel—rests on a different and far more disputed body of evidence. Understanding the incident requires separating these two layers. One concerns a widely observed astronomical event documented by pilots, scientists, weather observers, [newspapers]({{ 'newspapers/' | relative_url }}), and later trajectory studies. The other concerns local witness accounts, rumours of a crash site, and allegations of a recovered object that have never been independently verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The strongest evidence in the Kecksburg case supports a large [regional fireball]({{ 'fireball-map/' | relative_url }}) seen across multiple US states and parts of Canada on 9 December 1965. The much more famous claim—that an acorn-shaped object crashed near Kecksburg and was secretly recovered by military personnel—rests on a different and far more disputed body of evidence. Understanding the incident requires separating these two layers. One concerns a widely observed astronomical event documented by pilots, scientists, weather observers, [newspapers]({{ 'newspapers/' | relative_url }}), and later trajectory studies. The other concerns local witness accounts, rumours of a crash site, and allegations of a recovered object that have never been independently verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_fireball_vs_recovere_6c66da-Illustration-1-dark.svg" | relative_url }}" alt="Two Stories illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_fireball_vs_recovere_6c66da-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_fireball_vs_recovere_6c66da-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,11 +288,11 @@ The confusion arises because the two stories became fused into a single narrativ
 
 ## Evidence strongly supports the regional sky event
 
-The fireball itself is one of the best-established elements of the entire Kecksburg incident. Contemporary reports described a bright object crossing a large portion of North American airspace, generating observations from several states and Canada. [Aviation reports]({{ 'aviation/' | relative_url }}), newspaper accounts, seismographic records, and later astronomical analyses all point to a genuine atmospheric event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The fireball itself is one of the best-established elements of the entire Kecksburg incident. Contemporary reports described a bright object crossing a large portion of North American airspace, generating observations from several states and Canada. [Aviation reports]({{ 'aviation/' | relative_url }}), newspaper accounts, seismographic records, and later astronomical analyses all point to a genuine atmospheric event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-A particularly important distinction is that the fireball was not merely reported from Kecksburg. [Witnesses]({{ 'witnesses/' | relative_url }}) across a broad geographic area described a luminous object, sonic effects, and apparent descent. Such widespread reporting is exactly what astronomers expect from a large bolide—a very bright meteor—which can be visible over hundreds of kilometres and can create the illusion that it landed nearby. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+A particularly important distinction is that the fireball was not merely reported from Kecksburg. [Witnesses]({{ 'witnesses/' | relative_url }}) across a broad geographic area described a luminous object, sonic effects, and apparent descent. Such widespread reporting is exactly what astronomers expect from a large bolide—a very bright meteor—which can be visible over hundreds of kilometres and can create the illusion that it landed nearby.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-Scientific work published shortly after the event analysed photographs of the fireball trail taken in Michigan and combined them with other observations. The resulting trajectory reconstruction suggested a path associated with the [Great Lakes]({{ 'great-lakes/' | relative_url }}) region rather than a direct impact in the Kecksburg woods. These studies did not prove every detail of the object's fate, but they provided evidence-based analysis grounded in physical observations rather than recollections gathered years later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Scientific work published shortly after the event analysed photographs of the fireball trail taken in Michigan and combined them with other observations. The resulting trajectory reconstruction suggested a path associated with the [Great Lakes]({{ 'great-lakes/' | relative_url }}) region rather than a direct impact in the Kecksburg woods. These studies did not prove every detail of the object's fate, but they provided evidence-based analysis grounded in physical observations rather than recollections gathered years later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 The key point is that the fireball has multiple independent lines of support:
 
@@ -303,7 +303,7 @@ The key point is that the fireball has multiple independent lines of support:
 * Pilot observations and official records.
 * Seismographic detections associated with the atmospheric passage.
 * Photographic evidence used for trajectory reconstruction.
-* Agreement among astronomers that a meteor-like event occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+* Agreement among astronomers that a meteor-like event occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 </div>
 
@@ -314,13 +314,13 @@ These forms of evidence exist whether or not any object was recovered near Kecks
 
 ## Why the local recovery claims are a separate question
 
-The recovered-object story depends largely on witness testimony concerning events on the ground after the fireball passed overhead. In the most familiar version, residents reported smoke in the woods, unusual military activity, and the removal of an acorn-shaped object marked with [strange symbols]({{ 'symbols/' | relative_url }}). These accounts became central to later UFO interpretations of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The recovered-object story depends largely on witness testimony concerning events on the ground after the fireball passed overhead. In the most familiar version, residents reported smoke in the woods, unusual military activity, and the removal of an acorn-shaped object marked with [strange symbols]({{ 'symbols/' | relative_url }}). These accounts became central to later UFO interpretations of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 However, the evidential structure is fundamentally different from that of the fireball.
 
-The fireball was observed by many unrelated witnesses across a large region at roughly the same time. By contrast, claims of a recovered object depend on a much smaller set of local observations, many of which were collected years after the event and vary in important details. Descriptions of the object's size, appearance, [markings]({{ 'markings/' | relative_url }}), and transportation differ across retellings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The fireball was observed by many unrelated witnesses across a large region at roughly the same time. By contrast, claims of a recovered object depend on a much smaller set of local observations, many of which were collected years after the event and vary in important details. Descriptions of the object's size, appearance, [markings]({{ 'markings/' | relative_url }}), and transportation differ across retellings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-Another complication is that early searches reportedly failed to produce a publicly documented recovered object. Contemporary accounts include statements that state police and military personnel searched the area but found nothing. Official explanations at the time generally favoured a meteor or similar natural phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Another complication is that early searches reportedly failed to produce a publicly documented recovered object. Contemporary accounts include statements that state police and military personnel searched the area but found nothing. Official explanations at the time generally favoured a meteor or similar natural phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 This does not automatically disprove later witness claims. It does mean that the recovery narrative lacks the same kind of contemporaneous physical documentation that supports the fireball.
 
@@ -328,7 +328,7 @@ This does not automatically disprove later witness claims. It does mean that the
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_fireball_vs_recovere_6c66da-Illustration-2-dark.svg" | relative_url }}" alt="Two Stories illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_fireball_vs_recovere_6c66da-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_fireball_vs_recovere_6c66da-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The problem of retrospective testimony
 
-Many of the most famous details of the recovered-object story gained prominence through later documentaries, books, television programmes, and interviews. The acorn shape, hieroglyph-like markings, and military transport stories became increasingly prominent as the case evolved in popular culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Many of the most famous details of the recovered-object story gained prominence through later documentaries, books, television programmes, and interviews. The acorn shape, hieroglyph-like markings, and military transport stories became increasingly prominent as the case evolved in popular culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 Historians of unusual events often note that memories can change as stories are retold. New details may emerge, earlier uncertainties may disappear, and different witness accounts can gradually converge into a more dramatic shared narrative. This does not imply dishonesty, but it does mean later testimony is generally treated more cautiously than contemporary records.
 
@@ -348,16 +348,16 @@ The existence of the fireball does not establish:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* A crash in the Kecksburg woods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadunraveled.com">[roadunraveled.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadunraveled.com</span><span class="citation-popover-title">kecksburg ufo crash pennsylvania</span><span class="citation-popover-snippet">The Kecksburg UFO Crash and the Roswell of Pennsylvania1 Oct 2020 — A raging fireball was reportedly seen falling from the sky before fin...</span></span></span>
+* A crash in the Kecksburg woods.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadunraveled.com">[roadunraveled.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadunraveled.com</span><span class="citation-popover-title">kecksburg ufo crash pennsylvania</span><span class="citation-popover-snippet">The Kecksburg UFO Crash and the Roswell of Pennsylvania1 Oct 2020 — A raging fireball was reportedly seen falling from the sky before fin...</span></span></span>
 * Recovery of a physical object.
-* Recovery of an acorn-shaped object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[yahoo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">kecksburg incident remains mystery 60 035900487</span><span class="citation-popover-snippet">acorn-shaped object... Gordon and other speakers will be discussing any updates regarding the Kecksburg incident during the festival&#x27;s U...</span></span></span>
+* Recovery of an acorn-shaped object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[yahoo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">kecksburg incident remains mystery 60 035900487</span><span class="citation-popover-snippet">acorn-shaped object... Gordon and other speakers will be discussing any updates regarding the Kecksburg incident during the festival&#x27;s U...</span></span></span>
 * Recovery of a non-human craft.
 
 </div>
 
-Those are additional propositions that require additional evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Those are additional propositions that require additional evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-This distinction is especially important because a well-documented fireball can make local crash reports seem more credible than they actually are. When thousands of people witness a dramatic sky event, it is common for observers in different locations to believe the object came down nearby. Modern meteor investigations repeatedly encounter this effect, which is why instrumental trajectory analysis is valued over subjective impressions of where an object appeared to land. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2303.12126" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Winchcombe Fireball -- that Lucky Survivor</span><span class="citation-popover-snippet">The Winchcombe Fireball -- that Lucky SurvivorMarch 21, 2023...</span><span class="citation-popover-meta">Published: March 21, 2023</span></span></span>
+This distinction is especially important because a well-documented fireball can make local crash reports seem more credible than they actually are. When thousands of people witness a dramatic sky event, it is common for observers in different locations to believe the object came down nearby. Modern meteor investigations repeatedly encounter this effect, which is why instrumental trajectory analysis is valued over subjective impressions of where an object appeared to land.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2303.12126" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Winchcombe Fireball -- that Lucky Survivor</span><span class="citation-popover-snippet">The Winchcombe Fireball -- that Lucky SurvivorMarch 21, 2023...</span><span class="citation-popover-meta">Published: March 21, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CVIKnA8cWak" title="When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer">When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 97.1K &middot; Uploaded: May 2025 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CVIKnA8cWak">Open on YouTube</a></p></div></div></div>
@@ -366,204 +366,204 @@ This distinction is especially important because a well-documented fireball can 
 
 When the Kecksburg incident is separated into its component parts, the evidential picture becomes clearer.
 
-The regional fireball is supported by multiple independent observations, contemporary documentation, and scientific analysis. It is the least controversial and most firmly established aspect of the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The regional fireball is supported by multiple independent observations, contemporary documentation, and scientific analysis. It is the least controversial and most firmly established aspect of the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-The recovered-object narrative remains disputed because it relies primarily on witness testimony, reports of military involvement, and later recollections that are difficult to verify independently. Questions surrounding missing records and government responses have helped keep the story alive, but they do not by themselves demonstrate that an acorn-shaped object was recovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianNasa told to solve &#x27;UFO crash&#x27; X-File &#124; World news11 Nov 2007 — The episode has parallels to the 1947 Roswell incident, when...</span></span></span>
+The recovered-object narrative remains disputed because it relies primarily on witness testimony, reports of military involvement, and later recollections that are difficult to verify independently. Questions surrounding missing records and government responses have helped keep the story alive, but they do not by themselves demonstrate that an acorn-shaped object was recovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianNasa told to solve &#x27;UFO crash&#x27; X-File &#124; World news11 Nov 2007 — The episode has parallels to the 1947 Roswell incident, when...</span></span></span>
 
-As a result, many researchers—whether sceptical, undecided, or sympathetic to the mystery—treat the Kecksburg case as two different stories attached to the same date. One story concerns a widely observed fireball crossing North American skies. The other concerns the unresolved claim that something unusual was recovered from the woods near Kecksburg. The first is well supported. The second remains the subject of debate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+As a result, many researchers—whether sceptical, undecided, or sympathetic to the mystery—treat the Kecksburg case as two different stories attached to the same date. One story concerns a widely observed fireball crossing North American skies. The other concerns the unresolved claim that something unusual was recovered from the woods near Kecksburg. The first is well supported. The second remains the subject of debate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_fireball_vs_recovere_6c66da-Illustration-3-dark.svg" | relative_url }}" alt="Two Stories illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_fireball_vs_recovere_6c66da-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_fireball_vs_recovere_6c66da-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The fireball and the recovered object claim. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The fireball and the recovered object claim. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines evidence standards, witness testimony, and official investigations relevant to separating documented events from extraordinary c...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidence standards, witness testimony, and official investigations relevant to separating documented events from extraordinary c...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating sightings and distinguishing observational evidence from speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating sightings and distinguishing observational evidence from speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Useful for comparing how a documented event can become intertwined with recovery and cover-up narratives, similar to discussions surround...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing how a documented event can become intertwined with recovery and cover-up narratives, similar to discussions surround...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly addresses how extraordinary claims should be assessed and why different layers of evidence must be evaluated separately.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how extraordinary claims should be assessed and why different layers of evidence must be evaluated separately.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWEL TV SHOW CAST 8.5X11 SIGNED PHOTO AUTOGRAPH 1947 UFO CRASH POSTER PICTURE"><img src="https://i.ebayimg.com/images/g/VSkAAeSwBXRp68Hp/s-l225.jpg" alt="Listing image for ROSWEL TV SHOW CAST 8.5X11 SIGNED PHOTO AUTOGRAPH 1947 UFO CRASH POSTER PICTURE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">ROSWEL TV SHOW CAST 8.5X11 SIGNED PHOTO AUTOGRAPH 1947 UFO CRASH POSTER PICTURE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor"><img src="{{ '/assets/images/marketplace-covers/4371adeb9fdafc481cad.jpg' | relative_url }}" alt="Listing image for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Crash Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/UYgAAeSwKLJpYBfr/s-l225.jpg" alt="Listing image for UFO Crash Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing"><img src="{{ '/assets/images/marketplace-covers/3c730e832354b31bceeb.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Pin Up Alien Poster, UFO Crash Sci-Fi Girl Vintage Wall Art"><img src="https://i.ebayimg.com/images/g/yygAAeSw2FppvR8m/s-l225.jpg" alt="Listing image for Retro Pin Up Alien Poster, UFO Crash Sci-Fi Girl Vintage Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Retro Pin Up Alien Poster, UFO Crash Sci-Fi Girl Vintage Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="two-stories-the-fireball-and-the-recovered-object-claim-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Crash Storm Poster, Vintage Sci Fi Horror Print, Retro Wall Art"><img src="https://i.ebayimg.com/images/g/niEAAeSwYoRppWfy/s-l225.jpg" alt="Listing image for UFO Crash Storm Poster, Vintage Sci Fi Horror Print, Retro Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Storm Poster, Vintage Sci Fi Horror Print, Retro Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+crash+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo crash poster -book -books" data-ebay-reference="the-fireball-and-the-recovered-object-claim-ufo-crash-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -579,7 +579,7 @@ As a result, many researchers—whether sceptical, undecided, or sympathetic to 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -599,7 +599,7 @@ As a result, many researchers—whether sceptical, undecided, or sympathetic to 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -631,7 +631,7 @@ As a result, many researchers—whether sceptical, undecided, or sympathetic to 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -683,7 +683,7 @@ As a result, many researchers—whether sceptical, undecided, or sympathetic to 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -728,7 +728,7 @@ As a result, many researchers—whether sceptical, undecided, or sympathetic to 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -769,100 +769,100 @@ As a result, many researchers—whether sceptical, undecided, or sympathetic to 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv The Winchcombe Fireball -- that Lucky Survivor  
-   Link: <a href="https://arxiv.org/abs/2303.12126" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.12126</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Winchcombe Fireball -- that Lucky SurvivorMarch 21, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2303.12126" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.12126</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Winchcombe Fireball -- that Lucky SurvivorMarch 21, 2023...</p></details>
    Published: March 21, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1912.11784" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1912.11784</a>  
+   Link:<a href="https://arxiv.org/abs/1912.11784" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1912.11784</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2310.17822" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2310.17822</a>  
+   Link:<a href="https://arxiv.org/abs/2310.17822" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2310.17822</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: unsolved.com  
    Title: Mysteries Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO - Unsolved MysteriesI know who the first civilian people were who arrived at the kecksburgh UFO landing and the alien techn...</p></details>
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO - Unsolved MysteriesI know who the first civilian people were who arrived at the kecksburgh UFO landing and the alien techn...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianNasa told to solve &#x27;UFO crash&#x27; X-File | World news11 Nov 2007 — The episode has parallels to the 1947 Roswell incident, when...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianNasa told to solve &#x27;UFO crash&#x27; X-File | World news11 Nov 2007 — The episode has parallels to the 1947 Roswell incident, when...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: roadunraveled.com  
    Title: kecksburg ufo crash pennsylvania  
-   Link: <a href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Crash and the Roswell of Pennsylvania1 Oct 2020 — A raging fireball was reportedly seen falling from the sky before fin...</p></details>
+   Link:<a href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Crash and the Roswell of Pennsylvania1 Oct 2020 — A raging fireball was reportedly seen falling from the sky before fin...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: post-gazette.com  
-   Link: <a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Five decades later, the Kecksburg UFO is identified...5 Dec 2015 — Fifty years after the famous Kecksburg UFO streaked across the Decemb...</p></details>
+   Link:<a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Five decades later, the Kecksburg UFO is identified...5 Dec 2015 — Fifty years after the famous Kecksburg UFO streaked across the Decemb...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: positivelypittsburgh.com  
-   Link: <a href="https://positivelypittsburgh.com/[the-kecksburg-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/[the-kecksburg-ufo-incident</a>  
+   Link:<a href="https://positivelypittsburgh.com/[the-kecksburg-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/[the-kecksburg-ufo-incident</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/mlf13o/kecksburg_ufo_incident_solved_it_was_potentially/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/mlf13o/kecksburg_ufo_incident_solved_it_was_potentially/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireman James Romansky talks witnessing the 1965 crashed UFO at Kecksburg and.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/mlf13o/kecksburg_ufo_incident_solved_it_was_potentially/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/mlf13o/kecksburg_ufo_incident_solved_it_was_potentially/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireman James Romansky talks witnessing the 1965 crashed UFO at Kecksburg and.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: yahoo.com  
    Title: kecksburg incident remains mystery 60 035900487  
-   Link: <a href="https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>acorn-shaped object... Gordon and other speakers will be discussing any updates regarding the Kecksburg incident during the festival&#x27;s U...</p></details>
+   Link:<a href="https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>acorn-shaped object... Gordon and other speakers will be discussing any updates regarding the Kecksburg incident during the festival&#x27;s U...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — The Conclusion of the NASA Lawsuit - Concerning the Kecksburg,PA...</p></details>
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — The Conclusion of the NASA Lawsuit - Concerning the Kecksburg,PA...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: discoveryuk.com  
    Title: the kecksburg ufo incident a cold war mystery  
-   Link: <a href="https://www.discoveryuk.com/mysteries/the-kecksburg-ufo-incident-a-cold-war-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-kecksburg-ufo-incident-a-cold-war-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Incident: A Cold War Mystery21 Aug 2024 — Discover the story of the Kecksburg UFO incident, a Pennsylvania UFO mystery...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/the-kecksburg-ufo-incident-a-cold-war-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-kecksburg-ufo-incident-a-cold-war-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Incident: A Cold War Mystery21 Aug 2024 — Discover the story of the Kecksburg UFO incident, a Pennsylvania UFO mystery...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y in Mt. Pleasant Township. It was on that day that some...</p></details>
+   Link:<a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y in Mt. Pleasant Township. It was on that day that some...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>meteor or perhaps debris from a satellite.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>meteor or perhaps debris from a satellite.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pabook.libraries.psu.edu  
    Title: acorn space kecksburg incident  
-   Link: <a href="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident" target="_blank" rel="noopener noreferrer nofollow">https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>from Space: The Kecksburg IncidentTrajectory analysis of the fireball deemed Kecksburg an impossible landing spot; then an error analysis...</p></details>
+   Link:<a href="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident" target="_blank" rel="noopener noreferrer nofollow">https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>from Space: The Kecksburg IncidentTrajectory analysis of the fireball deemed Kecksburg an impossible landing spot; then an error analysis...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y the US Army and records have been destroyed...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y the US Army and records have been destroyed...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tvi.show  
    Title: the 1965 kecksburg ufo crash  
-   Link: <a href="https://www.tvi.show/skywatch-files/the-1965-kecksburg-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/the-1965-kecksburg-ufo-crash</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pennsylvania&#x27;s Roswell...1 May 2026 — Their presence and subsequent removal of the object in a covered truck led to rumors of a governme...</p></details>
+   Link:<a href="https://www.tvi.show/skywatch-files/the-1965-kecksburg-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/the-1965-kecksburg-ufo-crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pennsylvania&#x27;s Roswell...1 May 2026 — Their presence and subsequent removal of the object in a covered truck led to rumors of a governme...</p></details>
    Published: May 2026  

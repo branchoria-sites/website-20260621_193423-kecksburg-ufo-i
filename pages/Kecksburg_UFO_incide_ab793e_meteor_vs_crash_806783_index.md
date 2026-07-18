@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e-meteor-vs/
 description: Focused pages that expand on Meteor Case.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_meteor_vs_crash_806783
 parent_title: Meteor Case
@@ -16,7 +16,7 @@ parent_permalink: /meteor-case/
 
 # Explore Topics in Meteor Case
 
-The following pages expand on the main **[Meteor Case]({{ '/meteor-case/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Meteor Case]({{ '/meteor-case/' | relative_url }})** page and cover its key branches in.
 
 - [Acorn Claim]({{ '/acorn-claim/' | relative_url }})
 - [Flatbed Claim]({{ '/flatbed-claim/' | relative_url }})

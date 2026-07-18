@@ -271,17 +271,17 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_delayed
 
 ## Introduction
 
-The delay between seeing a bolide and hearing it is not an anomaly. It is an expected consequence of the enormous difference between the speed of light and the speed of sound. Understanding that delay helps explain why sincere observers can become convinced that an object crashed nearby even when the luminous event occurred tens of kilometres away and far above the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsBecause sound travels quite slowly, at only about 20 km per minute, it will generally be 1.5 to 4 min...</span></span></span>
+The delay between seeing a bolide and hearing it is not an anomaly. It is an expected consequence of the enormous difference between the speed of light and the speed of sound. Understanding that delay helps explain why sincere observers can become convinced that an object crashed nearby even when the luminous event occurred tens of kilometres away and far above the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsBecause sound travels quite slowly, at only about 20 km per minute, it will generally be 1.5 to 4 min...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_delayed_boom_false_i_e9954f-Illustration-1-dark.svg" | relative_url }}" alt="Delayed Boom False illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_delayed_boom_false_i_e9954f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_delayed_boom_false_i_e9954f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Light and Sound Arrive at Different Times
 
-Light from a fireball reaches an observer essentially instantaneously. Sound does not. According to the American Meteor Society, sound travels at roughly 20 kilometres per minute, meaning that sonic [booms]({{ 'booms/' | relative_url }}) from a meteor's atmospheric breakup commonly arrive between about 1.5 and 4 minutes after the visible flare. The organisation specifically advises observers to continue listening for several minutes after the fireball disappears because delayed booms are expected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsBecause sound travels quite slowly, at only about 20 km per minute, it will generally be 1.5 to 4 min...</span></span></span>
+Light from a fireball reaches an observer essentially instantaneously. Sound does not. According to the American Meteor Society, sound travels at roughly 20 kilometres per minute, meaning that sonic [booms]({{ 'booms/' | relative_url }}) from a meteor's atmospheric breakup commonly arrive between about 1.5 and 4 minutes after the visible flare. The organisation specifically advises observers to continue listening for several minutes after the fireball disappears because delayed booms are expected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsBecause sound travels quite slowly, at only about 20 km per minute, it will generally be 1.5 to 4 min...</span></span></span>
 
-This delay creates a powerful illusion. Consider a witness who sees a brilliant object descend towards a distant horizon. The fireball disappears. For a short period nothing happens. Then a loud boom arrives, perhaps accompanied by rattling windows or a noticeable vibration. The observer experiences the sound at their own location and may reasonably infer that the source was nearby. In reality, the acoustic wave may have travelled dozens of kilometres from a high-altitude fragmentation event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsBecause sound travels quite slowly, at only about 20 km per minute, it will generally be 1.5 to 4 min...</span></span></span>
+This delay creates a powerful illusion. Consider a witness who sees a brilliant object descend towards a distant horizon. The fireball disappears. For a short period nothing happens. Then a loud boom arrives, perhaps accompanied by rattling windows or a noticeable vibration. The observer experiences the sound at their own location and may reasonably infer that the source was nearby. In reality, the acoustic wave may have travelled dozens of kilometres from a high-altitude fragmentation event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsBecause sound travels quite slowly, at only about 20 km per minute, it will generally be 1.5 to 4 min...</span></span></span>
 
-Modern fireball investigations repeatedly encounter this pattern. In a 2026 event over the northeastern United States, NASA-associated reporting attributed widespread booming sounds to a meteor that fragmented high above the region. Residents heard the sonic effects on the ground even though the breakup occurred many kilometres overhead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.internazionale.it/ultime-notizie-reuters/2026/05/31/meteor-fireball-triggered-loud-boom-across-new-england-nasa-confirms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internazionale.it">[Internazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internazionale.it</span><span class="citation-popover-title">meteor fireball triggered loud boom across new england nasa confirms</span><span class="citation-popover-snippet">Meteor fireball triggered loud boom across New England...31 May 2026 — NASA estimated the energy released at breakup was e...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Modern fireball investigations repeatedly encounter this pattern. In a 2026 event over the northeastern United States, NASA-associated reporting attributed widespread booming sounds to a meteor that fragmented high above the region. Residents heard the sonic effects on the ground even though the breakup occurred many kilometres overhead.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.internazionale.it/ultime-notizie-reuters/2026/05/31/meteor-fireball-triggered-loud-boom-across-new-england-nasa-confirms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internazionale.it">[Internazionale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internazionale.it</span><span class="citation-popover-title">meteor fireball triggered loud boom across new england nasa confirms</span><span class="citation-popover-snippet">Meteor fireball triggered loud boom across New England...31 May 2026 — NASA estimated the energy released at breakup was e...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PWdya32j0d8" title="Fireball flies across the sky and causes sonic boom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PWdya32j0d8" target="_blank" rel="noopener noreferrer">Fireball flies across the sky and causes sonic boom</a></p><p class="youtube-embed-meta">Channel: CNN &middot; Views: 467.0K &middot; Uploaded: June 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PWdya32j0d8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PWdya32j0d8">Open on YouTube</a></p></div></div></div>
@@ -294,7 +294,7 @@ The challenge is not simply acoustic physics. It is also the way people reconstr
 
 Psychologists have long recognised that memory tends to organise events into coherent narratives. In meteor cases, the delayed boom becomes part of a reconstructed crash story. The observer may later remember not merely hearing a boom but hearing the boom as the object struck the ground. The distinction is subtle yet important.
 
-Accounts collected by meteor organisations illustrate the effect. One American Meteor Society witness described a fireball that seemed close enough to touch, followed by a sonic boom delayed by five to eight minutes. Despite the substantial delay, the visual impression still conveyed a sense of proximity and possible landing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/members/imo_view/report/303146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball reportIt was really neat and it seemed odd that it felt like it was so low I could have grabbed it but th...</span></span></span>
+Accounts collected by meteor organisations illustrate the effect. One American Meteor Society witness described a fireball that seemed close enough to touch, followed by a sonic boom delayed by five to eight minutes. Despite the substantial delay, the visual impression still conveyed a sense of proximity and possible landing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/members/imo_view/report/303146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball reportIt was really neat and it seemed odd that it felt like it was so low I could have grabbed it but th...</span></span></span>
 
 Several factors strengthen the illusion:
 
@@ -314,13 +314,13 @@ The result is a sincere but potentially misleading impression that a distant atm
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_delayed_boom_false_i_e9954f-Illustration-2-dark.svg" | relative_url }}" alt="Delayed Boom False illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_delayed_boom_false_i_e9954f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_delayed_boom_false_i_e9954f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Kecksburg-Style Crash Stories and Acoustic Confusion
 
-The Kecksburg incident contains many elements that fit this pattern. Reports from December 1965 included descriptions of sonic booms, vibrations, a heavy thump, smoke in wooded areas, and beliefs that something had fallen nearby. Contemporary scientific analyses, however, focused on a large [regional fireball]({{ 'fireball-map/' | relative_url }}) observed across multiple states and parts of Canada rather than on a confirmed crash at a specific woodland location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The Kecksburg incident contains many elements that fit this pattern. Reports from December 1965 included descriptions of sonic booms, vibrations, a heavy thump, smoke in wooded areas, and beliefs that something had fallen nearby. Contemporary scientific analyses, however, focused on a large [regional fireball]({{ 'fireball-map/' | relative_url }}) observed across multiple states and parts of Canada rather than on a confirmed crash at a specific woodland location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-Importantly, reports of booms were not confined to Kecksburg itself. Contemporary accounts linked shock-wave effects to areas across the wider region. Scientific discussions of the event noted atmospheric shock signatures and seismographic records associated with the passage of the fireball. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Importantly, reports of booms were not confined to Kecksburg itself. Contemporary accounts linked shock-wave effects to areas across the wider region. Scientific discussions of the event noted atmospheric shock signatures and seismographic records associated with the passage of the fireball.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-This does not mean witnesses invented what they heard. On the contrary, the booms may have been entirely real. The critical question is what produced them. A high-altitude bolide fragmentation can generate acoustic effects strong enough to be heard or felt over large distances. When such sounds arrive minutes after a spectacular visual event, they naturally encourage interpretations involving impact, debris, or a crashed object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsBecause sound travels quite slowly, at only about 20 km per minute, it will generally be 1.5 to 4 min...</span></span></span>
+This does not mean witnesses invented what they heard. On the contrary, the booms may have been entirely real. The critical question is what produced them. A high-altitude bolide fragmentation can generate acoustic effects strong enough to be heard or felt over large distances. When such sounds arrive minutes after a spectacular visual event, they naturally encourage interpretations involving impact, debris, or a crashed object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsBecause sound travels quite slowly, at only about 20 km per minute, it will generally be 1.5 to 4 min...</span></span></span>
 
-In the Kecksburg case, the acoustic evidence therefore has a dual character. It supports the occurrence of an unusually dramatic atmospheric event, but it does not automatically establish that a solid object struck the woods where witnesses believed it had landed. The same boom that convinces observers a crash occurred nearby can also be explained as the delayed arrival of [shock waves]({{ 'shock-waves/' | relative_url }}) from a breakup high above the landscape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsBecause sound travels quite slowly, at only about 20 km per minute, it will generally be 1.5 to 4 min...</span></span></span>
+In the Kecksburg case, the acoustic evidence therefore has a dual character. It supports the occurrence of an unusually dramatic atmospheric event, but it does not automatically establish that a solid object struck the woods where witnesses believed it had landed. The same boom that convinces observers a crash occurred nearby can also be explained as the delayed arrival of [shock waves]({{ 'shock-waves/' | relative_url }}) from a breakup high above the landscape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsBecause sound travels quite slowly, at only about 20 km per minute, it will generally be 1.5 to 4 min...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vROJdm_xGAQ" title="60-year mystery: Questions surrounding Kecksburg UFO incident in Pennsylvania" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vROJdm_xGAQ" target="_blank" rel="noopener noreferrer">60-year mystery: Questions surrounding Kecksburg UFO incident in Pennsylvania</a></p><p class="youtube-embed-meta">Channel: WTAE-TV Pittsburgh</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vROJdm_xGAQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vROJdm_xGAQ">Open on YouTube</a></p></div></div></div>
@@ -343,200 +343,200 @@ The safest interpretation is to separate three questions:
 
 </div>
 
-The first two often occur together. The third requires additional proof. In Kecksburg-style cases, confusion arises when the delayed boom is treated as if it automatically answers the third question. The physics of meteor shock waves shows why that conclusion can be premature. A sound heard minutes later may feel like confirmation of a nearby crash, yet it can just as easily be the audible signature of an event that ended high in the atmosphere and far from where witnesses believed it occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society+2ASSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsBecause sound travels quite slowly, at only about 20 km per minute, it will generally be 1.5 to 4 min...</span></span></span>
+The first two often occur together. The third requires additional proof. In Kecksburg-style cases, confusion arises when the delayed boom is treated as if it automatically answers the third question. The physics of meteor shock waves shows why that conclusion can be premature. A sound heard minutes later may feel like confirmation of a nearby crash, yet it can just as easily be the audible signature of an event that ended high in the atmosphere and far from where witnesses believed it occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsBecause sound travels quite slowly, at only about 20 km per minute, it will generally be 1.5 to 4 min...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_delayed_boom_false_i_e9954f-Illustration-3-dark.svg" | relative_url }}" alt="Delayed Boom False illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_delayed_boom_false_i_e9954f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_delayed_boom_false_i_e9954f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Delayed Boom False. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Delayed Boom False. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypTvAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rocks from Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypTvAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rocks from Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
+</h4>
+<p class="fr-book-author">By O. Richard Norton</p>
         
-        <p class="fr-book-desc">Directly helps readers understand dark flight and recoveries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly helps readers understand dark flight and recoveries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites and their Parent Planets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pib50AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites and their Parent Planets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites and their Parent Planets">Meteorites and their Parent Planets</a>
-        </h4>
-        <p class="fr-book-author">By Harry Y. McSween</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites and their Parent Planets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pib50AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites and their Parent Planets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites and their Parent Planets">Meteorites and their Parent Planets</a>
+</h4>
+<p class="fr-book-author">By Harry Y. McSween</p>
         
-        <p class="fr-book-desc">Explains atmospheric entry and fragment behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains atmospheric entry and fragment behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dZi_wfCqDBwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By Robert Hutchison</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dZi_wfCqDBwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
+</h4>
+<p class="fr-book-author">By Robert Hutchison</p>
         
-        <p class="fr-book-desc">Explains fireballs, meteorite falls, fragmentation and atmospheric behaviour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains fireballs, meteorite falls, fragmentation and atmospheric behaviour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rain+Of+Iron+And+Ice+by+John+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rain Of Iron And Ice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=u5ruAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rain Of Iron And Ice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rain+Of+Iron+And+Ice+by+John+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rain Of Iron And Ice">Rain Of Iron And Ice</a>
-        </h4>
-        <p class="fr-book-author">By John S. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rain+Of+Iron+And+Ice+by+John+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rain Of Iron And Ice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=u5ruAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rain Of Iron And Ice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rain+Of+Iron+And+Ice+by+John+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rain Of Iron And Ice">Rain Of Iron And Ice</a>
+</h4>
+<p class="fr-book-author">By John S. Lewis</p>
         
-        <p class="fr-book-desc">Covers meteor falls and impact processes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rain+Of+Iron+And+Ice+by+John+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers meteor falls and impact processes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rain+Of+Iron+And+Ice+by+John+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites and their Parent Planets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites and their Parent Planets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 50-80G Meteorite Specimen Quartz Crystal Goethite Blue Copper Ore Decor Gift"><img src="https://i.ebayimg.com/images/g/JrgAAOSwvqNoEcOb/s-l225.jpg" alt="Listing image for 50-80G Meteorite Specimen Quartz Crystal Goethite Blue Copper Ore Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">50-80G Meteorite Specimen Quartz Crystal Goethite Blue Copper Ore Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Remarkable 447 Gram Meteorite Specimen"><img src="https://i.ebayimg.com/images/g/FwEAAeSwDthqKGD3/s-l225.jpg" alt="Listing image for Remarkable 447 Gram Meteorite Specimen" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Remarkable 447 Gram Meteorite Specimen</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lunar Meteorite NWA 003 Genuine Moon Rock Specimen Morocco"><img src="https://i.ebayimg.com/images/g/hCAAAeSwKOdp7MPF/s-l225.jpg" alt="Listing image for Lunar Meteorite NWA 003 Genuine Moon Rock Specimen Morocco" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Lunar Meteorite NWA 003 Genuine Moon Rock Specimen Morocco</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="delayed-boom-false-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space"><img src="https://i.ebayimg.com/images/g/~4wAAeSwjOZpL-MB/s-l225.jpg" alt="Listing image for Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="kecksburg-ufo-incide-ab793e-bolide-behavior-68f5f1-delayed-boom-false-i-e9954f-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ The first two often occur together. The third requires additional proof. In Keck
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ The first two often occur together. The third requires additional proof. In Keck
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ The first two often occur together. The third requires additional proof. In Keck
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ The first two often occur together. The third requires additional proof. In Keck
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ The first two often occur together. The third requires additional proof. In Keck
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,106 +742,106 @@ The first two often occur together. The third requires additional proof. In Keck
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assa.saao.ac.za  
    Title: bolide over the western cape on 09 august 2021  
-   Link: <a href="https://assa.saao.ac.za/sections/comet-asteroid-meteor-section/bolide-over-the-western-cape-on-09-august-2021/" target="_blank" rel="noopener noreferrer nofollow">https://assa.saao.ac.za/sections/comet-asteroid-meteor-section/bolide-over-the-western-cape-on-09-august-2021/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bolide over the Western Cape on 09 August 2021 | ASSA9 Aug 2021 — The time lag of the sound gives a distance to the flash of approxim...</p></details>
+   Link:<a href="https://assa.saao.ac.za/sections/comet-asteroid-meteor-section/bolide-over-the-western-cape-on-09-august-2021/" target="_blank" rel="noopener noreferrer nofollow">https://assa.saao.ac.za/sections/comet-asteroid-meteor-section/bolide-over-the-western-cape-on-09-august-2021/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bolide over the Western Cape on 09 August 2021 | ASSA9 Aug 2021 — The time lag of the sound gives a distance to the flash of approxim...</p></details>
    Published: August 2021  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: internazionale.it  
    Title: meteor fireball triggered loud boom across new england nasa confirms  
-   Link: <a href="https://www.internazionale.it/ultime-notizie-reuters/2026/05/31/meteor-fireball-triggered-loud-boom-across-new-england-nasa-confirms" target="_blank" rel="noopener noreferrer nofollow">https://www.internazionale.it/ultime-notizie-reuters/2026/05/31/meteor-fireball-triggered-loud-boom-across-new-england-nasa-confirms</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor fireball triggered loud boom across New England...31 May 2026 — NASA estimated the energy released at breakup was e...</p></details>
+   Link:<a href="https://www.internazionale.it/ultime-notizie-reuters/2026/05/31/meteor-fireball-triggered-loud-boom-across-new-england-nasa-confirms" target="_blank" rel="noopener noreferrer nofollow">https://www.internazionale.it/ultime-notizie-reuters/2026/05/31/meteor-fireball-triggered-loud-boom-across-new-england-nasa-confirms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor fireball triggered loud boom across New England...31 May 2026 — NASA estimated the energy released at breakup was e...</p></details>
    Published: May 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MeteorA meteor, known colloquially as a shooting star, is a glowing streak of a small body (usually meteoroid) going through Earth&#x27;s a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MeteorA meteor, known colloquially as a shooting star, is a glowing streak of a small body (usually meteoroid) going through Earth&#x27;s a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>brings you the latest news, images and videos from America&#x27;s space agency, pioneering the future in space exploration, scientific discove...</p></details>
+   Link:<a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>brings you the latest news, images and videos from America&#x27;s space agency, pioneering the future in space exploration, scientific discove...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
    Title: meteors meteorites  
-   Link: <a href="https://science.nasa.gov/solar-system/meteors-meteorites/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/meteors-meteorites/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Meteorites2 Feb 2026 — When meteoroids enter Earth&#x27;s atmosphere (or that of another planet, like Mars) at high speed and burn up, the...</p></details>
+   Link:<a href="https://science.nasa.gov/solar-system/meteors-meteorites/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/meteors-meteorites/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Meteorites2 Feb 2026 — When meteoroids enter Earth&#x27;s atmosphere (or that of another planet, like Mars) at high speed and burn up, the...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ares.jsc.nasa.gov  
-   Link: <a href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/events/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Falls | Recent EventsThis is recorded as American Meteor Society event number 4942 for 2022.It was a daytime fireball and meteorite fall...</p></details>
+   Link:<a href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/events/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Falls | Recent EventsThis is recorded as American Meteor Society event number 4942 for 2022.It was a daytime fireball and meteorite fall...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/faqf/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball FAQsBecause sound travels quite slowly, at only about 20 km per minute, it will generally be 1.5 to 4 min...</p></details>
+   Link:<a href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/faqf/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball FAQsBecause sound travels quite slowly, at only about 20 km per minute, it will generally be 1.5 to 4 min...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/members/imo_view/report/303146" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/members/imo_view/report/303146</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball reportIt was really neat and it seemed odd that it felt like it was so low I could have grabbed it but th...</p></details>
+   Link:<a href="https://amsmeteors.org/members/imo_view/report/303146" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/members/imo_view/report/303146</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball reportIt was really neat and it seemed odd that it felt like it was so low I could have grabbed it but th...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/massive-boom-over-northeastern-us-was-a-meteor-explosion-as-powerful-as-300-tons-of-tnt-nasa-confirms" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/massive-boom-over-northeastern-us-was-a-meteor-explosion-as-powerful-as-300-tons-of-tnt-nasa-confirms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>caused by a meteor, NASA confirmed after consulting satellite imagery...Read more...</p></details>
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/massive-boom-over-northeastern-us-was-a-meteor-explosion-as-powerful-as-300-tons-of-tnt-nasa-confirms" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/massive-boom-over-northeastern-us-was-a-meteor-explosion-as-powerful-as-300-tons-of-tnt-nasa-confirms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>caused by a meteor, NASA confirmed after consulting satellite imagery...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/danskoff/posts/new-update-american-meteor-society-has-a-report-on-thisfireball-meteor-did-you-h/2630929023584303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/danskoff/posts/new-update-american-meteor-society-has-a-report-on-thisfireball-meteor-did-you-h/2630929023584303/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>passed though the atmosphere at a high rate of speed overnight.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/danskoff/posts/new-update-american-meteor-society-has-a-report-on-thisfireball-meteor-did-you-h/2630929023584303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/danskoff/posts/new-update-american-meteor-society-has-a-report-on-thisfireball-meteor-did-you-h/2630929023584303/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>passed though the atmosphere at a high rate of speed overnight.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s mysterious UFO landing 60 years agoSixty years ago, a December day changed the course of history for Kecksburg, a small commu...</p></details>
+   Link:<a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s mysterious UFO landing 60 years agoSixty years ago, a December day changed the course of history for Kecksburg, a small commu...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 1965...I soon discovered that, like Kecksburg, the fireball I saw (shown below) was no meteor.... Witnesses from the groun...</p></details>
+   Link:<a href="https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 1965...I soon discovered that, like Kecksburg, the fireball I saw (shown below) was no meteor.... Witnesses from the groun...</p></details>
    Published: December 9, 1965  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball was reported by citizens of...</p></details>
+   Link:<a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball was reported by citizens of...</p></details>
    Published: December 9, 1965  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZAqcCURQdR/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZAqcCURQdR/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rease in large fireball events and sonic booms during the first months...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZAqcCURQdR/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZAqcCURQdR/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rease in large fireball events and sonic booms during the first months...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DSB4fRqAvMw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSB4fRqAvMw/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Big Bang Bogan | The Kecksburg UFO: Did Aliens Crash in PA...On December 9th, 1965, a blazing fireball streaked across the Pennsylvania...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DSB4fRqAvMw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSB4fRqAvMw/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Big Bang Bogan | The Kecksburg UFO: Did Aliens Crash in PA...On December 9th, 1965, a blazing fireball streaked across the Pennsylvania...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZDeTtyjGEG/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZDeTtyjGEG/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>heard throughout the state and as far as Rhode Island on Saturday...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZDeTtyjGEG/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZDeTtyjGEG/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>heard throughout the state and as far as Rhode Island on Saturday...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/space/meteoroids/rare-daytime-fireball-meteor-creates-powerful-sonic-boom-as-7-ton-space-rock-explodes-above-eastern-us" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/rare-daytime-fireball-meteor-creates-powerful-sonic-boom-as-7-ton-space-rock-explodes-above-eastern-us</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rare &#x27;daytime fireball&#x27; meteor creates powerful sonic boom...18 Mar 2026 — Multiple eyewitnesses and security cameras recorded the explo...</p></details>
+   Link:<a href="https://www.livescience.com/space/meteoroids/rare-daytime-fireball-meteor-creates-powerful-sonic-boom-as-7-ton-space-rock-explodes-above-eastern-us" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/rare-daytime-fireball-meteor-creates-powerful-sonic-boom-as-7-ton-space-rock-explodes-above-eastern-us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rare &#x27;daytime fireball&#x27; meteor creates powerful sonic boom...18 Mar 2026 — Multiple eyewitnesses and security cameras recorded the explo...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/[fireball-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/[fireball-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball sightings are surging across the US27 Mar 2026 — Why are fireball sightings increasing across the US? Experts explain the recent...</p></details>
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/[fireball-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/[fireball-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball sightings are surging across the US27 Mar 2026 — Why are fireball sightings increasing across the US? Experts explain the recent...</p></details>

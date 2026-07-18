@@ -447,9 +447,9 @@ Kecksburg is a useful test case for eyewitness memory because the witnesses do n
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2-overview.webp" | relative_url }}" alt="Overview image for Witnesses" loading="eager" decoding="sync" fetchpriority="high">
 ## Early Versus Later Accounts
 
-The strongest eyewitness material in the Kecksburg case is the wide-area observation of a bright aerial event. A later review of the [Great Lakes]({{ 'great-lakes/' | relative_url }}) fireball notes that the 9 December 1965 bolide was seen from ten US states and Ontario, was brighter than the full Moon, lasted only a few seconds, changed colour, brightened or burst, and left a persistent train visible for some time. That broad pattern is consistent with a dramatic meteor-like event that many people could misjudge as nearby, especially if they saw it disappear behind trees, hills or buildings. Robert R. Young’s review of the case also notes that witnesses in 1965 reported the fireball as having “crashed” or “landed” in at least 17 places across six states, a clue that perceived impact location was not a reliable guide to actual impact location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) The Reliability of UFO Witness Testimony</span><span class="citation-popover-snippet">Academia(PDF) The Reliability of UFO Witness Testimony...</span></span></span>
+The strongest eyewitness material in the Kecksburg case is the wide-area observation of a bright aerial event. A later review of the [Great Lakes]({{ 'great-lakes/' | relative_url }}) fireball notes that the 9 December 1965 bolide was seen from ten US states and Ontario, was brighter than the full Moon, lasted only a few seconds, changed colour, brightened or burst, and left a persistent train visible for some time. That broad pattern is consistent with a dramatic meteor-like event that many people could misjudge as nearby, especially if they saw it disappear behind trees, hills or buildings. Robert R. Young’s review of the case also notes that witnesses in 1965 reported the fireball as having “crashed” or “landed” in at least 17 places across six states, a clue that perceived impact location was not a reliable guide to actual impact location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) The Reliability of UFO Witness Testimony</span><span class="citation-popover-snippet">Academia(PDF) The Reliability of UFO Witness Testimony...</span></span></span>
 
-The local Kecksburg story begins in that confusion. In one reconstruction, eight-year-old Nevin Kalp reportedly described seeing “a star on fire”, while his mother later saw smoke over nearby woods and contacted local radio and police after hearing UFO talk on KDKA radio. Young argues that the line of sight from the Kalp location pointed towards the Lake Erie fireball and that later attention shifted towards a search location, then towards a different published location that remained influential for decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) The Reliability of UFO Witness Testimony</span><span class="citation-popover-snippet">Academia(PDF) The Reliability of UFO Witness Testimony...</span></span></span>
+The local Kecksburg story begins in that confusion. In one reconstruction, eight-year-old Nevin Kalp reportedly described seeing “a star on fire”, while his mother later saw smoke over nearby woods and contacted local radio and police after hearing UFO talk on KDKA radio. Young argues that the line of sight from the Kalp location pointed towards the Lake Erie fireball and that later attention shifted towards a search location, then towards a different published location that remained influential for decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) The Reliability of UFO Witness Testimony</span><span class="citation-popover-snippet">Academia(PDF) The Reliability of UFO Witness Testimony...</span></span></span>
 
 That distinction is important: the earliest layer is about a fireball, smoke, a possible crash, and a search. The later popular layer is more specific and more cinematic: an acorn-shaped craft, hieroglyphic-like markings, armed military control and removal on a lorry. The more detailed a claim becomes after years of discussion, the more it needs independent support from records made close to the event. In Kecksburg, many of the best-known concrete object descriptions became prominent long after 1965, not in the first public record.
 
@@ -459,9 +459,9 @@ This does not mean later witnesses should be ignored. Some people may have held 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Retelling Can Change a Sincere Memory
 
-Eyewitness memory is not a video recording. The US National Research Council’s 2014 report on eyewitness identification emphasised that human perception, memory and confidence are malleable, and that mistaken identifications can have serious consequences even when witnesses are sincere. Although that report focuses on criminal identification rather than UFO cases, the principle applies directly to Kecksburg: confidence and vividness are not the same as independent accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/18891/chapter/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Open source on nationalacademies.org.</span></span></span>
+Eyewitness memory is not a video recording. The US National Research Council’s 2014 report on eyewitness identification emphasised that human perception, memory and confidence are malleable, and that mistaken identifications can have serious consequences even when witnesses are sincere. Although that report focuses on criminal identification rather than UFO cases, the principle applies directly to Kecksburg: confidence and vividness are not the same as independent accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/18891/chapter/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Open source on nationalacademies.org.</span></span></span>
 
-A key mechanism is post-event information. After an unusual event, people talk to neighbours, listen to radio, read [newspapers]({{ 'newspapers/' | relative_url }}), watch television, meet investigators and later encounter documentaries. Each contact can add details that become difficult to separate from the original perception. A chapter on cognition and memory distortion in *The Reliability of UFO Witness Testimony* describes how time, forgetting, stress, suggestion, conversations with other witnesses and media information can alter later testimony; it also notes that witnesses may report later interpretations as if they were originally observed, without consciously intending to deceive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) The Reliability of UFO Witness Testimony</span><span class="citation-popover-snippet">Academia(PDF) The Reliability of UFO Witness Testimony...</span></span></span>
+A key mechanism is post-event information. After an unusual event, people talk to neighbours, listen to radio, read [newspapers]({{ 'newspapers/' | relative_url }}), watch television, meet investigators and later encounter documentaries. Each contact can add details that become difficult to separate from the original perception. A chapter on cognition and memory distortion in *The Reliability of UFO Witness Testimony* describes how time, forgetting, stress, suggestion, conversations with other witnesses and media information can alter later testimony; it also notes that witnesses may report later interpretations as if they were originally observed, without consciously intending to deceive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) The Reliability of UFO Witness Testimony</span><span class="citation-popover-snippet">Academia(PDF) The Reliability of UFO Witness Testimony...</span></span></span>
 
 Kecksburg had nearly every condition that makes this process powerful. The event was brief and startling. It occurred at dusk. It was followed by rumours of a crash. Local people searched or gathered near the woods. Officials and police were present. Newspapers and radio reported conflicting information. UFO researchers later revisited the story. Television programmes gave the case a vivid visual template. In that environment, the line between “what I saw”, “what I heard that night”, “what people later said”, and “what the reconstruction showed” can become blurred.
 
@@ -472,23 +472,23 @@ The point is not that all contamination runs in one direction. A sceptical offic
 
 ## The Media Did Not Just Report the Story
 
-Kecksburg’s witness tradition changed partly because media coverage became part of the evidence environment. Young’s review argues that early confusion was amplified by a 1965 article from UFO writer Ivan Sanderson, who relied on published reports rather than direct witness interviews and, according to Young, made trajectory and speed errors that helped launch the idea of a slow, manoeuvring object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) The Reliability of UFO Witness Testimony</span><span class="citation-popover-snippet">Academia(PDF) The Reliability of UFO Witness Testimony...</span></span></span>
+Kecksburg’s witness tradition changed partly because media coverage became part of the evidence environment. Young’s review argues that early confusion was amplified by a 1965 article from UFO writer Ivan Sanderson, who relied on published reports rather than direct witness interviews and, according to Young, made trajectory and speed errors that helped launch the idea of a slow, manoeuvring object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) The Reliability of UFO Witness Testimony</span><span class="citation-popover-snippet">Academia(PDF) The Reliability of UFO Witness Testimony...</span></span></span>
 
-The biggest turning point came much later. The 1990 *Unsolved Mysteries* treatment presented the case with dramatic force and created a physical acorn-shaped model based on witness accounts. Young states that the episode reached tens of millions of viewers, was repeated many times, and was followed over the next 24 years by several more nationally televised programmes about Kecksburg. He also reports that more than 100 “new” witnesses called the programme’s hotline after the broadcast. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) The Reliability of UFO Witness Testimony</span><span class="citation-popover-snippet">Academia(PDF) The Reliability of UFO Witness Testimony...</span></span></span>
+The biggest turning point came much later. The 1990 *Unsolved Mysteries* treatment presented the case with dramatic force and created a physical acorn-shaped model based on witness accounts. Young states that the episode reached tens of millions of viewers, was repeated many times, and was followed over the next 24 years by several more nationally televised programmes about Kecksburg. He also reports that more than 100 “new” witnesses called the programme’s hotline after the broadcast.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) The Reliability of UFO Witness Testimony</span><span class="citation-popover-snippet">Academia(PDF) The Reliability of UFO Witness Testimony...</span></span></span>
 
 That does not automatically invalidate the post-1990 witnesses. It does, however, change how their testimony must be handled. A memory reported after a widely watched reconstruction is no longer independent of the public image of the case unless there is evidence that the same detail was recorded earlier. If a witness described a large covered object before the broadcast, that is one evidentiary category. If the same detail appears for the first time after the broadcast, it is another.
 
-The *Unsolved Mysteries* archive illustrates the later narrative in its strongest popular form. It presents Bill Weaver as saying there was something glowing in the ravine and that “they took something out”, and John Hays as recalling a flat-bed truck carrying an object about the size of a Volkswagen Beetle. It also presents James Romansky questioning why officials did not display the object if it was merely a meteorite. These are memorable claims, but they are preserved in a television mystery format rather than in a contemporaneous 1965 statement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Mysteries Kecksburg UFO</span></span></span>
+The *Unsolved Mysteries* archive illustrates the later narrative in its strongest popular form. It presents Bill Weaver as saying there was something glowing in the ravine and that “they took something out”, and John Hays as recalling a flat-bed truck carrying an object about the size of a Volkswagen Beetle. It also presents James Romansky questioning why officials did not display the object if it was merely a meteorite. These are memorable claims, but they are preserved in a television mystery format rather than in a contemporaneous 1965 statement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Mysteries Kecksburg UFO</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The John Murphy Problem
 
-No discussion of changing testimony at Kecksburg can avoid John Murphy, the WHJB radio news director whose name became central to the case. In some later accounts, Murphy was among the first reporters near the scene, took photographs, prepared a radio documentary called *Object in the Woods*, and then had material removed or softened after alleged official pressure. Atlas Obscura summarises the legend as involving claims that officials confiscated photos, that the aired documentary was heavily edited, and that Murphy’s later death in a hit-and-run accident fed suspicion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura Space Acorn in Kecksburg</span><span class="citation-popover-snippet">Atlas Obscura Space Acorn in Kecksburg</span></span></span>
+No discussion of changing testimony at Kecksburg can avoid John Murphy, the WHJB radio news director whose name became central to the case. In some later accounts, Murphy was among the first reporters near the scene, took photographs, prepared a radio documentary called *Object in the Woods*, and then had material removed or softened after alleged official pressure. Atlas Obscura summarises the legend as involving claims that officials confiscated photos, that the aired documentary was heavily edited, and that Murphy’s later death in a hit-and-run accident fed suspicion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura Space Acorn in Kecksburg</span><span class="citation-popover-snippet">Atlas Obscura Space Acorn in Kecksburg</span></span></span>
 
 This is a powerful story because it provides a human bridge between early journalism and later cover-up claims. But it also shows the difficulty of relying on testimony about testimony. Much of the Murphy narrative depends on recollections by people who heard, saw, or later remembered what the unaired or original version supposedly contained. Unless the original photos, tapes, scripts or station records can be authenticated, the story remains suggestive rather than decisive.
 
-Young’s reconstruction takes a different view of Murphy’s role. It says that Murphy initially reported smoke and sparks at what he thought was a crash site, but that this was about 1.5 miles west of Kecksburg where brush and trees were being burned at the Norvelt Golf Course construction site. Young also says Murphy’s later radio special reported no large [military presence]({{ 'military-claims/' | relative_url }}) except three Air Force men in the back seat of a police car, and that the station stated no government agency had intervened in the broadcast. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) The Reliability of UFO Witness Testimony</span><span class="citation-popover-snippet">Academia(PDF) The Reliability of UFO Witness Testimony...</span></span></span>
+Young’s reconstruction takes a different view of Murphy’s role. It says that Murphy initially reported smoke and sparks at what he thought was a crash site, but that this was about 1.5 miles west of Kecksburg where brush and trees were being burned at the Norvelt Golf Course construction site. Young also says Murphy’s later radio special reported no large [military presence]({{ 'military-claims/' | relative_url }}) except three Air Force men in the back seat of a police car, and that the station stated no government agency had intervened in the broadcast.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) The Reliability of UFO Witness Testimony</span><span class="citation-popover-snippet">Academia(PDF) The Reliability of UFO Witness Testimony...</span></span></span>
 
 The result is a classic Kecksburg pattern: the same person can be used to support opposite readings. In the crash-recovery version, Murphy is a silenced reporter. In the sceptical version, he is a reporter caught in the confusion of a fast-moving local story. The responsible reading is to treat Murphy as important but unresolved: a potentially valuable contemporary witness whose strongest claimed evidence is unavailable.
 
@@ -513,9 +513,9 @@ The most useful tests are straightforward:
 
 </div>
 
-Young’s sceptical reconstruction argues that three newspapers, a Pittsburgh television station and Murphy were present during the searches and did not report armed troops, convoys or objects in the woods; it also says State Police and news media searched again in daylight and found nothing. That is not final proof nothing happened, but it is a major check against the most elaborate recovery claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) The Reliability of UFO Witness Testimony</span><span class="citation-popover-snippet">Academia(PDF) The Reliability of UFO Witness Testimony...</span></span></span>
+Young’s sceptical reconstruction argues that three newspapers, a Pittsburgh television station and Murphy were present during the searches and did not report armed troops, convoys or objects in the woods; it also says State Police and news media searched again in daylight and found nothing. That is not final proof nothing happened, but it is a major check against the most elaborate recovery claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) The Reliability of UFO Witness Testimony</span><span class="citation-popover-snippet">Academia(PDF) The Reliability of UFO Witness Testimony...</span></span></span>
 
-On the other side, later researchers and journalists have pointed to the persistence of local testimony and the fact that the case generated official-record disputes. NASA was ordered in 2007 to conduct a more thorough search of its files after a Freedom of Information Act lawsuit by journalist Leslie Kean, supported by the Sci Fi Channel. The Reporters Committee for Freedom of the Press described the lawsuit as seeking documents about an alleged object that fell near Kecksburg in 1965. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Reporters Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-snippet">Open source on rcfp.org.</span></span></span>
+On the other side, later researchers and journalists have pointed to the persistence of local testimony and the fact that the case generated official-record disputes. NASA was ordered in 2007 to conduct a more thorough search of its files after a Freedom of Information Act lawsuit by journalist Leslie Kean, supported by the Sci Fi Channel. The Reporters Committee for Freedom of the Press described the lawsuit as seeking documents about an alleged object that fell near Kecksburg in 1965.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Reporters Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-snippet">Open source on rcfp.org.</span></span></span>
 
 That record dispute matters, but it should not be made to carry more than it proves. A missing or incomplete file can justify further inquiry; it does not by itself verify a witness’s memory of an acorn-shaped craft. Equally, an official statement that a search found nothing does not erase every witness’s experience of confusion, roadblocks, lights or military presence. Corroboration is about narrowing the claim, not forcing every detail into one all-or-nothing verdict.
 
@@ -534,194 +534,194 @@ The best reading is therefore cautious but not dismissive. Kecksburg witnesses a
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Reliable Are Kecksburg Witness Memories?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Reliable Are Kecksburg Witness Memories?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uBlAU24-qsoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uBlAU24-qsoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus</p>
         
-        <p class="fr-book-desc">Directly addresses how memories change, how questioning affects recall, and how eyewitness accounts should be evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how memories change, how questioning affects recall, and how eyewitness accounts should be evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains why people form and reinforce beliefs, including paranormal and conspiracy-related interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people form and reinforce beliefs, including paranormal and conspiracy-related interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Provides tools for assessing extraordinary claims and evolving narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Provides tools for assessing extraordinary claims and evolving narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains self-justification, memory revision, and how people sincerely maintain inaccurate beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains self-justification, memory revision, and how people sincerely maintain inaccurate beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed"><img src="https://i.ebayimg.com/images/g/1XgAAOSwCRth3c3h/s-l225.jpg" alt="Listing image for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;"><img src="https://i.ebayimg.com/images/g/vXUAAOSws0FmZ9g7/s-l225.jpg" alt="Listing image for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed"><img src="https://i.ebayimg.com/images/g/-EkAAeSwUARosDVU/s-l225.jpg" alt="Listing image for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="witnesses-how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed"><img src="https://i.ebayimg.com/images/g/hHEAAOSwEiJmNQYz/s-l225.jpg" alt="Listing image for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-reliable-are-kecksburg-witness-memories-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -737,7 +737,7 @@ The best reading is therefore cautious but not dismissive. Kecksburg witnesses a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -757,7 +757,7 @@ The best reading is therefore cautious but not dismissive. Kecksburg witnesses a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -789,7 +789,7 @@ The best reading is therefore cautious but not dismissive. Kecksburg witnesses a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -841,7 +841,7 @@ The best reading is therefore cautious but not dismissive. Kecksburg witnesses a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -886,7 +886,7 @@ The best reading is therefore cautious but not dismissive. Kecksburg witnesses a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -927,96 +927,96 @@ The best reading is therefore cautious but not dismissive. Kecksburg witnesses a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: academia.edu  
    Title: (PDF) The Reliability of UFO Witness Testimony  
-   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) The Reliability of UFO Witness Testimony...</p></details>
+   Link:<a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) The Reliability of UFO Witness Testimony...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unsolved.com  
    Title: Mysteries Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/105809707/Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_and_Contactees_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/105809707/Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_and_Contactees_</a>  
+   Link:<a href="https://www.academia.edu/105809707/Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_and_Contactees_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/105809707/Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_and_Contactees_</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/2" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/2</a>  
+   Link:<a href="https://www.nationalacademies.org/read/18891/chapter/2" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/2</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: atlasobscura.com  
    Title: Atlas Obscura Space Acorn in Kecksburg  
-   Link: <a href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/space-acorn</a>  
+   Link:<a href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/space-acorn</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: rcfp.org  
-   Link: <a href="https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/</a>  
+   Link:<a href="https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vROJdm_xGAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vROJdm_xGAQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=vROJdm_xGAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vROJdm_xGAQ</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/18891" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891</a>  
+   Link:<a href="https://www.nationalacademies.org/read/18891" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: rcfp.org  
    Title: nasa ordered review its records data ufo sighting  
-   Link: <a href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/</a>  
+   Link:<a href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: space.com  
    Title: 7589 case finally closed 1965 pennsylvania ufo mystery  
-   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: post-gazette.com  
-   Link: <a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
+   Link:<a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The New Science of Eyewitness Memory | John Wixted | TED  
-   Link: <a href="https://www.youtube.com/watch?v=93ocNhHyGVo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=93ocNhHyGVo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elizabeth Loftus on Eyewitness Testimony...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=93ocNhHyGVo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=93ocNhHyGVo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elizabeth Loftus on Eyewitness Testimony...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/1991/04/old-solved-mysteries-the-kecksburg-incident/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1991/04/old-solved-mysteries-the-kecksburg-incident/</a>  
+   Link:<a href="https://skepticalinquirer.org/1991/04/old-solved-mysteries-the-kecksburg-incident/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1991/04/old-solved-mysteries-the-kecksburg-incident/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/387301035_The_reliability_of_UFO_witness_testimony_By_V-J_Ballester_Olmos_Richard_W_Heiden_Eds_Turin_Upiar_Press_2023_pp_711" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387301035_The_reliability_of_UFO_witness_testimony_By_V-J_Ballester_Olmos_Richard_W_Heiden_Eds_Turin_Upiar_Press_2023_pp_711</a>  
+   Link:<a href="https://www.researchgate.net/publication/387301035_The_reliability_of_UFO_witness_testimony_By_V-J_Ballester_Olmos_Richard_W_Heiden_Eds_Turin_Upiar_Press_2023_pp_711" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387301035_The_reliability_of_UFO_witness_testimony_By_V-J_Ballester_Olmos_Richard_W_Heiden_Eds_Turin_Upiar_Press_2023_pp_711</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nobaproject.com  
-   Link: <a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
+   Link:<a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-the-story-i-did-on-the-60th-anniversary-of-the-kecksburg-ufo-we-still-ha/1399476958213112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-the-story-i-did-on-the-60th-anniversary-of-the-kecksburg-ufo-we-still-ha/1399476958213112/</a>  
+   Link:<a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-the-story-i-did-on-the-60th-anniversary-of-the-kecksburg-ufo-we-still-ha/1399476958213112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-the-story-i-did-on-the-60th-anniversary-of-the-kecksburg-ufo-we-still-ha/1399476958213112/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
+   Link:<a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/pennsylvaniaphotos/posts/3965626140374425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/pennsylvaniaphotos/posts/3965626140374425/</a>  
+   Link:<a href="https://www.facebook.com/groups/pennsylvaniaphotos/posts/3965626140374425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/pennsylvaniaphotos/posts/3965626140374425/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt0985950/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0985950/</a>  
+   Link:<a href="https://www.imdb.com/title/tt0985950/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0985950/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/mlf13o/kecksburg_ufo_incident_solved_it_was_potentially/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/mlf13o/kecksburg_ufo_incident_solved_it_was_potentially/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/mlf13o/kecksburg_ufo_incident_solved_it_was_potentially/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/mlf13o/kecksburg_ufo_incident_solved_it_was_potentially/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Robert-Belli/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory/links/556f158d08aeab7772282b35/Misinformation-Effects-and-the-Suggestibility-of-Eyewitness-Memory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Robert-Belli/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory/links/556f158d08aeab7772282b35/Misinformation-Effects-and-the-Suggestibility-of-Eyewitness-Memory.pdf</a>  
+   Link:<a href="https://www.researchgate.net/profile/Robert-Belli/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory/links/556f158d08aeab7772282b35/Misinformation-Effects-and-the-Suggestibility-of-Eyewitness-Memory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Robert-Belli/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory/links/556f158d08aeab7772282b35/Misinformation-Effects-and-the-Suggestibility-of-Eyewitness-Memory.pdf</a>  

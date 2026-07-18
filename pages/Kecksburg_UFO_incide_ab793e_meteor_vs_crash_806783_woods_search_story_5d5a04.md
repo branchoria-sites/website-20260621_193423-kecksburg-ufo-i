@@ -274,7 +274,7 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_meteor_vs_crash_806783_woods_s
 
 ## Introduction
 
-The Kecksburg crash narrative did not emerge from the fireball alone. It was shaped just as strongly by what happened after people believed something had come down in the woods. On the evening of 9 December 1965, local residents, volunteer firefighters, police officers and later military personnel all converged on the same area. Reports of searches, roadblocks, restricted access and officials moving through the woods created a powerful impression that authorities were looking for a real object. Whether or not anything was actually recovered, the search itself became one of the central reasons many residents concluded that a crash had occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phillyvoice.com">[PhillyVoice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phillyvoice.com</span><span class="citation-popover-title">Philly Voice Long rumored alien encounter in &#x27;Pennsylvania&#x27;s Roswell</span><span class="citation-popover-snippet">a bizarre incident that occurred in Kecksburg, Pennsylvania, on Dec. 9, 1965. Some residents think an alien UFO crashed in the woods...</span></span></span>
+The Kecksburg crash narrative did not emerge from the fireball alone. It was shaped just as strongly by what happened after people believed something had come down in the woods. On the evening of 9 December 1965, local residents, volunteer firefighters, police officers and later military personnel all converged on the same area. Reports of searches, roadblocks, restricted access and officials moving through the woods created a powerful impression that authorities were looking for a real object. Whether or not anything was actually recovered, the search itself became one of the central reasons many residents concluded that a crash had occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phillyvoice.com">[PhillyVoice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phillyvoice.com</span><span class="citation-popover-title">Philly Voice Long rumored alien encounter in &#x27;Pennsylvania&#x27;s Roswell</span><span class="citation-popover-snippet">a bizarre incident that occurred in Kecksburg, Pennsylvania, on Dec. 9, 1965. Some residents think an alien UFO crashed in the woods...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_meteor_vs_crash_806783_woods_search_story_5d5a04-Illustration-1-dark.svg" | relative_url }}" alt="Search Party illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_meteor_vs_crash_806783_woods_search_story_5d5a04-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_meteor_vs_crash_806783_woods_search_story_5d5a04-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,9 +282,9 @@ Within the broader debate between a meteor explanation and local crash claims, t
 
 ## What residents reported that night
 
-Accounts from Kecksburg consistently describe an escalating sequence of events. After the widely observed fireball crossed the sky, local residents reported smoke in the woods and began looking for the source. Volunteer firefighters and police responded to reports that something had come down nearby. As more people arrived, stories spread that officials were restricting access and directing civilians away from a particular area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phillyvoice.com">[PhillyVoice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phillyvoice.com</span><span class="citation-popover-title">Philly Voice Long rumored alien encounter in &#x27;Pennsylvania&#x27;s Roswell</span><span class="citation-popover-snippet">a bizarre incident that occurred in Kecksburg, Pennsylvania, on Dec. 9, 1965. Some residents think an alien UFO crashed in the woods...</span></span></span>
+Accounts from Kecksburg consistently describe an escalating sequence of events. After the widely observed fireball crossed the sky, local residents reported smoke in the woods and began looking for the source. Volunteer firefighters and police responded to reports that something had come down nearby. As more people arrived, stories spread that officials were restricting access and directing civilians away from a particular area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phillyvoice.com">[PhillyVoice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phillyvoice.com</span><span class="citation-popover-title">Philly Voice Long rumored alien encounter in &#x27;Pennsylvania&#x27;s Roswell</span><span class="citation-popover-snippet">a bizarre incident that occurred in Kecksburg, Pennsylvania, on Dec. 9, 1965. Some residents think an alien UFO crashed in the woods...</span></span></span>
 
-For many [witnesses]({{ 'witnesses/' | relative_url }}), these actions were significant because they appeared to confirm that authorities had found something worth protecting. In later retellings, the presence of state police, military personnel and organised search teams became evidence in itself. The reasoning was straightforward: if nothing had fallen, why would so many officials be searching the woods? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
+For many [witnesses]({{ 'witnesses/' | relative_url }}), these actions were significant because they appeared to confirm that authorities had found something worth protecting. In later retellings, the presence of state police, military personnel and organised search teams became evidence in itself. The reasoning was straightforward: if nothing had fallen, why would so many officials be searching the woods?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
 
 The problem is that emergency responders often investigate reports before they know what has happened. A search does not necessarily imply a confirmed recovery. Yet in the fast-moving atmosphere of that evening, many residents experienced the search as confirmation rather than investigation.
 
@@ -295,7 +295,7 @@ The problem is that emergency responders often investigate reports before they k
 
 One of the most important distinctions in the Kecksburg case is the difference between a search and a documented recovery.
 
-Contemporary and later accounts indicate that authorities searched the area after reports of a possible impact. The Air Force's position, however, was that searchers found nothing. Later references to official records describe a night-time search that failed to locate a crashed object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Contemporary and later accounts indicate that authorities searched the area after reports of a possible impact. The Air Force's position, however, was that searchers found nothing. Later references to official records describe a night-time search that failed to locate a crashed object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 That gap created the central tension in the story:
 
@@ -305,7 +305,7 @@ That gap created the central tension in the story:
 * Residents remembered extensive search activity.
 * Officials maintained that no recoverable object was found.
 * Later witnesses claimed an object had been removed.
-* No publicly verified recovery inventory or physical artefact emerged to settle the dispute. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+* No publicly verified recovery inventory or physical artefact emerged to settle the dispute.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 </div>
 
@@ -319,13 +319,13 @@ This helps explain why the Kecksburg story remained resilient despite the absenc
 
 Several features of the response encouraged suspicion.
 
-First, the search occurred after a spectacular fireball visible across multiple states and parts of Canada. Residents were already primed to believe something extraordinary had happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+First, the search occurred after a spectacular fireball visible across multiple states and parts of Canada. Residents were already primed to believe something extraordinary had happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 Second, information was fragmentary. Different people arrived at different times, saw different officials and heard different rumours. In such circumstances, individuals often fill gaps with second-hand reports from neighbours, friends or local authorities.
 
-Third, access restrictions had a psychological effect. Being told to stay away from an area can increase confidence that something important is being concealed there. For those turned back from the woods, the restriction itself became part of the evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
+Third, access restrictions had a psychological effect. Being told to stay away from an area can increase confidence that something important is being concealed there. For those turned back from the woods, the restriction itself became part of the evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
 
-Finally, later media coverage repeatedly highlighted the search. Television documentaries, UFO programmes and anniversary retrospectives often reconstructed the night around images of military personnel entering the woods and civilians being kept out. This reinforced the idea that the search was not merely precautionary but the beginning of a cover-up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Finally, later media coverage repeatedly highlighted the search. Television documentaries, UFO programmes and anniversary retrospectives often reconstructed the night around images of military personnel entering the woods and civilians being kept out. This reinforced the idea that the search was not merely precautionary but the beginning of a cover-up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a5X4VTLUkHI" title="Did the U.S. Military Cover Up an Alien Crash in Kecksburg? | UFO Witness | Love Paranormal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a5X4VTLUkHI" target="_blank" rel="noopener noreferrer">Did the U.S. Military Cover Up an Alien Crash in Kecksburg? | UFO Witness | Love Paranormal</a></p><p class="youtube-embed-meta">Channel: Love Paranormal</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a5X4VTLUkHI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a5X4VTLUkHI">Open on YouTube</a></p></div></div></div>
@@ -356,214 +356,214 @@ Over time, memories also tend to simplify. A complicated sequence—
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Something crashed.
-2. Authorities arrived. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/Abovethenormnews/videos/-what-really-came-down-in-the-woods-near-kecksburg-thousands-witnessed-a-blazing/1541462657445303/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">rtedly seen securing the area. By morning, witnesses claimed...</span></span></span>
+2. Authorities arrived.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/Abovethenormnews/videos/-what-really-came-down-in-the-woods-near-kecksburg-thousands-witnessed-a-blazing/1541462657445303/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">rtedly seen securing the area. By morning, witnesses claimed...</span></span></span>
 3. Authorities removed it.
 
 </div>
 
-The second version is easier to remember and retell, even though it compresses uncertainty and removes unresolved steps. Historians and sceptical investigators of UFO cases have noted that discrepancies between official accounts and witness recollections often create exactly this kind of narrative evolution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
+The second version is easier to remember and retell, even though it compresses uncertainty and removes unresolved steps. Historians and sceptical investigators of UFO cases have noted that discrepancies between official accounts and witness recollections often create exactly this kind of narrative evolution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
 
 ## Did the woods search create the crash story?
 
 The search did not create the Kecksburg mystery from nothing. Residents were already reacting to a dramatic fireball and reports of a possible impact. However, the search appears to have transformed a fleeting observation into a durable local legend.
 
-Without the police presence, firefighters, military reports and stories of restricted access, the incident might have remained a regional meteor sighting. Instead, the visible response gave residents a concrete event to discuss, remember and reinterpret. The search provided the framework on which later claims of a recovered object were built. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phillyvoice.com">[PhillyVoice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phillyvoice.com</span><span class="citation-popover-title">Philly Voice Long rumored alien encounter in &#x27;Pennsylvania&#x27;s Roswell</span><span class="citation-popover-snippet">a bizarre incident that occurred in Kecksburg, Pennsylvania, on Dec. 9, 1965. Some residents think an alien UFO crashed in the woods...</span></span></span>
+Without the police presence, firefighters, military reports and stories of restricted access, the incident might have remained a regional meteor sighting. Instead, the visible response gave residents a concrete event to discuss, remember and reinterpret. The search provided the framework on which later claims of a recovered object were built.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phillyvoice.com">[PhillyVoice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phillyvoice.com</span><span class="citation-popover-title">Philly Voice Long rumored alien encounter in &#x27;Pennsylvania&#x27;s Roswell</span><span class="citation-popover-snippet">a bizarre incident that occurred in Kecksburg, Pennsylvania, on Dec. 9, 1965. Some residents think an alien UFO crashed in the woods...</span></span></span>
 
-That is why the woods search remains central to the Kecksburg debate. Even among people who disagree about what fell from the sky, the search is the point where an astronomical event became a crash story. The enduring mystery owes as much to what people believed happened in the woods that night as to the fireball that first drew their attention there. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+That is why the woods search remains central to the Kecksburg debate. Even among people who disagree about what fell from the sky, the search is the point where an astronomical event became a crash story. The enduring mystery owes as much to what people believed happened in the woods that night as to the fireball that first drew their attention there.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BYEh3JLrQbg" title="Kecksburg UFO Shocks the World Actual Interview Footage (S1) | Conspiracy? | The UnXplained Zone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BYEh3JLrQbg" target="_blank" rel="noopener noreferrer">Kecksburg UFO Shocks the World Actual Interview Footage (S1) | Conspiracy? | The UnXplained Zone</a></p><p class="youtube-embed-meta">Channel: The UnXplained Zone</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BYEh3JLrQbg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BYEh3JLrQbg">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the woods search create the crash story?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the woods search create the crash story?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores memory, belief formation, and pattern-seeking relevant to evolving crash stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores memory, belief formation, and pattern-seeking relevant to evolving crash stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Discusses evidence evaluation and witness testimony in controversial sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evidence evaluation and witness testimony in controversial sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains how memories and interpretations can become reinforced over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how memories and interpretations can become reinforced over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides detailed treatment of famous incidents and how narratives develop around them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides detailed treatment of famous incidents and how narratives develop around them.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteor Italian Locandina Poster Sean Connery Natalie Wood 1979"><img src="{{ '/assets/images/marketplace-covers/c590c82c5e67c3c32915.jpg' | relative_url }}" alt="Listing image for Meteor Italian Locandina Poster Sean Connery Natalie Wood 1979" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">Meteor Italian Locandina Poster Sean Connery Natalie Wood 1979</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteor Italian Locandina Poster Sean Connery Natalie Wood 1979"><img src="{{ '/assets/images/marketplace-covers/c590c82c5e67c3c32915.jpg' | relative_url }}" alt="Listing image for Meteor Italian Locandina Poster Sean Connery Natalie Wood 1979" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">Meteor Italian Locandina Poster Sean Connery Natalie Wood 1979</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteor 16&quot; x 12&quot; Photo Repro Film Poster"><img src="{{ '/assets/images/marketplace-covers/8ab4ed81dd77bce8cf2a.jpg' | relative_url }}" alt="Listing image for Meteor 16&quot; x 12&quot; Photo Repro Film Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">Meteor 16&quot; x 12&quot; Photo Repro Film Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteor 16&quot; x 12&quot; Photo Repro Film Poster"><img src="{{ '/assets/images/marketplace-covers/8ab4ed81dd77bce8cf2a.jpg' | relative_url }}" alt="Listing image for Meteor 16&quot; x 12&quot; Photo Repro Film Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">Meteor 16&quot; x 12&quot; Photo Repro Film Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Meteor Man Robert Townsend Movie/Film Poster Art PICTURE / PRINT 9&quot; x 8&quot;"><img src="{{ '/assets/images/marketplace-covers/204a1a0e984cd368ed57.jpg' | relative_url }}" alt="Listing image for The Meteor Man Robert Townsend Movie/Film Poster Art PICTURE / PRINT 9&quot; x 8&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">The Meteor Man Robert Townsend Movie/Film Poster Art PICTURE / PRINT 9&quot; x 8&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Meteor Man Robert Townsend Movie/Film Poster Art PICTURE / PRINT 9&quot; x 8&quot;"><img src="{{ '/assets/images/marketplace-covers/204a1a0e984cd368ed57.jpg' | relative_url }}" alt="Listing image for The Meteor Man Robert Townsend Movie/Film Poster Art PICTURE / PRINT 9&quot; x 8&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">The Meteor Man Robert Townsend Movie/Film Poster Art PICTURE / PRINT 9&quot; x 8&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for METEOR POSTER ORIGINAL 41.3 x54cm french 1979"><img src="{{ '/assets/images/marketplace-covers/7e5c610d4938672c3fdd.jpg' | relative_url }}" alt="Listing image for METEOR POSTER ORIGINAL 41.3 x54cm french 1979" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">METEOR POSTER ORIGINAL 41.3 x54cm french 1979</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for METEOR POSTER ORIGINAL 41.3 x54cm french 1979"><img src="{{ '/assets/images/marketplace-covers/7e5c610d4938672c3fdd.jpg' | relative_url }}" alt="Listing image for METEOR POSTER ORIGINAL 41.3 x54cm french 1979" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">METEOR POSTER ORIGINAL 41.3 x54cm french 1979</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="search-party-did-the-woods-search-create-the-crash-story-kecksburg-ufo-incide-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -579,7 +579,7 @@ That is why the woods search remains central to the Kecksburg debate. Even among
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -599,7 +599,7 @@ That is why the woods search remains central to the Kecksburg debate. Even among
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -631,7 +631,7 @@ That is why the woods search remains central to the Kecksburg debate. Even among
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -683,7 +683,7 @@ That is why the woods search remains central to the Kecksburg debate. Even among
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -728,7 +728,7 @@ That is why the woods search remains central to the Kecksburg debate. Even among
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -769,83 +769,83 @@ That is why the woods search remains central to the Kecksburg debate. Even among
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: phillyvoice.com  
    Title: Philly Voice Long rumored alien encounter in 'Pennsylvania's Roswell'  
-   Link: <a href="https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>a bizarre incident that occurred in Kecksburg, Pennsylvania, on Dec. 9, 1965. Some residents think an alien UFO crashed in the woods...</p></details>
+   Link:<a href="https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a bizarre incident that occurred in Kecksburg, Pennsylvania, on Dec. 9, 1965. Some residents think an alien UFO crashed in the woods...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Mantell UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mantell_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mantell_UFO_incident</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Abovethenormnews/videos/-what-really-came-down-in-the-woods-near-kecksburg-thousands-witnessed-a-blazing/1541462657445303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/videos/-what-really-came-down-in-the-woods-near-kecksburg-thousands-witnessed-a-blazing/1541462657445303/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>rtedly seen securing the area. By morning, witnesses claimed...</p></details>
+   Link:<a href="https://www.facebook.com/Abovethenormnews/videos/-what-really-came-down-in-the-woods-near-kecksburg-thousands-witnessed-a-blazing/1541462657445303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/videos/-what-really-came-down-in-the-woods-near-kecksburg-thousands-witnessed-a-blazing/1541462657445303/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rtedly seen securing the area. By morning, witnesses claimed...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg IncidentThe Kecksburg Incident involves a series of events that occurred on the night of December 9, 1965, involving the purpor...</p></details>
+   Link:<a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg IncidentThe Kecksburg Incident involves a series of events that occurred on the night of December 9, 1965, involving the purpor...</p></details>
    Published: December 9, 1965  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s mysterious UFO landing 60 years agoSixty years ago, a December day changed the course of history for Kecksburg, a small commu...</p></details>
+   Link:<a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s mysterious UFO landing 60 years agoSixty years ago, a December day changed the course of history for Kecksburg, a small commu...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXXb8RbiS79/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXXb8RbiS79/</a>  
+   Link:<a href="https://www.instagram.com/reel/DXXb8RbiS79/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXXb8RbiS79/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
    Title: From the @wtaetv archives this Kecksburg [Festival](&#123;&#123; 'festival/' | relative_url &#125;&#125;) weekend  
-   Link: <a href="https://www.instagram.com/reel/DMRXk3muHJx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMRXk3muHJx/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>later, residents near Kecksburg, Pennsylvania reported something unusual in the woods, followed by claims of military activity...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DMRXk3muHJx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMRXk3muHJx/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>later, residents near Kecksburg, Pennsylvania reported something unusual in the woods, followed by claims of military activity...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ssKW6l2je9E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ssKW6l2je9E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Shocks the World Actual Interview Footage (S1) | Conspiracy? | The UnXplained Zone...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ssKW6l2je9E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ssKW6l2je9E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Shocks the World Actual Interview Footage (S1) | Conspiracy? | The UnXplained Zone...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=BYEh3JLrQbg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BYEh3JLrQbg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did the U.S. Military Cover Up an Alien Crash in Kecksburg? | UFO Witness | Love Paranormal...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BYEh3JLrQbg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BYEh3JLrQbg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did the U.S. Military Cover Up an Alien Crash in Kecksburg? | UFO Witness | Love Paranormal...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: today i learned of the kecksburg pa ufo incident  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Today I learned of the Kecksburg, PA UFO incident where...r/UFOs - Does anyone know if any full videos exist of the UFO over...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Today I learned of the Kecksburg, PA UFO incident where...r/UFOs - Does anyone know if any full videos exist of the UFO over...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>most celebrated and mysterious UFO (UFOs...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>most celebrated and mysterious UFO (UFOs...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=a5X4VTLUkHI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a5X4VTLUkHI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[The Kecksburg UFO Incident](&amp;#123;&amp;#123; &#x27;the-kecksburg-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;): What Really Crashed In Pennsylvania In 1965?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a5X4VTLUkHI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a5X4VTLUkHI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[The Kecksburg UFO Incident](&amp;#123;&amp;#123; &#x27;the-kecksburg-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;): What Really Crashed In Pennsylvania In 1965?...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theclio.com  
    Title: Kecksburg UFO Incident  
-   Link: <a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ClioAnother conspiracy surrounding the Kecksburg UFO incident is that the object that landed was an alien UFO. There are some eye-witness...</p></details>
+   Link:<a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ClioAnother conspiracy surrounding the Kecksburg UFO incident is that the object that landed was an alien UFO. There are some eye-witness...</p></details>

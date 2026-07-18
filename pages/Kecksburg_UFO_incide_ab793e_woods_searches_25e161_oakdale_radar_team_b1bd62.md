@@ -280,38 +280,38 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_woods_searches_25e161_oakdale_
 
 ## Introduction
 
-The Oakdale Radar Site team occupies a small but important place in the documentary record of [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}). Unlike later stories about military convoys, recovered objects, or secret transports, the Oakdale references come from Air Force-related reporting associated with Project Blue Book and concern a specific group of personnel who were sent to help investigate the reported impact area. Their significance lies not in proving that anything extraordinary was recovered, but in demonstrating that Air Force-linked personnel from a nearby radar installation were involved in the search effort. That fact helps explain why local residents remembered an official response in the woods, while also illustrating the limits of what surviving records can actually establish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟</span><span class="citation-popover-snippet">Project Blue Book files. Included in the report it was stated &quot;A further call was made to the Oakdale Radar site in Pennsylvania. A three...</span></span></span>
+The Oakdale Radar Site team occupies a small but important place in the documentary record of [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}). Unlike later stories about military convoys, recovered objects, or secret transports, the Oakdale references come from Air Force-related reporting associated with Project Blue Book and concern a specific group of personnel who were sent to help investigate the reported impact area. Their significance lies not in proving that anything extraordinary was recovered, but in demonstrating that Air Force-linked personnel from a nearby radar installation were involved in the search effort. That fact helps explain why local residents remembered an official response in the woods, while also illustrating the limits of what surviving records can actually establish.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟</span><span class="citation-popover-snippet">Project Blue Book files. Included in the report it was stated &quot;A further call was made to the Oakdale Radar site in Pennsylvania. A three...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_woods_searches_25e161_oakdale_radar_team_b1bd62-Illustration-1-dark.svg" | relative_url }}" alt="Oakdale Team illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_woods_searches_25e161_oakdale_radar_team_b1bd62-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_woods_searches_25e161_oakdale_radar_team_b1bd62-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Who Were The Oakdale Searchers?
 
-The team generally associated with the search was linked to the Oakdale Radar Site near Pittsburgh, often identified in later research as personnel connected with the Air Force's radar operations in western Pennsylvania. Investigators examining the Kecksburg case have pointed to the nearby radar facility as a plausible source of the uniformed men reported in the search area during the evening of 9 December 1965. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pennsylvania.fandom.com/wiki/Kecksburg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pennsylvania.fandom.com">[Pennsylvania Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pennsylvania.fandom.com</span><span class="citation-popover-title">Pennsylvania Wiki Kecksburg &#124; Pennsylvania Wiki</span><span class="citation-popover-snippet">Pennsylvania WikiKecksburg &#124; Pennsylvania Wiki - FandomGordon&#x27;s research has revealed that one of the military groups involved was most l...</span></span></span>
+The team generally associated with the search was linked to the Oakdale Radar Site near Pittsburgh, often identified in later research as personnel connected with the Air Force's radar operations in western Pennsylvania. Investigators examining the Kecksburg case have pointed to the nearby radar facility as a plausible source of the uniformed men reported in the search area during the evening of 9 December 1965.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pennsylvania.fandom.com/wiki/Kecksburg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pennsylvania.fandom.com">[Pennsylvania Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pennsylvania.fandom.com</span><span class="citation-popover-title">Pennsylvania Wiki Kecksburg &#124; Pennsylvania Wiki</span><span class="citation-popover-snippet">Pennsylvania WikiKecksburg &#124; Pennsylvania Wiki - FandomGordon&#x27;s research has revealed that one of the military groups involved was most l...</span></span></span>
 
-A frequently cited Project Blue Book-related summary contains a notable detail: a call was reportedly made to the Oakdale Radar Site, and a three-man team was sent to investigate conditions in the Kecksburg area. According to the summary, the team searched but found nothing of significance. The reference is brief, yet it provides one of the few documented links between a named military installation and the events on the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟</span><span class="citation-popover-snippet">Project Blue Book files. Included in the report it was stated &quot;A further call was made to the Oakdale Radar site in Pennsylvania. A three...</span></span></span>
+A frequently cited Project Blue Book-related summary contains a notable detail: a call was reportedly made to the Oakdale Radar Site, and a three-man team was sent to investigate conditions in the Kecksburg area. According to the summary, the team searched but found nothing of significance. The reference is brief, yet it provides one of the few documented links between a named military installation and the events on the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟</span><span class="citation-popover-snippet">Project Blue Book files. Included in the report it was stated &quot;A further call was made to the Oakdale Radar site in Pennsylvania. A three...</span></span></span>
 
-This matters because many later witness accounts describe military involvement in general terms. The Oakdale reference offers something more concrete: an identifiable unit connected to an identifiable location rather than an anonymous [military presence]({{ 'military-claims/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pennsylvania.fandom.com/wiki/Kecksburg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pennsylvania.fandom.com">[Pennsylvania Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pennsylvania.fandom.com</span><span class="citation-popover-title">Pennsylvania Wiki Kecksburg &#124; Pennsylvania Wiki</span><span class="citation-popover-snippet">Pennsylvania WikiKecksburg &#124; Pennsylvania Wiki - FandomGordon&#x27;s research has revealed that one of the military groups involved was most l...</span></span></span>
+This matters because many later witness accounts describe military involvement in general terms. The Oakdale reference offers something more concrete: an identifiable unit connected to an identifiable location rather than an anonymous [military presence]({{ 'military-claims/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pennsylvania.fandom.com/wiki/Kecksburg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pennsylvania.fandom.com">[Pennsylvania Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pennsylvania.fandom.com</span><span class="citation-popover-title">Pennsylvania Wiki Kecksburg &#124; Pennsylvania Wiki</span><span class="citation-popover-snippet">Pennsylvania WikiKecksburg &#124; Pennsylvania Wiki - FandomGordon&#x27;s research has revealed that one of the military groups involved was most l...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CVIKnA8cWak" title="When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer">When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 97.1K &middot; Uploaded: May 2025 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CVIKnA8cWak">Open on YouTube</a></p></div></div></div>
 
 ## Why the Oakdale Radar Site Matters
 
-The importance of the Oakdale connection is largely administrative rather than sensational. During the Cold War, radar sites were part of the broader air-defence network, and unusual reports involving objects in the sky could naturally draw the attention of personnel responsible for monitoring air activity. A report that an object had descended into woods within their region would have justified at least a preliminary inquiry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+The importance of the Oakdale connection is largely administrative rather than sensational. During the Cold War, radar sites were part of the broader air-defence network, and unusual reports involving objects in the sky could naturally draw the attention of personnel responsible for monitoring air activity. A report that an object had descended into woods within their region would have justified at least a preliminary inquiry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
-The Oakdale team therefore provides a plausible mechanism for how Air Force personnel arrived at Kecksburg without requiring a larger recovery operation. If local authorities reported a possible aircraft crash, space-debris fall, or other aerial incident, nearby military personnel could have been tasked with checking the area and reporting their findings. That interpretation fits the documented role of Project Blue Book and Air Force reporting procedures, which routinely gathered information on unusual aerial events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+The Oakdale team therefore provides a plausible mechanism for how Air Force personnel arrived at Kecksburg without requiring a larger recovery operation. If local authorities reported a possible aircraft crash, space-debris fall, or other aerial incident, nearby military personnel could have been tasked with checking the area and reporting their findings. That interpretation fits the documented role of Project Blue Book and Air Force reporting procedures, which routinely gathered information on unusual aerial events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
-For historians of the case, the Oakdale reference is valuable precisely because it is modest. It supports the conclusion that the search was real and involved Air Force-connected personnel, but it does not independently support claims of a recovered craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟</span><span class="citation-popover-snippet">Project Blue Book files. Included in the report it was stated &quot;A further call was made to the Oakdale Radar site in Pennsylvania. A three...</span></span></span>
+For historians of the case, the Oakdale reference is valuable precisely because it is modest. It supports the conclusion that the search was real and involved Air Force-connected personnel, but it does not independently support claims of a recovered craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟</span><span class="citation-popover-snippet">Project Blue Book files. Included in the report it was stated &quot;A further call was made to the Oakdale Radar site in Pennsylvania. A three...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_woods_searches_25e161_oakdale_radar_team_b1bd62-Illustration-2-dark.svg" | relative_url }}" alt="Oakdale Team illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_woods_searches_25e161_oakdale_radar_team_b1bd62-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_woods_searches_25e161_oakdale_radar_team_b1bd62-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Later Summaries Say the Team Did
 
-Later retellings of the Kecksburg incident generally describe the Oakdale personnel as investigators rather than recovery specialists. The recurring account is that a small team travelled to the area, participated in the search, and reported negative results. The reported outcome aligns with the official position that no crash object was located despite extensive searching. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟</span><span class="citation-popover-snippet">Project Blue Book files. Included in the report it was stated &quot;A further call was made to the Oakdale Radar site in Pennsylvania. A three...</span></span></span>
+Later retellings of the Kecksburg incident generally describe the Oakdale personnel as investigators rather than recovery specialists. The recurring account is that a small team travelled to the area, participated in the search, and reported negative results. The reported outcome aligns with the official position that no crash object was located despite extensive searching.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟</span><span class="citation-popover-snippet">Project Blue Book files. Included in the report it was stated &quot;A further call was made to the Oakdale Radar site in Pennsylvania. A three...</span></span></span>
 
-Researchers who favour conventional explanations have often pointed to the Oakdale involvement as evidence of a routine military response to reports of a possible re-entering space object or meteor-related event. Some discussions have linked the deployment to concerns about space debris, a topic that already attracted Air Force attention during the period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hjkc.de/_blog/2815-ufo-forschung---die-kecksburg-ufo-absturz-story---teil-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hjkc.de">[CENAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hjkc.de</span><span class="citation-popover-snippet">Craig wrote about Bluebook and its interest in re-entering space debris, this was probably the reason the AF personnel from Oakdale were...</span></span></span>
+Researchers who favour conventional explanations have often pointed to the Oakdale involvement as evidence of a routine military response to reports of a possible re-entering space object or meteor-related event. Some discussions have linked the deployment to concerns about space debris, a topic that already attracted Air Force attention during the period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hjkc.de/_blog/2815-ufo-forschung---die-kecksburg-ufo-absturz-story---teil-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hjkc.de">[CENAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hjkc.de</span><span class="citation-popover-snippet">Craig wrote about Bluebook and its interest in re-entering space debris, this was probably the reason the AF personnel from Oakdale were...</span></span></span>
 
-By contrast, proponents of a recovery scenario sometimes argue that the Oakdale reference captures only the visible, documented portion of a larger operation. In that interpretation, the three-man team may have conducted an initial assessment before other personnel arrived. However, surviving records tying the Oakdale group to any recovery activity have not been produced. The documented references stop at investigation and search. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟</span><span class="citation-popover-snippet">Project Blue Book files. Included in the report it was stated &quot;A further call was made to the Oakdale Radar site in Pennsylvania. A three...</span></span></span>
+By contrast, proponents of a recovery scenario sometimes argue that the Oakdale reference captures only the visible, documented portion of a larger operation. In that interpretation, the three-man team may have conducted an initial assessment before other personnel arrived. However, surviving records tying the Oakdale group to any recovery activity have not been produced. The documented references stop at investigation and search.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟</span><span class="citation-popover-snippet">Project Blue Book files. Included in the report it was stated &quot;A further call was made to the Oakdale Radar site in Pennsylvania. A three...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tU7WSHZye5w" title="Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer">Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 68.0K &middot; Uploaded: March 2025 &middot; Length: 1 hour 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tU7WSHZye5w">Open on YouTube</a></p></div></div></div>
@@ -321,204 +321,204 @@ By contrast, proponents of a recovery scenario sometimes argue that the Oakdale 
 
 ## Limits of the Official-Record Trail
 
-The chief limitation of the Oakdale evidence is its brevity. The surviving references establish that a small team from the radar site was reportedly involved, but they provide little detail about individual members, search procedures, routes taken, or findings beyond the reported conclusion that nothing was discovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟</span><span class="citation-popover-snippet">Project Blue Book files. Included in the report it was stated &quot;A further call was made to the Oakdale Radar site in Pennsylvania. A three...</span></span></span>
+The chief limitation of the Oakdale evidence is its brevity. The surviving references establish that a small team from the radar site was reportedly involved, but they provide little detail about individual members, search procedures, routes taken, or findings beyond the reported conclusion that nothing was discovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟</span><span class="citation-popover-snippet">Project Blue Book files. Included in the report it was stated &quot;A further call was made to the Oakdale Radar site in Pennsylvania. A three...</span></span></span>
 
-This creates an unusual situation in the Kecksburg literature. The Oakdale team is often cited because it is one of the few identifiable military elements in the documentary record, yet the available documentation does not reveal much about what the team actually experienced. As a result, the reference functions more as a confirmation of official interest than as evidence for any particular explanation of the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟</span><span class="citation-popover-snippet">Project Blue Book files. Included in the report it was stated &quot;A further call was made to the Oakdale Radar site in Pennsylvania. A three...</span></span></span>
+This creates an unusual situation in the Kecksburg literature. The Oakdale team is often cited because it is one of the few identifiable military elements in the documentary record, yet the available documentation does not reveal much about what the team actually experienced. As a result, the reference functions more as a confirmation of official interest than as evidence for any particular explanation of the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟</span><span class="citation-popover-snippet">Project Blue Book files. Included in the report it was stated &quot;A further call was made to the Oakdale Radar site in Pennsylvania. A three...</span></span></span>
 
-For the broader debate over the woods search and roadblocks, that distinction is crucial. The Oakdale Radar Site connection strengthens the case that Air Force-linked personnel participated in the investigation. It does not, by itself, establish that an object was recovered, transported, or concealed. The surviving record supports the presence of searchers from Oakdale; it leaves the larger question of what, if anything, came down near Kecksburg unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟</span><span class="citation-popover-snippet">Project Blue Book files. Included in the report it was stated &quot;A further call was made to the Oakdale Radar site in Pennsylvania. A three...</span></span></span>
+For the broader debate over the woods search and roadblocks, that distinction is crucial. The Oakdale Radar Site connection strengthens the case that Air Force-linked personnel participated in the investigation. It does not, by itself, establish that an object was recovered, transported, or concealed. The surviving record supports the presence of searchers from Oakdale; it leaves the larger question of what, if anything, came down near Kecksburg unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟</span><span class="citation-popover-snippet">Project Blue Book files. Included in the report it was stated &quot;A further call was made to the Oakdale Radar site in Pennsylvania. A three...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_woods_searches_25e161_oakdale_radar_team_b1bd62-Illustration-3-dark.svg" | relative_url }}" alt="Oakdale Team illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_woods_searches_25e161_oakdale_radar_team_b1bd62-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_woods_searches_25e161_oakdale_radar_team_b1bd62-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Were The Oakdale Searchers?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Were The Oakdale Searchers?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Provides context on official investigations, Air Force involvement, and Project Blue Book-era responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on official investigations, Air Force involvement, and Project Blue Book-era responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Written by the first head of Project Blue Book, offering insight into Air Force UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Written by the first head of Project Blue Book, offering insight into Air Force UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains investigative methods and the broader environment in which Blue Book-related inquiries occurred.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains investigative methods and the broader environment in which Blue Book-related inquiries occurred.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Covers major UFO cases, organizations, military connections, and historical background relevant to Kecksburg.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers major UFO cases, organizations, military connections, and historical background relevant to Kecksburg.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+poster+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer poster art print -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer City Abstract Illustration Canvas Wall Art Print Poster"><img src="https://i.ebayimg.com/images/g/RgIAAOSwQ-NnR4gW/s-l225.jpg" alt="Listing image for UFO Flying Saucer City Abstract Illustration Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+poster+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer poster art print -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer City Abstract Illustration Canvas Wall Art Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+poster+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer poster art print -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer poster art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer poster art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+poster+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer poster art print -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+poster+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer poster art print -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer City Abstract Illustration Huge Wall Art Poster Print"><img src="https://i.ebayimg.com/images/g/7tgAAOSw6iNnR2gC/s-l225.jpg" alt="Listing image for UFO Flying Saucer City Abstract Illustration Huge Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+poster+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer poster art print -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer City Abstract Illustration Huge Wall Art Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+poster+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer poster art print -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer poster art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer poster art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+poster+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer poster art print -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+poster+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer poster art print -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for V1515 World War II German UFO Flying Saucer Art Decor WALL POSTER PRINT UK"><img src="https://i.ebayimg.com/images/g/Ok0AAOSwliNkpBGY/s-l225.jpg" alt="Listing image for V1515 World War II German UFO Flying Saucer Art Decor WALL POSTER PRINT UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+poster+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer poster art print -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">V1515 World War II German UFO Flying Saucer Art Decor WALL POSTER PRINT UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+poster+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer poster art print -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer poster art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer poster art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+poster+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer poster art print -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="oakdale-team-who-were-the-oakdale-searchers-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+poster+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer poster art print -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Spaceship Art Print Sci Fi Flying Saucer Fantasy Wall Decor Poster"><img src="https://i.ebayimg.com/images/g/uMEAAeSw0E1oxu9O/s-l225.jpg" alt="Listing image for Alien UFO Spaceship Art Print Sci Fi Flying Saucer Fantasy Wall Decor Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+poster+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer poster art print -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Spaceship Art Print Sci Fi Flying Saucer Fantasy Wall Decor Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+poster+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer poster art print -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer poster art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer poster art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+poster+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer poster art print -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+poster+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer poster art print -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="who-were-the-oakdale-searchers-ufo-flying-saucer-poster-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ For the broader debate over the woods search and roadblocks, that distinction is
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ For the broader debate over the woods search and roadblocks, that distinction is
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ For the broader debate over the woods search and roadblocks, that distinction is
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ For the broader debate over the woods search and roadblocks, that distinction is
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ For the broader debate over the woods search and roadblocks, that distinction is
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,118 +724,118 @@ For the broader debate over the woods search and roadblocks, that distinction is
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: facebook.com  
    Title: 𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟  
-   Link: <a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book files. Included in the report it was stated &quot;A further call was made to the Oakdale Radar site in Pennsylvania. A three...</p></details>
+   Link:<a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book files. Included in the report it was stated &quot;A further call was made to the Oakdale Radar site in Pennsylvania. A three...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
    Title: What fell from the sky in Kecksburg PA  
-   Link: <a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book files. Included in the report it was stated &quot;A further call was made to the Oakdale Radar site in Pennsylvania. A three...</p></details>
+   Link:<a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book files. Included in the report it was stated &quot;A further call was made to the Oakdale Radar site in Pennsylvania. A three...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Investigation of UFO reports by the United States government  
-   Link: <a href="https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incidentThe Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireb...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incidentThe Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireb...</p></details>
    Published: December 9, 1965  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/pennsylvaniaphotos/posts/3965626140374425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/pennsylvaniaphotos/posts/3965626140374425/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>, Pennsylvania, in 1965...</p></details>
+   Link:<a href="https://www.facebook.com/groups/pennsylvaniaphotos/posts/3965626140374425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/pennsylvaniaphotos/posts/3965626140374425/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, Pennsylvania, in 1965...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Abovethenormnews/videos/-what-really-came-down-in-the-woods-near-kecksburg-thousands-witnessed-a-blazing/1541462657445303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/videos/-what-really-came-down-in-the-woods-near-kecksburg-thousands-witnessed-a-blazing/1541462657445303/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ortedly seen securing the area. By morning, [witnesses](&amp;#123;&amp;#123; &#x27;witnesses/&#x27; | relative_url &amp;#125;&amp;#125;) claimed...</p></details>
+   Link:<a href="https://www.facebook.com/Abovethenormnews/videos/-what-really-came-down-in-the-woods-near-kecksburg-thousands-witnessed-a-blazing/1541462657445303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/videos/-what-really-came-down-in-the-woods-near-kecksburg-thousands-witnessed-a-blazing/1541462657445303/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ortedly seen securing the area. By morning, [witnesses](&amp;#123;&amp;#123; &#x27;witnesses/&#x27; | relative_url &amp;#125;&amp;#125;) claimed...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s mysterious UFO landing 60 years agoSixty years ago, a December day changed the course of history for Kecksburg, a small commu...</p></details>
+   Link:<a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s mysterious UFO landing 60 years agoSixty years ago, a December day changed the course of history for Kecksburg, a small commu...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pennsylvania.fandom.com  
    Title: Pennsylvania Wiki Kecksburg | Pennsylvania Wiki  
-   Link: <a href="https://pennsylvania.fandom.com/wiki/Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://pennsylvania.fandom.com/wiki/Kecksburg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pennsylvania WikiKecksburg | Pennsylvania Wiki - FandomGordon&#x27;s research has revealed that one of the military groups involved was most l...</p></details>
+   Link:<a href="https://pennsylvania.fandom.com/wiki/Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://pennsylvania.fandom.com/wiki/Kecksburg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pennsylvania WikiKecksburg | Pennsylvania Wiki - FandomGordon&#x27;s research has revealed that one of the military groups involved was most l...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: hjkc.de  
-   Link: <a href="https://www.hjkc.de/_blog/2815-ufo-forschung---die-kecksburg-ufo-absturz-story---teil-4/" target="_blank" rel="noopener noreferrer nofollow">https://www.hjkc.de/_blog/2815-ufo-forschung---die-kecksburg-ufo-absturz-story---teil-4/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Craig wrote about Bluebook and its interest in re-entering space debris, this was probably the reason the AF personnel from Oakdale were...</p></details>
+   Link:<a href="https://www.hjkc.de/_blog/2815-ufo-forschung---die-kecksburg-ufo-absturz-story---teil-4/" target="_blank" rel="noopener noreferrer nofollow">https://www.hjkc.de/_blog/2815-ufo-forschung---die-kecksburg-ufo-absturz-story---teil-4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Craig wrote about Bluebook and its interest in re-entering space debris, this was probably the reason the AF personnel from Oakdale were...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: unsolved.com  
    Title: Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesI know who the first civilian people were who arrived at the kecksburgh UFO landing and the alien technology that they...</p></details>
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesI know who the first civilian people were who arrived at the kecksburgh UFO landing and the alien technology that they...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: oakdalemn.gov  
-   Link: <a href="https://www.oakdalemn.gov/739/Data-Request" target="_blank" rel="noopener noreferrer nofollow">https://www.oakdalemn.gov/739/Data-Request</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data RequestsFor all data requests for the City of Oakdale, please complete this Data Request Form and submit to the City Clerk. Phone: 6...</p></details>
+   Link:<a href="https://www.oakdalemn.gov/739/Data-Request" target="_blank" rel="noopener noreferrer nofollow">https://www.oakdalemn.gov/739/Data-Request</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data RequestsFor all data requests for the City of Oakdale, please complete this Data Request Form and submit to the City Clerk. Phone: 6...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: stangordon.info  
-   Link: <a href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.stangordon.info/wp/kecksburg/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg Incident and UpdatesThis case is much to involved to cover here in detail. One good source of information on the case can be fo...</p></details>
+   Link:<a href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.stangordon.info/wp/kecksburg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg Incident and UpdatesThis case is much to involved to cover here in detail. One good source of information on the case can be fo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: oakdalegov.com  
-   Link: <a href="https://www.oakdalegov.com/opd-daily-logs" target="_blank" rel="noopener noreferrer nofollow">https://www.oakdalegov.com/opd-daily-logs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OPD Daily Logs | city-of-oakdale-caOPD Daily Logs |. Oakdale Municipal Airport Public Records Request Projects Bidding / Request. City of...</p></details>
+   Link:<a href="https://www.oakdalegov.com/opd-daily-logs" target="_blank" rel="noopener noreferrer nofollow">https://www.oakdalegov.com/opd-daily-logs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OPD Daily Logs | city-of-oakdale-caOPD Daily Logs |. Oakdale Municipal Airport Public Records Request Projects Bidding / Request. City of...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg IncidentAlleged UFO Crash and Search Effort. Several publications, notably the Greensburg, Pennsylvania Tribune-Review, carried...</p></details>
+   Link:<a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg IncidentAlleged UFO Crash and Search Effort. Several publications, notably the Greensburg, Pennsylvania Tribune-Review, carried...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: the 1965 kecksburg pennsylvania ufo crash  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ffgrv7/the_1965_kecksburg_pennsylvania_ufo_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ffgrv7/the_1965_kecksburg_pennsylvania_ufo_crash/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1965 Kecksburg, Pennsylvania UFO CrashKecksburg UFO incident solved? It was potentially a crash and retrieval of a nuclear tipper Gen...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ffgrv7/the_1965_kecksburg_pennsylvania_ufo_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ffgrv7/the_1965_kecksburg_pennsylvania_ufo_crash/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1965 Kecksburg, Pennsylvania UFO CrashKecksburg UFO incident solved? It was potentially a crash and retrieval of a nuclear tipper Gen...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: documents2.theblackvault.com  
-   Link: <a href="https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>27, 2021 Office of Communications John Greenewald...27 Jul 2021 — The files of Project Blue Book, the official Air Force investigation...</p></details>
+   Link:<a href="https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27, 2021 Office of Communications John Greenewald...27 Jul 2021 — The files of Project Blue Book, the official Air Force investigation...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ci.oakdale.mn.us  
    Title: Police Incident Data  
-   Link: <a href="https://ci.oakdale.mn.us/666/Police-Incident-Data" target="_blank" rel="noopener noreferrer nofollow">https://ci.oakdale.mn.us/666/Police-Incident-Data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident Data | Oakdale, MNall public data related to incidents. Police records office: 651-738-1025 24 hours a day, 7 days a week | Call...</p></details>
+   Link:<a href="https://ci.oakdale.mn.us/666/Police-Incident-Data" target="_blank" rel="noopener noreferrer nofollow">https://ci.oakdale.mn.us/666/Police-Incident-Data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incident Data | Oakdale, MNall public data related to incidents. Police records office: 651-738-1025 24 hours a day, 7 days a week | Call...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ac3hYt3k-Eo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ac3hYt3k-Eo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel  
-   Link: <a href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CVIKnA8cWak</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1965 Kecksburg Incident: A UFO Crash the Government Hides to This Day...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CVIKnA8cWak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1965 Kecksburg Incident: A UFO Crash the Government Hides to This Day...</p></details>

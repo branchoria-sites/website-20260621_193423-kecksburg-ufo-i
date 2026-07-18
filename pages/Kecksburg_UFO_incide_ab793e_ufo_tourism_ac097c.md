@@ -447,17 +447,17 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c-overview-so
 
 ## Introduction
 
-Kecksburg’s UFO landmark shows how a disputed event can become useful community heritage without requiring everyone to agree on what happened. The 1965 incident still belongs to the wider debate over meteors, space debris, military secrecy and UFO testimony, but the village’s tourism story is more concrete: a television prop became a roadside monument, the volunteer fire department turned the mystery into an annual [festival]({{ 'festival/' | relative_url }}) and shop, and visitors now use Kecksburg as a stop on Pennsylvania’s map of unusual places. The result is a local identity built around uncertainty rather than proof. Kecksburg does not simply sell an answer to the UFO case; it stages the unresolved question as a photo opportunity, fundraiser, summer gathering and marker of place. That is why the “Space Acorn” matters: it translates a contested sky story into something visible, visitable and locally owned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura+2Kecksburg Volunteer Fire Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura Space Acorn in Kecksburg</span><span class="citation-popover-snippet">Atlas ObscuraSpace Acorn in KecksburgJuly 4, 2013 — 3 Jul 2013 — In 1990 the Kecksburg incident attracted the attention of the television...</span><span class="citation-popover-meta">Published: July 4, 2013</span></span></span>
+Kecksburg’s UFO landmark shows how a disputed event can become useful community heritage without requiring everyone to agree on what happened. The 1965 incident still belongs to the wider debate over meteors, space debris, military secrecy and UFO testimony, but the village’s tourism story is more concrete: a television prop became a roadside monument, the volunteer fire department turned the mystery into an annual [festival]({{ 'festival/' | relative_url }}) and shop, and visitors now use Kecksburg as a stop on Pennsylvania’s map of unusual places. The result is a local identity built around uncertainty rather than proof. Kecksburg does not simply sell an answer to the UFO case; it stages the unresolved question as a photo opportunity, fundraiser, summer gathering and marker of place. That is why the “Space Acorn” matters: it translates a contested sky story into something visible, visitable and locally owned.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[atlasobscura.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura Space Acorn in Kecksburg</span><span class="citation-popover-snippet">Atlas ObscuraSpace Acorn in KecksburgJuly 4, 2013 — 3 Jul 2013 — In 1990 the Kecksburg incident attracted the attention of the television...</span><span class="citation-popover-meta">Published: July 4, 2013</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c-overview.webp" | relative_url }}" alt="Overview image for Landmark" loading="eager" decoding="sync" fetchpriority="high">
 ## The roadside model made the mystery visible
 
-The most recognisable Kecksburg landmark is not a recovered object from 1965, but a [replica]({{ 'replica/' | relative_url }}) associated with later media attention. The model commonly called the “Space Acorn” was made for the 1990 television programme *Unsolved Mysteries*, whose episode helped popularise the acorn-shaped version of the story. After filming, the prop remained in Kecksburg and was eventually displayed as a local attraction rather than disappearing back into television storage. Atlas Obscura describes the replica as a life-size model based on witness accounts, later placed prominently in the village in the hope of drawing visitors in the way Roswell, New Mexico, had benefited from its own UFO reputation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura Space Acorn in Kecksburg</span><span class="citation-popover-snippet">Atlas ObscuraSpace Acorn in KecksburgJuly 4, 2013 — 3 Jul 2013 — In 1990 the Kecksburg incident attracted the attention of the television...</span><span class="citation-popover-meta">Published: July 4, 2013</span></span></span>
+The most recognisable Kecksburg landmark is not a recovered object from 1965, but a [replica]({{ 'replica/' | relative_url }}) associated with later media attention. The model commonly called the “Space Acorn” was made for the 1990 television programme *Unsolved Mysteries*, whose episode helped popularise the acorn-shaped version of the story. After filming, the prop remained in Kecksburg and was eventually displayed as a local attraction rather than disappearing back into television storage. Atlas Obscura describes the replica as a life-size model based on witness accounts, later placed prominently in the village in the hope of drawing visitors in the way Roswell, New Mexico, had benefited from its own UFO reputation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura Space Acorn in Kecksburg</span><span class="citation-popover-snippet">Atlas ObscuraSpace Acorn in KecksburgJuly 4, 2013 — 3 Jul 2013 — In 1990 the Kecksburg incident attracted the attention of the television...</span><span class="citation-popover-meta">Published: July 4, 2013</span></span></span>
 
-That origin is important because it makes the landmark a hybrid object. It is not presented as the original craft; it is a public symbol of the story. The prop gives the incident a fixed shape — acorn body, strange [markings]({{ 'markings/' | relative_url }}), roadside scale — in a case where the underlying evidence remains disputed. For visitors, that physical form is easier to engage with than a file of witness testimony or a debate over [re-entry]({{ 're-entry/' | relative_url }}) trajectories. For the community, it creates a central image that can be photographed, signposted, printed on merchandise and used in festival branding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">7589 case finally closed 1965 pennsylvania ufo mystery</span><span class="citation-popover-snippet">7589 case finally closed 1965 pennsylvania ufo mystery</span></span></span>
+That origin is important because it makes the landmark a hybrid object. It is not presented as the original craft; it is a public symbol of the story. The prop gives the incident a fixed shape — acorn body, strange [markings]({{ 'markings/' | relative_url }}), roadside scale — in a case where the underlying evidence remains disputed. For visitors, that physical form is easier to engage with than a file of witness testimony or a debate over [re-entry]({{ 're-entry/' | relative_url }}) trajectories. For the community, it creates a central image that can be photographed, signposted, printed on merchandise and used in festival branding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">7589 case finally closed 1965 pennsylvania ufo mystery</span><span class="citation-popover-snippet">7589 case finally closed 1965 pennsylvania ufo mystery</span></span></span>
 
-The model also shifts Kecksburg from being merely a place where something was said to have happened into a place where the story can be encountered. Travel and roadside-attraction sources now treat the “Space Acorn” as the obvious stop: a replica near the Kecksburg Volunteer Fire Department, a photo opportunity and a shorthand for the whole local legend. Pittsburgh Magazine’s local curiosities guide, for example, points readers to the model and the UFO goods nearby, while Where & When in Pennsylvania describes the replica as a festival photo opportunity made for the 1990 *Unsolved Mysteries* episode. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pittsburghmagazine.com/pittsburgh-curiosities-the-kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pittsburghmagazine.com">[Pittsburgh Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pittsburghmagazine.com</span><span class="citation-popover-title">pittsburgh curiosities the kecksburg ufo</span><span class="citation-popover-snippet">pittsburgh curiosities the kecksburg ufo</span></span></span>
+The model also shifts Kecksburg from being merely a place where something was said to have happened into a place where the story can be encountered. Travel and roadside-attraction sources now treat the “Space Acorn” as the obvious stop: a replica near the Kecksburg Volunteer Fire Department, a photo opportunity and a shorthand for the whole local legend. Pittsburgh Magazine’s local curiosities guide, for example, points readers to the model and the UFO goods nearby, while Where & When in Pennsylvania describes the replica as a festival photo opportunity made for the 1990 *Unsolved Mysteries* episode.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pittsburghmagazine.com/pittsburgh-curiosities-the-kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pittsburghmagazine.com">[Pittsburgh Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pittsburghmagazine.com</span><span class="citation-popover-title">pittsburgh curiosities the kecksburg ufo</span><span class="citation-popover-snippet">pittsburgh curiosities the kecksburg ufo</span></span></span>
 
 This visibility changed the practical life of the incident. A mystery that might otherwise have remained a regional newspaper memory or UFO-research case became a roadside destination. The model does not settle whether the 1965 object was a meteor, satellite debris, military hardware or something else. Instead, it performs a different function: it gives the unresolved claim a durable public face.
 
@@ -465,9 +465,9 @@ This visibility changed the practical life of the incident. A mystery that might
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c-Illustration-1-dark.svg" | relative_url }}" alt="Landmark illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Tourism grew around the fire department, not a museum
 
-Kecksburg’s UFO tourism is unusually rooted in a working community institution: the volunteer fire department. The official Kecksburg VFD site lists the [UFO Festival]({{ 'ufo-festival/' | relative_url }}), the UFO Store and firehouse contact details together, and states that all proceeds benefit the Kecksburg Volunteer Fire Department. That structure matters because the attraction is not a stand-alone commercial museum built by outside investors. It is closer to a local fundraising ecosystem in which the village’s UFO identity supports emergency services, community events and the upkeep of a small-town gathering place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kecksburgvfd.com/ufo-festival-latest-news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kecksburgvfd.com">[Kecksburg Volunteer Fire Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kecksburgvfd.com</span><span class="citation-popover-title">Kecksburg Volunteer Fire Department UFO Festival, Latest News</span><span class="citation-popover-snippet">Kecksburg Volunteer Fire Department UFO Festival, Latest News</span></span></span>
+Kecksburg’s UFO tourism is unusually rooted in a working community institution: the volunteer fire department. The official Kecksburg VFD site lists the [UFO Festival]({{ 'ufo-festival/' | relative_url }}), the UFO Store and firehouse contact details together, and states that all proceeds benefit the Kecksburg Volunteer Fire Department. That structure matters because the attraction is not a stand-alone commercial museum built by outside investors. It is closer to a local fundraising ecosystem in which the village’s UFO identity supports emergency services, community events and the upkeep of a small-town gathering place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kecksburgvfd.com/ufo-festival-latest-news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kecksburgvfd.com">[Kecksburg Volunteer Fire Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kecksburgvfd.com</span><span class="citation-popover-title">Kecksburg Volunteer Fire Department UFO Festival, Latest News</span><span class="citation-popover-snippet">Kecksburg Volunteer Fire Department UFO Festival, Latest News</span></span></span>
 
-The UFO Store makes the tourism model practical beyond the festival weekend. The fire department’s own page gives the store’s address at 5128 Water Street, inside the Kecksburg VFD Club, and says it is open daily from 11:00 am to 9:00 pm, with shipping available in the United States and Canada. Regional tourism promotion from Go Laurel Highlands presents the shop in playful terms, describing it as a place for souvenirs, gear and a little extra “evidence” of a visit, explicitly welcoming both sceptics and believers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kecksburgvfd.com/ufo-store/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kecksburgvfd.com">[Kecksburg Volunteer Fire Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kecksburgvfd.com</span><span class="citation-popover-title">Kecksburg Volunteer Fire Department UFO Store</span><span class="citation-popover-snippet">Kecksburg Volunteer Fire Department UFO Store</span></span></span>
+The UFO Store makes the tourism model practical beyond the festival weekend. The fire department’s own page gives the store’s address at 5128 Water Street, inside the Kecksburg VFD Club, and says it is open daily from 11:00 am to 9:00 pm, with shipping available in the United States and Canada. Regional tourism promotion from Go Laurel Highlands presents the shop in playful terms, describing it as a place for souvenirs, gear and a little extra “evidence” of a visit, explicitly welcoming both sceptics and believers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kecksburgvfd.com/ufo-store/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kecksburgvfd.com">[Kecksburg Volunteer Fire Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kecksburgvfd.com</span><span class="citation-popover-title">Kecksburg Volunteer Fire Department UFO Store</span><span class="citation-popover-snippet">Kecksburg Volunteer Fire Department UFO Store</span></span></span>
 
 This blend of humour and fundraising is one reason the landmark works. Kecksburg’s tourism does not require every visitor to adopt a single belief. A sceptic can enjoy the roadside oddity, a UFO enthusiast can treat it as a pilgrimage stop, families can attend a summer festival, and locals can support the fire department. The claim remains unresolved, but the community use is clear.
 
@@ -478,16 +478,16 @@ The fire department setting also keeps the story grounded in place. Visitors are
 
 ## The festival turns a disputed case into a shared summer ritual
 
-The Kecksburg UFO Festival is the main way the landmark becomes a repeated community event rather than a static roadside object. Recent official and tourism listings place the festival at the Kecksburg Volunteer Fire Department grounds on Water Street, with the 2026 event scheduled for 17–19 July. Local coverage of the 20th annual festival in July 2025 reported that it was hosted by the Kecksburg Volunteer Fire Department and commemorated the 60th anniversary year of the 1965 sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.golaurelhighlands.com/event/kecksburg-v-f-d-ufo-festival/49329/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: golaurelhighlands.com">[Laurel Highlands]</a><span class="citation-popover" role="note"><span class="citation-popover-source">golaurelhighlands.com</span><span class="citation-popover-snippet">Open source on golaurelhighlands.com.</span></span></span>
+The Kecksburg UFO Festival is the main way the landmark becomes a repeated community event rather than a static roadside object. Recent official and tourism listings place the festival at the Kecksburg Volunteer Fire Department grounds on Water Street, with the 2026 event scheduled for 17–19 July. Local coverage of the 20th annual festival in July 2025 reported that it was hosted by the Kecksburg Volunteer Fire Department and commemorated the 60th anniversary year of the 1965 sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.golaurelhighlands.com/event/kecksburg-v-f-d-ufo-festival/49329/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: golaurelhighlands.com">[Laurel Highlands]</a><span class="citation-popover" role="note"><span class="citation-popover-source">golaurelhighlands.com</span><span class="citation-popover-snippet">Open source on golaurelhighlands.com.</span></span></span>
 
-The event’s format is important because it is not only a UFO conference. It combines ordinary small-town festival elements with paranormal theming: food, vendors, music, parade activity, contests, family entertainment and talks by UFO or paranormal researchers. TribLIVE’s 2023 preview listed features including about 75 vendors and crafters, a UFO-themed parade, a bed race, fireworks, a hot dog-eating contest, a hay bale toss and a conference with UFO, Bigfoot and paranormal speakers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.triblive.com/local/westmoreland/kecksburg-ufo-festival-returns-with-weekend-activities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.triblive.com">[TribLIVE.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.triblive.com</span><span class="citation-popover-title">Trib LIVE.com Kecksburg UFO Festival returns with out-of-this-world</span><span class="citation-popover-snippet">Trib LIVE.com Kecksburg UFO Festival returns with out-of-this-world</span></span></span>
+The event’s format is important because it is not only a UFO conference. It combines ordinary small-town festival elements with paranormal theming: food, vendors, music, parade activity, contests, family entertainment and talks by UFO or paranormal researchers. TribLIVE’s 2023 preview listed features including about 75 vendors and crafters, a UFO-themed parade, a bed race, fireworks, a hot dog-eating contest, a hay bale toss and a conference with UFO, Bigfoot and paranormal speakers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.triblive.com/local/westmoreland/kecksburg-ufo-festival-returns-with-weekend-activities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.triblive.com">[TribLIVE.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.triblive.com</span><span class="citation-popover-title">Trib LIVE.com Kecksburg UFO Festival returns with out-of-this-world</span><span class="citation-popover-snippet">Trib LIVE.com Kecksburg UFO Festival returns with out-of-this-world</span></span></span>
 
 That mix makes the festival accessible to several audiences at once. It can be read as:
 
 * **A local fair with a distinctive theme:** burgers, fries, contests, fireworks and vendors give the event the familiar [shape]({{ 'shape/' | relative_url }}) of a rural summer gathering.
 * **A UFO-culture meeting point:** researchers, speakers and enthusiasts use the festival to revisit the 1965 case and related unexplained-sighting claims.
-* **A fundraising event:** official and local sources repeatedly state that proceeds benefit the Kecksburg VFD, making attendance a contribution to a local service rather than just a novelty purchase. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kecksburgvfd.com/ufo-festival-latest-news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kecksburgvfd.com">[Kecksburg Volunteer Fire Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kecksburgvfd.com</span><span class="citation-popover-title">Kecksburg Volunteer Fire Department UFO Festival, Latest News</span><span class="citation-popover-snippet">Kecksburg Volunteer Fire Department UFO Festival, Latest News</span></span></span>
-* **A tourism hook:** state and regional tourism sites list the festival as a strange or unusual Pennsylvania event, emphasising the UFO monument, local vendors and family-friendly atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitpa.com/blog/post/annual-strange-and-unusual-events-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitpa.com">[Visit PA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitpa.com</span><span class="citation-popover-title">annual strange and unusual events pa</span><span class="citation-popover-snippet">annual strange and unusual events pa</span></span></span>
+* **A fundraising event:** official and local sources repeatedly state that proceeds benefit the Kecksburg VFD, making attendance a contribution to a local service rather than just a novelty purchase.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kecksburgvfd.com/ufo-festival-latest-news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kecksburgvfd.com">[Kecksburg Volunteer Fire Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kecksburgvfd.com</span><span class="citation-popover-title">Kecksburg Volunteer Fire Department UFO Festival, Latest News</span><span class="citation-popover-snippet">Kecksburg Volunteer Fire Department UFO Festival, Latest News</span></span></span>
+* **A tourism hook:** state and regional tourism sites list the festival as a strange or unusual Pennsylvania event, emphasising the UFO monument, local vendors and family-friendly atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitpa.com/blog/post/annual-strange-and-unusual-events-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitpa.com">[Visit PA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitpa.com</span><span class="citation-popover-title">annual strange and unusual events pa</span><span class="citation-popover-snippet">annual strange and unusual events pa</span></span></span>
 
 The festival also keeps the story current. A single 1965 incident could easily fade as witnesses age and early records become harder to interpret. An annual event refreshes the story each July, creates new photographs and local news coverage, and allows younger residents and visitors to inherit the Kecksburg identity as a living tradition rather than a one-night historical claim.
 
@@ -495,11 +495,11 @@ The festival also keeps the story current. A single 1965 incident could easily f
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c-Illustration-2-dark.svg" | relative_url }}" alt="Landmark illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Local identity depends on playful uncertainty
 
-Kecksburg’s tourism appeal rests on a careful balance: the mystery must remain open enough to attract curiosity, but light enough to support a family festival and roadside visit. That is why many public-facing descriptions avoid forcing a verdict. Go Laurel Highlands speaks to both “team skeptic” and “full-on believer”; VisitPA frames the festival for people who believe in aliens or are simply “extraterrestrial-curious”; CBS Pittsburgh’s 2019 coverage summed up the local attitude by noting that some people say it was a UFO, others say space junk, a meteor or nothing at all, but Kecksburg was still celebrating. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.golaurelhighlands.com/listing/kecksburg-ufo-festival-%26-store/10436/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: golaurelhighlands.com">[Laurel Highlands+2Visit PA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">golaurelhighlands.com</span><span class="citation-popover-snippet">Open source on golaurelhighlands.com.</span></span></span>
+Kecksburg’s tourism appeal rests on a careful balance: the mystery must remain open enough to attract curiosity, but light enough to support a family festival and roadside visit. That is why many public-facing descriptions avoid forcing a verdict. Go Laurel Highlands speaks to both “team skeptic” and “full-on believer”; VisitPA frames the festival for people who believe in aliens or are simply “extraterrestrial-curious”; CBS Pittsburgh’s 2019 coverage summed up the local attitude by noting that some people say it was a UFO, others say space junk, a meteor or nothing at all, but Kecksburg was still celebrating.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.golaurelhighlands.com/listing/kecksburg-ufo-festival-%26-store/10436/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: golaurelhighlands.com">[golaurelhighlands.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">golaurelhighlands.com</span><span class="citation-popover-snippet">Open source on golaurelhighlands.com.</span></span></span>
 
 This open-endedness is not a weakness for tourism; it is the engine of the place brand. A solved event would become a plaque. A wholly invented event would lose its connection to local memory. Kecksburg occupies the more durable middle ground: enough reported experience, media attention and official ambiguity to keep people talking, but no conclusive public object that would end the debate.
 
-The phrase “Pennsylvania’s Roswell” helps explain the branding, but it can also flatten what is distinctive about Kecksburg. Roswell has a larger, more commercialised UFO-tourism infrastructure. Kecksburg’s version is smaller and more vernacular: a prop on display, a firehall store, a volunteer-run festival, local sponsors, craft vendors and a parade. Roadside America’s account is especially useful here because it notes a turning point in 2008, when the “Space Acorn” was brought into the town’s annual Old Fashion Days, helping transform an existing local celebration into a UFO-themed event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America.com Space Acorn</span><span class="citation-popover-snippet">Roadside America.com Space Acorn</span></span></span>
+The phrase “Pennsylvania’s Roswell” helps explain the branding, but it can also flatten what is distinctive about Kecksburg. Roswell has a larger, more commercialised UFO-tourism infrastructure. Kecksburg’s version is smaller and more vernacular: a prop on display, a firehall store, a volunteer-run festival, local sponsors, craft vendors and a parade. Roadside America’s account is especially useful here because it notes a turning point in 2008, when the “Space Acorn” was brought into the town’s annual Old Fashion Days, helping transform an existing local celebration into a UFO-themed event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America.com Space Acorn</span><span class="citation-popover-snippet">Roadside America.com Space Acorn</span></span></span>
 
 That evolution shows how community heritage often works. Kecksburg did not have to build an entirely new identity from scratch. It attached the UFO story to existing forms of rural community life: the fire department, the summer festival, the parade, the social hall and local volunteer labour. The mystery became not just something remembered, but something organised.
 
@@ -510,9 +510,9 @@ That evolution shows how community heritage often works. Kecksburg did not have 
 
 Kecksburg’s landmark and festival show that heritage does not always require certainty. Many heritage sites preserve a battle, building, industry or famous person. Kecksburg preserves an argument: what crossed the sky, what residents saw, whether anything landed, and why the story endured. The community has turned that argument into a usable local asset without needing to prove the most extraordinary version of the claim.
 
-That has several practical effects. First, it gives a small Westmoreland County village a distinctive identity within Pennsylvania tourism. State and regional guides now include Kecksburg among unusual events or roadside attractions, which places it in travel circuits that value oddity, folklore and local colour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitpa.com/blog/post/annual-strange-and-unusual-events-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitpa.com">[Visit PA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitpa.com</span><span class="citation-popover-title">annual strange and unusual events pa</span><span class="citation-popover-snippet">annual strange and unusual events pa</span></span></span>
+That has several practical effects. First, it gives a small Westmoreland County village a distinctive identity within Pennsylvania tourism. State and regional guides now include Kecksburg among unusual events or roadside attractions, which places it in travel circuits that value oddity, folklore and local colour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitpa.com/blog/post/annual-strange-and-unusual-events-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitpa.com">[Visit PA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitpa.com</span><span class="citation-popover-title">annual strange and unusual events pa</span><span class="citation-popover-snippet">annual strange and unusual events pa</span></span></span>
 
-Second, it gives the incident a social home. Rather than existing only in UFO forums, documentaries or sceptical rebuttals, the story is embodied in an annual gathering where locals, visitors, vendors and researchers meet face to face. Local reports from 2022 and 2023 emphasised community support, vendor participation and the importance of proceeds to the fire department, while 2025 coverage described the event as having grown into a national draw for people interested in unexplained phenomena and cryptids. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.triblive.com/local/westmoreland/kecksburg-ufo-festival-returns-to-earth-following-pandemic-complications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.triblive.com">[TribLIVE.com+2TribLIVE.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.triblive.com</span><span class="citation-popover-title">Trib LIVE.com Kecksburg UFO Festival returns to Earth following</span><span class="citation-popover-snippet">Trib LIVE.com Kecksburg UFO Festival returns to Earth following</span></span></span>
+Second, it gives the incident a social home. Rather than existing only in UFO forums, documentaries or sceptical rebuttals, the story is embodied in an annual gathering where locals, visitors, vendors and researchers meet face to face. Local reports from 2022 and 2023 emphasised community support, vendor participation and the importance of proceeds to the fire department, while 2025 coverage described the event as having grown into a national draw for people interested in unexplained phenomena and cryptids.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.triblive.com/local/westmoreland/kecksburg-ufo-festival-returns-to-earth-following-pandemic-complications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.triblive.com">[TribLIVE.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.triblive.com</span><span class="citation-popover-title">Trib LIVE.com Kecksburg UFO Festival returns to Earth following</span><span class="citation-popover-snippet">Trib LIVE.com Kecksburg UFO Festival returns to Earth following</span></span></span>
 
 Third, it keeps the local version of the story visible even as technical explanations remain contested elsewhere. Scientific, sceptical and UFO-research discussions may focus on [bolides]({{ 'bolides/' | relative_url }}), satellite debris, missing records or witness reliability. Kecksburg’s tourism layer asks a different question: how does a community live with a famous unresolved story? Its answer is practical: build a landmark, sell souvenirs, host a festival, invite speakers, stage a parade and make the mystery part of local identity.
 
@@ -520,7 +520,7 @@ Third, it keeps the local version of the story visible even as technical explana
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c-Illustration-3-dark.svg" | relative_url }}" alt="Landmark illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Kecksburg model endures
 
-The Kecksburg UFO destination endures because it operates on several levels at once. It is small enough to feel authentic, strange enough to be memorable, and organised enough to draw visitors year after year. The roadside model provides the visual anchor. The UFO Store gives visitors something to do outside the festival dates. The July festival converts curiosity into a social event. The fire department connection gives the whole enterprise a local purpose beyond spectacle. Kecksburg Volunteer Fire Department+2Kecksburg Volunteer Fire Department <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kecksburgvfd.com/ufo-store/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kecksburgvfd.com">[kecksburgvfd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kecksburgvfd.com</span><span class="citation-popover-title">Kecksburg Volunteer Fire Department UFO Store</span><span class="citation-popover-snippet">Kecksburg Volunteer Fire Department UFO Store</span></span></span>
+The Kecksburg UFO destination endures because it operates on several levels at once. It is small enough to feel authentic, strange enough to be memorable, and organised enough to draw visitors year after year. The roadside model provides the visual anchor. The UFO Store gives visitors something to do outside the festival dates. The July festival converts curiosity into a social event. The fire department connection gives the whole enterprise a local purpose beyond spectacle. Kecksburg Volunteer Fire Department+2Kecksburg Volunteer Fire Department<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kecksburgvfd.com/ufo-store/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kecksburgvfd.com">[kecksburgvfd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kecksburgvfd.com</span><span class="citation-popover-title">Kecksburg Volunteer Fire Department UFO Store</span><span class="citation-popover-snippet">Kecksburg Volunteer Fire Department UFO Store</span></span></span>
 
 Its success also depends on restraint. Kecksburg tourism does not need to prove that an alien craft crashed in 1965. In fact, the absence of a final answer helps keep the site flexible. Believers can treat the “Space Acorn” as a symbol of a covered-up crash; sceptics can treat it as Americana; families can treat it as a quirky festival stop; locals can treat it as a fundraiser and identity marker. The same object can support all of those readings because it is openly a model, not a claimed artefact.
 
@@ -531,194 +531,194 @@ That makes Kecksburg a useful example of UFO tourism at community scale. It is n
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Kecksburg Became a UFO Destination. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Kecksburg Became a UFO Destination. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides background for visitors interested in UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background for visitors interested in UFO history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how UFO stories become cultural phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO stories become cultural phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+by+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The United States of Cryptids on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=j8DVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The United States of Cryptids" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+by+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The United States of Cryptids">The United States of Cryptids</a>
-        </h4>
-        <p class="fr-book-author">By J. W. Ocker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+by+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The United States of Cryptids on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=j8DVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The United States of Cryptids" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+by+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The United States of Cryptids">The United States of Cryptids</a>
+</h4>
+<p class="fr-book-author">By J. W. Ocker</p>
         
-        <p class="fr-book-desc">Fits mystery tourism and roadside attraction culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+by+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits mystery tourism and roadside attraction culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+by+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weird+Pennsylvania+by+Matthew+Lake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weird Pennsylvania on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=G5VdDdAd5rMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weird Pennsylvania" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weird+Pennsylvania+by+Matthew+Lake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weird Pennsylvania">Weird Pennsylvania</a>
-        </h4>
-        <p class="fr-book-author">By Matthew Lake</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weird+Pennsylvania+by+Matthew+Lake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weird Pennsylvania on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=G5VdDdAd5rMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weird Pennsylvania" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weird+Pennsylvania+by+Matthew+Lake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weird Pennsylvania">Weird Pennsylvania</a>
+</h4>
+<p class="fr-book-author">By Matthew Lake</p>
         
-        <p class="fr-book-desc">Places Kecksburg within Pennsylvania&#x27;s unusual attractions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weird+Pennsylvania+by+Matthew+Lake&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Kecksburg within Pennsylvania&#x27;s unusual attractions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weird+Pennsylvania+by+Matthew+Lake&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+United+States+of+Cryptids&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The United States of Cryptids</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+United+States+of+Cryptids&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The United States of Cryptids</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="landmark-how-kecksburg-became-a-ufo-destination-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kecksburg-became-a-ufo-destination-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -734,7 +734,7 @@ That makes Kecksburg a useful example of UFO tourism at community scale. It is n
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -754,7 +754,7 @@ That makes Kecksburg a useful example of UFO tourism at community scale. It is n
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -786,7 +786,7 @@ That makes Kecksburg a useful example of UFO tourism at community scale. It is n
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -838,7 +838,7 @@ That makes Kecksburg a useful example of UFO tourism at community scale. It is n
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -883,7 +883,7 @@ That makes Kecksburg a useful example of UFO tourism at community scale. It is n
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -924,169 +924,169 @@ That makes Kecksburg a useful example of UFO tourism at community scale. It is n
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: visitpa.com  
    Title: annual strange and unusual events pa  
-   Link: <a href="https://www.visitpa.com/blog/post/annual-strange-and-unusual-events-pa/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitpa.com/blog/post/annual-strange-and-unusual-events-pa/</a>  
+   Link:<a href="https://www.visitpa.com/blog/post/annual-strange-and-unusual-events-pa/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitpa.com/blog/post/annual-strange-and-unusual-events-pa/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: space.com  
    Title: 7589 case finally closed 1965 pennsylvania ufo mystery  
-   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.triblive.com  
    Title: Trib LIVE.com Kecksburg UFO Festival returns with out-of-this-world  
-   Link: <a href="https://archive.triblive.com/local/westmoreland/kecksburg-ufo-festival-returns-with-weekend-activities/" target="_blank" rel="noopener noreferrer nofollow">https://archive.triblive.com/local/westmoreland/kecksburg-ufo-festival-returns-with-weekend-activities/</a>  
+   Link:<a href="https://archive.triblive.com/local/westmoreland/kecksburg-ufo-festival-returns-with-weekend-activities/" target="_blank" rel="noopener noreferrer nofollow">https://archive.triblive.com/local/westmoreland/kecksburg-ufo-festival-returns-with-weekend-activities/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: roadsideamerica.com  
    Title: Roadside America.com Space Acorn  
-   Link: <a href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideamerica.com/story/16860</a>  
+   Link:<a href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideamerica.com/story/16860</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archive.triblive.com  
    Title: Trib LIVE.com Kecksburg UFO Festival returns to Earth following  
-   Link: <a href="https://archive.triblive.com/local/westmoreland/kecksburg-ufo-festival-returns-to-earth-following-pandemic-complications/" target="_blank" rel="noopener noreferrer nofollow">https://archive.triblive.com/local/westmoreland/kecksburg-ufo-festival-returns-to-earth-following-pandemic-complications/</a>  
+   Link:<a href="https://archive.triblive.com/local/westmoreland/kecksburg-ufo-festival-returns-to-earth-following-pandemic-complications/" target="_blank" rel="noopener noreferrer nofollow">https://archive.triblive.com/local/westmoreland/kecksburg-ufo-festival-returns-to-earth-following-pandemic-complications/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: triblive.com  
    Title: 20th annual kecksburg ufo festival promises update on 1965 crash  
-   Link: <a href="https://triblive.com/local/westmoreland/20th-annual-kecksburg-ufo-festival-promises-update-on-1965-crash/" target="_blank" rel="noopener noreferrer nofollow">https://triblive.com/local/westmoreland/20th-annual-kecksburg-ufo-festival-promises-update-on-1965-crash/</a>  
+   Link:<a href="https://triblive.com/local/westmoreland/20th-annual-kecksburg-ufo-festival-promises-update-on-1965-crash/" target="_blank" rel="noopener noreferrer nofollow">https://triblive.com/local/westmoreland/20th-annual-kecksburg-ufo-festival-promises-update-on-1965-crash/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.triblive.com  
-   Link: <a href="https://archive.triblive.com/local/westmoreland/kecksburg-ufo-festival-remains-grounded-in-2021-despite-plan-to-lift-pandemic-restrictions/" target="_blank" rel="noopener noreferrer nofollow">https://archive.triblive.com/local/westmoreland/kecksburg-ufo-festival-remains-grounded-in-2021-despite-plan-to-lift-pandemic-restrictions/</a>  
+   Link:<a href="https://archive.triblive.com/local/westmoreland/kecksburg-ufo-festival-remains-grounded-in-2021-despite-plan-to-lift-pandemic-restrictions/" target="_blank" rel="noopener noreferrer nofollow">https://archive.triblive.com/local/westmoreland/kecksburg-ufo-festival-remains-grounded-in-2021-despite-plan-to-lift-pandemic-restrictions/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: triblive.com  
    Title: westmoreland happenings coat drive ufo program sauerkraut dinner more  
-   Link: <a href="https://triblive.com/local/westmoreland/westmoreland-happenings-coat-drive-ufo-program-sauerkraut-dinner-more/" target="_blank" rel="noopener noreferrer nofollow">https://triblive.com/local/westmoreland/westmoreland-happenings-coat-drive-ufo-program-sauerkraut-dinner-more/</a>  
+   Link:<a href="https://triblive.com/local/westmoreland/westmoreland-happenings-coat-drive-ufo-program-sauerkraut-dinner-more/" target="_blank" rel="noopener noreferrer nofollow">https://triblive.com/local/westmoreland/westmoreland-happenings-coat-drive-ufo-program-sauerkraut-dinner-more/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: triblive.com  
    Title: murrysville area church tag sale wreath giveaway symphony east fundraiser more  
-   Link: <a href="https://triblive.com/local/murrysville/murrysville-area-church-tag-sale-wreath-giveaway-symphony-east-fundraiser-more/" target="_blank" rel="noopener noreferrer nofollow">https://triblive.com/local/murrysville/murrysville-area-church-tag-sale-wreath-giveaway-symphony-east-fundraiser-more/</a>  
+   Link:<a href="https://triblive.com/local/murrysville/murrysville-area-church-tag-sale-wreath-giveaway-symphony-east-fundraiser-more/" target="_blank" rel="noopener noreferrer nofollow">https://triblive.com/local/murrysville/murrysville-area-church-tag-sale-wreath-giveaway-symphony-east-fundraiser-more/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archive.triblive.com  
    Title: sitemap posttype post.201209.xml  
-   Link: <a href="https://archive.triblive.com/wp-content/themes/TribLIVE/sitemaps/sitemap-posttype-post.201209.xml" target="_blank" rel="noopener noreferrer nofollow">https://archive.triblive.com/wp-content/themes/TribLIVE/sitemaps/sitemap-posttype-post.201209.xml</a>  
+   Link:<a href="https://archive.triblive.com/wp-content/themes/TribLIVE/sitemaps/sitemap-posttype-post.201209.xml" target="_blank" rel="noopener noreferrer nofollow">https://archive.triblive.com/wp-content/themes/TribLIVE/sitemaps/sitemap-posttype-post.201209.xml</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: files.triblive.com  
-   Link: <a href="https://files.triblive.com/triblive/projects/2017/pna/News%20Excellence%20Entry%202/Trib16Feb2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.triblive.com/triblive/projects/2017/pna/News%20Excellence%20Entry%202/Trib16Feb2017.pdf</a>  
+   Link:<a href="https://files.triblive.com/triblive/projects/2017/pna/News%20Excellence%20Entry%202/Trib16Feb2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.triblive.com/triblive/projects/2017/pna/News%20Excellence%20Entry%202/Trib16Feb2017.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: files.triblive.com  
-   Link: <a href="https://files.triblive.com/triblive/projects/2017/pna/News%20Excellence%20Entry%201/Trib19Feb2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.triblive.com/triblive/projects/2017/pna/News%20Excellence%20Entry%201/Trib19Feb2017.pdf</a>  
+   Link:<a href="https://files.triblive.com/triblive/projects/2017/pna/News%20Excellence%20Entry%201/Trib19Feb2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.triblive.com/triblive/projects/2017/pna/News%20Excellence%20Entry%201/Trib19Feb2017.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: files.triblive.com  
-   Link: <a href="https://files.triblive.com/triblive/projects/2017/pna/Diversity%20Award%20Entry%202/TribFeb122017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.triblive.com/triblive/projects/2017/pna/Diversity%20Award%20Entry%202/TribFeb122017.pdf</a>  
+   Link:<a href="https://files.triblive.com/triblive/projects/2017/pna/Diversity%20Award%20Entry%202/TribFeb122017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.triblive.com/triblive/projects/2017/pna/Diversity%20Award%20Entry%202/TribFeb122017.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: community.triblive.com  
-   Link: <a href="https://community.triblive.com/news/3839674" target="_blank" rel="noopener noreferrer nofollow">https://community.triblive.com/news/3839674</a>  
+   Link:<a href="https://community.triblive.com/news/3839674" target="_blank" rel="noopener noreferrer nofollow">https://community.triblive.com/news/3839674</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: unsolved.com  
    Title: Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: atlasobscura.com  
    Title: Atlas Obscura Space Acorn in Kecksburg  
-   Link: <a href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/space-acorn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atlas ObscuraSpace Acorn in KecksburgJuly 4, 2013 — 3 Jul 2013 — In 1990 the Kecksburg incident attracted the attention of the television...</p></details>
+   Link:<a href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/space-acorn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atlas ObscuraSpace Acorn in KecksburgJuly 4, 2013 — 3 Jul 2013 — In 1990 the Kecksburg incident attracted the attention of the television...</p></details>
    Published: July 4, 2013  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: kecksburgvfd.com  
    Title: Kecksburg Volunteer Fire Department UFO Festival, Latest News  
-   Link: <a href="https://kecksburgvfd.com/ufo-festival-latest-news/" target="_blank" rel="noopener noreferrer nofollow">https://kecksburgvfd.com/ufo-festival-latest-news/</a>  
+   Link:<a href="https://kecksburgvfd.com/ufo-festival-latest-news/" target="_blank" rel="noopener noreferrer nofollow">https://kecksburgvfd.com/ufo-festival-latest-news/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pittsburghmagazine.com  
    Title: pittsburgh curiosities the kecksburg ufo  
-   Link: <a href="https://www.pittsburghmagazine.com/pittsburgh-curiosities-the-kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.pittsburghmagazine.com/pittsburgh-curiosities-the-kecksburg-ufo/</a>  
+   Link:<a href="https://www.pittsburghmagazine.com/pittsburgh-curiosities-the-kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.pittsburghmagazine.com/pittsburgh-curiosities-the-kecksburg-ufo/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: kecksburgvfd.com  
    Title: Kecksburg Volunteer Fire Department UFO Store  
-   Link: <a href="https://kecksburgvfd.com/ufo-store/" target="_blank" rel="noopener noreferrer nofollow">https://kecksburgvfd.com/ufo-store/</a>  
+   Link:<a href="https://kecksburgvfd.com/ufo-store/" target="_blank" rel="noopener noreferrer nofollow">https://kecksburgvfd.com/ufo-store/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: golaurelhighlands.com  
-   Link: <a href="https://www.golaurelhighlands.com/listing/kecksburg-ufo-festival-%26-store/10436/" target="_blank" rel="noopener noreferrer nofollow">https://www.golaurelhighlands.com/listing/kecksburg-ufo-festival-%26-store/10436/</a>  
+   Link:<a href="https://www.golaurelhighlands.com/listing/kecksburg-ufo-festival-%26-store/10436/" target="_blank" rel="noopener noreferrer nofollow">https://www.golaurelhighlands.com/listing/kecksburg-ufo-festival-%26-store/10436/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: golaurelhighlands.com  
-   Link: <a href="https://www.golaurelhighlands.com/event/kecksburg-v-f-d-ufo-festival/49329/" target="_blank" rel="noopener noreferrer nofollow">https://www.golaurelhighlands.com/event/kecksburg-v-f-d-ufo-festival/49329/</a>  
+   Link:<a href="https://www.golaurelhighlands.com/event/kecksburg-v-f-d-ufo-festival/49329/" target="_blank" rel="noopener noreferrer nofollow">https://www.golaurelhighlands.com/event/kecksburg-v-f-d-ufo-festival/49329/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: kecksburgvfd.com  
-   Link: <a href="https://kecksburgvfd.com/" target="_blank" rel="noopener noreferrer nofollow">https://kecksburgvfd.com/</a>  
+   Link:<a href="https://kecksburgvfd.com/" target="_blank" rel="noopener noreferrer nofollow">https://kecksburgvfd.com/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: kecksburgvfd.com  
    Title: ufo 2025 festival 2  
-   Link: <a href="https://kecksburgvfd.com/home-page/ufo-2025-festival-2/" target="_blank" rel="noopener noreferrer nofollow">https://kecksburgvfd.com/home-page/ufo-2025-festival-2/</a>  
+   Link:<a href="https://kecksburgvfd.com/home-page/ufo-2025-festival-2/" target="_blank" rel="noopener noreferrer nofollow">https://kecksburgvfd.com/home-page/ufo-2025-festival-2/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: onlyinyourstate.com  
    Title: space acorn near pgh  
-   Link: <a href="https://www.onlyinyourstate.com/experiences/pennsylvania/space-acorn-near-pgh" target="_blank" rel="noopener noreferrer nofollow">https://www.onlyinyourstate.com/experiences/pennsylvania/space-acorn-near-pgh</a>  
+   Link:<a href="https://www.onlyinyourstate.com/experiences/pennsylvania/space-acorn-near-pgh" target="_blank" rel="noopener noreferrer nofollow">https://www.onlyinyourstate.com/experiences/pennsylvania/space-acorn-near-pgh</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Kecksburg UFO  
-   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO</a>  
+   Link:<a href="https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Around The Town  
-   Link: <a href="https://www.youtube.com/watch?v=TTDVTCwdKQ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TTDVTCwdKQ0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Festival kicks off in Westmoreland County...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TTDVTCwdKQ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TTDVTCwdKQ0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Festival kicks off in Westmoreland County...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Kecksburg UFO festival returns  
-   Link: <a href="https://www.youtube.com/watch?v=VM2FfrXWFZ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VM2FfrXWFZ0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Around The Town - Kecksburg UFO Festival - ft [Stan Gordon](&amp;#123;&amp;#123; &#x27;stan-gordon/&#x27; | relative_url &amp;#125;&amp;#125;) | Alien Investigators &amp; Bigfoot Society...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VM2FfrXWFZ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VM2FfrXWFZ0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Around The Town - Kecksburg UFO Festival - ft [Stan Gordon](&amp;#123;&amp;#123; &#x27;stan-gordon/&#x27; | relative_url &amp;#125;&amp;#125;) | Alien Investigators &amp; Bigfoot Society...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Real UFO? The "Space Acorn" of Kecksburg Pennsylvania  
-   Link: <a href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lsHWrkQWiQs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In The Know - 2025 Kecksburg VFD UFO Festival - July 18-19-20...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lsHWrkQWiQs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In The Know - 2025 Kecksburg VFD UFO Festival - July 18-19-20...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GOLaurelHighlands/posts/alert-the-galaxy-kecksburg-volunteer-fire-department-is-hosting-again-kecksburg-/1444680797690171/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GOLaurelHighlands/posts/alert-the-galaxy-kecksburg-volunteer-fire-department-is-hosting-again-kecksburg-/1444680797690171/</a>  
+   Link:<a href="https://www.facebook.com/GOLaurelHighlands/posts/alert-the-galaxy-kecksburg-volunteer-fire-department-is-hosting-again-kecksburg-/1444680797690171/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GOLaurelHighlands/posts/alert-the-galaxy-kecksburg-volunteer-fire-department-is-hosting-again-kecksburg-/1444680797690171/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: pabucketlist.com  
-   Link: <a href="https://pabucketlist.com/enjoying-the-kecksburg-ufo-festival-in-westmoreland-county/" target="_blank" rel="noopener noreferrer nofollow">https://pabucketlist.com/enjoying-the-kecksburg-ufo-festival-in-westmoreland-county/</a>  
+   Link:<a href="https://pabucketlist.com/enjoying-the-kecksburg-ufo-festival-in-westmoreland-county/" target="_blank" rel="noopener noreferrer nofollow">https://pabucketlist.com/enjoying-the-kecksburg-ufo-festival-in-westmoreland-county/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DMRXk3muHJx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMRXk3muHJx/</a>  
+   Link:<a href="https://www.instagram.com/reel/DMRXk3muHJx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMRXk3muHJx/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cfg1p7/in_my_adventures_today_i_realized_i_was_close_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cfg1p7/in_my_adventures_today_i_realized_i_was_close_to/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1cfg1p7/in_my_adventures_today_i_realized_i_was_close_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cfg1p7/in_my_adventures_today_i_realized_i_was_close_to/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1pj31iw/kecksburg_ufo_at_60_still_the_acorn_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1pj31iw/kecksburg_ufo_at_60_still_the_acorn_the/</a>  
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1pj31iw/kecksburg_ufo_at_60_still_the_acorn_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1pj31iw/kecksburg_ufo_at_60_still_the_acorn_the/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-landmarks-/1410030341163016/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-landmarks-/1410030341163016/</a>  
+   Link:<a href="https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-landmarks-/1410030341163016/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-landmarks-/1410030341163016/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
+   Link:<a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  

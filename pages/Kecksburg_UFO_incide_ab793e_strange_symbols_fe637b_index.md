@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e-strange/
 description: Focused pages that expand on Symbols.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b
 parent_title: Symbols
@@ -16,7 +16,7 @@ parent_permalink: /symbols/
 
 # Explore Topics in Symbols
 
-The following pages expand on the main **[Symbols]({{ '/symbols/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Symbols]({{ '/symbols/' | relative_url }})** page and cover its key branches in.
 
 - [Hardware Marks]({{ '/hardware-marks/' | relative_url }})
 - [Hieroglyphics]({{ '/hieroglyphics/' | relative_url }})

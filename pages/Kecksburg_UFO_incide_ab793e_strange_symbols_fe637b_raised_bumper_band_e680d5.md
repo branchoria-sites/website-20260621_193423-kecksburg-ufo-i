@@ -274,7 +274,7 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_raised_
 
 ## Introduction
 
-Among all the details associated with [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}), one feature appears with unusual consistency: the alleged markings were not said to cover the entire object. Instead, witnesses who later described symbols almost always placed them on a raised ring, ridge, or “bumper” near the lower rear portion of [the acorn-shaped object]({{ 'the-acorn-shaped-object/' | relative_url }}). That location matters because it is the specific place where the inscription claim originates. Without the bumper band, there is no separate markings narrative; the entire idea of hieroglyphic-like symbols depends on recollections of features concentrated on that one section of the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThere was a bumper on the bottom part of it. On that bumper there was what I call, it...</span></span></span>
+Among all the details associated with [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}), one feature appears with unusual consistency: the alleged markings were not said to cover the entire object. Instead, witnesses who later described symbols almost always placed them on a raised ring, ridge, or “bumper” near the lower rear portion of [the acorn-shaped object]({{ 'the-acorn-shaped-object/' | relative_url }}). That location matters because it is the specific place where the inscription claim originates. Without the bumper band, there is no separate markings narrative; the entire idea of hieroglyphic-like symbols depends on recollections of features concentrated on that one section of the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThere was a bumper on the bottom part of it. On that bumper there was what I call, it...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_raised_bumper_band_e680d5-Illustration-1-dark.svg" | relative_url }}" alt="Bumper Band illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_raised_bumper_band_e680d5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_raised_bumper_band_e680d5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,22 +282,22 @@ The bumper band therefore serves as the focal point where physical description, 
 
 ## Where Witnesses Placed the Marks
 
-The most frequently cited witness account comes from volunteer firefighter James Romansky. In later interviews, he described an acorn-shaped metallic object partly embedded in the ground. According to Romansky, the unusual markings were located on what he called a “bumper” on the lower portion of the object rather than across its main body. He compared the shapes to ancient Egyptian [hieroglyphics]({{ 'hieroglyphics/' | relative_url }}), although he did not claim they formed readable text. Instead, he described stars, circles, lines and other unfamiliar figures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThere was a bumper on the bottom part of it. On that bumper there was what I call, it...</span></span></span>
+The most frequently cited witness account comes from volunteer firefighter James Romansky. In later interviews, he described an acorn-shaped metallic object partly embedded in the ground. According to Romansky, the unusual markings were located on what he called a “bumper” on the lower portion of the object rather than across its main body. He compared the shapes to ancient Egyptian [hieroglyphics]({{ 'hieroglyphics/' | relative_url }}), although he did not claim they formed readable text. Instead, he described stars, circles, lines and other unfamiliar figures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThere was a bumper on the bottom part of it. On that bumper there was what I call, it...</span></span></span>
 
-Subsequent retellings by researcher [Stan Gordon]({{ 'stan-gordon/' | relative_url }}) and other investigators preserved the same basic geography. The object was generally described as smooth and metallic, while the alleged symbols appeared on a raised band encircling the lower section. The consistency of that placement is notable because witness descriptions of size, colour and exact shape sometimes vary, yet the ring-and-markings combination repeatedly reappears in later accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-acorn-shape-object-crash-landed-just-down-the-road-in-kecks/974564784944605/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook+2Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Stan Gordon discusses Kecksburg UFO incidentAt the back of the acorn shape was what witness Jim Romansky calls the bumper area. U...</span></span></span>
+Subsequent retellings by researcher [Stan Gordon]({{ 'stan-gordon/' | relative_url }}) and other investigators preserved the same basic geography. The object was generally described as smooth and metallic, while the alleged symbols appeared on a raised band encircling the lower section. The consistency of that placement is notable because witness descriptions of size, colour and exact shape sometimes vary, yet the ring-and-markings combination repeatedly reappears in later accounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-acorn-shape-object-crash-landed-just-down-the-road-in-kecks/974564784944605/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Stan Gordon discusses Kecksburg UFO incidentAt the back of the acorn shape was what witness Jim Romansky calls the bumper area. U...</span></span></span>
 
-This distinction is often overlooked. Many popular summaries speak broadly of “symbols on the object”, but the more specific claim is that markings were concentrated on a separate structural feature rather than distributed over the entire surface. The raised band became a visual anchor that helped witnesses identify where the unusual details supposedly appeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThere was a bumper on the bottom part of it. On that bumper there was what I call, it...</span></span></span>
+This distinction is often overlooked. Many popular summaries speak broadly of “symbols on the object”, but the more specific claim is that markings were concentrated on a separate structural feature rather than distributed over the entire surface. The raised band became a visual anchor that helped witnesses identify where the unusual details supposedly appeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThere was a bumper on the bottom part of it. On that bumper there was what I call, it...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/anB42BVB_T0" title="What Was That in the Sky!? | Close Encounters 102" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=anB42BVB_T0" target="_blank" rel="noopener noreferrer">What Was That in the Sky!? | Close Encounters 102</a></p><p class="youtube-embed-meta">Channel: SpaceRip &middot; Views: 22.3K &middot; Uploaded: October 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=anB42BVB_T0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=anB42BVB_T0">Open on YouTube</a></p></div></div></div>
 
 ## Why the Raised Band Became So Important
 
-The bumper band gave the Kecksburg object a sense of structure. A smooth metallic shell might be interpreted in many ways: a [re-entry]({{ 're-entry/' | relative_url }}) vehicle, a piece of aerospace hardware, a capsule or even a misidentified natural object. A ring with distinctive markings suggests intentional design and therefore encourages speculation about origin and purpose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThere was a bumper on the bottom part of it. On that bumper there was what I call, it...</span></span></span>
+The bumper band gave the Kecksburg object a sense of structure. A smooth metallic shell might be interpreted in many ways: a [re-entry]({{ 're-entry/' | relative_url }}) vehicle, a piece of aerospace hardware, a capsule or even a misidentified natural object. A ring with distinctive markings suggests intentional design and therefore encourages speculation about origin and purpose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThere was a bumper on the bottom part of it. On that bumper there was what I call, it...</span></span></span>
 
-The location also shaped how the object was visualised in popular culture. Reconstructions, illustrations and models frequently depict an acorn-like body with a clearly defined lower ring carrying unusual symbols. Over time, the band became almost as recognisable as the object's overall shape. In many depictions, viewers first notice the ring and only then the alleged markings associated with it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">January 17, 2004 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball wa...</span><span class="citation-popover-meta">Published: January 17, 2004</span></span></span>
+The location also shaped how the object was visualised in popular culture. Reconstructions, illustrations and models frequently depict an acorn-like body with a clearly defined lower ring carrying unusual symbols. Over time, the band became almost as recognisable as the object's overall shape. In many depictions, viewers first notice the ring and only then the alleged markings associated with it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">January 17, 2004 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball wa...</span><span class="citation-popover-meta">Published: January 17, 2004</span></span></span>
 
-Another reason the band matters is that it creates a focal point for memory. People recalling an unusual event often remember distinctive features more readily than uniform surfaces. A raised ring breaks up the outline of an otherwise smooth object, making it easier to remember and later describe. Whether the recollections are fully accurate or not, the bumper provided a specific visual reference around which later narratives could form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThere was a bumper on the bottom part of it. On that bumper there was what I call, it...</span></span></span>
+Another reason the band matters is that it creates a focal point for memory. People recalling an unusual event often remember distinctive features more readily than uniform surfaces. A raised ring breaks up the outline of an otherwise smooth object, making it easier to remember and later describe. Whether the recollections are fully accurate or not, the bumper provided a specific visual reference around which later narratives could form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThere was a bumper on the bottom part of it. On that bumper there was what I call, it...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_raised_bumper_band_e680d5-Illustration-2-dark.svg" | relative_url }}" alt="Bumper Band illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_raised_bumper_band_e680d5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_raised_bumper_band_e680d5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -318,18 +318,18 @@ A raised structural band could potentially contain:
 
 </div>
 
-Because no authenticated photographs of the object exist and no verified sketches were made at the scene, later descriptions cannot be checked against a physical record. The bumper band is known only through testimony recorded years after the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThere was a bumper on the bottom part of it. On that bumper there was what I call, it...</span></span></span>
+Because no authenticated photographs of the object exist and no verified sketches were made at the scene, later descriptions cannot be checked against a physical record. The bumper band is known only through testimony recorded years after the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThere was a bumper on the bottom part of it. On that bumper there was what I call, it...</span></span></span>
 
-This uncertainty helps explain why interpretations diverge. Supporters of an extraordinary explanation view the ring as the location of purposeful symbols. More sceptical observers argue that a raised structural feature could easily attract attention and encourage pattern recognition, especially during a brief and stressful encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Today I learned of the Kecksburg, PA UFO incident where</span><span class="citation-popover-snippet">The &quot;hieroglyphs&quot; or unidentifiable text/markings. Fireman James Romansky talks witnessing the 1965 crashed UFO at...</span></span></span>
+This uncertainty helps explain why interpretations diverge. Supporters of an extraordinary explanation view the ring as the location of purposeful symbols. More sceptical observers argue that a raised structural feature could easily attract attention and encourage pattern recognition, especially during a brief and stressful encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Today I learned of the Kecksburg, PA UFO incident where</span><span class="citation-popover-snippet">The &quot;hieroglyphs&quot; or unidentifiable text/markings. Fireman James Romansky talks witnessing the 1965 crashed UFO at...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CVIKnA8cWak" title="When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer">When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 97.1K &middot; Uploaded: May 2025 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CVIKnA8cWak">Open on YouTube</a></p></div></div></div>
 
 ## The Difference Between a Band and an Inscription
 
-An important distinction is often lost in popular retellings. Multiple sources describe a raised ring near the base of the object, but the existence of a ring is not the same as proof of writing. The structural feature and the interpretation of markings are separate claims. The first concerns shape; the second concerns meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThere was a bumper on the bottom part of it. On that bumper there was what I call, it...</span></span></span>
+An important distinction is often lost in popular retellings. Multiple sources describe a raised ring near the base of the object, but the existence of a ring is not the same as proof of writing. The structural feature and the interpretation of markings are separate claims. The first concerns shape; the second concerns meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThere was a bumper on the bottom part of it. On that bumper there was what I call, it...</span></span></span>
 
-Even Romansky's own descriptions focused on unfamiliar shapes rather than identifiable language. The bumper band was the location where he believed he saw unusual figures, but the evidence does not demonstrate a coherent script, translation or recognised alphabet. As the story spread, references to “hieroglyphics” often became shorthand for “alien writing”, a stronger conclusion than the original description supports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThere was a bumper on the bottom part of it. On that bumper there was what I call, it...</span></span></span>
+Even Romansky's own descriptions focused on unfamiliar shapes rather than identifiable language. The bumper band was the location where he believed he saw unusual figures, but the evidence does not demonstrate a coherent script, translation or recognised alphabet. As the story spread, references to “hieroglyphics” often became shorthand for “alien writing”, a stronger conclusion than the original description supports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThere was a bumper on the bottom part of it. On that bumper there was what I call, it...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tU7WSHZye5w" title="Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer">Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 68.0K &middot; Uploaded: March 2025 &middot; Length: 1 hour 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tU7WSHZye5w">Open on YouTube</a></p></div></div></div>
@@ -338,200 +338,200 @@ Even Romansky's own descriptions focused on unfamiliar shapes rather than identi
 
 The raised bumper band occupies a unique place in the Kecksburg narrative because it is where the most memorable visual detail was supposedly concentrated. The [acorn shape]({{ 'acorn-shape/' | relative_url }}) gives the object its silhouette, but the ring gives it character. Without that feature, the inscription story largely disappears.
 
-At the same time, the bumper band illustrates the broader challenge of evaluating the Kecksburg case. The feature is repeatedly mentioned in witness recollections, yet no physical evidence survives to confirm exactly what was present on it. As a result, the ring remains both one of the most important elements of the markings claim and one of the hardest parts of the story to verify. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThere was a bumper on the bottom part of it. On that bumper there was what I call, it...</span></span></span>
+At the same time, the bumper band illustrates the broader challenge of evaluating the Kecksburg case. The feature is repeatedly mentioned in witness recollections, yet no physical evidence survives to confirm exactly what was present on it. As a result, the ring remains both one of the most important elements of the markings claim and one of the hardest parts of the story to verify.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[unsolved.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThere was a bumper on the bottom part of it. On that bumper there was what I call, it...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_raised_bumper_band_e680d5-Illustration-3-dark.svg" | relative_url }}" alt="Bumper Band illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_raised_bumper_band_e680d5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_raised_bumper_band_e680d5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Bumper Band Matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Bumper Band Matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
-        </h4>
-        <p class="fr-book-author">By Emile Souvestre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
+</h4>
+<p class="fr-book-author">By Emile Souvestre</p>
         
-        <p class="fr-book-desc">Provides context for witness reports, object descriptions, and interpretation of unusual markings in famous UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for witness reports, object descriptions, and interpretation of unusual markings in famous UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hMf3TgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a>
-        </h4>
-        <p class="fr-book-author">By Stan Gordon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hMf3TgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a>
+</h4>
+<p class="fr-book-author">By Stan Gordon</p>
         
-        <p class="fr-book-desc">Strong regional source for readers interested in Pennsylvania UFO reports and the broader investigative background around Kecksburg.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong regional source for readers interested in Pennsylvania UFO reports and the broader investigative background around Kecksburg.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Examines how physical details, witness testimony, and later narratives shape enduring UFO mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how physical details, witness testimony, and later narratives shape enduring UFO mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores evidence evaluation, witness reliability, and official responses relevant to famous UFO incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores evidence evaluation, witness reliability, and official responses relevant to famous UFO incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Silent+Invasion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silent Invasion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Silent+Invasion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silent Invasion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bumper-band-why-the-bumper-band-matters-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ At the same time, the bumper band illustrates the broader challenge of evaluatin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ At the same time, the bumper band illustrates the broader challenge of evaluatin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ At the same time, the bumper band illustrates the broader challenge of evaluatin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ At the same time, the bumper band illustrates the broader challenge of evaluatin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ At the same time, the bumper band illustrates the broader challenge of evaluatin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,101 +737,101 @@ At the same time, the bumper band illustrates the broader challenge of evaluatin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: unsolved.com  
    Title: Mysteries Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThere was a bumper on the bottom part of it. On that bumper there was what I call, it...</p></details>
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThere was a bumper on the bottom part of it. On that bumper there was what I call, it...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-acorn-shape-object-crash-landed-just-down-the-road-in-kecks/974564784944605/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-acorn-shape-object-crash-landed-just-down-the-road-in-kecks/974564784944605/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stan Gordon discusses Kecksburg UFO incidentAt the back of the acorn shape was what witness Jim Romansky calls the bumper area. U...</p></details>
+   Link:<a href="https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-acorn-shape-object-crash-landed-just-down-the-road-in-kecks/974564784944605/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-acorn-shape-object-crash-landed-just-down-the-road-in-kecks/974564784944605/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stan Gordon discusses Kecksburg UFO incidentAt the back of the acorn shape was what witness Jim Romansky calls the bumper area. U...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NorwinPublicLibrary/posts/7215ee9c/1367106712128508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NorwinPublicLibrary/posts/7215ee9c/1367106712128508/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook[https://norwinpubliclibrary.net/event/the-kecksburg-ufo-](https://norwinpubliclibrary.net/event/the-kecksburg-ufo-)...... Romansky calls the bumper area. Upon this area were unusual marki...</p></details>
+   Link:<a href="https://www.facebook.com/NorwinPublicLibrary/posts/7215ee9c/1367106712128508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NorwinPublicLibrary/posts/7215ee9c/1367106712128508/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook[https://norwinpubliclibrary.net/event/the-kecksburg-ufo-](https://norwinpubliclibrary.net/event/the-kecksburg-ufo-)...... Romansky calls the bumper area. Upon this area were unusual marki...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: podcasts.apple.com  
    Title: Podcasts Kecksburg Revisited with Stan …  
-   Link: <a href="https://podcasts.apple.com/us/podcast/kecksburg-revisited-with-stan-gordon/id923527373?i=1000487547306" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/kecksburg-revisited-with-stan-gordon/id923527373?i=1000487547306</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsKecksburg Revisited with Stan … - Astonishing Legends9 Aug 2020 — Local eye-witnesses and First Responders who descended on...</p></details>
+   Link:<a href="https://podcasts.apple.com/us/podcast/kecksburg-revisited-with-stan-gordon/id923527373?i=1000487547306" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/kecksburg-revisited-with-stan-gordon/id923527373?i=1000487547306</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsKecksburg Revisited with Stan … - Astonishing Legends9 Aug 2020 — Local eye-witnesses and First Responders who descended on...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 17, 2004 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball wa...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 17, 2004 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball wa...</p></details>
    Published: January 17, 2004  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: Today I learned of the Kecksburg, PA UFO incident where  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;hieroglyphs&quot; or unidentifiable text/markings. Fireman James Romansky talks witnessing the 1965 crashed UFO at...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;hieroglyphs&quot; or unidentifiable text/markings. Fireman James Romansky talks witnessing the 1965 crashed UFO at...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: UF O's In our region?  
-   Link: <a href="https://www.facebook.com/kdkaradio/videos/ufos-in-our-region-ufo-expert-stan-gordon-tells-the-story-of-what-happened-decem/1457414208770697/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kdkaradio/videos/ufos-in-our-region-ufo-expert-stan-gordon-tells-the-story-of-what-happened-decem/1457414208770697/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO expert Stan Gordon tells the story of...It was kind of an off-colored bronze color but no Walmarts, no seams, no rivets, and there w...</p></details>
+   Link:<a href="https://www.facebook.com/kdkaradio/videos/ufos-in-our-region-ufo-expert-stan-gordon-tells-the-story-of-what-happened-decem/1457414208770697/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kdkaradio/videos/ufos-in-our-region-ufo-expert-stan-gordon-tells-the-story-of-what-happened-decem/1457414208770697/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO expert Stan Gordon tells the story of...It was kind of an off-colored bronze color but no Walmarts, no seams, no rivets, and there w...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theclio.com  
    Title: Kecksburg UFO Incident  
-   Link: <a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ClioThe Kecksburg UFO Incident happened December 9, 1965 when a mysterious glowing ball of fire crash landed in a small Pennsylvanian town...</p></details>
+   Link:<a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ClioThe Kecksburg UFO Incident happened December 9, 1965 when a mysterious glowing ball of fire crash landed in a small Pennsylvanian town...</p></details>
    Published: December 9, 1965  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: post-gazette.com  
-   Link: <a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — There were strange markings on a band near the...</p></details>
+   Link:<a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — There were strange markings on a band near the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYVIcS8oKZZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYVIcS8oKZZ/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the mysterious 1965 incident that continues to baffle experts...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYVIcS8oKZZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYVIcS8oKZZ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the mysterious 1965 incident that continues to baffle experts...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pabook.libraries.psu.edu  
    Title: acorn space kecksburg incident  
-   Link: <a href="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident" target="_blank" rel="noopener noreferrer nofollow">https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>from Space: The Kecksburg IncidentIn 1965, an object reportedly shaped like an acorn streaked over the skies of Kecksburg. James Romansky...</p></details>
+   Link:<a href="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident" target="_blank" rel="noopener noreferrer nofollow">https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>from Space: The Kecksburg IncidentIn 1965, an object reportedly shaped like an acorn streaked over the skies of Kecksburg. James Romansky...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
    Title: UF O's In our region?  
-   Link: <a href="https://www.instagram.com/reel/DMQD_nqhp_H/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMQD_nqhp_H/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO expert Stan Gordon tells the story of...It was kind of an off-colored bronze color but no Walmarts, no seams, no rivets, and there w...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DMQD_nqhp_H/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMQD_nqhp_H/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO expert Stan Gordon tells the story of...It was kind of an off-colored bronze color but no Walmarts, no seams, no rivets, and there w...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel  
-   Link: <a href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CVIKnA8cWak</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1965 Kecksburg Incident: A UFO Crash the Government Hides to This Day...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CVIKnA8cWak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1965 Kecksburg Incident: A UFO Crash the Government Hides to This Day...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Was That in the Sky!? | Close Encounters 102...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Was That in the Sky!? | Close Encounters 102...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Episode 184 Kecksburg Revisited with Stan Gordon  
-   Link: <a href="https://www.youtube.com/watch?v=CKK66LtZ1Hs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CKK66LtZ1Hs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CKK66LtZ1Hs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CKK66LtZ1Hs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: What Was That in the Sky!? | Close Encounters 102  
-   Link: <a href="https://www.youtube.com/watch?v=anB42BVB_T0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=anB42BVB_T0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=anB42BVB_T0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=anB42BVB_T0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ruKDXL13lk8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ruKDXL13lk8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ruKDXL13lk8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ruKDXL13lk8</a>  

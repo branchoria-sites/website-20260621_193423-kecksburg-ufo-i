@@ -441,7 +441,7 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_kecksburg_roswell_co_339d60-ov
 
 ## Introduction
 
-Kecksburg and Roswell are often paired because both stories revolve around the same attractive claim: something unusual came down, the military arrived, and the public never received a fully satisfying explanation. That surface match is real, but the evidence does not match evenly. Roswell has stronger contemporary documentation that physical wreckage was recovered in July 1947, including the famous Army Air Field press release and later official inquiries; Kecksburg has stronger wide-area evidence for a dramatic fireball on 9 December 1965, but weaker public proof that any object was recovered from the woods near the village. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/3916193/roswell-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How the Roswell UFO Theory Got Started</span><span class="citation-popover-snippet">Brazel encontró restos extraños en su rancho cerca de Roswell, N.M. Tras contactar al Sheriff George Wilcox, quien a su vez llamó la base...</span></span></span>
+Kecksburg and Roswell are often paired because both stories revolve around the same attractive claim: something unusual came down, the military arrived, and the public never received a fully satisfying explanation. That surface match is real, but the evidence does not match evenly. Roswell has stronger contemporary documentation that physical wreckage was recovered in July 1947, including the famous Army Air Field press release and later official inquiries; Kecksburg has stronger wide-area evidence for a dramatic fireball on 9 December 1965, but weaker public proof that any object was recovered from the woods near the village.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/3916193/roswell-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How the Roswell UFO Theory Got Started</span><span class="citation-popover-snippet">Brazel encontró restos extraños en su rancho cerca de Roswell, N.M. Tras contactar al Sheriff George Wilcox, quien a su vez llamó la base...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kecksburg_roswell_co_339d60-overview.webp" | relative_url }}" alt="Overview image for Roswell Compare" loading="eager" decoding="sync" fetchpriority="high">
@@ -451,11 +451,11 @@ The comparison matters because “Pennsylvania’s Roswell” can make Kecksburg
 
 The strongest reason Kecksburg and Roswell are compared is not that they prove the same thing, but that they have the same narrative [shape]({{ 'shape/' | relative_url }}). Each begins with an observed incident, moves quickly into military involvement, and then becomes a long argument over whether the official explanation was complete.
 
-At Roswell, the initial public trigger was unusually concrete. In July 1947, rancher W. W. Brazel reported strange debris found on a ranch near Roswell, New Mexico. Roswell Army Air Field then issued a press release saying it had recovered a “flying disc”, before the explanation shifted to a weather balloon. Later official investigations identified the likely source as a Project Mogul balloon train, part of a classified effort to detect Soviet nuclear tests using high-altitude balloons with acoustic sensors and radar-reflector materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/3916193/roswell-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How the Roswell UFO Theory Got Started</span><span class="citation-popover-snippet">Brazel encontró restos extraños en su rancho cerca de Roswell, N.M. Tras contactar al Sheriff George Wilcox, quien a su vez llamó la base...</span></span></span>
+At Roswell, the initial public trigger was unusually concrete. In July 1947, rancher W. W. Brazel reported strange debris found on a ranch near Roswell, New Mexico. Roswell Army Air Field then issued a press release saying it had recovered a “flying disc”, before the explanation shifted to a weather balloon. Later official investigations identified the likely source as a Project Mogul balloon train, part of a classified effort to detect Soviet nuclear tests using high-altitude balloons with acoustic sensors and radar-reflector materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/3916193/roswell-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How the Roswell UFO Theory Got Started</span><span class="citation-popover-snippet">Brazel encontró restos extraños en su rancho cerca de Roswell, N.M. Tras contactar al Sheriff George Wilcox, quien a su vez llamó la base...</span></span></span>
 
-Kecksburg’s opening evidence is different. The best-established event is a brilliant fireball seen over a broad area of North America on 9 December 1965, including reports across several US states and Canada. Scientific discussion of the event treated it as the [Great Lakes]({{ 'great-lakes/' | relative_url }}) fireball, with a 1967 astronomical analysis using photographs and a seismographic record to reconstruct the event near the Detroit-Windsor and Lake Erie region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Kecksburg’s opening evidence is different. The best-established event is a brilliant fireball seen over a broad area of North America on 9 December 1965, including reports across several US states and Canada. Scientific discussion of the event treated it as the [Great Lakes]({{ 'great-lakes/' | relative_url }}) fireball, with a 1967 astronomical analysis using photographs and a seismographic record to reconstruct the event near the Detroit-Windsor and Lake Erie region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-The local Kecksburg story adds the Roswell-like element: claims that something came down in woods near the village, that police and military personnel sealed or searched the area, and that an object was removed. Contemporary press accounts are important here because they record both sides of the tension. One early account described an area being sealed off in anticipation of inspection by Army engineers and possibly civilian scientists, while later reports said state troopers and Air Force personnel searched and found nothing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The local Kecksburg story adds the Roswell-like element: claims that something came down in woods near the village, that police and military personnel sealed or searched the area, and that an object was removed. Contemporary press accounts are important here because they record both sides of the tension. One early account described an area being sealed off in anticipation of inspection by Army engineers and possibly civilian scientists, while later reports said state troopers and Air Force personnel searched and found nothing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 Both cases therefore contain a genuine “official action” component. Roswell had military collection of debris. Kecksburg had a reported search, official presence, and later dispute about whether a recovery occurred. The similarity ends where the evidential trail changes: Roswell’s recovered material is acknowledged but interpreted differently; Kecksburg’s alleged recovered object is central to the legend but remains publicly unverified.
 
@@ -465,9 +465,9 @@ Both cases therefore contain a genuine “official action” component. Roswell 
 
 The most useful comparison is not “which one is stranger?” but “what type of evidence does each case really have?” Once the cases are separated by evidence type, the resemblance becomes less tidy.
 
-Roswell has a documented physical-recovery event, but the official explanation is mundane. The Government Accountability Office reported in 1995 that the Air Force’s research found no dispute that something happened near Roswell in July 1947, while the available official material pointed to a Project Mogul balloon train as the most likely source of the wreckage. The National Archives’ Project Blue Book summary likewise says Air Force research found no information showing Roswell was a UFO event, no indication of a government cover-up of aliens, and no records hinting at recovered extraterrestrial bodies or materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — indicated the most likely source of the wreckage recovered was one of the project MOGUL b...</span></span></span>
+Roswell has a documented physical-recovery event, but the official explanation is mundane. The Government Accountability Office reported in 1995 that the Air Force’s research found no dispute that something happened near Roswell in July 1947, while the available official material pointed to a Project Mogul balloon train as the most likely source of the wreckage. The National Archives’ Project Blue Book summary likewise says Air Force research found no information showing Roswell was a UFO event, no indication of a government cover-up of aliens, and no records hinting at recovered extraterrestrial bodies or materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — indicated the most likely source of the wreckage recovered was one of the project MOGUL b...</span></span></span>
 
-Kecksburg has a documented sky event, but not a documented recovered craft. The fireball was reported widely and analysed as an atmospheric event. The local crash-retrieval claim rests mainly on witness testimony, later interviews, and disputed recollections of military activity. The most famous version describes an acorn-shaped metallic object, roughly car-sized, partly buried in the ground and marked with unusual [symbols]({{ 'symbols/' | relative_url }}); volunteer fireman James Romansky gave such an account in the popular *Unsolved Mysteries* treatment of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
+Kecksburg has a documented sky event, but not a documented recovered craft. The fireball was reported widely and analysed as an atmospheric event. The local crash-retrieval claim rests mainly on witness testimony, later interviews, and disputed recollections of military activity. The most famous version describes an acorn-shaped metallic object, roughly car-sized, partly buried in the ground and marked with unusual [symbols]({{ 'symbols/' | relative_url }}); volunteer fireman James Romansky gave such an account in the popular *Unsolved Mysteries* treatment of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
 
 That difference matters because physical debris and official records create different burdens of proof. In Roswell, the debate is over what known debris was. In Kecksburg, the debate is whether the alleged object existed at all in the form later described, and whether any government record can be tied to its recovery.
 
@@ -482,13 +482,13 @@ The result is almost a mirror image. Roswell has stronger documentation for a re
 
 ## The Witness Problem Is Not the Same in Both Cases
 
-Witness testimony matters in both stories, but it functions differently. At Kecksburg, the most important witness claims concern the alleged local ground event: people reporting smoke, a thump, roadblocks, military vehicles, a covered object, or the acorn-shaped craft itself. In the popular case narrative, the witness testimony is not just colour; it is the bridge between a [regional fireball]({{ 'fireball-map/' | relative_url }}) and a claimed crash retrieval. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
+Witness testimony matters in both stories, but it functions differently. At Kecksburg, the most important witness claims concern the alleged local ground event: people reporting smoke, a thump, roadblocks, military vehicles, a covered object, or the acorn-shaped craft itself. In the popular case narrative, the witness testimony is not just colour; it is the bridge between a [regional fireball]({{ 'fireball-map/' | relative_url }}) and a claimed crash retrieval.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
 
-At Roswell, witness testimony changed the public meaning of an already documented debris incident. The case had faded for decades before being revived after Stanton Friedman interviewed Jesse Marcel in 1978. Marcel, who had handled debris in 1947, later said the weather-balloon explanation had been a cover story and that the material was extraordinary. That late revival helped transform Roswell from a brief 1947 news oddity into the major UFO crash legend of the late twentieth century. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+At Roswell, witness testimony changed the public meaning of an already documented debris incident. The case had faded for decades before being revived after Stanton Friedman interviewed Jesse Marcel in 1978. Marcel, who had handled debris in 1947, later said the weather-balloon explanation had been a cover story and that the material was extraordinary. That late revival helped transform Roswell from a brief 1947 news oddity into the major UFO crash legend of the late twentieth century.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-This [timing]({{ 'timing/' | relative_url }}) is crucial. Roswell’s most dramatic alien-body and exotic-material claims became prominent long after the event. The Air Force’s later “Case Closed” report argued that many alien-body accounts were based on anecdotal, second- and third-hand testimony collected decades later, and that some memories may have been conflated with known Air Force test-dummy and accident events from later years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">Open source on defense.gov.</span></span></span>(https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf)
+This [timing]({{ 'timing/' | relative_url }}) is crucial. Roswell’s most dramatic alien-body and exotic-material claims became prominent long after the event. The Air Force’s later “Case Closed” report argued that many alien-body accounts were based on anecdotal, second- and third-hand testimony collected decades later, and that some memories may have been conflated with known Air Force test-dummy and accident events from later years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">Open source on defense.gov.</span></span></span>(https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf)
 
-Kecksburg also has a time-lag problem, although in a different form. There were early reports of a search and official activity, but the polished “acorn with symbols taken away by the military” version became much more visible through later television, especially *Unsolved Mysteries* in 1990 and the Sci Fi Channel’s 2003 documentary. A later cultural prop from the television reconstruction even became part of the village’s public identity, blurring the line between remembered incident, media retelling, and local folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Kecksburg also has a time-lag problem, although in a different form. There were early reports of a search and official activity, but the polished “acorn with symbols taken away by the military” version became much more visible through later television, especially *Unsolved Mysteries* in 1990 and the Sci Fi Channel’s 2003 documentary. A later cultural prop from the television reconstruction even became part of the village’s public identity, blurring the line between remembered incident, media retelling, and local folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 That does not mean the witnesses are lying. It means the comparison has to distinguish between immediate observation, later interpretation, and cultural reinforcement. A person seeing military vehicles in 1965 is not the same evidential claim as proving what those vehicles carried. A person handling debris in 1947 is not the same evidential claim as proving that the debris was extraterrestrial.
 
@@ -496,13 +496,13 @@ That does not mean the witnesses are lying. It means the comparison has to disti
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kecksburg_roswell_co_339d60-Illustration-2-dark.svg" | relative_url }}" alt="Roswell Compare illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kecksburg_roswell_co_339d60-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kecksburg_roswell_co_339d60-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Documents, Missing Files, and Official Explanations
 
-Roswell and Kecksburg both draw energy from government secrecy, but the records landscape is much stronger for Roswell. The GAO review, Air Force research, National Archives material, and declassified Project Blue Book summaries provide an official documentary framework: the government accepts that material was recovered, identifies Project Mogul as the likely source, and denies finding evidence of alien bodies or extraterrestrial material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — indicated the most likely source of the wreckage recovered was one of the project MOGUL b...</span></span></span>
+Roswell and Kecksburg both draw energy from government secrecy, but the records landscape is much stronger for Roswell. The GAO review, Air Force research, National Archives material, and declassified Project Blue Book summaries provide an official documentary framework: the government accepts that material was recovered, identifies Project Mogul as the likely source, and denies finding evidence of alien bodies or extraterrestrial material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — indicated the most likely source of the wreckage recovered was one of the project MOGUL b...</span></span></span>
 
-That official answer does not persuade everyone, partly because Roswell began with the Army Air Field’s own “flying disc” announcement and because Project Mogul itself was classified in 1947. The secrecy was real, but the official argument is that it concealed a Cold War surveillance programme, not an alien recovery. This is one of Roswell’s most important evidential lessons: a cover story can exist without the hidden truth being extraterrestrial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasw.org">[National Association of Science Writers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasw.org</span><span class="citation-popover-snippet">Open source on nasw.org.</span></span></span>
+That official answer does not persuade everyone, partly because Roswell began with the Army Air Field’s own “flying disc” announcement and because Project Mogul itself was classified in 1947. The secrecy was real, but the official argument is that it concealed a Cold War surveillance programme, not an alien recovery. This is one of Roswell’s most important evidential lessons: a cover story can exist without the hidden truth being extraterrestrial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasw.org">[National Association of Science Writers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasw.org</span><span class="citation-popover-snippet">Open source on nasw.org.</span></span></span>
 
-Kecksburg’s records problem is more ambiguous. A NASA-related controversy became part of the modern case after journalist Leslie Kean and the Coalition for Freedom of Information pursued records through the Freedom of Information Act. Reporting at the time said NASA agreed to search for Kecksburg-related files, and that a NASA public liaison official acknowledged that two boxes of papers from the relevant period were missing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+Kecksburg’s records problem is more ambiguous. A NASA-related controversy became part of the modern case after journalist Leslie Kean and the Coalition for Freedom of Information pursued records through the Freedom of Information Act. Reporting at the time said NASA agreed to search for Kecksburg-related files, and that a NASA public liaison official acknowledged that two boxes of papers from the relevant period were missing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-The missing-file issue helps explain why Kecksburg remains compelling to some readers. Missing records are not proof of a recovered craft, but they can prevent a clean resolution. NASA’s earlier statement that fragments had been examined and linked to a Soviet satellite, paired with the later difficulty locating records, created an evidential gap rather than a settled answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The missing-file issue helps explain why Kecksburg remains compelling to some readers. Missing records are not proof of a recovered craft, but they can prevent a clean resolution. NASA’s earlier statement that fragments had been examined and linked to a Soviet satellite, paired with the later difficulty locating records, created an evidential gap rather than a settled answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 This is where Roswell and Kecksburg diverge sharply. Roswell has a detailed official explanation that sceptics and believers can argue over. Kecksburg has a thinner official paper trail and a stronger “absence of records” problem. That absence makes the case harder to close, but also harder to prove.
 
@@ -513,11 +513,11 @@ This is where Roswell and Kecksburg diverge sharply. Roswell has a detailed offi
 
 The baseline explanations are not interchangeable. Roswell’s official explanation is not “it was probably a meteor”. Kecksburg’s strongest mainstream explanation is not “it was definitely a Mogul balloon”. Each case belongs to a different technical setting.
 
-Roswell fits the early Cold War balloon environment. Project Mogul used high-altitude balloon trains carrying equipment intended to detect Soviet atomic tests. Such materials could look odd to ranchers or soldiers unfamiliar with the classified programme, especially radar targets made of foil, sticks, tape, and unusual-looking assemblies. The Air Force and GAO position is that the Roswell debris was consistent with that kind of balloon train. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — indicated the most likely source of the wreckage recovered was one of the project MOGUL b...</span></span></span>
+Roswell fits the early Cold War balloon environment. Project Mogul used high-altitude balloon trains carrying equipment intended to detect Soviet atomic tests. Such materials could look odd to ranchers or soldiers unfamiliar with the classified programme, especially radar targets made of foil, sticks, tape, and unusual-looking assemblies. The Air Force and GAO position is that the Roswell debris was consistent with that kind of balloon train.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — indicated the most likely source of the wreckage recovered was one of the project MOGUL b...</span></span></span>
 
-Kecksburg fits an atmospheric-entry environment. The wide geographic spread of sightings, reports from aircraft, sonic effects, and later scientific reconstruction all point towards a bright bolide or fireball. A bright meteor can appear to fall nearby to observers in many different places because it is high in the atmosphere and moving over a long path. That makes local “it came down just over there” impressions inherently tricky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Kecksburg fits an atmospheric-entry environment. The wide geographic spread of sightings, reports from aircraft, sonic effects, and later scientific reconstruction all point towards a bright bolide or fireball. A bright meteor can appear to fall nearby to observers in many different places because it is high in the atmosphere and moving over a long path. That makes local “it came down just over there” impressions inherently tricky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-Some alternative Kecksburg theories try to move the case closer to Roswell by replacing “meteor” with “secret hardware”. One later proposal suggested the object may have been a General Electric Mark 2 [re-entry]({{ 're-entry/' | relative_url }}) vehicle linked to a military space programme. That theory is more grounded in Cold War technology than an alien-craft claim, but it still lacks the public documentary confirmation needed to settle the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post-gazette.com">[Pittsburgh Post-Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post-gazette.com</span><span class="citation-popover-title">Pittsburgh Post-Gazette Five decades later, the Kecksburg UFO is identified</span><span class="citation-popover-snippet">Pittsburgh Post-Gazette Five decades later, the Kecksburg UFO is identified</span></span></span>
+Some alternative Kecksburg theories try to move the case closer to Roswell by replacing “meteor” with “secret hardware”. One later proposal suggested the object may have been a General Electric Mark 2 [re-entry]({{ 're-entry/' | relative_url }}) vehicle linked to a military space programme. That theory is more grounded in Cold War technology than an alien-craft claim, but it still lacks the public documentary confirmation needed to settle the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post-gazette.com">[Pittsburgh Post-Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post-gazette.com</span><span class="citation-popover-title">Pittsburgh Post-Gazette Five decades later, the Kecksburg UFO is identified</span><span class="citation-popover-snippet">Pittsburgh Post-Gazette Five decades later, the Kecksburg UFO is identified</span></span></span>
 
 This difference is important for fair comparison. Roswell’s mundane explanation relies on a known classified programme and recovered debris. Kecksburg’s mundane explanation relies first on astronomy and atmospheric observation, with classified-object theories remaining possible but unconfirmed alternatives.
 
@@ -527,9 +527,9 @@ This difference is important for fair comparison. Roswell’s mundane explanatio
 
 Calling Kecksburg “Pennsylvania’s Roswell” is useful shorthand for tourism and popular culture, but it can distort the evidence. The label encourages readers to import Roswell expectations — alien bodies, hangars, debris fields, whistle-blowers, secret bases — into a case whose strongest evidence starts with a fireball and disputed local recovery claims.
 
-The phrase also makes Kecksburg seem derivative, when its evidential texture is genuinely its own. Kecksburg’s enduring image is not a desert debris field but a small Pennsylvania village, volunteer firemen, woods, roadblocks, and an acorn-shaped object allegedly removed on a lorry. Its folklore is rooted in local geography and community memory as much as in national UFO mythology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
+The phrase also makes Kecksburg seem derivative, when its evidential texture is genuinely its own. Kecksburg’s enduring image is not a desert debris field but a small Pennsylvania village, volunteer firemen, woods, roadblocks, and an acorn-shaped object allegedly removed on a lorry. Its folklore is rooted in local geography and community memory as much as in national UFO mythology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
 
-Roswell, by contrast, became a global symbol because it had a dramatic official misstep at the start: the “flying disc” press release. Kecksburg never had an equivalent official admission of recovered exotic hardware. Its mystery grew from contradiction: official search activity versus “nothing found”, witness confidence versus missing physical proof, and later media reconstructions versus limited contemporary documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/3916193/roswell-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How the Roswell UFO Theory Got Started</span><span class="citation-popover-snippet">Brazel encontró restos extraños en su rancho cerca de Roswell, N.M. Tras contactar al Sheriff George Wilcox, quien a su vez llamó la base...</span></span></span>
+Roswell, by contrast, became a global symbol because it had a dramatic official misstep at the start: the “flying disc” press release. Kecksburg never had an equivalent official admission of recovered exotic hardware. Its mystery grew from contradiction: official search activity versus “nothing found”, witness confidence versus missing physical proof, and later media reconstructions versus limited contemporary documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/3916193/roswell-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How the Roswell UFO Theory Got Started</span><span class="citation-popover-snippet">Brazel encontró restos extraños en su rancho cerca de Roswell, N.M. Tras contactar al Sheriff George Wilcox, quien a su vez llamó la base...</span></span></span>
 
 The label can also lead to a false evidential upgrade. A reader may assume that because Roswell has official reports, debris, and decades of investigation, Kecksburg must have a comparable archive behind it. It does not. Kecksburg’s unresolved quality comes partly from that very lack: the case is powerful as a gap, not as a documented parallel.
 
@@ -537,7 +537,7 @@ The label can also lead to a false evidential upgrade. A reader may assume that 
 
 What truly matches between Kecksburg and Roswell is the social pattern, not the proof. Both cases show how Cold War secrecy, ambiguous official statements, and later witness testimony can turn an incident into a durable public mystery. Both involve a plausible non-alien explanation that still leaves some readers unsatisfied. Both became identity markers for places that now live with the economic and cultural afterlife of a UFO story.
 
-What does not match is the evidential centre. Roswell is a recovered-debris case with a contested explanation. Kecksburg is a witnessed-fireball case with a contested recovery claim. Roswell’s archive is larger and more official; Kecksburg’s local testimony is vivid but less physically anchored. Roswell’s strongest sceptical explanation is a classified balloon project; Kecksburg’s is a meteor or bolide, with possible space-debris or re-entry-vehicle theories sitting in the uncertain middle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">All documentation related to this case is now declassified...Read more...</span></span></span>
+What does not match is the evidential centre. Roswell is a recovered-debris case with a contested explanation. Kecksburg is a witnessed-fireball case with a contested recovery claim. Roswell’s archive is larger and more official; Kecksburg’s local testimony is vivid but less physically anchored. Roswell’s strongest sceptical explanation is a classified balloon project; Kecksburg’s is a meteor or bolide, with possible space-debris or re-entry-vehicle theories sitting in the uncertain middle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">All documentation related to this case is now declassified...Read more...</span></span></span>
 
 The fairest conclusion is that Kecksburg is not “Roswell again”. It is a separate case with a Roswell-like story structure and a much thinner recovery record. The comparison is still valuable because it clarifies what evidence is actually on the table: witnesses, documents, folklore, and missing proof, rather than a single clean trail to either alien visitation or total debunking.
 
@@ -546,194 +546,194 @@ The fairest conclusion is that Kecksburg is not “Roswell again”. It is a sep
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Kecksburg and Roswell What Really Matches?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Kecksburg and Roswell What Really Matches?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Hi_BBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Hi_BBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
         
-        <p class="fr-book-desc">Examines crash-retrieval claims central to comparisons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines crash-retrieval claims central to comparisons.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Places famous cases into a wider evidential framework.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places famous cases into a wider evidential framework.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Essential for understanding Roswell comparisons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Essential for understanding Roswell comparisons.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Covers both Roswell and Kecksburg.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers both Roswell and Kecksburg.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band" data-ebay-reference="roswell-compare-kecksburg-and-roswell-what-really-matches-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -749,7 +749,7 @@ The fairest conclusion is that Kecksburg is not “Roswell again”. It is a sep
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -769,7 +769,7 @@ The fairest conclusion is that Kecksburg is not “Roswell again”. It is a sep
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -801,7 +801,7 @@ The fairest conclusion is that Kecksburg is not “Roswell again”. It is a sep
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -853,7 +853,7 @@ The fairest conclusion is that Kecksburg is not “Roswell again”. It is a sep
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -898,7 +898,7 @@ The fairest conclusion is that Kecksburg is not “Roswell again”. It is a sep
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -939,174 +939,174 @@ The fairest conclusion is that Kecksburg is not “Roswell again”. It is a sep
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: time.com  
    Title: How the Roswell UFO Theory Got Started  
-   Link: <a href="https://time.com/3916193/roswell-history/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3916193/roswell-history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brazel encontró restos extraños en su rancho cerca de Roswell, N.M. Tras contactar al Sheriff George Wilcox, quien a su vez llamó la base...</p></details>
+   Link:<a href="https://time.com/3916193/roswell-history/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3916193/roswell-history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brazel encontró restos extraños en su rancho cerca de Roswell, N.M. Tras contactar al Sheriff George Wilcox, quien a su vez llamó la base...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: <a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NSIAD-95-187 Government Records28 Jul 1995 — indicated the most likely source of the wreckage recovered was one of the project MOGUL b...</p></details>
+   Link:<a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NSIAD-95-187 Government Records28 Jul 1995 — indicated the most likely source of the wreckage recovered was one of the project MOGUL b...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All documentation related to this case is now declassified...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All documentation related to this case is now declassified...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: unsolved.com  
    Title: Mysteries Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</p></details>
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: post-gazette.com  
    Title: Pittsburgh Post-Gazette Five decades later, the Kecksburg UFO is identified  
-   Link: <a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
+   Link:<a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: space.com  
    Title: 7589 case finally closed 1965 pennsylvania ufo mystery  
-   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Shag Harbour UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: post-gazette.com  
-   Link: <a href="https://www.post-gazette.com/breaking/2005/12/08/kecksburg-ufo-records-still-an-alien-concept/stories/200512080509" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/breaking/2005/12/08/kecksburg-ufo-records-still-an-alien-concept/stories/200512080509</a>  
+   Link:<a href="https://www.post-gazette.com/breaking/2005/12/08/kecksburg-ufo-records-still-an-alien-concept/stories/200512080509" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/breaking/2005/12/08/kecksburg-ufo-records-still-an-alien-concept/stories/200512080509</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ia601607.us.archive.org  
    Title: DTIC ADA326148  
-   Link: <a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
+   Link:<a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: <a href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad-95-187</a>  
+   Link:<a href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: media.defense.gov  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nasw.org  
-   Link: <a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
+   Link:<a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
+   Link:<a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Unsolved Mysteries with Robert Stack  
-   Link: <a href="https://www.youtube.com/watch?v=U2dlW6hUnuk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U2dlW6hUnuk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=U2dlW6hUnuk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U2dlW6hUnuk</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: books.google.com  
-   Link: <a href="https://books.google.com/books/about/UFOs.html?id=kKQQ2lE8BKIC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/UFOs.html?id=kKQQ2lE8BKIC</a>  
+   Link:<a href="https://books.google.com/books/about/UFOs.html?id=kKQQ2lE8BKIC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/UFOs.html?id=kKQQ2lE8BKIC</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Kecksburg UFO  
-   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO</a>  
+   Link:<a href="https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: history.com  
    Title: u s air force reports on roswell  
-   Link: <a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
+   Link:<a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/story?id=3785376&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/story?id=3785376&amp;page=1</a>  
+   Link:<a href="https://abcnews.com/Technology/story?id=3785376&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/story?id=3785376&amp;page=1</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pabook.libraries.psu.edu  
-   Link: <a href="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident" target="_blank" rel="noopener noreferrer nofollow">https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pennsylvania Authors DatabaseAcorn from Space: The Kecksburg Incident“The Fireball of December 9, 1965—Part 1.” Journal of the Royal Astr...</p></details>
+   Link:<a href="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident" target="_blank" rel="noopener noreferrer nofollow">https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pennsylvania Authors DatabaseAcorn from Space: The Kecksburg Incident“The Fireball of December 9, 1965—Part 1.” Journal of the Royal Astr...</p></details>
    Published: December 9, 1965  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ac3hYt3k-Eo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg Incident: What Really Happened Here?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ac3hYt3k-Eo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg Incident: What Really Happened Here?...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Kecksburg UFO Crash: The Untold Story  
-   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure Day Is Built On UFO Cases The Government Failed To Explain...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure Day Is Built On UFO Cases The Government Failed To Explain...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/384905393_The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384905393_The_Reliability_of_UFO_Witness_Testimony</a>  
+   Link:<a href="https://www.researchgate.net/publication/384905393_The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384905393_The_Reliability_of_UFO_Witness_Testimony</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1m9zfxf/bombshell_new_investigation_into_pennsylvanias/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1m9zfxf/bombshell_new_investigation_into_pennsylvanias/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1m9zfxf/bombshell_new_investigation_into_pennsylvanias/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1m9zfxf/bombshell_new_investigation_into_pennsylvanias/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gts8wz/going_back_to_roswell_in_light_of_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gts8wz/going_back_to_roswell_in_light_of_disclosure/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gts8wz/going_back_to_roswell_in_light_of_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gts8wz/going_back_to_roswell_in_light_of_disclosure/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: foxnews.com  
-   Link: <a href="https://www.foxnews.com/science/is-case-finally-closed-on-65-ufo-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/is-case-finally-closed-on-65-ufo-mystery</a>  
+   Link:<a href="https://www.foxnews.com/science/is-case-finally-closed-on-65-ufo-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/is-case-finally-closed-on-65-ufo-mystery</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/2007/10/nasa-opens-keck" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2007/10/nasa-opens-keck</a>  
+   Link:<a href="https://www.wired.com/2007/10/nasa-opens-keck" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2007/10/nasa-opens-keck</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-secrecy-and-the-event-that-challenged-reality-itself-6e69ddb469a6" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-secrecy-and-the-event-that-challenged-reality-itself-6e69ddb469a6</a>  
+   Link:<a href="https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-secrecy-and-the-event-that-challenged-reality-itself-6e69ddb469a6" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-secrecy-and-the-event-that-challenged-reality-itself-6e69ddb469a6</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: positivelypittsburgh.com  
-   Link: <a href="https://positivelypittsburgh.com/[the-kecksburg-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/[the-kecksburg-ufo-incident</a>  
+   Link:<a href="https://positivelypittsburgh.com/[the-kecksburg-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/[the-kecksburg-ufo-incident</a>  

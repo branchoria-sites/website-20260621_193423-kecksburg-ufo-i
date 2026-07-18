@@ -280,30 +280,30 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_john_mur
 
 ## Introduction
 
-Among the many claims attached to [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}), few are as influential as the story of reporter John Murphy. According to later accounts, Murphy gathered interviews, recordings and photographs soon after the December 1965 event, only to have crucial material suppressed, altered or disappear. For believers in a cover-up, Murphy represents a missing link between the original news story and later allegations of military secrecy. For historians, however, the central problem is different: the evidence most often cited in support of Murphy's role is itself incomplete, second-hand or missing. The result is a story that remains intriguing precisely because the material that could confirm or refute it is largely unavailable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://keystoneedge.com/2014/10/30/the-truth-is-out-there-in-kecksburg-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keystoneedge.com">[Keystone Edge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keystoneedge.com</span><span class="citation-popover-snippet">Keystone EdgeThe truth is out there....in Kecksburg, PAOctober 30, 2014 — 30 Oct 2014 — Several years later, Murphy was killed when a car...</span><span class="citation-popover-meta">Published: October 30, 2014</span></span></span>
+Among the many claims attached to [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}), few are as influential as the story of reporter John Murphy. According to later accounts, Murphy gathered interviews, recordings and photographs soon after the December 1965 event, only to have crucial material suppressed, altered or disappear. For believers in a cover-up, Murphy represents a missing link between the original news story and later allegations of military secrecy. For historians, however, the central problem is different: the evidence most often cited in support of Murphy's role is itself incomplete, second-hand or missing. The result is a story that remains intriguing precisely because the material that could confirm or refute it is largely unavailable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://keystoneedge.com/2014/10/30/the-truth-is-out-there-in-kecksburg-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keystoneedge.com">[Keystone Edge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keystoneedge.com</span><span class="citation-popover-snippet">Keystone EdgeThe truth is out there....in Kecksburg, PAOctober 30, 2014 — 30 Oct 2014 — Several years later, Murphy was killed when a car...</span><span class="citation-popover-meta">Published: October 30, 2014</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_john_murphy_missing_cd1ca2-Illustration-1-dark.svg" | relative_url }}" alt="Murphy Files illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_john_murphy_missing_cd1ca2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_john_murphy_missing_cd1ca2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Later Accounts Claim Murphy Recorded
 
-John Murphy was a broadcaster for WHJB radio in nearby Greensburg and was among the journalists who followed reports that something had come down near Kecksburg. In later retellings of the case, Murphy is said to have interviewed [witnesses]({{ 'witnesses/' | relative_url }}), collected statements and prepared a radio programme about what he learned. These accounts often portray him as unusually close to the developing story and as someone who believed important information was being withheld. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://keystoneedge.com/2014/10/30/the-truth-is-out-there-in-kecksburg-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keystoneedge.com">[Keystone Edge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keystoneedge.com</span><span class="citation-popover-snippet">Keystone EdgeThe truth is out there....in Kecksburg, PAOctober 30, 2014 — 30 Oct 2014 — Several years later, Murphy was killed when a car...</span><span class="citation-popover-meta">Published: October 30, 2014</span></span></span>
+John Murphy was a broadcaster for WHJB radio in nearby Greensburg and was among the journalists who followed reports that something had come down near Kecksburg. In later retellings of the case, Murphy is said to have interviewed [witnesses]({{ 'witnesses/' | relative_url }}), collected statements and prepared a radio programme about what he learned. These accounts often portray him as unusually close to the developing story and as someone who believed important information was being withheld.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://keystoneedge.com/2014/10/30/the-truth-is-out-there-in-kecksburg-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keystoneedge.com">[Keystone Edge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keystoneedge.com</span><span class="citation-popover-snippet">Keystone EdgeThe truth is out there....in Kecksburg, PAOctober 30, 2014 — 30 Oct 2014 — Several years later, Murphy was killed when a car...</span><span class="citation-popover-meta">Published: October 30, 2014</span></span></span>
 
-One frequently repeated claim centres on a surviving recording in which Murphy reportedly told listeners that portions of his programme had been removed. Later writers and documentary makers have treated this statement as evidence that outside pressure affected what reached the public. The remark is often quoted because it appears to acknowledge that some material was cut before broadcast. What remains uncertain is exactly what was removed, who requested the changes, and whether the edits reflected routine broadcasting decisions, legal concerns or something more unusual. The missing content itself has not been publicly produced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://keystoneedge.com/2014/10/30/the-truth-is-out-there-in-kecksburg-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keystoneedge.com">[Keystone Edge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keystoneedge.com</span><span class="citation-popover-snippet">Keystone EdgeThe truth is out there....in Kecksburg, PAOctober 30, 2014 — 30 Oct 2014 — Several years later, Murphy was killed when a car...</span><span class="citation-popover-meta">Published: October 30, 2014</span></span></span>
+One frequently repeated claim centres on a surviving recording in which Murphy reportedly told listeners that portions of his programme had been removed. Later writers and documentary makers have treated this statement as evidence that outside pressure affected what reached the public. The remark is often quoted because it appears to acknowledge that some material was cut before broadcast. What remains uncertain is exactly what was removed, who requested the changes, and whether the edits reflected routine broadcasting decisions, legal concerns or something more unusual. The missing content itself has not been publicly produced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://keystoneedge.com/2014/10/30/the-truth-is-out-there-in-kecksburg-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keystoneedge.com">[Keystone Edge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keystoneedge.com</span><span class="citation-popover-snippet">Keystone EdgeThe truth is out there....in Kecksburg, PAOctober 30, 2014 — 30 Oct 2014 — Several years later, Murphy was killed when a car...</span><span class="citation-popover-meta">Published: October 30, 2014</span></span></span>
 
-Over time, additional claims accumulated around Murphy's work. Some witnesses and researchers have alleged that he possessed tapes, photographs, notes or scripts containing information that never became public. These alleged materials have acquired near-mythic status within Kecksburg literature because they are often described but rarely documented. The existence of the claimed items is plausible; local reporters commonly gathered notes and recordings. The difficulty is that the specific contents attributed to them usually come from recollections reported years or decades later rather than from the materials themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nl.findagrave.com/memorial/131415704/john-philip-murphy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nl.findagrave.com">[Find A Grave]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nl.findagrave.com</span><span class="citation-popover-title">john philip murphy</span><span class="citation-popover-snippet">Murphy&#x27;s notebooks, tapes, and photos mysteriously disappeared. Barred from covering the military&#x27;s activities...Read more...</span></span></span>
+Over time, additional claims accumulated around Murphy's work. Some witnesses and researchers have alleged that he possessed tapes, photographs, notes or scripts containing information that never became public. These alleged materials have acquired near-mythic status within Kecksburg literature because they are often described but rarely documented. The existence of the claimed items is plausible; local reporters commonly gathered notes and recordings. The difficulty is that the specific contents attributed to them usually come from recollections reported years or decades later rather than from the materials themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nl.findagrave.com/memorial/131415704/john-philip-murphy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nl.findagrave.com">[Find A Grave]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nl.findagrave.com</span><span class="citation-popover-title">john philip murphy</span><span class="citation-popover-snippet">Murphy&#x27;s notebooks, tapes, and photos mysteriously disappeared. Barred from covering the military&#x27;s activities...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lsHWrkQWiQs" title="Real UFO? The &quot;Space Acorn&quot; of Kecksburg Pennsylvania" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer">Real UFO? The &quot;Space Acorn&quot; of Kecksburg Pennsylvania</a></p><p class="youtube-embed-meta">Channel: Ray Out There &middot; Views: 1.9K &middot; Uploaded: May 2023 &middot; Length: 4 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lsHWrkQWiQs">Open on YouTube</a></p></div></div></div>
 
 ## Why Second-Hand Testimony Is Hard to Verify
 
-The Murphy story sits directly at the intersection of eyewitness memory and changing testimony. Much of what people believe about his recordings does not come from surviving recordings. Instead, it comes from later interviews with colleagues, witnesses and investigators who recalled what Murphy supposedly said, possessed or intended to publish. That creates several layers of memory between the original event and modern claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://keystoneedge.com/2014/10/30/the-truth-is-out-there-in-kecksburg-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keystoneedge.com">[Keystone Edge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keystoneedge.com</span><span class="citation-popover-snippet">Keystone EdgeThe truth is out there....in Kecksburg, PAOctober 30, 2014 — 30 Oct 2014 — Several years later, Murphy was killed when a car...</span><span class="citation-popover-meta">Published: October 30, 2014</span></span></span>
+The Murphy story sits directly at the intersection of eyewitness memory and changing testimony. Much of what people believe about his recordings does not come from surviving recordings. Instead, it comes from later interviews with colleagues, witnesses and investigators who recalled what Murphy supposedly said, possessed or intended to publish. That creates several layers of memory between the original event and modern claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://keystoneedge.com/2014/10/30/the-truth-is-out-there-in-kecksburg-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keystoneedge.com">[Keystone Edge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keystoneedge.com</span><span class="citation-popover-snippet">Keystone EdgeThe truth is out there....in Kecksburg, PAOctober 30, 2014 — 30 Oct 2014 — Several years later, Murphy was killed when a car...</span><span class="citation-popover-meta">Published: October 30, 2014</span></span></span>
 
-A recurring pattern in Kecksburg research is that later accounts often contain more detail than early reports. This does not automatically make them false. People may remember additional information later, or may only become willing to speak publicly after years have passed. However, historians generally place greater weight on documents created close to an event than on memories recorded decades afterwards. When a claim depends on a missing tape, a lost photograph or an unpublished script, there is no straightforward way to compare the later recollection against the original source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Kecksburg UFO incidentThe Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+A recurring pattern in Kecksburg research is that later accounts often contain than early reports. This does not automatically make them false. People may remember additional information later, or may only become willing to speak publicly after years have passed. However, historians generally place greater weight on documents created close to an event than on memories recorded decades afterwards. When a claim depends on a missing tape, a lost photograph or an unpublished script, there is no straightforward way to compare the later recollection against the original source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Kecksburg UFO incidentThe Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
-Murphy's death in a hit-and-run accident in California in 1969 further complicated the issue. Later narratives sometimes connect his death to the Kecksburg story, but no publicly verified evidence has established such a link. The fact of his death is documented; claims that it was related to his reporting remain speculative. Nevertheless, the [timing]({{ 'timing/' | relative_url }}) helped fuel suspicions and encouraged the belief that important evidence vanished with him. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nl.findagrave.com/memorial/131415704/john-philip-murphy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nl.findagrave.com">[Find A Grave]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nl.findagrave.com</span><span class="citation-popover-title">john philip murphy</span><span class="citation-popover-snippet">Murphy&#x27;s notebooks, tapes, and photos mysteriously disappeared. Barred from covering the military&#x27;s activities...Read more...</span></span></span>
+Murphy's death in a hit-and-run accident in California in 1969 further complicated the issue. Later narratives sometimes connect his death to the Kecksburg story, but no publicly verified evidence has established such a link. The fact of his death is documented; claims that it was related to his reporting remain speculative. Nevertheless, the [timing]({{ 'timing/' | relative_url }}) helped fuel suspicions and encouraged the belief that important evidence vanished with him.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nl.findagrave.com/memorial/131415704/john-philip-murphy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nl.findagrave.com">[Find A Grave]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nl.findagrave.com</span><span class="citation-popover-title">john philip murphy</span><span class="citation-popover-snippet">Murphy&#x27;s notebooks, tapes, and photos mysteriously disappeared. Barred from covering the military&#x27;s activities...Read more...</span></span></span>
 
-The same problem affects reports that Murphy's notebooks, tapes and photographs disappeared. These claims are widely repeated in UFO literature and popular accounts, yet the chain of custody for the alleged materials is unclear. Without inventories, station archives or authenticated copies, researchers cannot easily determine what existed, what was lost and what may have been remembered inaccurately years later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nl.findagrave.com/memorial/131415704/john-philip-murphy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nl.findagrave.com">[Find A Grave]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nl.findagrave.com</span><span class="citation-popover-title">john philip murphy</span><span class="citation-popover-snippet">Murphy&#x27;s notebooks, tapes, and photos mysteriously disappeared. Barred from covering the military&#x27;s activities...Read more...</span></span></span>
+The same problem affects reports that Murphy's notebooks, tapes and photographs disappeared. These claims are widely repeated in UFO literature and popular accounts, yet the chain of custody for the alleged materials is unclear. Without inventories, station archives or authenticated copies, researchers cannot easily determine what existed, what was lost and what may have been remembered inaccurately years later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nl.findagrave.com/memorial/131415704/john-philip-murphy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nl.findagrave.com">[Find A Grave]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nl.findagrave.com</span><span class="citation-popover-title">john philip murphy</span><span class="citation-popover-snippet">Murphy&#x27;s notebooks, tapes, and photos mysteriously disappeared. Barred from covering the military&#x27;s activities...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_john_murphy_missing_cd1ca2-Illustration-2-dark.svg" | relative_url }}" alt="Murphy Files illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_john_murphy_missing_cd1ca2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_john_murphy_missing_cd1ca2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -322,7 +322,7 @@ Three different possibilities can coexist:
 
 </div>
 
-Because the underlying recordings and documents are unavailable, distinguishing among these explanations is difficult. The missing evidence therefore supports competing interpretations rather than conclusively favouring any one of them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://keystoneedge.com/2014/10/30/the-truth-is-out-there-in-kecksburg-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keystoneedge.com">[Keystone Edge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keystoneedge.com</span><span class="citation-popover-snippet">Keystone EdgeThe truth is out there....in Kecksburg, PAOctober 30, 2014 — 30 Oct 2014 — Several years later, Murphy was killed when a car...</span><span class="citation-popover-meta">Published: October 30, 2014</span></span></span>
+Because the underlying recordings and documents are unavailable, distinguishing among these explanations is difficult. The missing evidence therefore supports competing interpretations rather than conclusively favouring any one of them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://keystoneedge.com/2014/10/30/the-truth-is-out-there-in-kecksburg-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keystoneedge.com">[Keystone Edge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keystoneedge.com</span><span class="citation-popover-snippet">Keystone EdgeThe truth is out there....in Kecksburg, PAOctober 30, 2014 — 30 Oct 2014 — Several years later, Murphy was killed when a car...</span><span class="citation-popover-meta">Published: October 30, 2014</span></span></span>
 
 This uncertainty explains why Murphy remains such a central figure in Kecksburg discussions. His story appears to promise access to an earlier and less filtered version of events. Yet the very records that might provide that access are the records that cannot presently be examined.
 
@@ -346,9 +346,9 @@ Examples include:
 
 </div>
 
-Such records would help answer questions that testimony alone cannot resolve. Researchers could determine whether Murphy actually interviewed specific witnesses, whether key descriptions appeared in 1965 or only surfaced later, and whether any portions of his broadcasts were removed for documented reasons. They could also establish whether the famous claims about missing material match what existed at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://keystoneedge.com/2014/10/30/the-truth-is-out-there-in-kecksburg-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keystoneedge.com">[Keystone Edge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keystoneedge.com</span><span class="citation-popover-snippet">Keystone EdgeThe truth is out there....in Kecksburg, PAOctober 30, 2014 — 30 Oct 2014 — Several years later, Murphy was killed when a car...</span><span class="citation-popover-meta">Published: October 30, 2014</span></span></span>
+Such records would help answer questions that testimony alone cannot resolve. Researchers could determine whether Murphy actually interviewed specific witnesses, whether key descriptions appeared in 1965 or only surfaced later, and whether any portions of his broadcasts were removed for documented reasons. They could also establish whether the famous claims about missing material match what existed at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://keystoneedge.com/2014/10/30/the-truth-is-out-there-in-kecksburg-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keystoneedge.com">[Keystone Edge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keystoneedge.com</span><span class="citation-popover-snippet">Keystone EdgeThe truth is out there....in Kecksburg, PAOctober 30, 2014 — 30 Oct 2014 — Several years later, Murphy was killed when a car...</span><span class="citation-popover-meta">Published: October 30, 2014</span></span></span>
 
-The rediscovery of previously unseen television footage from the period demonstrates that forgotten archives can still emerge decades later. However, isolated footage is not the same as a complete documentary record. Until original Murphy materials or equivalent station records are found, the reporter's role remains suggestive rather than definitive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/MichellewRIGHTNOW/videos/did-a-ufo-land-in-kecksburg-pa-in-1965-today-we-found-old-wtae-tv-pittsburgh-fil/2281834022322210/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">did a ufo land in kecksburg pa in 1965 today we found old wtae tv pittsburgh fil</span><span class="citation-popover-snippet">Today we found old WTAE-TV Pittsburgh film footage from that night and we are going to show it to you for the very first time sinceDid a...</span></span></span>
+The rediscovery of previously unseen television footage from the period demonstrates that forgotten archives can still emerge decades later. However, isolated footage is not the same as a complete documentary record. Until original Murphy materials or equivalent station records are found, the reporter's role remains suggestive rather than definitive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/MichellewRIGHTNOW/videos/did-a-ufo-land-in-kecksburg-pa-in-1965-today-we-found-old-wtae-tv-pittsburgh-fil/2281834022322210/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">did a ufo land in kecksburg pa in 1965 today we found old wtae tv pittsburgh fil</span><span class="citation-popover-snippet">Today we found old WTAE-TV Pittsburgh film footage from that night and we are going to show it to you for the very first time sinceDid a...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_john_murphy_missing_cd1ca2-Illustration-3-dark.svg" | relative_url }}" alt="Murphy Files illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_john_murphy_missing_cd1ca2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_john_murphy_missing_cd1ca2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -356,201 +356,201 @@ The rediscovery of previously unseen television footage from the period demonstr
 
 John Murphy occupies a unique place in the Kecksburg story because he represents a possible bridge between immediate reporting and later allegations of secrecy. The fascination is understandable: if recordings, scripts or photographs survived, they might clarify how the story evolved and whether important details were present from the beginning or emerged later.
 
-At present, however, Murphy's significance rests largely on what is said to have existed rather than on what can be examined. The strongest conclusion is therefore a cautious one. Murphy may indeed have gathered valuable information in the days after the incident, but the missing tapes, photographs and scripts remain claims about evidence, not evidence themselves. Until authentic records surface, the Murphy story remains one of the most intriguing unresolved gaps in the documentary history of Kecksburg. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://keystoneedge.com/2014/10/30/the-truth-is-out-there-in-kecksburg-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keystoneedge.com">[Keystone Edge+2Find A Grave]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keystoneedge.com</span><span class="citation-popover-snippet">Keystone EdgeThe truth is out there....in Kecksburg, PAOctober 30, 2014 — 30 Oct 2014 — Several years later, Murphy was killed when a car...</span><span class="citation-popover-meta">Published: October 30, 2014</span></span></span>
+At present, however, Murphy's significance rests largely on what is said to have existed rather than on what can be examined. The strongest conclusion is therefore a cautious one. Murphy may indeed have gathered valuable information in the days after the incident, but the missing tapes, photographs and scripts remain claims about evidence, not evidence themselves. Until authentic records surface, the Murphy story remains one of the most intriguing unresolved gaps in the documentary history of Kecksburg.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://keystoneedge.com/2014/10/30/the-truth-is-out-there-in-kecksburg-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keystoneedge.com">[keystoneedge.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keystoneedge.com</span><span class="citation-popover-snippet">Keystone EdgeThe truth is out there....in Kecksburg, PAOctober 30, 2014 — 30 Oct 2014 — Several years later, Murphy was killed when a car...</span><span class="citation-popover-meta">Published: October 30, 2014</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Ka9dOx7ZWY" title="The Kecksburg UFO Case: Finally Solved After 60 Years?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer">The Kecksburg UFO Case: Finally Solved After 60 Years?</a></p><p class="youtube-embed-meta">Channel: Redoubt Productions &middot; Views: 851 &middot; Uploaded: December 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Ka9dOx7ZWY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Reporter Story That Still Needs Proof. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Reporter Story That Still Needs Proof. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores standards of evidence, testimony, documentation, and government claims relevant to assessing disputed cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores standards of evidence, testimony, documentation, and government claims relevant to assessing disputed cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Provides tools for assessing extraordinary claims and evolving narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Provides tools for assessing extraordinary claims and evolving narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hMf3TgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a>
-        </h4>
-        <p class="fr-book-author">By Stan Gordon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hMf3TgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a>
+</h4>
+<p class="fr-book-author">By Stan Gordon</p>
         
-        <p class="fr-book-desc">Provides broader historical context for Pennsylvania UFO reports and the investigative environment surrounding Kecksburg.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader historical context for Pennsylvania UFO reports and the investigative environment surrounding Kecksburg.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Examines how UFO reports are documented, evaluated, and sometimes distorted through retelling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how UFO reports are documented, evaluated, and sometimes distorted through retelling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Silent+Invasion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silent Invasion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Silent+Invasion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silent Invasion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Vintage+UFO+incident+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Vintage UFO incident poster" data-ebay-reference="the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster UFO CASEBOOK - Incident A1004-01 NEU 54500"><img src="https://i.ebayimg.com/images/g/DI4AAOxyeZNTV3xs/s-l225.jpg" alt="Listing image for Poster UFO CASEBOOK - Incident A1004-01 NEU 54500" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Vintage+UFO+incident+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Vintage UFO incident poster" data-ebay-reference="the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster" target="_blank" rel="sponsored noopener noreferrer">Poster UFO CASEBOOK - Incident A1004-01 NEU 54500</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Vintage+UFO+incident+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Vintage UFO incident poster" data-ebay-reference="the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Vintage UFO incident poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Vintage UFO incident poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Vintage+UFO+incident+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Vintage UFO incident poster" data-ebay-reference="the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Vintage+UFO+incident+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Vintage UFO incident poster" data-ebay-reference="the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Poster – Funny Alien Farm Incident Vintage Print"><img src="https://i.ebayimg.com/images/g/sKwAAeSwsatpvR0P/s-l225.jpg" alt="Listing image for UFO Abduction Poster – Funny Alien Farm Incident Vintage Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Vintage+UFO+incident+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Vintage UFO incident poster" data-ebay-reference="the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Poster – Funny Alien Farm Incident Vintage Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Vintage+UFO+incident+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Vintage UFO incident poster" data-ebay-reference="the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Vintage UFO incident poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Vintage UFO incident poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Vintage+UFO+incident+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Vintage UFO incident poster" data-ebay-reference="the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Vintage+UFO+incident+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Vintage UFO incident poster" data-ebay-reference="the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The UFO Incident Movie Poster T-Shirt, Betty and Barney Hill 1961 UFO Tee"><img src="https://i.ebayimg.com/images/g/DgsAAeSwzp1p-lg4/s-l225.jpg" alt="Listing image for The UFO Incident Movie Poster T-Shirt, Betty and Barney Hill 1961 UFO Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Vintage+UFO+incident+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Vintage UFO incident poster" data-ebay-reference="the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster" target="_blank" rel="sponsored noopener noreferrer">The UFO Incident Movie Poster T-Shirt, Betty and Barney Hill 1961 UFO Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Vintage+UFO+incident+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Vintage UFO incident poster" data-ebay-reference="the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Vintage UFO incident poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Vintage UFO incident poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Vintage+UFO+incident+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Vintage UFO incident poster" data-ebay-reference="the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="murphy-files-the-reporter-story-that-still-needs-proof-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Vintage+UFO+incident+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Vintage UFO incident poster" data-ebay-reference="the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Master Vintage UFO Identification Chart, Poster no frame"><img src="https://i.ebayimg.com/images/g/J~kAAOSwwJln24Ga/s-l225.jpg" alt="Listing image for Poster Master Vintage UFO Identification Chart, Poster no frame" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Vintage+UFO+incident+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Vintage UFO incident poster" data-ebay-reference="the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster" target="_blank" rel="sponsored noopener noreferrer">Poster Master Vintage UFO Identification Chart, Poster no frame</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Vintage+UFO+incident+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Vintage UFO incident poster" data-ebay-reference="the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Vintage UFO incident poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Vintage UFO incident poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Vintage+UFO+incident+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Vintage UFO incident poster" data-ebay-reference="the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Vintage+UFO+incident+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Vintage UFO incident poster" data-ebay-reference="the-reporter-story-that-still-needs-proof-vintage-ufo-incident-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ At present, however, Murphy's significance rests largely on what is said to have
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ At present, however, Murphy's significance rests largely on what is said to have
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ At present, however, Murphy's significance rests largely on what is said to have
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ At present, however, Murphy's significance rests largely on what is said to have
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ At present, however, Murphy's significance rests largely on what is said to have
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,83 +756,83 @@ At present, however, Murphy's significance rests largely on what is said to have
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incidentThe Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incidentThe Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball...</p></details>
    Published: December 9, 1965  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
    Title: did a ufo land in kecksburg pa in 1965 today we found old wtae tv pittsburgh fil  
-   Link: <a href="https://www.facebook.com/MichellewRIGHTNOW/videos/did-a-ufo-land-in-kecksburg-pa-in-1965-today-we-found-old-wtae-tv-pittsburgh-fil/2281834022322210/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/videos/did-a-ufo-land-in-kecksburg-pa-in-1965-today-we-found-old-wtae-tv-pittsburgh-fil/2281834022322210/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Today we found old WTAE-TV Pittsburgh film footage from that night and we are going to show it to you for the very first time sinceDid a...</p></details>
+   Link:<a href="https://www.facebook.com/MichellewRIGHTNOW/videos/did-a-ufo-land-in-kecksburg-pa-in-1965-today-we-found-old-wtae-tv-pittsburgh-fil/2281834022322210/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/videos/did-a-ufo-land-in-kecksburg-pa-in-1965-today-we-found-old-wtae-tv-pittsburgh-fil/2281834022322210/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Today we found old WTAE-TV Pittsburgh film footage from that night and we are going to show it to you for the very first time sinceDid a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
    Title: What fell from the sky in Kecksburg PA  
-   Link: <a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Local news reporter John Murphy claimed to have taken photographs of the crash site (he also recorded interviews with many witnesses in t...</p></details>
+   Link:<a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Local news reporter John Murphy claimed to have taken photographs of the crash site (he also recorded interviews with many witnesses in t...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/</a>  
+   Link:<a href="https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: keystoneedge.com  
-   Link: <a href="https://keystoneedge.com/2014/10/30/the-truth-is-out-there-in-kecksburg-pa/" target="_blank" rel="noopener noreferrer nofollow">https://keystoneedge.com/2014/10/30/the-truth-is-out-there-in-kecksburg-pa/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keystone EdgeThe truth is out there....in Kecksburg, PAOctober 30, 2014 — 30 Oct 2014 — Several years later, Murphy was killed when a car...</p></details>
+   Link:<a href="https://keystoneedge.com/2014/10/30/the-truth-is-out-there-in-kecksburg-pa/" target="_blank" rel="noopener noreferrer nofollow">https://keystoneedge.com/2014/10/30/the-truth-is-out-there-in-kecksburg-pa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keystone EdgeThe truth is out there....in Kecksburg, PAOctober 30, 2014 — 30 Oct 2014 — Several years later, Murphy was killed when a car...</p></details>
    Published: October 30, 2014  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nl.findagrave.com  
    Title: john philip murphy  
-   Link: <a href="https://nl.findagrave.com/memorial/131415704/john-philip-murphy" target="_blank" rel="noopener noreferrer nofollow">https://nl.findagrave.com/memorial/131415704/john-philip-murphy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Murphy&#x27;s notebooks, tapes, and photos mysteriously disappeared. Barred from covering the military&#x27;s activities...Read more...</p></details>
+   Link:<a href="https://nl.findagrave.com/memorial/131415704/john-philip-murphy" target="_blank" rel="noopener noreferrer nofollow">https://nl.findagrave.com/memorial/131415704/john-philip-murphy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Murphy&#x27;s notebooks, tapes, and photos mysteriously disappeared. Barred from covering the military&#x27;s activities...Read more...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the unidentified object up close before US military officials were able to...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the unidentified object up close before US military officials were able to...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Kecksburg UFO Case: Finally Solved After 60 Years?  
-   Link: <a href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3Ka9dOx7ZWY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This full broadcast episode features the original Unsolved Mysteries segment that introduced the iconic &quot;space acorn&quot; prop reconstruction...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3Ka9dOx7ZWY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This full broadcast episode features the original Unsolved Mysteries segment that introduced the iconic &quot;space acorn&quot; prop reconstruction...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence  
-   Link: <a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Real UFO? The &quot;Space Acorn&quot; of Kecksburg Pennsylvania...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Real UFO? The &quot;Space Acorn&quot; of Kecksburg Pennsylvania...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Unsolved Mysteries with Robert Stack  
-   Link: <a href="https://www.youtube.com/watch?v=U2dlW6hUnuk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U2dlW6hUnuk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=U2dlW6hUnuk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U2dlW6hUnuk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Real UFO? The "Space Acorn" of Kecksburg Pennsylvania  
-   Link: <a href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lsHWrkQWiQs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Case: Finally Solved After 60 Years?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lsHWrkQWiQs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Case: Finally Solved After 60 Years?...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: yahoo.com  
    Title: kecksburg incident remains mystery 60 035900487  
-   Link: <a href="https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=P_0VTQ7FE5Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P_0VTQ7FE5Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 0046 - John MurphyEpisode 0046 - John Murphy. 391 views · 6 months ago...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=P_0VTQ7FE5Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P_0VTQ7FE5Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 0046 - John MurphyEpisode 0046 - John Murphy. 391 views · 6 months ago...</p></details>

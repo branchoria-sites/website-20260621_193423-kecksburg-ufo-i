@@ -280,7 +280,7 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_military_pr
 
 ## Introduction
 
-The military-presence reports preserved by [Stan Gordon]({{ 'stan-gordon/' | relative_url }}) are among the most influential parts of the Kecksburg story. While debates about meteors, satellites, or unidentified craft focus on what may have fallen from the sky, Gordon’s archive concentrates attention on what [witnesses]({{ 'witnesses/' | relative_url }}) said happened afterwards. Across decades of interviews, statements, and follow-up investigations, he collected accounts from residents, firefighters, reporters, and other observers who described soldiers, roadblocks, restricted access, and the apparent removal of something from the area. These reports became a distinct evidential strand because they are independent of arguments about the object's identity. Even if witnesses disagreed about what fell, many claimed that authorities responded with unusual speed and seriousness. Gordon’s archive preserves those claims while also revealing their limitations: testimony can suggest military concern, but it cannot by itself establish what was recovered or why. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</span></span></span>
+The military-presence reports preserved by [Stan Gordon]({{ 'stan-gordon/' | relative_url }}) are among the most influential parts of the Kecksburg story. While debates about meteors, satellites, or unidentified craft focus on what may have fallen from the sky, Gordon’s archive concentrates attention on what [witnesses]({{ 'witnesses/' | relative_url }}) said happened afterwards. Across decades of interviews, statements, and follow-up investigations, he collected accounts from residents, firefighters, reporters, and other observers who described soldiers, roadblocks, restricted access, and the apparent removal of something from the area. These reports became a distinct evidential strand because they are independent of arguments about the object's identity. Even if witnesses disagreed about what fell, many claimed that authorities responded with unusual speed and seriousness. Gordon’s archive preserves those claims while also revealing their limitations: testimony can suggest military concern, but it cannot by itself establish what was recovered or why.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_military_presence_cl_874768-Illustration-1-dark.svg" | relative_url }}" alt="Military Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_military_presence_cl_874768-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_military_presence_cl_874768-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,9 +288,9 @@ The military-presence reports preserved by [Stan Gordon]({{ 'stan-gordon/' | rel
 
 ### Soldiers and cordoned roads
 
-A recurring theme in Gordon’s witness collection is the assertion that the wooded area near Kecksburg was rapidly secured after reports of an object descending into the woods. Witnesses described state police, military personnel, restricted access, and efforts to keep civilians away from the search area. Gordon repeatedly argued that the consistency of these reports, gathered from different people over many years, made the military-response question as important as the object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</span></span></span>
+A recurring theme in Gordon’s witness collection is the assertion that the wooded area near Kecksburg was rapidly secured after reports of an object descending into the woods. Witnesses described state police, military personnel, restricted access, and efforts to keep civilians away from the search area. Gordon repeatedly argued that the consistency of these reports, gathered from different people over many years, made the military-response question as important as the object itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</span></span></span>
 
-Importantly, reports of official activity were not confined to later retellings. Contemporary newspaper coverage from December 1965 stated that the area had been sealed off while authorities awaited further inspection and that state police and military personnel searched the woods. These early reports form part of the reason Gordon treated military-presence testimony as a separate category rather than merely a later UFO legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Importantly, reports of official activity were not confined to later retellings. Contemporary newspaper coverage from December 1965 stated that the area had been sealed off while authorities awaited further inspection and that state police and military personnel searched the woods. These early reports form part of the reason Gordon treated military-presence testimony as a separate category rather than merely a later UFO legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 Within Gordon’s archive, witnesses described several related observations:
 
@@ -301,11 +301,11 @@ Within Gordon’s archive, witnesses described several related observations:
 * Civilians being directed away from the wooded area.
 * Uniformed personnel appearing in the vicinity.
 * Search activity continuing after local residents had been excluded.
-* A level of official coordination that some witnesses considered disproportionate to an ordinary meteor report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</span></span></span>
+* A level of official coordination that some witnesses considered disproportionate to an ordinary meteor report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</span></span></span>
 
 </div>
 
-These accounts helped [shape]({{ 'shape/' | relative_url }}) the enduring belief that authorities had located something of significance. However, the existence of a military or police presence does not automatically indicate recovery of an extraordinary object. A reported aircraft crash, missile concern, satellite [re-entry]({{ 're-entry/' | relative_url }}), hazardous debris field, or uncertain impact event could also justify a rapid security response. Contemporary authorities were attempting to determine whether an aircraft, missile component, or space-related object had come down, making some form of restricted access unsurprising even under conventional explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+These accounts helped [shape]({{ 'shape/' | relative_url }}) the enduring belief that authorities had located something of significance. However, the existence of a military or police presence does not automatically indicate recovery of an extraordinary object. A reported aircraft crash, missile concern, satellite [re-entry]({{ 're-entry/' | relative_url }}), hazardous debris field, or uncertain impact event could also justify a rapid security response. Contemporary authorities were attempting to determine whether an aircraft, missile component, or space-related object had come down, making some form of restricted access unsurprising even under conventional explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CKK66LtZ1Hs" title="Episode 184 Kecksburg Revisited with Stan Gordon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CKK66LtZ1Hs" target="_blank" rel="noopener noreferrer">Episode 184 Kecksburg Revisited with Stan Gordon</a></p><p class="youtube-embed-meta">Channel: Astonishing Legends &middot; Views: 2.3K &middot; Uploaded: May 2022 &middot; Length: 2 hours 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CKK66LtZ1Hs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CKK66LtZ1Hs">Open on YouTube</a></p></div></div></div>
@@ -316,7 +316,7 @@ These accounts helped [shape]({{ 'shape/' | relative_url }}) the enduring belief
 
 Among all the military-related stories Gordon preserved, none became more famous than reports of a [flatbed]({{ 'flatbed/' | relative_url }}) truck carrying a covered object away from the area.
 
-Several witnesses interviewed over the years described seeing a large truck, often accompanied by official vehicles, travelling away from Kecksburg after the search operation. In one widely cited account, a volunteer firefighter recalled seeing a large flatbed truck following a jeep and carrying a covered load. Gordon considered such reports significant because they appeared to connect the search operation with the removal of physical material from the scene. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</span></span></span>
+Several witnesses interviewed over the years described seeing a large truck, often accompanied by official vehicles, travelling away from Kecksburg after the search operation. In one widely cited account, a volunteer firefighter recalled seeing a large flatbed truck following a jeep and carrying a covered load. Gordon considered such reports significant because they appeared to connect the search operation with the removal of physical material from the scene.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</span></span></span>
 
 Other witnesses interviewed by Gordon described:
 
@@ -327,23 +327,23 @@ Other witnesses interviewed by Gordon described:
 * Convoy-like vehicle movement.
 * Military escorts accompanying transport vehicles.
 * Activity occurring after darkness had fallen.
-* Restricted viewing conditions that prevented clear identification of the cargo. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</span></span></span>
+* Restricted viewing conditions that prevented clear identification of the cargo.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</span></span></span>
 
 </div>
 
-The truck narrative gained additional influence because it appeared in multiple [media retellings]({{ 'media-retellings/' | relative_url }}) and documentaries. Gordon's archive served as the primary reservoir from which these accounts were drawn. Later television programmes, journalists, and researchers repeatedly returned to the witness statements he had collected when reconstructing the alleged recovery sequence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</span></span></span>
+The truck narrative gained additional influence because it appeared in multiple [media retellings]({{ 'media-retellings/' | relative_url }}) and documentaries. Gordon's archive served as the primary reservoir from which these accounts were drawn. Later television programmes, journalists, and researchers repeatedly returned to the witness statements he had collected when reconstructing the alleged recovery sequence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</span></span></span>
 
-Yet the flatbed-truck testimony also illustrates the evidential challenge at the heart of Kecksburg. Witnesses generally reported seeing a covered load rather than an openly visible object. As a result, the testimony may support the claim that something was transported, but it cannot independently establish the nature of what was being transported. A covered military cargo could range from debris and equipment to investigative materials or something entirely unrelated to the reported impact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</span></span></span>
+Yet the flatbed-truck testimony also illustrates the evidential challenge at the heart of Kecksburg. Witnesses generally reported seeing a covered load rather than an openly visible object. As a result, the testimony may support the claim that something was transported, but it cannot independently establish the nature of what was being transported. A covered military cargo could range from debris and equipment to investigative materials or something entirely unrelated to the reported impact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_military_presence_cl_874768-Illustration-2-dark.svg" | relative_url }}" alt="Military Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_military_presence_cl_874768-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_military_presence_cl_874768-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Gordon Treated the Military Accounts
 
-Gordon did not regard every witness statement as equal proof. Rather, he treated the military-presence reports as a cumulative pattern. His argument was not based on a single observer but on what he saw as convergence among numerous independent accounts collected over many years. He often pointed to the combination of roadblocks, search teams, restricted access, and transport reports as suggesting that authorities believed something worth investigating had occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">more...</span></span></span>
+Gordon did not regard every witness statement as equal proof. Rather, he treated the military-presence reports as a cumulative pattern. His argument was not based on a single observer but on what he saw as convergence among numerous independent accounts collected over many years. He often pointed to the combination of roadblocks, search teams, restricted access, and transport reports as suggesting that authorities believed something worth investigating had occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">more...</span></span></span>
 
-The archive also contains claims extending beyond the immediate scene. Some individuals later contacted Gordon alleging knowledge of military handling, temporary storage, or transfer of an object after its removal from Pennsylvania. These stories became part of the broader Kecksburg narrative, although they are more difficult to verify than reports of activity observed directly in the village on the night of the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">more...</span></span></span>
+The archive also contains claims extending beyond the immediate scene. Some individuals later contacted Gordon alleging knowledge of military handling, temporary storage, or transfer of an object after its removal from Pennsylvania. These stories became part of the broader Kecksburg narrative, although they are more difficult to verify than reports of activity observed directly in the village on the night of the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">more...</span></span></span>
 
-What makes Gordon’s archive important is that it preserves both the claims and their provenance. Researchers can examine who reported military activity, when accounts were collected, and how narratives evolved over time. The archive therefore functions not merely as a collection of UFO stories but as a record of witness memory concerning official actions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcasts.apple.com/us/podcast/kecksburg-revisited-with-stan-gordon/id923527373?i=1000487547306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-title">Podcasts Kecksburg Revisited with Stan …</span><span class="citation-popover-snippet">Apple PodcastsKecksburg Revisited with Stan … - Astonishing Legends9 Aug 2020 — We&#x27;re finally fortunate enough to talk with Stan Gordon...</span></span></span>
+What makes Gordon’s archive important is that it preserves both the claims and their provenance. Researchers can examine who reported military activity, when accounts were collected, and how narratives evolved over time. The archive therefore functions not merely as a collection of UFO stories but as a record of witness memory concerning official actions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcasts.apple.com/us/podcast/kecksburg-revisited-with-stan-gordon/id923527373?i=1000487547306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-title">Podcasts Kecksburg Revisited with Stan …</span><span class="citation-popover-snippet">Apple PodcastsKecksburg Revisited with Stan … - Astonishing Legends9 Aug 2020 — We&#x27;re finally fortunate enough to talk with Stan Gordon...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vROJdm_xGAQ" title="60-year mystery: Questions surrounding Kecksburg UFO incident in Pennsylvania" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vROJdm_xGAQ" target="_blank" rel="noopener noreferrer">60-year mystery: Questions surrounding Kecksburg UFO incident in Pennsylvania</a></p><p class="youtube-embed-meta">Channel: WTAE-TV Pittsburgh</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vROJdm_xGAQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vROJdm_xGAQ">Open on YouTube</a></p></div></div></div>
@@ -353,204 +353,204 @@ What makes Gordon’s archive important is that it preserves both the claims and
 
 ## Why Urgency Does Not Prove an Object
 
-The strongest military-presence evidence in Gordon’s archive concerns behaviour rather than hardware. Witnesses repeatedly described officials arriving, restricting access, searching the area, and possibly transporting something away. Those reports are central to the mystery because they suggest that authorities took the event seriously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</span></span></span>
+The strongest military-presence evidence in Gordon’s archive concerns behaviour rather than hardware. Witnesses repeatedly described officials arriving, restricting access, searching the area, and possibly transporting something away. Those reports are central to the mystery because they suggest that authorities took the event seriously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</span></span></span>
 
-However, urgency alone cannot determine what caused that response. Military personnel would be expected to investigate reports of a possible aircraft crash, missile incident, space debris re-entry, hazardous material, or any unidentified object entering a populated region. A rapid security operation may demonstrate concern, but it does not by itself distinguish between conventional and extraordinary explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+However, urgency alone cannot determine what caused that response. Military personnel would be expected to investigate reports of a possible aircraft crash, missile incident, space debris re-entry, hazardous material, or any unidentified object entering a populated region. A rapid security operation may demonstrate concern, but it does not by itself distinguish between conventional and extraordinary explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-This distinction explains why the military-presence strand remains both influential and controversial. Gordon’s archive preserves testimony that many researchers consider difficult to dismiss, especially the recurring reports of [cordons]({{ 'cordons/' | relative_url }}) and transport vehicles. At the same time, the archive does not provide a documented chain of custody, photographs of a recovered object, or official records proving that an unusual craft was retrieved. The military accounts therefore remain suggestive evidence of a recovery operation rather than conclusive proof of what, if anything, was recovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</span></span></span>
+This distinction explains why the military-presence strand remains both influential and controversial. Gordon’s archive preserves testimony that many researchers consider difficult to dismiss, especially the recurring reports of [cordons]({{ 'cordons/' | relative_url }}) and transport vehicles. At the same time, the archive does not provide a documented chain of custody, photographs of a recovered object, or official records proving that an unusual craft was retrieved. The military accounts therefore remain suggestive evidence of a recovery operation rather than conclusive proof of what, if anything, was recovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[unsolved.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_military_presence_cl_874768-Illustration-3-dark.svg" | relative_url }}" alt="Military Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_military_presence_cl_874768-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_military_presence_cl_874768-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Witnesses See a Military Recovery?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Witnesses See a Military Recovery?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hMf3TgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a>
-        </h4>
-        <p class="fr-book-author">By Stan Gordon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hMf3TgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a>
+</h4>
+<p class="fr-book-author">By Stan Gordon</p>
         
-        <p class="fr-book-desc">Covers witness reports including official and military responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers witness reports including official and military responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on military and government involvement in UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on military and government involvement in UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Relevant to claims of government response and secrecy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to claims of government response and secrecy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy+by+Donald+Edward+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucer Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tD7bAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Flying Saucer Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy+by+Donald+Edward+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucer Conspiracy">The Flying Saucer Conspiracy</a>
-        </h4>
-        <p class="fr-book-author">By Donald Edward Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy+by+Donald+Edward+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucer Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tD7bAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Flying Saucer Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy+by+Donald+Edward+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucer Conspiracy">The Flying Saucer Conspiracy</a>
+</h4>
+<p class="fr-book-author">By Donald Edward Keyhoe</p>
         
-        <p class="fr-book-desc">Explores allegations of official concealment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy+by+Donald+Edward+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores allegations of official concealment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy+by+Donald+Edward+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Silent+Invasion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silent Invasion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Silent+Invasion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silent Invasion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military ufo poster -book -books -dvd" data-ebay-reference="did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO aircraft military vehicle British 11x17 Poster"><img src="https://i.ebayimg.com/images/g/2qAAAeSwzJ1p88Pf/s-l225.jpg" alt="Listing image for UFO aircraft military vehicle British 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military ufo poster -book -books -dvd" data-ebay-reference="did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">UFO aircraft military vehicle British 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military ufo poster -book -books -dvd" data-ebay-reference="did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military ufo poster -book -books -dvd" data-ebay-reference="did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military ufo poster -book -books -dvd" data-ebay-reference="did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military UFO Landing Poster – Desert Base Encounter, Vintage Alien Art"><img src="https://i.ebayimg.com/images/g/dL4AAeSwm2ppvRr5/s-l225.jpg" alt="Listing image for Military UFO Landing Poster – Desert Base Encounter, Vintage Alien Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military ufo poster -book -books -dvd" data-ebay-reference="did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Military UFO Landing Poster – Desert Base Encounter, Vintage Alien Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military ufo poster -book -books -dvd" data-ebay-reference="did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military ufo poster -book -books -dvd" data-ebay-reference="did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military ufo poster -book -books -dvd" data-ebay-reference="did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Vast of Night Movie Poster T-Shirt, Retro UFO Mystery Sci-Fi Conspiracy Tee"><img src="https://i.ebayimg.com/images/g/4TYAAeSwmvtp-7uh/s-l225.jpg" alt="Listing image for The Vast of Night Movie Poster T-Shirt, Retro UFO Mystery Sci-Fi Conspiracy Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military ufo poster -book -books -dvd" data-ebay-reference="did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">The Vast of Night Movie Poster T-Shirt, Retro UFO Mystery Sci-Fi Conspiracy Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military ufo poster -book -books -dvd" data-ebay-reference="did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military ufo poster -book -books -dvd" data-ebay-reference="did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="military-claims-did-witnesses-see-a-military-recovery-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military ufo poster -book -books -dvd" data-ebay-reference="did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for science fiction digital art UFO military vehicle Arctic dawn 11x17 Poster"><img src="https://i.ebayimg.com/images/g/0AEAAeSwhPFp88Gh/s-l225.jpg" alt="Listing image for science fiction digital art UFO military vehicle Arctic dawn 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military ufo poster -book -books -dvd" data-ebay-reference="did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">science fiction digital art UFO military vehicle Arctic dawn 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military ufo poster -book -books -dvd" data-ebay-reference="did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military ufo poster -book -books -dvd" data-ebay-reference="did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military ufo poster -book -books -dvd" data-ebay-reference="did-witnesses-see-a-military-recovery-military-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ This distinction explains why the military-presence strand remains both influent
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ This distinction explains why the military-presence strand remains both influent
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ This distinction explains why the military-presence strand remains both influent
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ This distinction explains why the military-presence strand remains both influent
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ This distinction explains why the military-presence strand remains both influent
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,88 +756,88 @@ This distinction explains why the military-presence strand remains both influent
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: unsolved.com  
    Title: Mysteries Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</p></details>
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: podcasts.apple.com  
    Title: Podcasts Kecksburg Revisited with Stan …  
-   Link: <a href="https://podcasts.apple.com/us/podcast/kecksburg-revisited-with-stan-gordon/id923527373?i=1000487547306" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/kecksburg-revisited-with-stan-gordon/id923527373?i=1000487547306</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsKecksburg Revisited with Stan … - Astonishing Legends9 Aug 2020 — We&#x27;re finally fortunate enough to talk with Stan Gordon...</p></details>
+   Link:<a href="https://podcasts.apple.com/us/podcast/kecksburg-revisited-with-stan-gordon/id923527373?i=1000487547306" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/kecksburg-revisited-with-stan-gordon/id923527373?i=1000487547306</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsKecksburg Revisited with Stan … - Astonishing Legends9 Aug 2020 — We&#x27;re finally fortunate enough to talk with Stan Gordon...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: post-gazette.com  
-   Link: <a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hoffman arrived in time to see military men taking an object away on the back of a flatbed truck. But his account differs from some of the...</p></details>
+   Link:<a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hoffman arrived in time to see military men taking an object away on the back of a flatbed truck. But his account differs from some of the...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: in 1965 a mysterious [acorn shape](&#123;&#123; 'acorn-shape/' | relative_url &#125;&#125;) object crash landed just down the road in kecks  
-   Link: <a href="https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-acorn-shape-object-crash-landed-just-down-the-road-in-kecks/974564784944605/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-acorn-shape-object-crash-landed-just-down-the-road-in-kecks/974564784944605/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stan Gordon discusses Kecksburg UFO incidentIn 1965, a mysterious acorn shape object crash landed just down the road in Kecksburg, Pa. Th...</p></details>
+   Link:<a href="https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-acorn-shape-object-crash-landed-just-down-the-road-in-kecks/974564784944605/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-acorn-shape-object-crash-landed-just-down-the-road-in-kecks/974564784944605/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stan Gordon discusses Kecksburg UFO incidentIn 1965, a mysterious acorn shape object crash landed just down the road in Kecksburg, Pa. Th...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CKK66LtZ1Hs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CKK66LtZ1Hs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 184 Kecksburg Revisited with Stan GordonThe object was loaded onto a flatbed truck along with multiple unknown containers, wrappe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CKK66LtZ1Hs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CKK66LtZ1Hs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 184 Kecksburg Revisited with Stan GordonThe object was loaded onto a flatbed truck along with multiple unknown containers, wrappe...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/39530664/kecksburg2" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/39530664/kecksburg2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 1965, many witnesses in Pennsylvania observed an object descend and crash near Kecksburg, and the military quickly cordoned...</p></details>
+   Link:<a href="https://www.scribd.com/document/39530664/kecksburg2" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/39530664/kecksburg2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 1965, many witnesses in Pennsylvania observed an object descend and crash near Kecksburg, and the military quickly cordoned...</p></details>
    Published: December 9, 1965  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: is case finally closed on 1965 ufo mysteryleslie  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is case finally closed on 1965 UFO mystery?--Leslie Keane...This saga, now over four decades old, centers on a reported out-of-the-sky i...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is case finally closed on 1965 UFO mystery?--Leslie Keane...This saga, now over four decades old, centers on a reported out-of-the-sky i...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mg.co.za  
    Title: 2007 11 11 nasa told to solve ufo crash x file  
-   Link: <a href="https://mg.co.za/news/south-africa/2007-11-11-nasa-told-to-solve-ufo-crash-x-file/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/news/south-africa/2007-11-11-nasa-told-to-solve-ufo-crash-x-file/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mail &amp; GuardianNasa told to solve &#x27;UFO crash&#x27; X-file11 Nov 2007 — On December 9 1965, they say, they saw armed soldiers cordoning off the...</p></details>
+   Link:<a href="https://mg.co.za/news/south-africa/2007-11-11-nasa-told-to-solve-ufo-crash-x-file/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/news/south-africa/2007-11-11-nasa-told-to-solve-ufo-crash-x-file/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mail &amp; GuardianNasa told to solve &#x27;UFO crash&#x27; X-file11 Nov 2007 — On December 9 1965, they say, they saw armed soldiers cordoning off the...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: the 1965 kecksburg pennsylvania ufo crash  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ffgrv7/the_1965_kecksburg_pennsylvania_ufo_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ffgrv7/the_1965_kecksburg_pennsylvania_ufo_crash/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1965 Kecksburg, Pennsylvania UFO CrashA deep dive into one of the United State&#x27;s most famous UFO stories, the 1965 Kecksburg, Pennsyl...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ffgrv7/the_1965_kecksburg_pennsylvania_ufo_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ffgrv7/the_1965_kecksburg_pennsylvania_ufo_crash/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1965 Kecksburg, Pennsylvania UFO CrashA deep dive into one of the United State&#x27;s most famous UFO stories, the 1965 Kecksburg, Pennsyl...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYVIcS8oKZZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYVIcS8oKZZ/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the mysterious 1965 incident that continues to baffle experts...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYVIcS8oKZZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYVIcS8oKZZ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the mysterious 1965 incident that continues to baffle experts...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: What fell from the sky in Kecksburg PA  
-   Link: <a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night. The front page of th...</p></details>
+   Link:<a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night. The front page of th...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: basementofthebizarre.com  
    Title: kecksburg ufo incident 1965 mystery  
-   Link: <a href="https://basementofthebizarre.com/2026/06/04/kecksburg-ufo-incident-1965-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://basementofthebizarre.com/2026/06/04/kecksburg-ufo-incident-1965-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg Incident: Pennsylvania&#x27;s “Area 51” Moment4 Jun 2026 — Rapid Lockdown: State police and military personnel arrived quickly...</p></details>
+   Link:<a href="https://basementofthebizarre.com/2026/06/04/kecksburg-ufo-incident-1965-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://basementofthebizarre.com/2026/06/04/kecksburg-ufo-incident-1965-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg Incident: Pennsylvania&#x27;s “Area 51” Moment4 Jun 2026 — Rapid Lockdown: State police and military personnel arrived quickly...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel...</p></details>

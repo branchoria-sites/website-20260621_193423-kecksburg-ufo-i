@@ -280,26 +280,26 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3_kalp_hollow
 
 ## Introduction
 
-The Nevin Kalp hollow smoke claim occupies a pivotal place in [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}) because it helped transform a widely observed fireball into a story centred on a specific location. According to accounts that emerged after the event, Kalp and members of his family believed an object had descended into a wooded hollow near their farm, and smoke was reportedly seen rising from that area. The importance of the claim is not that it proved an impact occurred, but that it gave investigators, residents and later UFO researchers a place to search. At the same time, the evidence supporting a physical crash site remained limited, and no publicly documented recovery of wreckage from the hollow was ever confirmed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThe Kalp farm is located less than a mile from Kecksburg Village. The object appeared...</span></span></span>
+The Nevin Kalp hollow smoke claim occupies a pivotal place in [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}) because it helped transform a widely observed fireball into a story centred on a specific location. According to accounts that emerged after the event, Kalp and members of his family believed an object had descended into a wooded hollow near their farm, and smoke was reportedly seen rising from that area. The importance of the claim is not that it proved an impact occurred, but that it gave investigators, residents and later UFO researchers a place to search. At the same time, the evidence supporting a physical crash site remained limited, and no publicly documented recovery of wreckage from the hollow was ever confirmed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThe Kalp farm is located less than a mile from Kecksburg Village. The object appeared...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3_kalp_hollow_smoke_a1a926-Illustration-1-dark.svg" | relative_url }}" alt="Kalp Hollow illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3_kalp_hollow_smoke_a1a926-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3_kalp_hollow_smoke_a1a926-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Kalp hollow account says
 
-The best-known version of the story comes from later witness recollections and [media retellings]({{ 'media-retellings/' | relative_url }}). In these accounts, Nevin Kalp, who was a child at the time, reported seeing a fiery object descend toward a wooded ravine or hollow near the family property. Related accounts from the Kalp family described a small amount of smoke, sometimes characterised as a bluish wisp, rising from the area where the object was thought to have come down. The smoke was reportedly visible only briefly before dissipating. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thepennsylvaniarambler.wordpress.com/2020/01/18/the-kecksburg-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepennsylvaniarambler.wordpress.com">[The Pennsylvania Rambler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepennsylvaniarambler.wordpress.com</span><span class="citation-popover-title">The Pennsylvania Rambler The Kecksburg Incident</span><span class="citation-popover-snippet">The Pennsylvania RamblerThe Kecksburg Incident - the Pennsylvania Rambler18 Jan 2020 — Nevin Kalp, a local boy, reported seeing the objec...</span></span></span>
+The best-known version of the story comes from later witness recollections and [media retellings]({{ 'media-retellings/' | relative_url }}). In these accounts, Nevin Kalp, who was a child at the time, reported seeing a fiery object descend toward a wooded ravine or hollow near the family property. Related accounts from the Kalp family described a small amount of smoke, sometimes characterised as a bluish wisp, rising from the area where the object was thought to have come down. The smoke was reportedly visible only briefly before dissipating.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thepennsylvaniarambler.wordpress.com/2020/01/18/the-kecksburg-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepennsylvaniarambler.wordpress.com">[The Pennsylvania Rambler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepennsylvaniarambler.wordpress.com</span><span class="citation-popover-title">The Pennsylvania Rambler The Kecksburg Incident</span><span class="citation-popover-snippet">The Pennsylvania RamblerThe Kecksburg Incident - the Pennsylvania Rambler18 Jan 2020 — Nevin Kalp, a local boy, reported seeing the objec...</span></span></span>
 
-The details are significant because they differ from reports of a distant fireball trail in the sky. A smoke plume emerging from a specific hollow suggests a local ground event rather than an atmospheric phenomenon viewed at a distance. In the developing Kecksburg narrative, this distinction mattered enormously. The smoke report implied that whatever had crossed the sky might have reached the ground nearby. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thepennsylvaniarambler.wordpress.com/2020/01/18/the-kecksburg-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepennsylvaniarambler.wordpress.com">[The Pennsylvania Rambler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepennsylvaniarambler.wordpress.com</span><span class="citation-popover-title">The Pennsylvania Rambler The Kecksburg Incident</span><span class="citation-popover-snippet">The Pennsylvania RamblerThe Kecksburg Incident - the Pennsylvania Rambler18 Jan 2020 — Nevin Kalp, a local boy, reported seeing the objec...</span></span></span>
+The details are significant because they differ from reports of a distant fireball trail in the sky. A smoke plume emerging from a specific hollow suggests a local ground event rather than an atmospheric phenomenon viewed at a distance. In the developing Kecksburg narrative, this distinction mattered enormously. The smoke report implied that whatever had crossed the sky might have reached the ground nearby.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thepennsylvaniarambler.wordpress.com/2020/01/18/the-kecksburg-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepennsylvaniarambler.wordpress.com">[The Pennsylvania Rambler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepennsylvaniarambler.wordpress.com</span><span class="citation-popover-title">The Pennsylvania Rambler The Kecksburg Incident</span><span class="citation-popover-snippet">The Pennsylvania RamblerThe Kecksburg Incident - the Pennsylvania Rambler18 Jan 2020 — Nevin Kalp, a local boy, reported seeing the objec...</span></span></span>
 
-However, even in supportive retellings, the reported smoke appears modest and short-lived. The descriptions are generally of a wisp or small column rather than a sustained fire, explosion or large impact plume. That limited scale has shaped later debates about what, if anything, occurred in the hollow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thepennsylvaniarambler.wordpress.com/2020/01/18/the-kecksburg-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepennsylvaniarambler.wordpress.com">[The Pennsylvania Rambler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepennsylvaniarambler.wordpress.com</span><span class="citation-popover-title">The Pennsylvania Rambler The Kecksburg Incident</span><span class="citation-popover-snippet">The Pennsylvania RamblerThe Kecksburg Incident - the Pennsylvania Rambler18 Jan 2020 — Nevin Kalp, a local boy, reported seeing the objec...</span></span></span>
+However, even in supportive retellings, the reported smoke appears modest and short-lived. The descriptions are generally of a wisp or small column rather than a sustained fire, explosion or large impact plume. That limited scale has shaped later debates about what, if anything, occurred in the hollow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thepennsylvaniarambler.wordpress.com/2020/01/18/the-kecksburg-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepennsylvaniarambler.wordpress.com">[The Pennsylvania Rambler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepennsylvaniarambler.wordpress.com</span><span class="citation-popover-title">The Pennsylvania Rambler The Kecksburg Incident</span><span class="citation-popover-snippet">The Pennsylvania RamblerThe Kecksburg Incident - the Pennsylvania Rambler18 Jan 2020 — Nevin Kalp, a local boy, reported seeing the objec...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bntdCsyy20k" title="Kecksburg | HD | Horror, Sci-Fi | Full Movie in English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bntdCsyy20k" target="_blank" rel="noopener noreferrer">Kecksburg | HD | Horror, Sci-Fi | Full Movie in English</a></p><p class="youtube-embed-meta">Channel: Film&amp;Clips in English &middot; Views: 8.5K &middot; Uploaded: July 2025 &middot; Length: 1 hour 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bntdCsyy20k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bntdCsyy20k">Open on YouTube</a></p></div></div></div>
 
 ## How the hollow became the search focus
 
-The Kalp account provided something many other [witnesses]({{ 'witnesses/' | relative_url }}) could not: a geographical target. Numerous people across the region saw a bright object move through the sky on 9 December 1965, but sky observations alone did not identify a landing location. The reported smoke rising from the wooded hollow near the Kalp farm narrowed attention to a particular ravine and surrounding woodland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThe Kalp farm is located less than a mile from Kecksburg Village. The object appeared...</span></span></span>
+The Kalp account provided something many other [witnesses]({{ 'witnesses/' | relative_url }}) could not: a geographical target. Numerous people across the region saw a bright object move through the sky on 9 December 1965, but sky observations alone did not identify a landing location. The reported smoke rising from the wooded hollow near the Kalp farm narrowed attention to a particular ravine and surrounding woodland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThe Kalp farm is located less than a mile from Kecksburg Village. The object appeared...</span></span></span>
 
-As later narratives developed, search efforts became linked to that location. Accounts describe state police, local volunteers and other personnel looking through the woods as daylight faded. The hollow identified by the Kalp family effectively became the centre of the local investigation. Even decades later, discussions of the Kecksburg incident often refer back to the same wooded area because the smoke report supplied the story with a map reference rather than merely a direction in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThe Kalp farm is located less than a mile from Kecksburg Village. The object appeared...</span></span></span>
+As later narratives developed, search efforts became linked to that location. Accounts describe state police, local volunteers and other personnel looking through the woods as daylight faded. The hollow identified by the Kalp family effectively became the centre of the local investigation. Even decades later, discussions of the Kecksburg incident often refer back to the same wooded area because the smoke report supplied the story with a map reference rather than merely a direction in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThe Kalp farm is located less than a mile from Kecksburg Village. The object appeared...</span></span></span>
 
 This is one reason the Kalp testimony has remained influential. Whether or not an object actually landed there, the report helped establish the setting around which later crash-and-recovery claims were built. Without a named hollow and an alleged smoke source, the incident might have remained primarily a [regional fireball]({{ 'fireball-map/' | relative_url }}) sighting rather than a localised mystery.
 
@@ -307,11 +307,11 @@ This is one reason the Kalp testimony has remained influential. Whether or not a
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3_kalp_hollow_smoke_a1a926-Illustration-2-dark.svg" | relative_url }}" alt="Kalp Hollow illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3_kalp_hollow_smoke_a1a926-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3_kalp_hollow_smoke_a1a926-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the physical record remains weak
 
-The central limitation of the Kalp hollow claim is that it rests largely on witness testimony rather than on surviving [physical evidence]({{ 'no-object/' | relative_url }}). Publicly available records have not produced a verified impact crater, recovered wreckage, authenticated photographs of a crash site, or documented physical traces that clearly establish a large object struck the ground in the reported location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThe Kalp farm is located less than a mile from Kecksburg Village. The object appeared...</span></span></span>
+The central limitation of the Kalp hollow claim is that it rests largely on witness testimony rather than on surviving [physical evidence]({{ 'no-object/' | relative_url }}). Publicly available records have not produced a verified impact crater, recovered wreckage, authenticated photographs of a crash site, or documented physical traces that clearly establish a large object struck the ground in the reported location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThe Kalp farm is located less than a mile from Kecksburg Village. The object appeared...</span></span></span>
 
-Even accounts sympathetic to the crash interpretation acknowledge that searchers initially had difficulty locating a definite impact point. By the time authorities and volunteers were searching the area, reports indicate that the smoke was no longer visible. This left investigators attempting to reconstruct events after the most direct visual clue had disappeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThe Kalp farm is located less than a mile from Kecksburg Village. The object appeared...</span></span></span>
+Even accounts sympathetic to the crash interpretation acknowledge that searchers initially had difficulty locating a definite impact point. By the time authorities and volunteers were searching the area, reports indicate that the smoke was no longer visible. This left investigators attempting to reconstruct events after the most direct visual clue had disappeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThe Kalp farm is located less than a mile from Kecksburg Village. The object appeared...</span></span></span>
 
-Another limitation is the nature of the observation itself. A brief smoke report can have multiple explanations. A witness observing a bright atmospheric object may naturally associate later sounds, haze or visual disturbances with the place where they believe the object descended. Researchers who study witness reliability have long noted that dramatic aerial events can influence how people interpret later observations, especially when several unusual cues occur within a short period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</span></span></span>
+Another limitation is the nature of the observation itself. A brief smoke report can have multiple explanations. A witness observing a bright atmospheric object may naturally associate later sounds, haze or visual disturbances with the place where they believe the object descended. Researchers who study witness reliability have long noted that dramatic aerial events can influence how people interpret later observations, especially when several unusual cues occur within a short period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</span></span></span>
 
 The absence of a confirmed physical record does not prove that nothing occurred in the hollow. It does, however, mean that the smoke claim cannot independently establish a crash. The account points investigators toward a location, but it does not by itself demonstrate the presence of a recovered object or a documented impact site.
 
@@ -323,202 +323,202 @@ The absence of a confirmed physical record does not prove that nothing occurred 
 
 ## What the smoke claim contributes to the Kecksburg case
 
-The enduring value of the Kalp hollow account lies less in what it proves than in what it explains about the evolution of the Kecksburg story. The reported smoke transformed a broad regional observation into a local event with a specific destination. It supplied a focal point for searches, rumours and later investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThe Kalp farm is located less than a mile from Kecksburg Village. The object appeared...</span></span></span>
+The enduring value of the Kalp hollow account lies less in what it proves than in what it explains about the evolution of the Kecksburg story. The reported smoke transformed a broad regional observation into a local event with a specific destination. It supplied a focal point for searches, rumours and later investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThe Kalp farm is located less than a mile from Kecksburg Village. The object appeared...</span></span></span>
 
-At the same time, the evidential limits are clear. The smoke was reportedly brief, the alleged impact location never yielded publicly verified physical evidence, and the strongest support for the claim remains eyewitness recollection. As a result, the Kalp hollow report occupies an unusual position in the Kecksburg record: it is one of the most influential witness accounts in the case, yet one of the hardest to corroborate through surviving physical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThe Kalp farm is located less than a mile from Kecksburg Village. The object appeared...</span></span></span>
+At the same time, the evidential limits are clear. The smoke was reportedly brief, the alleged impact location never yielded publicly verified physical evidence, and the strongest support for the claim remains eyewitness recollection. As a result, the Kalp hollow report occupies an unusual position in the Kecksburg record: it is one of the most influential witness accounts in the case, yet one of the hardest to corroborate through surviving physical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[unsolved.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThe Kalp farm is located less than a mile from Kecksburg Village. The object appeared...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3_kalp_hollow_smoke_a1a926-Illustration-3-dark.svg" | relative_url }}" alt="Kalp Hollow illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3_kalp_hollow_smoke_a1a926-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3_kalp_hollow_smoke_a1a926-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The smoke claim that gave Kecksburg a map. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The smoke claim that gave Kecksburg a map. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows how witness claims are documented and compared.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how witness claims are documented and compared.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for evaluating localized sighting and landing claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating localized sighting and landing claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Explains how to assess physical-site and witness evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how to assess physical-site and witness evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kecksburg UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kecksburg UFO Incident">The Kecksburg UFO Incident</a>
-        </h4>
-        <p class="fr-book-author">By George Dudding</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kecksburg UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kecksburg UFO Incident">The Kecksburg UFO Incident</a>
+</h4>
+<p class="fr-book-author">By George Dudding</p>
         
-        <p class="fr-book-desc">Discusses the alleged crash site, smoke reports, and local witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses the alleged crash site, smoke reports, and local witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print"><img src="{{ '/assets/images/marketplace-covers/31fb5486de8394b97a2a.jpg' | relative_url }}" alt="Listing image for Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print"><img src="{{ '/assets/images/marketplace-covers/31fb5486de8394b97a2a.jpg' | relative_url }}" alt="Listing image for Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of The Great Lakes Michigan USA 1780 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/1afd147909e2a6660806.jpg' | relative_url }}" alt="Listing image for Map Of The Great Lakes Michigan USA 1780 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of The Great Lakes Michigan USA 1780 Vintage Historic Map Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of The Great Lakes Michigan USA 1780 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/1afd147909e2a6660806.jpg' | relative_url }}" alt="Listing image for Map Of The Great Lakes Michigan USA 1780 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of The Great Lakes Michigan USA 1780 Vintage Historic Map Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Great Lakes including Canals and Tributary Navigable Streams Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/13030d3d769dd34fbc3e.jpg' | relative_url }}" alt="Listing image for Great Lakes including Canals and Tributary Navigable Streams Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Great Lakes including Canals and Tributary Navigable Streams Map Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Great Lakes including Canals and Tributary Navigable Streams Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/13030d3d769dd34fbc3e.jpg' | relative_url }}" alt="Listing image for Great Lakes including Canals and Tributary Navigable Streams Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Great Lakes including Canals and Tributary Navigable Streams Map Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of The Great Lakes Michigan USA 1764 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/0a70b40261a001044873.jpg' | relative_url }}" alt="Listing image for Map Of The Great Lakes Michigan USA 1764 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of The Great Lakes Michigan USA 1764 Vintage Historic Map Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of The Great Lakes Michigan USA 1764 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/0a70b40261a001044873.jpg' | relative_url }}" alt="Listing image for Map Of The Great Lakes Michigan USA 1764 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of The Great Lakes Michigan USA 1764 Vintage Historic Map Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="kalp-hollow-the-smoke-claim-that-gave-kecksburg-a-map-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ At the same time, the evidential limits are clear. The smoke was reportedly brie
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ At the same time, the evidential limits are clear. The smoke was reportedly brie
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ At the same time, the evidential limits are clear. The smoke was reportedly brie
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ At the same time, the evidential limits are clear. The smoke was reportedly brie
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ At the same time, the evidential limits are clear. The smoke was reportedly brie
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,102 +724,102 @@ At the same time, the evidential limits are clear. The smoke was reportedly brie
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: unsolved.com  
    Title: Mysteries Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThe Kalp farm is located less than a mile from Kecksburg Village. The object appeared...</p></details>
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThe Kalp farm is located less than a mile from Kecksburg Village. The object appeared...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NorwinPublicLibrary/posts/7215ee9c/1367106712128508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NorwinPublicLibrary/posts/7215ee9c/1367106712128508/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e object was conducted in the woods. Neither civilians nor...</p></details>
+   Link:<a href="https://www.facebook.com/NorwinPublicLibrary/posts/7215ee9c/1367106712128508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NorwinPublicLibrary/posts/7215ee9c/1367106712128508/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e object was conducted in the woods. Neither civilians nor...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</p></details>
+   Link:<a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
    Title: mr mikula from the 1990 episode of unsolved mysteries about the kecksburg ufo  
-   Link: <a href="https://www.facebook.com/LatrobeClassof1995/posts/mr-mikula-from-the-1990-episode-of-unsolved-mysteries-about-the-kecksburg-ufo/813091928877485/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LatrobeClassof1995/posts/mr-mikula-from-the-1990-episode-of-unsolved-mysteries-about-the-kecksburg-ufo/813091928877485/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mr. Mikula from the 1990 episode of Unsolved Mysteries...Mr. Mikula from the 1990 episode of Unsolved Mysteries about the Kecksburg UFO...</p></details>
+   Link:<a href="https://www.facebook.com/LatrobeClassof1995/posts/mr-mikula-from-the-1990-episode-of-unsolved-mysteries-about-the-kecksburg-ufo/813091928877485/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LatrobeClassof1995/posts/mr-mikula-from-the-1990-episode-of-unsolved-mysteries-about-the-kecksburg-ufo/813091928877485/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mr. Mikula from the 1990 episode of Unsolved Mysteries...Mr. Mikula from the 1990 episode of Unsolved Mysteries about the Kecksburg UFO...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100094233736961/videos/watch-unsolved-mysteries-with-robert-stack-s03-e01/1857370224738460/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100094233736961/videos/watch-unsolved-mysteries-with-robert-stack-s03-e01/1857370224738460/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>parently crashed in a wooded ravine half a mile away.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/100094233736961/videos/watch-unsolved-mysteries-with-robert-stack-s03-e01/1857370224738460/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100094233736961/videos/watch-unsolved-mysteries-with-robert-stack-s03-e01/1857370224738460/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>parently crashed in a wooded ravine half a mile away.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence  
-   Link: <a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg | HD | Horror, Sci-Fi | Full Movie in English...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg | HD | Horror, Sci-Fi | Full Movie in English...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Kecksburg | HD | Horror, Sci-Fi | Full Movie in English  
-   Link: <a href="https://www.youtube.com/watch?v=bntdCsyy20k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bntdCsyy20k</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cameras Capture Buried Spacecraft | Beyond Skinwalker Ranch | Full Episode...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bntdCsyy20k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bntdCsyy20k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cameras Capture Buried Spacecraft | Beyond Skinwalker Ranch | Full Episode...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thepennsylvaniarambler.wordpress.com  
    Title: The Pennsylvania Rambler The Kecksburg Incident  
-   Link: <a href="https://thepennsylvaniarambler.wordpress.com/2020/01/18/the-kecksburg-incident/" target="_blank" rel="noopener noreferrer nofollow">https://thepennsylvaniarambler.wordpress.com/2020/01/18/the-kecksburg-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pennsylvania RamblerThe Kecksburg Incident - the Pennsylvania Rambler18 Jan 2020 — Nevin Kalp, a local boy, reported seeing the objec...</p></details>
+   Link:<a href="https://thepennsylvaniarambler.wordpress.com/2020/01/18/the-kecksburg-incident/" target="_blank" rel="noopener noreferrer nofollow">https://thepennsylvaniarambler.wordpress.com/2020/01/18/the-kecksburg-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pennsylvania RamblerThe Kecksburg Incident - the Pennsylvania Rambler18 Jan 2020 — Nevin Kalp, a local boy, reported seeing the objec...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lflank.wordpress.com  
    Title: pennsylvanias roswell the kecksburg flying saucer  
-   Link: <a href="https://lflank.wordpress.com/2015/12/08/pennsylvanias-roswell-the-kecksburg-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://lflank.wordpress.com/2015/12/08/pennsylvanias-roswell-the-kecksburg-flying-saucer/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>wordpress.comPennsylvania&#x27;s “Roswell”: The Kecksburg Flying Saucer8 Dec 2015 — The Kecksburg incident resulted when a secret Russian test...</p></details>
+   Link:<a href="https://lflank.wordpress.com/2015/12/08/pennsylvanias-roswell-the-kecksburg-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://lflank.wordpress.com/2015/12/08/pennsylvanias-roswell-the-kecksburg-flying-saucer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wordpress.comPennsylvania&#x27;s “Roswell”: The Kecksburg Flying Saucer8 Dec 2015 — The Kecksburg incident resulted when a secret Russian test...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: unsolvedmysteries.fandom.com  
-   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO | Unsolved Mysteries Wiki - FandomNearby, Nevan and Nadine Kalp were playing in their yard when it flew overhead and crashed into a r...</p></details>
+   Link:<a href="https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO | Unsolved Mysteries Wiki - FandomNearby, Nevan and Nadine Kalp were playing in their yard when it flew overhead and crashed into a r...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Yw5wx_P-ZCw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yw5wx_P-ZCw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Incident Pretty much SolvedWent on a trip to see the Space Acorn and look deeper into an over 50 years story regarding a UF...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Yw5wx_P-ZCw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yw5wx_P-ZCw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Incident Pretty much SolvedWent on a trip to see the Space Acorn and look deeper into an over 50 years story regarding a UF...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Incydent w Kecksburgu  
-   Link: <a href="https://pl.wikipedia.org/wiki/Incydent_w_Kecksburgu" target="_blank" rel="noopener noreferrer nofollow">https://pl.wikipedia.org/wiki/Incydent_w_Kecksburgu</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Incydent w KecksburguIncydent w Kecksburgu (ang. Kecksburg UFO incident) – rzekome rozbicie się niezidentyfikowanego obiektu latająceg...</p></details>
+   Link:<a href="https://pl.wikipedia.org/wiki/Incydent_w_Kecksburgu" target="_blank" rel="noopener noreferrer nofollow">https://pl.wikipedia.org/wiki/Incydent_w_Kecksburgu</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incydent w KecksburguIncydent w Kecksburgu (ang. Kecksburg UFO incident) – rzekome rozbicie się niezidentyfikowanego obiektu latająceg...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg Incident: What Really Happened Here?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg Incident: What Really Happened Here?...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Kecksburg Incident: What Really Happened Here?  
-   Link: <a href="https://www.youtube.com/watch?v=BXh2zTD9Kug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BXh2zTD9Kug</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BXh2zTD9Kug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BXh2zTD9Kug</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/39530664/kecksburg2" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/39530664/kecksburg2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: 40 Years Later | PDFThis article discusses the 1965 UFO crash incident in Kecksburg, Pennsylvania and the ongoing ef...</p></details>
+   Link:<a href="https://www.scribd.com/document/39530664/kecksburg2" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/39530664/kecksburg2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: 40 Years Later | PDFThis article discusses the 1965 UFO crash incident in Kecksburg, Pennsylvania and the ongoing ef...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0nj0H3paZV0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0nj0H3paZV0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Story of The Kecksburg UFO Acorn Crash of 1965in Kecksburg, Witnesses, including pilots and locals like Nevin Kalp reported a metalli...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0nj0H3paZV0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0nj0H3paZV0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Story of The Kecksburg UFO Acorn Crash of 1965in Kecksburg, Witnesses, including pilots and locals like Nevin Kalp reported a metalli...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt1924036/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt1924036/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This episode includes: Kecksburg... Nevin Kalp · Self - UFO Eyewitness · Ray E. Landy Jr.Read more...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt1924036/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt1924036/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This episode includes: Kecksburg... Nevin Kalp · Self - UFO Eyewitness · Ray E. Landy Jr.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Cameras Capture Buried Spacecraft | Beyond Skinwalker Ranch | Full Episode  
-   Link: <a href="https://www.youtube.com/watch?v=_zmvTRzj_wM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_zmvTRzj_wM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=_zmvTRzj_wM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_zmvTRzj_wM</a>  

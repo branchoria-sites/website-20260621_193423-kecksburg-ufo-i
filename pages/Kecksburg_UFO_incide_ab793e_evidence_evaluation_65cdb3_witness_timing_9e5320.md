@@ -278,15 +278,15 @@ When evaluating [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | 
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_evidence_evaluation_65cdb3_witness_timing_9e5320-Illustration-1-dark.svg" | relative_url }}" alt="Witness timing illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_evidence_evaluation_65cdb3_witness_timing_9e5320-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_evidence_evaluation_65cdb3_witness_timing_9e5320-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The Kecksburg case is especially vulnerable to this problem because it evolved from a local news event into a famous UFO mystery. Over the decades, television programmes, books, documentaries, anniversary coverage and repeated retellings gave witnesses many opportunities to revisit and reinterpret what they thought they had seen. As a result, the strongest testimony is generally the testimony closest in time to the event, while later recollections become more valuable when they can be independently corroborated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post-gazette.com">[Pittsburgh Post-Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post-gazette.com</span><span class="citation-popover-snippet">Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — Researchers consider the Kecksburg UFO one of...</span></span></span>
+The Kecksburg case is especially vulnerable to this problem because it evolved from a local news event into a famous UFO mystery. Over the decades, television programmes, books, documentaries, anniversary coverage and repeated retellings gave witnesses many opportunities to revisit and reinterpret what they thought they had seen. As a result, the strongest testimony is generally the testimony closest in time to the event, while later recollections become more valuable when they can be independently corroborated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post-gazette.com">[Pittsburgh Post-Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post-gazette.com</span><span class="citation-popover-snippet">Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — Researchers consider the Kecksburg UFO one of...</span></span></span>
 
 ## Why Early Accounts Deserve Different Treatment
 
-The earliest reports have one major advantage: they were recorded before the modern Kecksburg legend fully formed. Contemporary newspaper coverage and official communications established several points that appeared early and remained relatively stable. Witnesses reported a brilliant fireball, concern that something had come down nearby, and the presence of authorities searching the area. Those core elements emerged immediately after the event rather than decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.muckrock.com/foi/united-states-of-america-10/kecksburg-ufo-35451/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muckrock.com">[MuckRock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muckrock.com</span><span class="citation-popover-title">kecksburg ufo 35451</span><span class="citation-popover-snippet">Kecksburg UFOApr 5, 2017 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States. A...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+The earliest reports have one major advantage: they were recorded before the modern Kecksburg legend fully formed. Contemporary newspaper coverage and official communications established several points that appeared early and remained relatively stable. Witnesses reported a brilliant fireball, concern that something had come down nearby, and the presence of authorities searching the area. Those core elements emerged immediately after the event rather than decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.muckrock.com/foi/united-states-of-america-10/kecksburg-ufo-35451/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muckrock.com">[MuckRock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muckrock.com</span><span class="citation-popover-title">kecksburg ufo 35451</span><span class="citation-popover-snippet">Kecksburg UFOApr 5, 2017 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States. A...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
-More dramatic claims often became clearer and more detailed in later years. Descriptions of a bronze or acorn-shaped object, unusual [markings]({{ 'markings/' | relative_url }}) resembling [hieroglyphics]({{ 'hieroglyphics/' | relative_url }}), and military transport of a recovered object became prominent parts of the public story through later interviews, investigations and television programmes. That does not automatically make them false, but it does mean they require closer scrutiny because they were often documented long after the event itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — It quoted local residents at the time who said they had found an object in the woods shaped like an acorn was subsequentl...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
+More dramatic claims often became clearer and more detailed in later years. Descriptions of a bronze or acorn-shaped object, unusual [markings]({{ 'markings/' | relative_url }}) resembling [hieroglyphics]({{ 'hieroglyphics/' | relative_url }}), and military transport of a recovered object became prominent parts of the public story through later interviews, investigations and television programmes. That does not automatically make them false, but it does mean they require closer scrutiny because they were often documented long after the event itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — It quoted local residents at the time who said they had found an object in the woods shaped like an acorn was subsequentl...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
 
-Historians and investigators generally give extra weight to evidence created near the time of an event because it is less vulnerable to [memory contamination]({{ 'memory-drift/' | relative_url }}). In the Kecksburg case, a witness interviewed in December 1965 and a witness recalling the same scene in the 1990s are not necessarily providing evidence of equal strength, even if both are acting in good faith. The passage of time itself becomes an evidential factor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post-gazette.com">[Pittsburgh Post-Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post-gazette.com</span><span class="citation-popover-snippet">Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — Researchers consider the Kecksburg UFO one of...</span></span></span>
+Historians and investigators generally give extra weight to evidence created near the time of an event because it is less vulnerable to [memory contamination]({{ 'memory-drift/' | relative_url }}). In the Kecksburg case, a witness interviewed in December 1965 and a witness recalling the same scene in the 1990s are not necessarily providing evidence of equal strength, even if both are acting in good faith. The passage of time itself becomes an evidential factor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post-gazette.com">[Pittsburgh Post-Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post-gazette.com</span><span class="citation-popover-snippet">Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — Researchers consider the Kecksburg UFO one of...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Ka9dOx7ZWY" title="The Kecksburg UFO Case: Finally Solved After 60 Years?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer">The Kecksburg UFO Case: Finally Solved After 60 Years?</a></p><p class="youtube-embed-meta">Channel: Redoubt Productions &middot; Views: 851 &middot; Uploaded: December 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Ka9dOx7ZWY">Open on YouTube</a></p></div></div></div>
@@ -295,7 +295,7 @@ Historians and investigators generally give extra weight to evidence created nea
 
 Memory does not operate like a video recording. People often reconstruct memories using fragments of original perception mixed with later information. Kecksburg offers a textbook environment for that process because witnesses were exposed to decades of discussion about what supposedly happened.
 
-A key turning point came when national television and UFO investigators revisited the case. Programmes such as *Unsolved Mysteries* popularised specific visual details, particularly the image of an acorn-shaped craft with [strange symbols]({{ 'symbols/' | relative_url }}). Once a widely recognised narrative exists, witnesses can unintentionally incorporate parts of that narrative into their own recollections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — It quoted local residents at the time who said they had found an object in the woods shaped like an acorn was subsequentl...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
+A key turning point came when national television and UFO investigators revisited the case. Programmes such as *Unsolved Mysteries* popularised specific visual details, particularly the image of an acorn-shaped craft with [strange symbols]({{ 'symbols/' | relative_url }}). Once a widely recognised narrative exists, witnesses can unintentionally incorporate parts of that narrative into their own recollections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — It quoted local residents at the time who said they had found an object in the woods shaped like an acorn was subsequentl...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
 
 Several mechanisms are worth considering:
 
@@ -311,7 +311,7 @@ Several mechanisms are worth considering:
 
 These effects do not imply deception. In fact, they often occur among honest witnesses who genuinely believe they are reporting exactly what happened.
 
-The importance of this issue is reflected even in sympathetic coverage of Kecksburg. Modern accounts frequently acknowledge that the years have complicated recollections and that some details are difficult to separate from the evolving legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post-gazette.com">[Pittsburgh Post-Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post-gazette.com</span><span class="citation-popover-snippet">Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — Researchers consider the Kecksburg UFO one of...</span></span></span>
+The importance of this issue is reflected even in sympathetic coverage of Kecksburg. Modern accounts frequently acknowledge that the years have complicated recollections and that some details are difficult to separate from the evolving legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post-gazette.com">[Pittsburgh Post-Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post-gazette.com</span><span class="citation-popover-snippet">Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — Researchers consider the Kecksburg UFO one of...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_evidence_evaluation_65cdb3_witness_timing_9e5320-Illustration-2-dark.svg" | relative_url }}" alt="Witness timing illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_evidence_evaluation_65cdb3_witness_timing_9e5320-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_evidence_evaluation_65cdb3_witness_timing_9e5320-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -319,7 +319,7 @@ The importance of this issue is reflected even in sympathetic coverage of Kecksb
 
 Recognising the limits of memory does not mean dismissing later witnesses altogether. Some later testimony remains important, especially when it concerns details that were not obviously borrowed from publicity.
 
-For example, independent witnesses who consistently recalled military activity, roadblocks, searches or official interest may strengthen the case that authorities took the event seriously. Such testimony can be useful even if witnesses disagree about exactly what object, if any, was recovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Reply. wayco. September 1, 2024 at...Read more...</span><span class="citation-popover-meta">Published: September 1, 2024</span></span></span>
+For example, independent witnesses who consistently recalled military activity, roadblocks, searches or official interest may strengthen the case that authorities took the event seriously. Such testimony can be useful even if witnesses disagree about exactly what object, if any, was recovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Reply. wayco. September 1, 2024 at...Read more...</span><span class="citation-popover-meta">Published: September 1, 2024</span></span></span>
 
 Later interviews are particularly valuable when:
 
@@ -340,7 +340,7 @@ A later recollection that merely repeats a well-known public narrative adds less
 
 ## What Corroboration Would Strengthen Object Testimony?
 
-Claims about the object's appearance are among the most controversial parts of the Kecksburg story. Witnesses have described an acorn-shaped object, metallic surfaces and unusual markings, but these descriptions depend heavily on human recollection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Reply. wayco. September 1, 2024 at...Read more...</span><span class="citation-popover-meta">Published: September 1, 2024</span></span></span>
+Claims about the object's appearance are among the most controversial parts of the Kecksburg story. Witnesses have described an acorn-shaped object, metallic surfaces and unusual markings, but these descriptions depend heavily on human recollection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Reply. wayco. September 1, 2024 at...Read more...</span><span class="citation-popover-meta">Published: September 1, 2024</span></span></span>
 
 To elevate such testimony from intriguing to persuasive, investigators would ideally want corroboration beyond memory alone. Stronger evidence would include:
 
@@ -365,201 +365,201 @@ This distinction is crucial. A witness remembering an acorn-shaped craft decades
 
 A balanced assessment of Kecksburg neither rejects witness testimony nor accepts every recollection at face value. The most reliable approach is to rank testimony according to [timing]({{ 'timing/' | relative_url }}), independence and corroboration.
 
-Early accounts recorded before the case became a cultural phenomenon generally deserve the greatest evidential weight. Later memories remain relevant, but their value depends increasingly on whether they can be connected to contemporary records or independently confirmed by other evidence. Viewed through that lens, the witness record supports a real and unusual event that attracted official attention, while leaving significant uncertainty about the more elaborate claims that emerged and solidified over subsequent decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post-gazette.com">[Pittsburgh Post-Gazette+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post-gazette.com</span><span class="citation-popover-snippet">Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — Researchers consider the Kecksburg UFO one of...</span></span></span>
+Early accounts recorded before the case became a cultural phenomenon generally deserve the greatest evidential weight. Later memories remain relevant, but their value depends increasingly on whether they can be connected to contemporary records or independently confirmed by other evidence. Viewed through that lens, the witness record supports a real and unusual event that attracted official attention, while leaving significant uncertainty about the more elaborate claims that emerged and solidified over subsequent decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post-gazette.com">[post-gazette.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post-gazette.com</span><span class="citation-popover-snippet">Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — Researchers consider the Kecksburg UFO one of...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VM68dQjp4-M" title="Nearly 50 years later, Kecksburg UFO sighting remains mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VM68dQjp4-M" target="_blank" rel="noopener noreferrer">Nearly 50 years later, Kecksburg UFO sighting remains mystery</a></p><p class="youtube-embed-meta">Channel: WTAE-TV Pittsburgh &middot; Views: 38.0K &middot; Uploaded: July 2013 &middot; Length: 2 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VM68dQjp4-M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VM68dQjp4-M">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Do Witness Memories Lose Weight?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Do Witness Memories Lose Weight?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses witness testimony and reliability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses witness testimony and reliability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains memory, belief, and retrospective reinterpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains memory, belief, and retrospective reinterpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Useful for understanding witness perception and conviction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding witness perception and conviction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contains accounts evaluated through corroboration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains accounts evaluated through corroboration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anderson Entertainment UFO Saucer Collectable"><img src="{{ '/assets/images/marketplace-covers/3fcedd05f4d4333b7b2b.jpg' | relative_url }}" alt="Listing image for Anderson Entertainment UFO Saucer Collectable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Anderson Entertainment UFO Saucer Collectable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure -book -books" data-ebay-reference="when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Carded Grey Alien 3.75&quot; Figure UFO Edition Handmade Collectible - Believe"><img src="https://i.ebayimg.com/images/g/AC0AAeSwziJpkoyG/s-l225.jpg" alt="Listing image for Custom Carded Grey Alien 3.75&quot; Figure UFO Edition Handmade Collectible - Believe" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure -book -books" data-ebay-reference="when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer">Custom Carded Grey Alien 3.75&quot; Figure UFO Edition Handmade Collectible - Believe</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure -book -books" data-ebay-reference="when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure -book -books" data-ebay-reference="when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade."><img src="{{ '/assets/images/marketplace-covers/eae7a1e8a8fad5254c8b.jpg' | relative_url }}" alt="Listing image for The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure -book -books" data-ebay-reference="when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Street Players 1996 Vintage UFO Alien Collectible Figure Science Fiction Horror"><img src="https://i.ebayimg.com/images/g/iYoAAeSw6HJp0uHh/s-l225.jpg" alt="Listing image for Street Players 1996 Vintage UFO Alien Collectible Figure Science Fiction Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure -book -books" data-ebay-reference="when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer">Street Players 1996 Vintage UFO Alien Collectible Figure Science Fiction Horror</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure -book -books" data-ebay-reference="when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure -book -books" data-ebay-reference="when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure -book -books" data-ebay-reference="when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1997 Fame master Fun Based Wind up UFO Alien Soccer Ball Collectible Figure"><img src="https://i.ebayimg.com/images/g/nsMAAeSwd7tpcCu1/s-l225.jpg" alt="Listing image for 1997 Fame master Fun Based Wind up UFO Alien Soccer Ball Collectible Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure -book -books" data-ebay-reference="when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer">1997 Fame master Fun Based Wind up UFO Alien Soccer Ball Collectible Figure</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure -book -books" data-ebay-reference="when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure -book -books" data-ebay-reference="when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift"><img src="{{ '/assets/images/marketplace-covers/9d2e078b71d572691f24.jpg' | relative_url }}" alt="Listing image for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witness-timing-when-do-witness-memories-lose-weight-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure -book -books" data-ebay-reference="when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Gray Alien Area 51 Action Figure Statue Decor Gift UFO Collectible UAP"><img src="https://i.ebayimg.com/images/g/i3sAAeSwhkpp-v5h/s-l225.jpg" alt="Listing image for The Gray Alien Area 51 Action Figure Statue Decor Gift UFO Collectible UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure -book -books" data-ebay-reference="when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer">The Gray Alien Area 51 Action Figure Statue Decor Gift UFO Collectible UAP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure -book -books" data-ebay-reference="when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure -book -books" data-ebay-reference="when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure -book -books" data-ebay-reference="when-do-witness-memories-lose-weight-ufo-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -575,7 +575,7 @@ Early accounts recorded before the case became a cultural phenomenon generally d
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -595,7 +595,7 @@ Early accounts recorded before the case became a cultural phenomenon generally d
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -627,7 +627,7 @@ Early accounts recorded before the case became a cultural phenomenon generally d
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -679,7 +679,7 @@ Early accounts recorded before the case became a cultural phenomenon generally d
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -724,7 +724,7 @@ Early accounts recorded before the case became a cultural phenomenon generally d
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -765,113 +765,113 @@ Early accounts recorded before the case became a cultural phenomenon generally d
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: post-gazette.com  
-   Link: <a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — Researchers consider the Kecksburg UFO one of...</p></details>
+   Link:<a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — Researchers consider the Kecksburg UFO one of...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — The Conclusion of the NASA Lawsuit - Concerning the Kecksbur...</p></details>
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — The Conclusion of the NASA Lawsuit - Concerning the Kecksbur...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: muckrock.com  
    Title: kecksburg ufo 35451  
-   Link: <a href="https://www.muckrock.com/foi/united-states-of-america-10/kecksburg-ufo-35451/" target="_blank" rel="noopener noreferrer nofollow">https://www.muckrock.com/foi/united-states-of-america-10/kecksburg-ufo-35451/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFOApr 5, 2017 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States. A...</p></details>
+   Link:<a href="https://www.muckrock.com/foi/united-states-of-america-10/kecksburg-ufo-35451/" target="_blank" rel="noopener noreferrer nofollow">https://www.muckrock.com/foi/united-states-of-america-10/kecksburg-ufo-35451/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFOApr 5, 2017 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States. A...</p></details>
    Published: December 9, 1965  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 7, 2026 — It quoted local residents at the time who said they had found an object in the woods shaped like an acorn was subsequentl...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 7, 2026 — It quoted local residents at the time who said they had found an object in the woods shaped like an acorn was subsequentl...</p></details>
    Published: March 7, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: unsolved.com  
    Title: Mysteries Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reply. wayco. September 1, 2024 at...Read more...</p></details>
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reply. wayco. September 1, 2024 at...Read more...</p></details>
    Published: September 1, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: atlasobscura.com  
    Title: space acorn  
-   Link: <a href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/space-acorn</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in Kecksburg3 Jul 2013 — Today the Space Acorn continues to attract visitors to the small Pennsylvania town in which it supposedly landed...</p></details>
+   Link:<a href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/space-acorn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Kecksburg3 Jul 2013 — Today the Space Acorn continues to attract visitors to the small Pennsylvania town in which it supposedly landed...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theclio.com  
    Title: Kecksburg UFO Incident  
-   Link: <a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ClioThe Kecksburg UFO Incident happened December 9, 1965 when a mysterious glowing ball of fire crash landed in a small Pennsylvanian tow...</p></details>
+   Link:<a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ClioThe Kecksburg UFO Incident happened December 9, 1965 when a mysterious glowing ball of fire crash landed in a small Pennsylvanian tow...</p></details>
    Published: December 9, 1965  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s mysterious UFO landing 60 years agoSixty years ago, a December day changed the course of history for Kecksburg, a small commu...</p></details>
+   Link:<a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s mysterious UFO landing 60 years agoSixty years ago, a December day changed the course of history for Kecksburg, a small commu...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: positivelypittsburgh.com  
-   Link: <a href="https://positivelypittsburgh.com/the-kecksburg-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/the-kecksburg-ufo-incident/</a>  
+   Link:<a href="https://positivelypittsburgh.com/the-kecksburg-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/the-kecksburg-ufo-incident/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/39530664/kecksburg2" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/39530664/kecksburg2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 1965, many witnesses in Pennsylvania observed an object descend and crash near Kecksburg, and the military quickly cordoned...</p></details>
+   Link:<a href="https://www.scribd.com/document/39530664/kecksburg2" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/39530664/kecksburg2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 1965, many witnesses in Pennsylvania observed an object descend and crash near Kecksburg, and the military quickly cordoned...</p></details>
    Published: December 9, 1965  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: phillyvoice.com  
    Title: disclosure day ufo encounters kecksburg pennsylvania  
-   Link: <a href="https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Long rumored alien encounter in &#x27;Pennsylvania&#x27;s Roswell&#x27;...6 days ago — Kecksburg, a town known for reports of a UFO sighting in 1965...</p></details>
+   Link:<a href="https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Long rumored alien encounter in &#x27;Pennsylvania&#x27;s Roswell&#x27;...6 days ago — Kecksburg, a town known for reports of a UFO sighting in 1965...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: is case finally closed on 1965 ufo mysteryleslie  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is case finally closed on 1965 UFO mystery?--Leslie Keane...NASA hit with UFO cover-up claim as lawmaker says whistleblowers fear &#x27;being...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is case finally closed on 1965 UFO mystery?--Leslie Keane...NASA hit with UFO cover-up claim as lawmaker says whistleblowers fear &#x27;being...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: yahoo.com  
    Title: kecksburg incident remains mystery 60 035900487  
-   Link: <a href="https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg incident remains mystery 60 years later13 Jul 2025 — Now an internationally renown researcher on topics such as UFOs, Bigfoot a...</p></details>
+   Link:<a href="https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg incident remains mystery 60 years later13 Jul 2025 — Now an internationally renown researcher on topics such as UFOs, Bigfoot a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Kecksburg UFO mysteryOn December 9, 1965, residents of Kecksburg, Pennsylvania, reported seeing a fiery object streak acros...</p></details>
+   Link:<a href="https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Kecksburg UFO mysteryOn December 9, 1965, residents of Kecksburg, Pennsylvania, reported seeing a fiery object streak acros...</p></details>
    Published: December 9, 1965  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYVIcS8oKZZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYVIcS8oKZZ/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The object was still warm, still glowing. But...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYVIcS8oKZZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYVIcS8oKZZ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The object was still warm, still glowing. But...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: roadunraveled.com  
    Title: kecksburg ufo crash pennsylvania  
-   Link: <a href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Crash and the Roswell of Pennsylvania1 Oct 2020 — In the days after the crash, many eyewitnesses have said they were fo...</p></details>
+   Link:<a href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Crash and the Roswell of Pennsylvania1 Oct 2020 — In the days after the crash, many eyewitnesses have said they were fo...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>urg UFO incident remains one of the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>urg UFO incident remains one of the...Read more...</p></details>

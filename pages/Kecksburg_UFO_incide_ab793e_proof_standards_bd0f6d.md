@@ -451,15 +451,15 @@ The strongest evidence that would prove a Kecksburg recovery would not be anothe
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_proof_standards_bd0f6d-overview.webp" | relative_url }}" alt="Overview image for Proof Test" loading="eager" decoding="sync" fetchpriority="high">
-That standard matters because the case already has a real sky event, a documented Air Force search, and decades of recovery claims. The remaining question is narrower: did personnel actually remove something from Kecksburg? The publicly available Project Blue Book material says Air Force personnel from the Oakdale radar site searched with state police but were unsuccessful, while later investigators and [witnesses]({{ 'witnesses/' | relative_url }}) claim an object was found and taken away. Any proof test has to bridge that gap, not merely repeat that the incident was mysterious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
+That standard matters because the case already has a real sky event, a documented Air Force search, and decades of recovery claims. The remaining question is narrower: did personnel actually remove something from Kecksburg? The publicly available Project Blue Book material says Air Force personnel from the Oakdale radar site searched with state police but were unsuccessful, while later investigators and [witnesses]({{ 'witnesses/' | relative_url }}) claim an object was found and taken away. Any proof test has to bridge that gap, not merely repeat that the incident was mysterious.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
 
 ## The proof test starts with a recoverable object
 
-A physical object would be the most powerful form of proof, but only if it came with provenance. A fragment presented as “from Kecksburg” would have to be more than unusual metal in a display case. It would need documentation showing when and where it was collected, who collected it, how it was stored, who transferred it, and how it reached the laboratory now testing it. That is the basic idea behind chain of custody: a record of collection, safeguarding, transfer and analysis that documents who handled the evidence, when, and why. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://csrc.nist.gov/glossary/term/chain_of_custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csrc.nist.gov">[NIST Computer Security Resource Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csrc.nist.gov</span><span class="citation-popover-title">Computer Security Resource Centerchain of custody</span><span class="citation-popover-snippet">Computer Security Resource Centerchain of custody</span></span></span>
+A physical object would be the most powerful form of proof, but only if it came with provenance. A fragment presented as “from Kecksburg” would have to be more than unusual metal in a display case. It would need documentation showing when and where it was collected, who collected it, how it was stored, who transferred it, and how it reached the laboratory now testing it. That is the basic idea behind chain of custody: a record of collection, safeguarding, transfer and analysis that documents who handled the evidence, when, and why.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://csrc.nist.gov/glossary/term/chain_of_custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csrc.nist.gov">[NIST Computer Security Resource Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csrc.nist.gov</span><span class="citation-popover-title">Computer Security Resource Centerchain of custody</span><span class="citation-popover-snippet">Computer Security Resource Centerchain of custody</span></span></span>
 
 For Kecksburg, the ideal physical proof would look something like this: a labelled fragment, a contemporaneous recovery tag, a transport receipt, photographs of the object or fragment at the site, and a laboratory report whose sample numbers match the recovered material. The fragment would then need independent testing by more than one qualified laboratory. The result would not need to show “alien” material to prove recovery. It would only need to show that a non-local object, consistent with aerospace hardware, meteoritic material, or another identifiable source, was collected from the claimed site at the claimed time.
 
-This is where many claimed crash-retrieval cases fail. Strange composition alone is not enough. Industrial alloys, slag, radar chaff, aircraft parts and weathered debris can all look impressive when detached from their context. The Kecksburg Project Blue Book material itself reportedly referred to a metallic substance found around the time of the fireball as radar chaff recovered in Michigan, not as a Pennsylvania crash object. That illustrates why context is decisive: a fragment without a documented route from the Kecksburg woods to the analyst cannot settle the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
+This is where many claimed crash-retrieval cases fail. Strange composition alone is not enough. Industrial alloys, slag, radar chaff, aircraft parts and weathered debris can all look impressive when detached from their context. The Kecksburg Project Blue Book material itself reportedly referred to a metallic substance found around the time of the fireball as radar chaff recovered in Michigan, not as a Pennsylvania crash object. That illustrates why context is decisive: a fragment without a documented route from the Kecksburg woods to the analyst cannot settle the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
 
 A credible physical-object standard would require:
 
@@ -482,9 +482,9 @@ The last point is important. A fragment that proves “something artificial fell
 
 The most likely path to proof may be documentary rather than physical. A single authentic operations log, transport manifest or recovery inventory could change the case more than dozens of late interviews. The best document would not be a broad statement about UFOs; it would be boringly specific: a unit name, time, location, object description, vehicle movement, destination, evidence number, receiving officer and storage location.
 
-The public record currently points in two directions. On one side, the National Archives states that Project Blue Book has been declassified and is available for research, with case files arranged chronologically and finding aids by date and location. The Air Force fact sheet preserved there also says Project Blue Book closed in 1969 and that its documentation was transferred for public review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> On the other side, the Kecksburg-related Blue Book account summarised by Enigma Labs says a team from the Oakdale Radar Site helped search near Kecksburg until 2 a.m. but did not find the object, while also noting that the search was conducted with Pennsylvania State Highway Patrol personnel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
+The public record currently points in two directions. On one side, the National Archives states that Project Blue Book has been declassified and is available for research, with case files arranged chronologically and finding aids by date and location. The Air Force fact sheet preserved there also says Project Blue Book closed in 1969 and that its documentation was transferred for public review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> On the other side, the Kecksburg-related Blue Book account summarised by Enigma Labs says a team from the Oakdale Radar Site helped search near Kecksburg until 2 a.m. but did not find the object, while also noting that the search was conducted with Pennsylvania State Highway Patrol personnel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
 
-A document capable of proving recovery would have to outperform that official “searched but found nothing” record. It would need to be original or a traceable copy, not a typed transcript circulating without source custody. It would also need to connect to known institutions that plausibly handled the event: local police, Pennsylvania State Police, the 662nd radar squadron at Oakdale, Project Blue Book, Air Force logistics channels, NASA debris or “[fragology]({{ 'fragology/' | relative_url }})” files, or a receiving base such as Wright-Patterson or another named facility. Kean’s account of the NASA FOIA litigation specifically highlights the unresolved importance of an unfound report allegedly written after the 662nd radar squadron returned from the search. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2009/11/conclusion-of-nasa-lawsuit-concerning_10.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[The UFO Chronicles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-snippet">THE CONCLUSION OF THE NASA LAWSUIT: Concerning the Kecksburg, PA UFO case of 1965...</span></span></span>
+A document capable of proving recovery would have to outperform that official “searched but found nothing” record. It would need to be original or a traceable copy, not a typed transcript circulating without source custody. It would also need to connect to known institutions that plausibly handled the event: local police, Pennsylvania State Police, the 662nd radar squadron at Oakdale, Project Blue Book, Air Force logistics channels, NASA debris or “[fragology]({{ 'fragology/' | relative_url }})” files, or a receiving base such as Wright-Patterson or another named facility. Kean’s account of the NASA FOIA litigation specifically highlights the unresolved importance of an unfound report allegedly written after the 662nd radar squadron returned from the search.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2009/11/conclusion-of-nasa-lawsuit-concerning_10.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[The UFO Chronicles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-snippet">THE CONCLUSION OF THE NASA LAWSUIT: Concerning the Kecksburg, PA UFO case of 1965...</span></span></span>
 
 The document test would be strongest if several independent records matched each other without relying on the same source. For example, a radio log showing a recovery team dispatch, a military transport document showing a covered object leaving Westmoreland County, and a receiving-base inventory showing arrival of an unidentified capsule-like object would be mutually reinforcing. Each record would be stronger if found in a separate archive series, created by different offices for routine administrative reasons, and bearing normal archival [markings]({{ 'markings/' | relative_url }}).
 
@@ -493,9 +493,9 @@ The document test would be strongest if several independent records matched each
 
 ## Why the missing NASA records are not proof by themselves
 
-The NASA records issue is one of the most important reasons Kecksburg remains disputed, but it does not itself prove a recovery. Leslie Kean’s FOIA lawsuit did produce a significant transparency result: NASA was pushed into a more extensive historical search, and Kean later wrote that the effort did not solve the Kecksburg mystery. Her 2009 account also described broader archival weaknesses, missing or destroyed files, and search limitations that left open the possibility that relevant documents were overlooked, misfiled, destroyed or held elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2009/11/conclusion-of-nasa-lawsuit-concerning_10.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[The UFO Chronicles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-snippet">THE CONCLUSION OF THE NASA LAWSUIT: Concerning the Kecksburg, PA UFO case of 1965...</span></span></span>
+The NASA records issue is one of the most important reasons Kecksburg remains disputed, but it does not itself prove a recovery. Leslie Kean’s FOIA lawsuit did produce a significant transparency result: NASA was pushed into a more extensive historical search, and Kean later wrote that the effort did not solve the Kecksburg mystery. Her 2009 account also described broader archival weaknesses, missing or destroyed files, and search limitations that left open the possibility that relevant documents were overlooked, misfiled, destroyed or held elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2009/11/conclusion-of-nasa-lawsuit-concerning_10.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[The UFO Chronicles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-snippet">THE CONCLUSION OF THE NASA LAWSUIT: Concerning the Kecksburg, PA UFO case of 1965...</span></span></span>
 
-The most cited gap concerns “fragology” files. Kean reported that NASA searches did not locate the missing files and that the records were treated as destroyed or missing, while also noting a handwritten notation suggesting they may have still been at a Federal Records Center in 1994. She also described a NASA employee checking out related files and not returning them, with no follow-up that answered what happened to them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2009/11/conclusion-of-nasa-lawsuit-concerning_10.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[The UFO Chronicles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-snippet">THE CONCLUSION OF THE NASA LAWSUIT: Concerning the Kecksburg, PA UFO case of 1965...</span></span></span> The Guardian reported in 2007 that NASA public liaison officer Steve McConnell had acknowledged two boxes of papers from the time of the Kecksburg incident were missing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Nasa told to solve &#x27;UFO crash&#x27; X-File &#124; World news</span><span class="citation-popover-snippet">The Guardian Nasa told to solve &#x27;UFO crash&#x27; X-File &#124; World news</span></span></span>
+The most cited gap concerns “fragology” files. Kean reported that NASA searches did not locate the missing files and that the records were treated as destroyed or missing, while also noting a handwritten notation suggesting they may have still been at a Federal Records Center in 1994. She also described a NASA employee checking out related files and not returning them, with no follow-up that answered what happened to them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2009/11/conclusion-of-nasa-lawsuit-concerning_10.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[The UFO Chronicles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-snippet">THE CONCLUSION OF THE NASA LAWSUIT: Concerning the Kecksburg, PA UFO case of 1965...</span></span></span> The Guardian reported in 2007 that NASA public liaison officer Steve McConnell had acknowledged two boxes of papers from the time of the Kecksburg incident were missing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Nasa told to solve &#x27;UFO crash&#x27; X-File &#124; World news</span><span class="citation-popover-snippet">The Guardian Nasa told to solve &#x27;UFO crash&#x27; X-File &#124; World news</span></span></span>
 
 Those gaps are suspicious enough to justify further archival work, but they are not decisive. Missing records can result from poor archival control, routine destruction, misfiling, misunderstood accession numbers or genuine concealment. A proof standard cannot treat absence as confirmation. What would matter is the recovery of the missing files themselves, or a separate accession form, transfer list, checkout slip, laboratory index, or correspondence chain showing that the [missing boxes]({{ 'missing-boxes/' | relative_url }}) contained material from Kecksburg.
 
@@ -505,9 +505,9 @@ A strong documentary breakthrough would therefore not merely say “NASA had mis
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_proof_standards_bd0f6d-Illustration-2-dark.svg" | relative_url }}" alt="Proof Test illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_proof_standards_bd0f6d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_proof_standards_bd0f6d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Witness corroboration has to beat contamination and hindsight
 
-Witness testimony is essential to the Kecksburg story, but by itself it is not enough to prove recovery. The case is now shaped by decades of retellings, television reconstructions, local tradition, and the famous acorn-shaped prop left from the Unsolved Mysteries segment. Enigma Labs summarises later claims collected by researcher [Stan Gordon]({{ 'stan-gordon/' | relative_url }}): witnesses described a large metallic acorn-shaped object, bronze or gold in colour, partly buried in the woods, with no obvious seams and possible unusual markings. It also notes later claims involving military or government-background witnesses and a reported transfer to Lockbourne Air Force Base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
+Witness testimony is essential to the Kecksburg story, but by itself it is not enough to prove recovery. The case is now shaped by decades of retellings, television reconstructions, local tradition, and the famous acorn-shaped prop left from the Unsolved Mysteries segment. Enigma Labs summarises later claims collected by researcher [Stan Gordon]({{ 'stan-gordon/' | relative_url }}): witnesses described a large metallic acorn-shaped object, bronze or gold in colour, partly buried in the woods, with no obvious seams and possible unusual markings. It also notes later claims involving military or government-background witnesses and a reported transfer to Lockbourne Air Force Base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
 
-That testimony may be sincere and important, but a proof threshold has to ask when the accounts were first recorded, how independent they were, and whether the details appeared before or after public versions of the story became familiar. The reliability issue is not unique to Kecksburg. A review in the Journal of Scientific Exploration discussing The Reliability of UFO Witness Testimony notes the importance of perception and memory in cases where interviews are conducted weeks, months or years later, and it specifically mentions Robert Young’s examination of the Kecksburg crash claim alongside work on eyewitness limits during atmospheric entries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/3525/2195" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Open source on journalofscientificexploration.org.</span></span></span>
+That testimony may be sincere and important, but a proof threshold has to ask when the accounts were first recorded, how independent they were, and whether the details appeared before or after public versions of the story became familiar. The reliability issue is not unique to Kecksburg. A review in the Journal of Scientific Exploration discussing The Reliability of UFO Witness Testimony notes the importance of perception and memory in cases where interviews are conducted weeks, months or years later, and it specifically mentions Robert Young’s examination of the Kecksburg crash claim alongside work on eyewitness limits during atmospheric entries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/3525/2195" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Open source on journalofscientificexploration.org.</span></span></span>
 
 The strongest witness package would have early, independent accounts recorded before the folklore hardened. It would include people positioned at different points in the event chain: a civilian who saw the object at the site, a firefighter or police officer involved in cordoning the road, a service member in the search party, a driver or logistics clerk connected with transport, and a receiving-base worker who logged or guarded the object. Their statements would need to agree on non-obvious details such as the exact route, vehicle type, unit patches, radio call signs, packaging method, destination, time of departure, or names of officers in charge.
 
@@ -520,9 +520,9 @@ Even then, witness testimony would work best as corroboration, not as the sole p
 
 Some evidence would keep the case interesting without proving recovery. A new interview with a second-hand witness would be useful but not decisive. A declassified memo saying officials were concerned about public reaction would not prove an object was retrieved. A photograph of a covered truck would need date, location, photographer, negative history and context. An anonymous “insider” claim would carry little weight unless it came with verifiable service records and document trails.
 
-The same caution applies to explanations. Proving that the fireball was probably a meteor would not, by itself, disprove every claim of ground activity near Kecksburg. Conversely, proving that military personnel searched the area would not prove they found anything. The public Blue Book account already allows for a search team and a state-police-assisted recovery attempt while still saying the effort was unsuccessful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
+The same caution applies to explanations. Proving that the fireball was probably a meteor would not, by itself, disprove every claim of ground activity near Kecksburg. Conversely, proving that military personnel searched the area would not prove they found anything. The public Blue Book account already allows for a search team and a state-police-assisted recovery attempt while still saying the effort was unsuccessful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
 
-The [Kosmos 96 theory]({{ 'kosmos-96-fc7c69/' | relative_url }}) shows another trap. The failed Soviet Venus probe did re-enter on 9 December 1965 and has often been discussed in connection with Kecksburg, but the fireball trajectory and timing have been argued by several analysts to fit a meteor better than spacecraft debris. The scientific discussion of the Great Lakes fireball placed the event over the Detroit-Windsor/Lake Erie region rather than cleanly over rural Pennsylvania, and later reviews of witness testimony have supported the meteor interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span> A future proof of recovery would therefore need to identify the recovered object, not simply weaken one proposed explanation.
+The [Kosmos 96 theory]({{ 'kosmos-96-fc7c69/' | relative_url }}) shows another trap. The failed Soviet Venus probe did re-enter on 9 December 1965 and has often been discussed in connection with Kecksburg, but the fireball trajectory and timing have been argued by several analysts to fit a meteor better than spacecraft debris. The scientific discussion of the Great Lakes fireball placed the event over the Detroit-Windsor/Lake Erie region rather than cleanly over rural Pennsylvania, and later reviews of witness testimony have supported the meteor interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span> A future proof of recovery would therefore need to identify the recovered object, not simply weaken one proposed explanation.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lg1m_PvR55g" title="UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer">UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lg1m_PvR55g">Open on YouTube</a></p></div></div></div>
@@ -548,194 +548,194 @@ The Kecksburg recovery question should be framed as a historical and evidentiary
 A convincing future finding would probably look mundane at first: a box label, accession sheet, dispatch log, sample number, lab memorandum, or base inventory entry. The decisive feature would be that it connects the site, date, personnel, object and later handling in a way that independent researchers can audit. Until that chain exists, Kecksburg remains a case with a real event, serious unresolved archival questions, and a recovery story that has not yet met the standard needed to settle it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Evidence Would Settle Kecksburg?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Evidence Would Settle Kecksburg?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on standards of evidence, documents, and corroboration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on standards of evidence, documents, and corroboration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides rigorous standards for evaluating extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides rigorous standards for evaluating extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how claims, evidence, and belief interact.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how claims, evidence, and belief interact.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Useful for assessing weak or misleading forms of proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing weak or misleading forms of proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="proof-test-what-evidence-would-settle-kecksburg-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -751,7 +751,7 @@ A convincing future finding would probably look mundane at first: a box label, a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -771,7 +771,7 @@ A convincing future finding would probably look mundane at first: a box label, a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -803,7 +803,7 @@ A convincing future finding would probably look mundane at first: a box label, a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -855,7 +855,7 @@ A convincing future finding would probably look mundane at first: a box label, a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -900,7 +900,7 @@ A convincing future finding would probably look mundane at first: a box label, a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -941,193 +941,193 @@ A convincing future finding would probably look mundane at first: a box label, a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: enigmalabs.io  
    Title: Enigma Labs | Report a UFO sighting Kecksburg Incident | Enigma Labs  
-   Link: <a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
+   Link:<a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: csrc.nist.gov  
    Title: Computer Security Resource Centerchain of custody  
-   Link: <a href="https://csrc.nist.gov/glossary/term/chain_of_custody" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/glossary/term/chain_of_custody</a>  
+   Link:<a href="https://csrc.nist.gov/glossary/term/chain_of_custody" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/glossary/term/chain_of_custody</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: theufochronicles.com  
    Title: The UFO Chronicles  
-   Link: <a href="https://www.theufochronicles.com/2009/11/conclusion-of-nasa-lawsuit-concerning_10.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2009/11/conclusion-of-nasa-lawsuit-concerning_10.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE CONCLUSION OF THE NASA LAWSUIT: Concerning the Kecksburg, PA UFO case of 1965...</p></details>
+   Link:<a href="https://www.theufochronicles.com/2009/11/conclusion-of-nasa-lawsuit-concerning_10.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2009/11/conclusion-of-nasa-lawsuit-concerning_10.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE CONCLUSION OF THE NASA LAWSUIT: Concerning the Kecksburg, PA UFO case of 1965...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20170002070" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20170002070</a>  
+   Link:<a href="https://ntrs.nasa.gov/citations/20170002070" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20170002070</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: orbitaldebris.jsc.nasa.gov  
-   Link: <a href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/reentry/</a>  
+   Link:<a href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/reentry/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: orbitaldebris.jsc.nasa.gov  
-   Link: <a href="https://orbitaldebris.jsc.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/</a>  
+   Link:<a href="https://orbitaldebris.jsc.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nasa.gov  
    Title: jsc astromaterials curation research  
-   Link: <a href="https://www.nasa.gov/reference/jsc-astromaterials-curation-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/reference/jsc-astromaterials-curation-research/</a>  
+   Link:<a href="https://www.nasa.gov/reference/jsc-astromaterials-curation-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/reference/jsc-astromaterials-curation-research/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20190034081" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20190034081</a>  
+   Link:<a href="https://ntrs.nasa.gov/citations/20190034081" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20190034081</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: orbitaldebris.jsc.nasa.gov  
    Title: quarterly news  
-   Link: <a href="https://orbitaldebris.jsc.nasa.gov/quarterly-news/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/quarterly-news/</a>  
+   Link:<a href="https://orbitaldebris.jsc.nasa.gov/quarterly-news/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/quarterly-news/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20170010442" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20170010442</a>  
+   Link:<a href="https://ntrs.nasa.gov/citations/20170010442" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20170010442</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/document/sample-chain-custody-formdocx" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/sample-chain-custody-formdocx</a>  
+   Link:<a href="https://www.nist.gov/document/sample-chain-custody-formdocx" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/sample-chain-custody-formdocx</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: csrc.nist.gov  
    Title: govchain of evidence  
-   Link: <a href="https://csrc.nist.gov/glossary/term/chain_of_evidence" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/glossary/term/chain_of_evidence</a>  
+   Link:<a href="https://csrc.nist.gov/glossary/term/chain_of_evidence" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/glossary/term/chain_of_evidence</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management/biological-evidence-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management/biological-evidence-guidance</a>  
+   Link:<a href="https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management/biological-evidence-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management/biological-evidence-guidance</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/system/files/documents/forensics/NIST-IR-7928.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/system/files/documents/forensics/NIST-IR-7928.pdf</a>  
+   Link:<a href="https://www.nist.gov/system/files/documents/forensics/NIST-IR-7928.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/system/files/documents/forensics/NIST-IR-7928.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Incidente di Kecksburg  
-   Link: <a href="https://it.wikipedia.org/wiki/Incidente_di_Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Kecksburg</a>  
+   Link:<a href="https://it.wikipedia.org/wiki/Incidente_di_Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Kecksburg</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: [Kosmos](&#123;&#123; 'kosmos-96/' | relative_url &#125;&#125;) 96  
-   Link: <a href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kosmos_96</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kosmos_96</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: NASA Orbital Debris Program Office  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Orbital_Debris_Program_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Orbital_Debris_Program_Office</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Orbital_Debris_Program_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Orbital_Debris_Program_Office</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archives.gov  
    Title: uap bulk download  
-   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
+   Link:<a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: unsolved.com  
    Title: Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archive.org  
    Title: Project Blue Book Indexes  
-   Link: <a href="https://archive.org/details/ProjectBlueBookIndexes" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/ProjectBlueBookIndexes</a>  
+   Link:<a href="https://archive.org/details/ProjectBlueBookIndexes" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/ProjectBlueBookIndexes</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: space.com  
    Title: 7589 case finally closed 1965 pennsylvania ufo mystery  
-   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
    Title: The Guardian Nasa told to solve 'UFO crash' X-File | World news  
-   Link: <a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
+   Link:<a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3525/2195" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3525/2195</a>  
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/3525/2195" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3525/2195</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/historyoasis/photos/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788743288734/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/historyoasis/photos/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788743288734/</a>  
+   Link:<a href="https://www.facebook.com/historyoasis/photos/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788743288734/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/historyoasis/photos/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788743288734/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: rebellionroad.substack.com  
    Title: the kecksburg crash  
-   Link: <a href="https://rebellionroad.substack.com/p/the-kecksburg-crash" target="_blank" rel="noopener noreferrer nofollow">https://rebellionroad.substack.com/p/the-kecksburg-crash</a>  
+   Link:<a href="https://rebellionroad.substack.com/p/the-kecksburg-crash" target="_blank" rel="noopener noreferrer nofollow">https://rebellionroad.substack.com/p/the-kecksburg-crash</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: pennsylvania.fandom.com  
-   Link: <a href="https://pennsylvania.fandom.com/wiki/Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://pennsylvania.fandom.com/wiki/Kecksburg</a>  
+   Link:<a href="https://pennsylvania.fandom.com/wiki/Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://pennsylvania.fandom.com/wiki/Kecksburg</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: komprise.com  
-   Link: <a href="https://www.komprise.com/glossary_terms/chain-of-custody/" target="_blank" rel="noopener noreferrer nofollow">https://www.komprise.com/glossary_terms/chain-of-custody/</a>  
+   Link:<a href="https://www.komprise.com/glossary_terms/chain-of-custody/" target="_blank" rel="noopener noreferrer nofollow">https://www.komprise.com/glossary_terms/chain-of-custody/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: books.google.com  
-   Link: <a href="https://books.google.com/books/about/UFOs.html?id=kKQQ2lE8BKIC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/UFOs.html?id=kKQQ2lE8BKIC</a>  
+   Link:<a href="https://books.google.com/books/about/UFOs.html?id=kKQQ2lE8BKIC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/UFOs.html?id=kKQQ2lE8BKIC</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence  
-   Link: <a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel  
-   Link: <a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lg1m_PvR55g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Case: Finally Solved After 60 Years?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lg1m_PvR55g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Case: Finally Solved After 60 Years?...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: The Kecksburg UFO Case: Finally Solved After 60 Years?  
-   Link: <a href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3Ka9dOx7ZWY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3Ka9dOx7ZWY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: science.gov  
-   Link: <a href="https://www.science.gov/topicpages/s/sample%2Bcuration%2Bfacility" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/s/sample%2Bcuration%2Bfacility</a>  
+   Link:<a href="https://www.science.gov/topicpages/s/sample%2Bcuration%2Bfacility" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/s/sample%2Bcuration%2Bfacility</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/1991/04/old-solved-mysteries-the-kecksburg-incident/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1991/04/old-solved-mysteries-the-kecksburg-incident/</a>  
+   Link:<a href="https://skepticalinquirer.org/1991/04/old-solved-mysteries-the-kecksburg-incident/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1991/04/old-solved-mysteries-the-kecksburg-incident/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html</a>  
+   Link:<a href="https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: ijeais.org  
-   Link: <a href="https://ijeais.org/wp-content/uploads/2025/6/IJAAFMR250624.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ijeais.org/wp-content/uploads/2025/6/IJAAFMR250624.pdf</a>  
+   Link:<a href="https://ijeais.org/wp-content/uploads/2025/6/IJAAFMR250624.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ijeais.org/wp-content/uploads/2025/6/IJAAFMR250624.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: spacepage.be  
-   Link: <a href="https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/het-kecksburg-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/het-kecksburg-ufo-incident.html</a>  
+   Link:<a href="https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/het-kecksburg-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/het-kecksburg-ufo-incident.html</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: foxnews.com  
-   Link: <a href="https://www.foxnews.com/science/is-case-finally-closed-on-65-ufo-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/is-case-finally-closed-on-65-ufo-mystery</a>  
+   Link:<a href="https://www.foxnews.com/science/is-case-finally-closed-on-65-ufo-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/is-case-finally-closed-on-65-ufo-mystery</a>  

@@ -283,7 +283,7 @@ One reason the Kecksburg incident remains controversial is that many people reme
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_search_activity_no_w_ad3ae4-Illustration-1-dark.svg" | relative_url }}" alt="Searches illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_search_activity_no_w_ad3ae4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_search_activity_no_w_ad3ae4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In Kecksburg, reports of police and military activity became a lasting part of the story. At the same time, contemporary accounts repeatedly stated that searchers found nothing conclusive. That gap between remembered urgency and confirmed physical recovery is central to understanding why the case remains debated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+In Kecksburg, reports of police and military activity became a lasting part of the story. At the same time, contemporary accounts repeatedly stated that searchers found nothing conclusive. That gap between remembered urgency and confirmed physical recovery is central to understanding why the case remains debated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 ## Why authorities respond to alarming reports
 
@@ -297,15 +297,15 @@ When a brilliant bolide crosses a populated region, authorities face immediate u
 * Re-entering space hardware.
 * A meteorite fall.
 * A hazardous materials incident.
-* An unidentified object requiring investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">the unidentified object up close before US military officials were able to...Read more...</span></span></span>
+* An unidentified object requiring investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">the unidentified object up close before US military officials were able to...Read more...</span></span></span>
 
 </div>
 
 From an operational standpoint, dispatching personnel is often the safest response. Officials do not need proof of a crash before initiating a search. They need only a credible possibility that something may have come down.
 
-Contemporary reporting on the Kecksburg event describes state police and military personnel examining the area after local reports of an object descending into nearby woods. Such activity is therefore not unusual in itself; it is exactly what authorities would be expected to do when confronted with numerous reports of a dramatic aerial event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Contemporary reporting on the Kecksburg event describes state police and military personnel examining the area after local reports of an object descending into nearby woods. Such activity is therefore not unusual in itself; it is exactly what authorities would be expected to do when confronted with numerous reports of a dramatic aerial event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-The wider context matters as well. The December 1965 fireball was observed across multiple states and parts of Canada. Numerous reports reached [aviation]({{ 'aviation/' | relative_url }}) authorities, and scientific investigators later reconstructed a regional atmospheric event rather than a narrowly local phenomenon. A large-scale fireball naturally generated a large-scale response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The wider context matters as well. The December 1965 fireball was observed across multiple states and parts of Canada. Numerous reports reached [aviation]({{ 'aviation/' | relative_url }}) authorities, and scientific investigators later reconstructed a regional atmospheric event rather than a narrowly local phenomenon. A large-scale fireball naturally generated a large-scale response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/REsZcbglO3c" title="&#x27;I do believe something happened&#x27;: Search for answers about Kecksburg UFO in Pennsylvania" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=REsZcbglO3c" target="_blank" rel="noopener noreferrer">&#x27;I do believe something happened&#x27;: Search for answers about Kecksburg UFO in Pennsylvania</a></p><p class="youtube-embed-meta">Channel: WTAE-TV Pittsburgh</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=REsZcbglO3c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=REsZcbglO3c">Open on YouTube</a></p></div></div></div>
@@ -314,7 +314,7 @@ The wider context matters as well. The December 1965 fireball was observed acros
 
 A recurring misunderstanding in crash mysteries is the assumption that a search implies a successful recovery. Historically, those are two very different claims.
 
-For Kecksburg, contemporary newspaper accounts and later summaries frequently mention personnel searching the woods, roadblocks, official vehicles, and witness recollections of [military presence]({{ 'military-claims/' | relative_url }}). Yet reports published immediately after the incident also recorded that searchers failed to locate a confirmed object. Associated Press coverage described troopers and Air Force personnel searching with Geiger counters and reporting that nothing had been found. Other contemporary reporting similarly stated that search efforts produced no identified wreckage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+For Kecksburg, contemporary newspaper accounts and later summaries frequently mention personnel searching the woods, roadblocks, official vehicles, and witness recollections of [military presence]({{ 'military-claims/' | relative_url }}). Yet reports published immediately after the incident also recorded that searchers failed to locate a confirmed object. Associated Press coverage described troopers and Air Force personnel searching with Geiger counters and reporting that nothing had been found. Other contemporary reporting similarly stated that search efforts produced no identified wreckage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 This distinction is important because human memory tends to preserve the most dramatic parts of an event. A resident may vividly remember soldiers, flashlights, blocked roads, or official vehicles decades later. Those memories can remain accurate while still not demonstrating that an object was recovered.
 
@@ -332,7 +332,7 @@ The evidential chain is therefore:
 
 Only the final stages establish that a crash actually occurred at the reported location.
 
-In the Kecksburg case, the strongest documented element is the search itself. The existence of a verified recovered object remains far less certain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+In the Kecksburg case, the strongest documented element is the search itself. The existence of a verified recovered object remains far less certain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_search_activity_no_w_ad3ae4-Illustration-2-dark.svg" | relative_url }}" alt="Searches illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_search_activity_no_w_ad3ae4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_search_activity_no_w_ad3ae4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -340,7 +340,7 @@ In the Kecksburg case, the strongest documented element is the search itself. Th
 
 Part of the enduring debate comes from the contrast between later witness testimony and official findings.
 
-Many witnesses later described seeing evidence of a crash site, military security measures, or reports that an object was removed from the area. These accounts became central to UFO interpretations of the incident. At the same time, official explanations generally characterised the event as a meteor-related phenomenon and stated that no confirmed crash debris had been recovered in Kecksburg. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Many witnesses later described seeing evidence of a crash site, military security measures, or reports that an object was removed from the area. These accounts became central to UFO interpretations of the incident. At the same time, official explanations generally characterised the event as a meteor-related phenomenon and stated that no confirmed crash debris had been recovered in Kecksburg.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 Neither side of that contrast automatically resolves the question. Witness testimony can preserve valuable observations, but memories gathered years or decades later are not equivalent to contemporaneous [physical evidence]({{ 'no-object/' | relative_url }}). Conversely, official statements can be incomplete or disputed, but they remain part of the documentary record. The challenge is determining whether any independent material evidence exists to bridge the gap.
 
@@ -364,7 +364,7 @@ For a claimed Kecksburg recovery to be demonstrated convincingly, investigators 
 
 Meteorite recoveries provide a useful comparison. When a meteorite fall is verified, researchers can usually identify recovered specimens, document where they were found, analyse their composition, and preserve them in collections. Similarly, recovered aerospace debris generally leaves identifiable parts, serial numbers, manufacturing characteristics, or documented handling records.
 
-The difficulty in Kecksburg is that no publicly available body of evidence meeting those standards has emerged. Claims of recovered material have circulated for decades, but a verified object tied directly to the reported search area has not entered the historical record in a way that allows independent examination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The difficulty in Kecksburg is that no publicly available body of evidence meeting those standards has emerged. Claims of recovered material have circulated for decades, but a verified object tied directly to the reported search area has not entered the historical record in a way that allows independent examination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lsHWrkQWiQs" title="Real UFO? The &quot;Space Acorn&quot; of Kecksburg Pennsylvania" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer">Real UFO? The &quot;Space Acorn&quot; of Kecksburg Pennsylvania</a></p><p class="youtube-embed-meta">Channel: Ray Out There &middot; Views: 1.9K &middot; Uploaded: May 2023 &middot; Length: 4 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lsHWrkQWiQs">Open on YouTube</a></p></div></div></div>
@@ -373,7 +373,7 @@ The difficulty in Kecksburg is that no publicly available body of evidence meeti
 
 The absence of recovered wreckage does not mean the story disappeared. Instead, attention shifted toward records and documentation.
 
-NASA became involved in later Freedom of Information Act disputes concerning records that researchers believed might shed light on the event. Court proceedings and public reporting revealed disputes over missing or unavailable files connected to searches for historical documentation. Those missing records fuelled suspicion among some researchers and became a separate source of controversy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianNasa told to solve &#x27;UFO crash&#x27; X-File &#124; World news11 Nov 2007 — Steve McConnell, Nasa&#x27;s public liaison officer, has admitted...</span></span></span>
+NASA became involved in later Freedom of Information Act disputes concerning records that researchers believed might shed light on the event. Court proceedings and public reporting revealed disputes over missing or unavailable files connected to searches for historical documentation. Those missing records fuelled suspicion among some researchers and became a separate source of controversy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianNasa told to solve &#x27;UFO crash&#x27; X-File &#124; World news11 Nov 2007 — Steve McConnell, Nasa&#x27;s public liaison officer, has admitted...</span></span></span>
 
 However, missing paperwork is not the same thing as recovered hardware. Even if archival records are incomplete, the core evidential question remains unchanged: was a physical object recovered, and can that recovery be demonstrated through surviving evidence?
 
@@ -384,204 +384,204 @@ The historical debate often moves from the original fireball to the missing docu
 
 ## Why searches alone cannot settle the Kecksburg case
 
-The most defensible conclusion from the search record is limited but important. Authorities responded to reports that something had come down. Witnesses observed or remembered significant official activity. Searches were conducted. Those facts are relatively well established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The most defensible conclusion from the search record is limited but important. Authorities responded to reports that something had come down. Witnesses observed or remembered significant official activity. Searches were conducted. Those facts are relatively well established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-What remains unestablished is the recovery of a verified object from the search area. Contemporary reports repeatedly noted unsuccessful searches, while later claims of recovered hardware rely largely on testimony rather than publicly available physical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+What remains unestablished is the recovery of a verified object from the search area. Contemporary reports repeatedly noted unsuccessful searches, while later claims of recovered hardware rely largely on testimony rather than publicly available physical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-For that reason, the searches associated with Kecksburg should be understood as evidence that officials took the reports seriously, not as proof that a crash occurred. Within the broader context of bolide behaviour and false impact impressions, that distinction is crucial. Dramatic sky events often trigger real searches. The existence of those searches demonstrates concern and uncertainty at the time, but only recovered and documented material can demonstrate that an object actually reached the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+For that reason, the searches associated with Kecksburg should be understood as evidence that officials took the reports seriously, not as proof that a crash occurred. Within the broader context of bolide behaviour and false impact impressions, that distinction is crucial. Dramatic sky events often trigger real searches. The existence of those searches demonstrates concern and uncertainty at the time, but only recovered and documented material can demonstrate that an object actually reached the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_search_activity_no_w_ad3ae4-Illustration-3-dark.svg" | relative_url }}" alt="Searches illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_search_activity_no_w_ad3ae4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_search_activity_no_w_ad3ae4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Searches Do Not Prove a Crash. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Searches Do Not Prove a Crash. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how sightings, investigations, and evidence standards differ from conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how sightings, investigations, and evidence standards differ from conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on evidence quality rather than assumptions drawn from reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidence quality rather than assumptions drawn from reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines how UFO cases were assessed and documented.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how UFO cases were assessed and documented.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kecksburg UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kecksburg UFO Incident">The Kecksburg UFO Incident</a>
-        </h4>
-        <p class="fr-book-author">By George Dudding</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kecksburg UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kecksburg UFO Incident">The Kecksburg UFO Incident</a>
+</h4>
+<p class="fr-book-author">By George Dudding</p>
         
-        <p class="fr-book-desc">Directly covers the incident discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers the incident discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searches-do-not-prove-a-crash-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="why-searches-do-not-prove-a-crash-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed"><img src="https://i.ebayimg.com/images/g/-EkAAeSwUARosDVU/s-l225.jpg" alt="Listing image for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searches-do-not-prove-a-crash-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="why-searches-do-not-prove-a-crash-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searches-do-not-prove-a-crash-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="why-searches-do-not-prove-a-crash-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searches-do-not-prove-a-crash-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="why-searches-do-not-prove-a-crash-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO"><img src="{{ '/assets/images/marketplace-covers/184bb6bf3fc5597faf27.jpg' | relative_url }}" alt="Listing image for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searches-do-not-prove-a-crash-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="why-searches-do-not-prove-a-crash-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;"><img src="https://i.ebayimg.com/images/g/vXUAAOSws0FmZ9g7/s-l225.jpg" alt="Listing image for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searches-do-not-prove-a-crash-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="why-searches-do-not-prove-a-crash-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searches-do-not-prove-a-crash-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="why-searches-do-not-prove-a-crash-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searches-do-not-prove-a-crash-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="why-searches-do-not-prove-a-crash-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting"><img src="{{ '/assets/images/marketplace-covers/b962bd3da6424d670f7d.jpg' | relative_url }}" alt="Listing image for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searches-do-not-prove-a-crash-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="why-searches-do-not-prove-a-crash-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed"><img src="https://i.ebayimg.com/images/g/1XgAAOSwCRth3c3h/s-l225.jpg" alt="Listing image for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searches-do-not-prove-a-crash-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="why-searches-do-not-prove-a-crash-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searches-do-not-prove-a-crash-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="why-searches-do-not-prove-a-crash-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searches-do-not-prove-a-crash-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="why-searches-do-not-prove-a-crash-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="searches-5887a5-why-searches-do-not-prove-a-crash-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searches-do-not-prove-a-crash-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="why-searches-do-not-prove-a-crash-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed"><img src="https://i.ebayimg.com/images/g/hHEAAOSwEiJmNQYz/s-l225.jpg" alt="Listing image for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searches-do-not-prove-a-crash-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="why-searches-do-not-prove-a-crash-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searches-do-not-prove-a-crash-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="why-searches-do-not-prove-a-crash-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searches-do-not-prove-a-crash-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="why-searches-do-not-prove-a-crash-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searches-do-not-prove-a-crash-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="why-searches-do-not-prove-a-crash-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -597,7 +597,7 @@ For that reason, the searches associated with Kecksburg should be understood as 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -617,7 +617,7 @@ For that reason, the searches associated with Kecksburg should be understood as 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -649,7 +649,7 @@ For that reason, the searches associated with Kecksburg should be understood as 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -701,7 +701,7 @@ For that reason, the searches associated with Kecksburg should be understood as 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -746,7 +746,7 @@ For that reason, the searches associated with Kecksburg should be understood as 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -787,82 +787,82 @@ For that reason, the searches associated with Kecksburg should be understood as 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: space.com  
    Title: 7589 case finally closed 1965 pennsylvania ufo mystery  
-   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — This saga, now over four decades old, centerson a reported out-of...</p></details>
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — This saga, now over four decades old, centerson a reported out-of...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianNasa told to solve &#x27;UFO crash&#x27; X-File | World news11 Nov 2007 — Steve McConnell, Nasa&#x27;s public liaison officer, has admitted...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianNasa told to solve &#x27;UFO crash&#x27; X-File | World news11 Nov 2007 — Steve McConnell, Nasa&#x27;s public liaison officer, has admitted...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: post-gazette.com  
-   Link: <a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Five decades later, the Kecksburg UFO is identified...Dec 5, 2015 — Fifty years after the famous Kecksburg UFO streaked across the Decem...</p></details>
+   Link:<a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Five decades later, the Kecksburg UFO is identified...Dec 5, 2015 — Fifty years after the famous Kecksburg UFO streaked across the Decem...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Kecksburg UFO mysteryThe secrecy surrounding the recovery only deepened suspicion that the object was of nonhuman origin. O...</p></details>
+   Link:<a href="https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Kecksburg UFO mysteryThe secrecy surrounding the recovery only deepened suspicion that the object was of nonhuman origin. O...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the unidentified object up close before US military officials were able to...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the unidentified object up close before US military officials were able to...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theblackvault.com  
    Title: the vault files the 1965 kecksburg pennsylvania crash  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Vault Files: The 1965 Kecksburg, Pennsylvania Crash1 Aug 2025 — If, as officials claim, nothing was found, then why were armed troops...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Vault Files: The 1965 Kecksburg, Pennsylvania Crash1 Aug 2025 — If, as officials claim, nothing was found, then why were armed troops...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: is case finally closed on 1965 ufo mysteryleslie  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is case finally closed on 1965 UFO mystery?--Leslie Keane...Is case finally closed on 1965 UFO mystery?--Leslie Keane sued NASA in 2003...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is case finally closed on 1965 UFO mystery?--Leslie Keane...Is case finally closed on 1965 UFO mystery?--Leslie Keane sued NASA in 2003...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: yahoo.com  
    Title: kecksburg incident remains mystery 60 035900487  
-   Link: <a href="https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg incident remains mystery 60 years later13 Jul 2025 — Reports at the time noted a strange bronze-colored, acorn-shaped object me...</p></details>
+   Link:<a href="https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg incident remains mystery 60 years later13 Jul 2025 — Reports at the time noted a strange bronze-colored, acorn-shaped object me...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: What fell from the sky in Kecksburg PA  
-   Link: <a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>object, the report also indicates that the search found nothing. I have learned a lot about the Kecksburg case over the years, yet there...</p></details>
+   Link:<a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>object, the report also indicates that the search found nothing. I have learned a lot about the Kecksburg case over the years, yet there...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/484025020082/posts/10174584025095083/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/484025020082/posts/10174584025095083/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hool during the Kecksburg, Pa. incident, and remember it...</p></details>
+   Link:<a href="https://www.facebook.com/groups/484025020082/posts/10174584025095083/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/484025020082/posts/10174584025095083/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hool during the Kecksburg, Pa. incident, and remember it...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: crash site of the 1965 kecksburg ufo  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Today I learned of the Kecksburg, PA UFO incident where local witnesses actually saw the unidentified object up close before US military...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Today I learned of the Kecksburg, PA UFO incident where local witnesses actually saw the unidentified object up close before US military...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: James Webb Found the Most Promising Sign of Alien  
-   Link: <a href="https://www.youtube.com/watch?v=HX_RrO7ZQaU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HX_RrO7ZQaU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Other Roswell: the Kecksburg UFO | Conspiracy (S1...America&#x27;s Other Roswell: the Kecksburg UFO | Conspiracy (S1, E13) | Full E...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HX_RrO7ZQaU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HX_RrO7ZQaU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Other Roswell: the Kecksburg UFO | Conspiracy (S1...America&#x27;s Other Roswell: the Kecksburg UFO | Conspiracy (S1, E13) | Full E...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: unsolved.com  
    Title: Mysteries Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO - Unsolved MysteriesI know who the first civilian people were who arrived at the kecksburgh UFO landing and the alien techn...</p></details>
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO - Unsolved MysteriesI know who the first civilian people were who arrived at the kecksburgh UFO landing and the alien techn...</p></details>

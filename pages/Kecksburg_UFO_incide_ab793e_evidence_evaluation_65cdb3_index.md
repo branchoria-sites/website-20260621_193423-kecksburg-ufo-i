@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e-evidence/
 description: Focused pages that expand on Fair Test.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_evidence_evaluation_65cdb3
 parent_title: Fair Test
@@ -16,7 +16,7 @@ parent_permalink: /fair-test/
 
 # Explore Topics in Fair Test
 
-The following pages expand on the main **[Fair Test]({{ '/fair-test/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Fair Test]({{ '/fair-test/' | relative_url }})** page and cover its key branches in.
 
 - [Acorn proof]({{ '/acorn-proof/' | relative_url }})
 - [Evidence scale]({{ '/evidence-scale/' | relative_url }})

@@ -451,29 +451,29 @@ Sonic booms, visible trails and smoke reports sit at the centre of [the Kecksbur
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3-overview.webp" | relative_url }}" alt="Overview image for Booms" loading="eager" decoding="sync" fetchpriority="high">
-That tension matters because the strongest evidence for a large [regional fireball]({{ 'fireball-map/' | relative_url }}) is not the same as evidence for a local impact. A boom can travel far from an atmospheric event, and a meteor train can look like smoke. Yet [witnesses]({{ 'witnesses/' | relative_url }}) around Kecksburg described localised smoke, vibration, a “thump” and later activity in the woods, which helped transform a sky event on 9 December 1965 into an enduring crash story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+That tension matters because the strongest evidence for a large [regional fireball]({{ 'fireball-map/' | relative_url }}) is not the same as evidence for a local impact. A boom can travel far from an atmospheric event, and a meteor train can look like smoke. Yet [witnesses]({{ 'witnesses/' | relative_url }}) around Kecksburg described localised smoke, vibration, a “thump” and later activity in the woods, which helped transform a sky event on 9 December 1965 into an enduring crash story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 ## Boom and trail reports
 
-The broad fireball event was not confined to Kecksburg. Contemporary and later summaries describe a brilliant object seen across several US states and Ontario, with reports clustered around the Detroit-Windsor and [Great Lakes]({{ 'great-lakes/' | relative_url }}) region. A 1967 article in the *Journal of the Royal Astronomical Society of Canada* analysed photographs of the fireball train, including an image taken at Orchard Lake, Michigan, and treated the event as a calculable meteor trajectory rather than a purely local Pennsylvania mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — 1-Photograph of the fireball train of December 9, 1...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+The broad fireball event was not confined to Kecksburg. Contemporary and later summaries describe a brilliant object seen across several US states and Ontario, with reports clustered around the Detroit-Windsor and [Great Lakes]({{ 'great-lakes/' | relative_url }}) region. A 1967 article in the *Journal of the Royal Astronomical Society of Canada* analysed photographs of the fireball train, including an image taken at Orchard Lake, Michigan, and treated the event as a calculable meteor trajectory rather than a purely local Pennsylvania mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — 1-Photograph of the fireball train of December 9, 1...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
-The sound reports fit that wider pattern. The event has been described as producing sonic booms in the Pittsburgh metropolitan area, while early newspaper and aviation-linked accounts referred to shock-wave effects connected with the fireball. One later summary of the Sky & Telescope report says the Federal Aviation Administration received 23 [pilot reports]({{ 'pilot-reports/' | relative_url }}) beginning at about 4:44 p.m., and that a seismograph southwest of Detroit recorded shock waves as the fireball passed through the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.muckrock.com/foi/united-states-of-america-10/kecksburg-ufo-35451/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muckrock.com">[MuckRock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muckrock.com</span><span class="citation-popover-title">kecksburg ufo 35451</span><span class="citation-popover-snippet">Kecksburg UFO5 Apr 2017 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States. A l...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+The sound reports fit that wider pattern. The event has been described as producing sonic booms in the Pittsburgh metropolitan area, while early newspaper and aviation-linked accounts referred to shock-wave effects connected with the fireball. One later summary of the Sky & Telescope report says the Federal Aviation Administration received 23 [pilot reports]({{ 'pilot-reports/' | relative_url }}) beginning at about 4:44 p.m., and that a seismograph southwest of Detroit recorded shock waves as the fireball passed through the atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.muckrock.com/foi/united-states-of-america-10/kecksburg-ufo-35451/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muckrock.com">[MuckRock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muckrock.com</span><span class="citation-popover-title">kecksburg ufo 35451</span><span class="citation-popover-snippet">Kecksburg UFO5 Apr 2017 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States. A l...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
-That detail is important because a sonic boom is not a crash sound in itself. It is the audible arrival of a pressure wave from an object travelling faster than sound. The Smithsonian National Air and Space Museum explains the same basic mechanism for meteor events: fast fragments moving through the air generate shock waves, and if the shock is strong enough it can be heard as a boom and even break glass. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/when-worlds-collide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">National Air and Space Museum When Worlds Collide</span><span class="citation-popover-snippet">National Air and Space Museum When Worlds Collide</span></span></span>
+That detail is important because a sonic boom is not a crash sound in itself. It is the audible arrival of a pressure wave from an object travelling faster than sound. The Smithsonian National Air and Space Museum explains the same basic mechanism for meteor events: fast fragments moving through the air generate shock waves, and if the shock is strong enough it can be heard as a boom and even break glass.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/when-worlds-collide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">National Air and Space Museum When Worlds Collide</span><span class="citation-popover-snippet">National Air and Space Museum When Worlds Collide</span></span></span>
 
 For Kecksburg, this means a boom heard on the ground does not automatically place an object on the ground nearby. A bolide can generate a delayed boom from high altitude, and listeners may associate that sound with the last visible point of the fireball, a nearby ridge, or a place where other people later report activity. That is one reason the same boom evidence can support a natural fireball explanation while still helping a local crash narrative take hold.
 
-The trail reports also cut both ways. Meteor trains can be bright, twisting and persistent, especially after a large object fragments. The Michigan geological bulletin on meteorites includes a photograph of the 9 December 1965 fireball train and describes the train as largely debris from disintegration of the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.michigan.gov/-/media/Project/Websites/egle/Documents/Programs/GRMD/Catalog/02/BU-05opt.pdf?rev=90b7e40c458741ddb871c397730d9a19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michigan.gov">[Michigan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michigan.gov</span><span class="citation-popover-title">meteorites of michigan</span><span class="citation-popover-snippet">meteorites of michigan</span></span></span> To a witness watching from the ground, that kind of train may look like smoke, falling debris or a burning object continuing downward.
+The trail reports also cut both ways. Meteor trains can be bright, twisting and persistent, especially after a large object fragments. The Michigan geological bulletin on meteorites includes a photograph of the 9 December 1965 fireball train and describes the train as largely debris from disintegration of the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.michigan.gov/-/media/Project/Websites/egle/Documents/Programs/GRMD/Catalog/02/BU-05opt.pdf?rev=90b7e40c458741ddb871c397730d9a19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michigan.gov">[Michigan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michigan.gov</span><span class="citation-popover-title">meteorites of michigan</span><span class="citation-popover-snippet">meteorites of michigan</span></span></span> To a witness watching from the ground, that kind of train may look like smoke, falling debris or a burning object continuing downward.
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3-Illustration-1-dark.svg" | relative_url }}" alt="Booms illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_booms_smoke_fffaa3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Smoke and disturbance claims
 
-The smoke reports that matter most to the Kecksburg story are not just general sky-trail descriptions. They are the local claims that something appeared to descend into a wooded hollow near the village and left signs at or near the suspected landing area. In the popular *Unsolved Mysteries* account, Nevin Kalp described seeing a “ball” of fire and smoke in a hollow near the family farm, while the programme’s case summary says that by the time troopers and search teams were involved, the smoke was gone and daylight was fading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved Mysteries...</span></span></span>
+The smoke reports that matter most to the Kecksburg story are not just general sky-trail descriptions. They are the local claims that something appeared to descend into a wooded hollow near the village and left signs at or near the suspected landing area. In the popular *Unsolved Mysteries* account, Nevin Kalp described seeing a “ball” of fire and smoke in a hollow near the family farm, while the programme’s case summary says that by the time troopers and search teams were involved, the smoke was gone and daylight was fading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved Mysteries...</span></span></span>
 
-Those details gave the incident a local geography. Instead of remaining a regional fireball seen across the sky, the story acquired a ravine, roads being closed, firemen being called, and later claims of lights in the woods. The same *Unsolved Mysteries* reconstruction includes accounts of blue flashing lights in the hollow, a search area being closed and volunteer firemen being sent towards the suspected site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved Mysteries...</span></span></span>
+Those details gave the incident a local geography. Instead of remaining a regional fireball seen across the sky, the story acquired a ravine, roads being closed, firemen being called, and later claims of lights in the woods. The same *Unsolved Mysteries* reconstruction includes accounts of blue flashing lights in the hollow, a search area being closed and volunteer firemen being sent towards the suspected site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved Mysteries...</span></span></span>
 
-The difficulty is that these claims are strongest as witness narrative, not as independently documented physical evidence. Early public accounts said that state police and Air Force personnel searched the woods and found nothing, and the later crash-recovery story depends heavily on memories and retellings that became more elaborate after the event. MuckRock’s later Freedom of Information Act request summarised the public tension clearly: the fireball was widely seen and generally treated as a meteor after other explanations were discounted, but Kecksburg witnesses maintained that something had crashed in the woods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.muckrock.com/foi/united-states-of-america-10/kecksburg-ufo-35451/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muckrock.com">[MuckRock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muckrock.com</span><span class="citation-popover-title">kecksburg ufo 35451</span><span class="citation-popover-snippet">Kecksburg UFO5 Apr 2017 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States. A l...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+The difficulty is that these claims are strongest as witness narrative, not as independently documented physical evidence. Early public accounts said that state police and Air Force personnel searched the woods and found nothing, and the later crash-recovery story depends heavily on memories and retellings that became more elaborate after the event. MuckRock’s later Freedom of Information Act request summarised the public tension clearly: the fireball was widely seen and generally treated as a meteor after other explanations were discounted, but Kecksburg witnesses maintained that something had crashed in the woods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.muckrock.com/foi/united-states-of-america-10/kecksburg-ufo-35451/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muckrock.com">[MuckRock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muckrock.com</span><span class="citation-popover-title">kecksburg ufo 35451</span><span class="citation-popover-snippet">Kecksburg UFO5 Apr 2017 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States. A l...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
 That does not make the smoke claims meaningless. It means they have to be separated into two categories. A visible high-altitude train or drifting luminous residue is a known feature of fireballs. Local smoke from the woods would be a stronger indicator of a ground event, but the public record does not provide a recovered object, confirmed burn scar, documented debris field or chain of custody tying smoke in the hollow to a physical impact at Kecksburg.
 
@@ -482,11 +482,11 @@ That does not make the smoke claims meaningless. It means they have to be separa
 
 ## Why a meteor can sound like a nearby explosion
 
-A bolide is not a quiet “shooting star”. Large meteoroids travel at many kilometres per second, compressing and heating the air ahead of them. When they fragment, they can produce both a ballistic shock along the flight path and burst-like acoustic sources at fragmentation points. Modern fireball research uses those acoustic signals to estimate trajectories and energy, though researchers note that separating different sound arrivals can be difficult without dense instrument networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2102.06574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Fireball characteristics derivable from acoustic data</span><span class="citation-popover-snippet">arXiv Fireball characteristics derivable from acoustic data</span></span></span>
+A bolide is not a quiet “shooting star”. Large meteoroids travel at many kilometres per second, compressing and heating the air ahead of them. When they fragment, they can produce both a ballistic shock along the flight path and burst-like acoustic sources at fragmentation points. Modern fireball research uses those acoustic signals to estimate trajectories and energy, though researchers note that separating different sound arrivals can be difficult without dense instrument networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2102.06574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Fireball characteristics derivable from acoustic data</span><span class="citation-popover-snippet">arXiv Fireball characteristics derivable from acoustic data</span></span></span>
 
-This mechanism explains why eyewitnesses may honestly describe explosions, rumbles, shaking or a delayed thump without any bomb, aircraft crash or object hitting the local ground. A sound wave from a high-altitude meteor may arrive after the visual flash, and the delay can make it feel disconnected from the original sky event. In later American Meteor Society fireball reports, witnesses commonly describe booms tens of seconds after a fireball and compare them to military aircraft sonic booms or distant explosions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/members/imo_view/report/17250" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Open source on amsmeteors.org.</span></span></span>
+This mechanism explains why eyewitnesses may honestly describe explosions, rumbles, shaking or a delayed thump without any bomb, aircraft crash or object hitting the local ground. A sound wave from a high-altitude meteor may arrive after the visual flash, and the delay can make it feel disconnected from the original sky event. In later American Meteor Society fireball reports, witnesses commonly describe booms tens of seconds after a fireball and compare them to military aircraft sonic booms or distant explosions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/members/imo_view/report/17250" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Open source on amsmeteors.org.</span></span></span>
 
-Recent confirmed events show how easily this pattern can be mistaken for a local emergency. In 2026, NASA confirmed that a meteor over New England produced widespread boom reports; Reuters noted that meteors travel faster than sound and can create pressure waves as they burn and break apart. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/environment/meteor-fireball-triggered-loud-boom-across-new-england-nasa-confirms-2026-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Meteor fireball triggered loud boom across New England</span><span class="citation-popover-snippet">Meteor fireball triggered loud boom across New England</span></span></span> Another 2026 event over Ohio was reported as a boom felt across northern Ohio and as far as Pittsburgh, illustrating how a meteor sound can spread over a broad region and still feel local to observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2026/mar/17/ohio-meteor-pennsylvania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+Recent confirmed events show how easily this pattern can be mistaken for a local emergency. In 2026, NASA confirmed that a meteor over New England produced widespread boom reports; Reuters noted that meteors travel faster than sound and can create pressure waves as they burn and break apart.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/environment/meteor-fireball-triggered-loud-boom-across-new-england-nasa-confirms-2026-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Meteor fireball triggered loud boom across New England</span><span class="citation-popover-snippet">Meteor fireball triggered loud boom across New England</span></span></span> Another 2026 event over Ohio was reported as a boom felt across northern Ohio and as far as Pittsburgh, illustrating how a meteor sound can spread over a broad region and still feel local to observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2026/mar/17/ohio-meteor-pennsylvania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 Kecksburg’s boom reports therefore do not need an unusual mechanism. They are consistent with a substantial atmospheric fireball. What they cannot do by themselves is distinguish between a meteor that ended far from Kecksburg, a meteorite-dropping fireball with fragments elsewhere, and a separate object or debris event near the village.
 
@@ -496,11 +496,11 @@ Kecksburg’s boom reports therefore do not need an unusual mechanism. They are 
 
 The word “smoke” is especially slippery in [meteor cases]({{ 'meteor-case/' | relative_url }}). A witness may use it for several different things: a glowing train, a dust trail, vapour-like residue, drifting debris, fires on the ground, or actual smoke from a disturbed impact site. In Kecksburg, those categories often became blended.
 
-For a large fireball, a lingering train is expected. Meteorite and meteor references describe flashes, fragmentation, detonations, rumblings and trails that can persist after the fireball has passed. The trail may be high in the atmosphere, but because it appears projected against the landscape, witnesses can perceive it as descending behind trees or into a hollow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+For a large fireball, a lingering train is expected. Meteorite and meteor references describe flashes, fragmentation, detonations, rumblings and trails that can persist after the fireball has passed. The trail may be high in the atmosphere, but because it appears projected against the landscape, witnesses can perceive it as descending behind trees or into a hollow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 This helps explain one of the most common confusions in the Kecksburg case: the object looked as if it came down nearby. A bright object travelling tens of kilometres above the ground can appear to drop behind a local ridge simply because it leaves the observer’s line of sight. If a boom arrives later, the mind naturally links the sound with the apparent point of disappearance. If people then report smoke in the direction of the apparent descent, the impression of a nearby crash becomes much stronger.
 
-Reports of grass fires and hot metal debris in Michigan and northern Ohio also complicate the picture. Some summaries of the 1965 event mention debris reports and grass fires away from Kecksburg, while local Kecksburg witnesses spoke of smoke in the woods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span> The first kind of report fits a fragmented fireball across a broad path; the second, if verified, would suggest something much more local. The unresolved question is whether the Kecksburg smoke was an independent ground signal or a local interpretation of a dramatic sky event.
+Reports of grass fires and hot metal debris in Michigan and northern Ohio also complicate the picture. Some summaries of the 1965 event mention debris reports and grass fires away from Kecksburg, while local Kecksburg witnesses spoke of smoke in the woods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span> The first kind of report fits a fragmented fireball across a broad path; the second, if verified, would suggest something much more local. The unresolved question is whether the Kecksburg smoke was an independent ground signal or a local interpretation of a dramatic sky event.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tU7WSHZye5w" title="Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer">Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 68.0K &middot; Uploaded: March 2025 &middot; Length: 1 hour 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tU7WSHZye5w">Open on YouTube</a></p></div></div></div>
@@ -509,11 +509,11 @@ Reports of grass fires and hot metal debris in Michigan and northern Ohio also c
 
 The useful way to read the boom and smoke evidence is not to ask whether it sounds dramatic. It does. The better question is whether each signal requires a local impact.
 
-A sonic boom does not require a local impact. It requires supersonic motion and a pressure wave strong enough to reach the ground. Modern bolide studies show that the height of maximum brightness and the entry angle influence how much overpressure reaches the surface, and that the strongest damaging events are rare but physically well understood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1802.07299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> Kecksburg does not need to have experienced a ground crash for people to have heard a boom or felt vibration.
+A sonic boom does not require a local impact. It requires supersonic motion and a pressure wave strong enough to reach the ground. Modern bolide studies show that the height of maximum brightness and the entry angle influence how much overpressure reaches the surface, and that the strongest damaging events are rare but physically well understood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1802.07299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> Kecksburg does not need to have experienced a ground crash for people to have heard a boom or felt vibration.
 
-A visible train does not require a local impact either. The 1965 fireball train was photographed and later analysed as part of the meteor trajectory evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — 1-Photograph of the fireball train of December 9, 1...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span> A train can look smoky, can persist long enough to be noticed after the fireball has vanished, and can appear deceptively close to observers.
+A visible train does not require a local impact either. The 1965 fireball train was photographed and later analysed as part of the meteor trajectory evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — 1-Photograph of the fireball train of December 9, 1...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span> A train can look smoky, can persist long enough to be noticed after the fireball has vanished, and can appear deceptively close to observers.
 
-Local smoke in a wooded hollow would be more significant, but only if it is supported by independent physical traces. The public accounts most often cited in the Kecksburg story describe witnesses, searchers, road closures, military presence and later claims of an object, but they do not supply verified debris, photographs of an impact site, official recovery records or scientific analysis of material from the hollow. The official Air Force-linked explanation cited in later accounts remained that the object was likely a meteor and that the search found nothing, even while witnesses and UFO researchers disputed that conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved Mysteries...</span></span></span>
+Local smoke in a wooded hollow would be more significant, but only if it is supported by independent physical traces. The public accounts most often cited in the Kecksburg story describe witnesses, searchers, road closures, military presence and later claims of an object, but they do not supply verified debris, photographs of an impact site, official recovery records or scientific analysis of material from the hollow. The official Air Force-linked explanation cited in later accounts remained that the object was likely a meteor and that the search found nothing, even while witnesses and UFO researchers disputed that conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved Mysteries...</span></span></span>
 
 This creates a split evidential pattern:
 
@@ -539,194 +539,194 @@ That is why the reports remain persuasive to many people even though the meteor 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Witnesses Hear and See?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Witnesses Hear and See?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers witness testimony, pilots, radar cases, and evidence assessment relevant to sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers witness testimony, pilots, radar cases, and evidence assessment relevant to sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains witness reports, observations, and case evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains witness reports, observations, and case evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Focuses on interpreting reports, sightings, and official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on interpreting reports, sightings, and official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VPoKEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Meteorites">The Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By Helen Gordon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VPoKEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Meteorites">The Meteorites</a>
+</h4>
+<p class="fr-book-author">By Helen Gordon</p>
         
-        <p class="fr-book-desc">Provides context for fireballs, meteors, and atmospheric phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for fireballs, meteors, and atmospheric phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Kecksburg UFO 10” Shoulder Mount Base 7.5” Unique Alien"><img src="{{ '/assets/images/marketplace-covers/46d74cc16f9dbf62a2c3.jpg' | relative_url }}" alt="Listing image for Roswell Kecksburg UFO 10” Shoulder Mount Base 7.5” Unique Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell Kecksburg UFO 10” Shoulder Mount Base 7.5” Unique Alien</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Kecksburg UFO 10” Shoulder Mount Base 7.5” Unique Alien"><img src="{{ '/assets/images/marketplace-covers/46d74cc16f9dbf62a2c3.jpg' | relative_url }}" alt="Listing image for Roswell Kecksburg UFO 10” Shoulder Mount Base 7.5” Unique Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell Kecksburg UFO 10” Shoulder Mount Base 7.5” Unique Alien</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BSA WESTMORELAND FAYETTE OA WAGION 6 2023 JAMBOREE 2-PATCH KECKSBURG UFO ALIEN"><img src="{{ '/assets/images/marketplace-covers/80f03e2530527080e0dd.jpg' | relative_url }}" alt="Listing image for BSA WESTMORELAND FAYETTE OA WAGION 6 2023 JAMBOREE 2-PATCH KECKSBURG UFO ALIEN" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">BSA WESTMORELAND FAYETTE OA WAGION 6 2023 JAMBOREE 2-PATCH KECKSBURG UFO ALIEN</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BSA WESTMORELAND FAYETTE OA WAGION 6 2023 JAMBOREE 2-PATCH KECKSBURG UFO ALIEN"><img src="{{ '/assets/images/marketplace-covers/80f03e2530527080e0dd.jpg' | relative_url }}" alt="Listing image for BSA WESTMORELAND FAYETTE OA WAGION 6 2023 JAMBOREE 2-PATCH KECKSBURG UFO ALIEN" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">BSA WESTMORELAND FAYETTE OA WAGION 6 2023 JAMBOREE 2-PATCH KECKSBURG UFO ALIEN</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed"><img src="{{ '/assets/images/marketplace-covers/2d28adb2b053d08362c1.jpg' | relative_url }}" alt="Listing image for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed"><img src="{{ '/assets/images/marketplace-covers/2d28adb2b053d08362c1.jpg' | relative_url }}" alt="Listing image for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/fd6cb10c53a539320230.jpg' | relative_url }}" alt="Listing image for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/fd6cb10c53a539320230.jpg' | relative_url }}" alt="Listing image for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="booms-what-did-witnesses-hear-and-see-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -742,7 +742,7 @@ That is why the reports remain persuasive to many people even though the meteor 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -762,7 +762,7 @@ That is why the reports remain persuasive to many people even though the meteor 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -794,7 +794,7 @@ That is why the reports remain persuasive to many people even though the meteor 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -846,7 +846,7 @@ That is why the reports remain persuasive to many people even though the meteor 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -891,7 +891,7 @@ That is why the reports remain persuasive to many people even though the meteor 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -932,188 +932,188 @@ That is why the reports remain persuasive to many people even though the meteor 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unsolved.com  
    Title: Mysteries Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO - Unsolved Mysteries...</p></details>
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO - Unsolved Mysteries...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: muckrock.com  
    Title: kecksburg ufo 35451  
-   Link: <a href="https://www.muckrock.com/foi/united-states-of-america-10/kecksburg-ufo-35451/" target="_blank" rel="noopener noreferrer nofollow">https://www.muckrock.com/foi/united-states-of-america-10/kecksburg-ufo-35451/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO5 Apr 2017 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States. A l...</p></details>
+   Link:<a href="https://www.muckrock.com/foi/united-states-of-america-10/kecksburg-ufo-35451/" target="_blank" rel="noopener noreferrer nofollow">https://www.muckrock.com/foi/united-states-of-america-10/kecksburg-ufo-35451/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO5 Apr 2017 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States. A l...</p></details>
    Published: December 9, 1965  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: michigan.gov  
    Title: meteorites of michigan  
-   Link: <a href="https://www.michigan.gov/-/media/Project/Websites/egle/Documents/Programs/GRMD/Catalog/02/BU-05opt.pdf?rev=90b7e40c458741ddb871c397730d9a19" target="_blank" rel="noopener noreferrer nofollow">https://www.michigan.gov/-/media/Project/Websites/egle/Documents/Programs/GRMD/Catalog/02/BU-05opt.pdf?rev=90b7e40c458741ddb871c397730d9a19</a>  
+   Link:<a href="https://www.michigan.gov/-/media/Project/Websites/egle/Documents/Programs/GRMD/Catalog/02/BU-05opt.pdf?rev=90b7e40c458741ddb871c397730d9a19" target="_blank" rel="noopener noreferrer nofollow">https://www.michigan.gov/-/media/Project/Websites/egle/Documents/Programs/GRMD/Catalog/02/BU-05opt.pdf?rev=90b7e40c458741ddb871c397730d9a19</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Fireball characteristics derivable from acoustic data  
-   Link: <a href="https://arxiv.org/abs/2102.06574" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2102.06574</a>  
+   Link:<a href="https://arxiv.org/abs/2102.06574" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2102.06574</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
    Title: Meteor fireball triggered loud boom across New England  
-   Link: <a href="https://www.reuters.com/business/environment/meteor-fireball-triggered-loud-boom-across-new-england-nasa-confirms-2026-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/environment/meteor-fireball-triggered-loud-boom-across-new-england-nasa-confirms-2026-05-31/</a>  
+   Link:<a href="https://www.reuters.com/business/environment/meteor-fireball-triggered-loud-boom-across-new-england-nasa-confirms-2026-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/environment/meteor-fireball-triggered-loud-boom-across-new-england-nasa-confirms-2026-05-31/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteorite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteorite</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Meteorite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteorite</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1802.07299" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.07299</a>  
+   Link:<a href="https://arxiv.org/abs/1802.07299" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.07299</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sma.nasa.gov  
    Title: meteoroid environments  
-   Link: <a href="https://sma.nasa.gov/sma-disciplines/meteoroid-environments" target="_blank" rel="noopener noreferrer nofollow">https://sma.nasa.gov/sma-disciplines/meteoroid-environments</a>  
+   Link:<a href="https://sma.nasa.gov/sma-disciplines/meteoroid-environments" target="_blank" rel="noopener noreferrer nofollow">https://sma.nasa.gov/sma-disciplines/meteoroid-environments</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: space.com  
    Title: 7589 case finally closed 1965 pennsylvania ufo mystery  
-   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/massive-boom-over-northeastern-us-was-a-meteor-explosion-as-powerful-as-300-tons-of-tnt-nasa-confirms" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/massive-boom-over-northeastern-us-was-a-meteor-explosion-as-powerful-as-300-tons-of-tnt-nasa-confirms</a>  
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/massive-boom-over-northeastern-us-was-a-meteor-explosion-as-powerful-as-300-tons-of-tnt-nasa-confirms" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/massive-boom-over-northeastern-us-was-a-meteor-explosion-as-powerful-as-300-tons-of-tnt-nasa-confirms</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: space.com  
    Title: rare daytime fireball spotted from orbit as residents report powerful sonic boom  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom</a>  
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Incidente di Kecksburg  
-   Link: <a href="https://it.wikipedia.org/wiki/Incidente_di_Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Kecksburg</a>  
+   Link:<a href="https://it.wikipedia.org/wiki/Incidente_di_Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Kecksburg</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: adsabs.harvard.edu  
-   Link: <a href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1967JRASC..61..184C</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — 1-Photograph of the fireball train of December 9, 1...</p></details>
+   Link:<a href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1967JRASC..61..184C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — 1-Photograph of the fireball train of December 9, 1...</p></details>
    Published: December 9, 1965  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: airandspace.si.edu  
    Title: National Air and Space Museum When Worlds Collide  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/when-worlds-collide" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/when-worlds-collide</a>  
+   Link:<a href="https://airandspace.si.edu/stories/editorial/when-worlds-collide" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/when-worlds-collide</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/members/imo_view/report/17250" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/members/imo_view/report/17250</a>  
+   Link:<a href="https://www.amsmeteors.org/members/imo_view/report/17250" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/members/imo_view/report/17250</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/us-news/2026/mar/17/ohio-meteor-pennsylvania" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/mar/17/ohio-meteor-pennsylvania</a>  
+   Link:<a href="https://www.theguardian.com/us-news/2026/mar/17/ohio-meteor-pennsylvania" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/mar/17/ohio-meteor-pennsylvania</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/danskoff/posts/new-update-american-meteor-society-has-a-report-on-thisfireball-meteor-did-you-h/2630929023584303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/danskoff/posts/new-update-american-meteor-society-has-a-report-on-thisfireball-meteor-did-you-h/2630929023584303/</a>  
+   Link:<a href="https://www.facebook.com/danskoff/posts/new-update-american-meteor-society-has-a-report-on-thisfireball-meteor-did-you-h/2630929023584303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/danskoff/posts/new-update-american-meteor-society-has-a-report-on-thisfireball-meteor-did-you-h/2630929023584303/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/members/imo_view/report/373651" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/members/imo_view/report/373651</a>  
+   Link:<a href="https://amsmeteors.org/members/imo_view/report/373651" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/members/imo_view/report/373651</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/faqf/</a>  
+   Link:<a href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/faqf/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: amsmeteors.org  
    Title: ams q1 2026 fireball analysis  
-   Link: <a href="https://amsmeteors.org/ams-q1-2026-fireball-analysis.html" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/ams-q1-2026-fireball-analysis.html</a>  
+   Link:<a href="https://amsmeteors.org/ams-q1-2026-fireball-analysis.html" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/ams-q1-2026-fireball-analysis.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
+   Link:<a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
    Title: meteor massachusetts sonic boom  
-   Link: <a href="https://www.theguardian.com/science/2026/jun/01/meteor-massachusetts-sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/jun/01/meteor-massachusetts-sonic-boom</a>  
+   Link:<a href="https://www.theguardian.com/science/2026/jun/01/meteor-massachusetts-sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/jun/01/meteor-massachusetts-sonic-boom</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: adsabs.harvard.edu  
-   Link: <a href="https://adsabs.harvard.edu/full/2006JIMO...34..135M" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/2006JIMO...34..135M</a>  
+   Link:<a href="https://adsabs.harvard.edu/full/2006JIMO...34..135M" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/2006JIMO...34..135M</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: adsabs.harvard.edu  
-   Link: <a href="https://adsabs.harvard.edu/full/1968JRASC..62...55G" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1968JRASC..62...55G</a>  
+   Link:<a href="https://adsabs.harvard.edu/full/1968JRASC..62...55G" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1968JRASC..62...55G</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: d20advanced.fandom.com  
-   Link: <a href="https://d20advanced.fandom.com/wiki/Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://d20advanced.fandom.com/wiki/Kecksburg</a>  
+   Link:<a href="https://d20advanced.fandom.com/wiki/Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://d20advanced.fandom.com/wiki/Kecksburg</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/story?id=3785376&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/story?id=3785376&amp;page=1</a>  
+   Link:<a href="https://abcnews.com/Technology/story?id=3785376&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/story?id=3785376&amp;page=1</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: theclio.com  
    Title: Kecksburg UFO Incident  
-   Link: <a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
+   Link:<a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: 60-year mystery: Questions surrounding Kecksburg UFO incident in Pennsylvania  
-   Link: <a href="https://www.youtube.com/watch?v=vROJdm_xGAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vROJdm_xGAQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vROJdm_xGAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vROJdm_xGAQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence  
-   Link: <a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 America&#x27;s Other Roswell: the Kecksburg UFO | Conspiracy (S1, E13) | Full Episode | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 America&#x27;s Other Roswell: the Kecksburg UFO | Conspiracy (S1, E13) | Full Episode | History...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/</a>  
+   Link:<a href="https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MikeCollierWx/posts/a-spectacular-fireball-meteor-known-as-a-super-bolide-lit-up-the-skies-across-mu/1528946645249267/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MikeCollierWx/posts/a-spectacular-fireball-meteor-known-as-a-super-bolide-lit-up-the-skies-across-mu/1528946645249267/</a>  
+   Link:<a href="https://www.facebook.com/MikeCollierWx/posts/a-spectacular-fireball-meteor-known-as-a-super-bolide-lit-up-the-skies-across-mu/1528946645249267/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MikeCollierWx/posts/a-spectacular-fireball-meteor-known-as-a-super-bolide-lit-up-the-skies-across-mu/1528946645249267/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/realtime1960s/posts/dec-10-1965-a-sudden-flash-lit-the-early-evening-sky-over-michigan-and-nearby-st/1436371191827214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/realtime1960s/posts/dec-10-1965-a-sudden-flash-lit-the-early-evening-sky-over-michigan-and-nearby-st/1436371191827214/</a>  
+   Link:<a href="https://www.facebook.com/realtime1960s/posts/dec-10-1965-a-sudden-flash-lit-the-early-evening-sky-over-michigan-and-nearby-st/1436371191827214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/realtime1960s/posts/dec-10-1965-a-sudden-flash-lit-the-early-evening-sky-over-michigan-and-nearby-st/1436371191827214/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/matthew.cappucci/posts/breaking-i-can-confirm-that-it-was-an-exploding-meteor-that-produced-a-sonic-boo/3436548153159938/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/matthew.cappucci/posts/breaking-i-can-confirm-that-it-was-an-exploding-meteor-that-produced-a-sonic-boo/3436548153159938/</a>  
+   Link:<a href="https://www.facebook.com/matthew.cappucci/posts/breaking-i-can-confirm-that-it-was-an-exploding-meteor-that-produced-a-sonic-boo/3436548153159938/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/matthew.cappucci/posts/breaking-i-can-confirm-that-it-was-an-exploding-meteor-that-produced-a-sonic-boo/3436548153159938/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: rasc.ca  
-   Link: <a href="https://www.rasc.ca/sites/default/files/publications/JRASC-2015-06-hr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rasc.ca/sites/default/files/publications/JRASC-2015-06-hr.pdf</a>  
+   Link:<a href="https://www.rasc.ca/sites/default/files/publications/JRASC-2015-06-hr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rasc.ca/sites/default/files/publications/JRASC-2015-06-hr.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZCdVEAs_kd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZCdVEAs_kd/</a>  
+   Link:<a href="https://www.instagram.com/reel/DZCdVEAs_kd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZCdVEAs_kd/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wwj950/posts/nasa-let-people-know-over-the-weekend-that-the-cause-of-the-commotion-was-a-mete/1619715033496984/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wwj950/posts/nasa-let-people-know-over-the-weekend-that-the-cause-of-the-commotion-was-a-mete/1619715033496984/</a>  
+   Link:<a href="https://www.facebook.com/wwj950/posts/nasa-let-people-know-over-the-weekend-that-the-cause-of-the-commotion-was-a-mete/1619715033496984/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wwj950/posts/nasa-let-people-know-over-the-weekend-that-the-cause-of-the-commotion-was-a-mete/1619715033496984/</a>  

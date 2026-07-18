@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e-media/
 description: Focused pages that expand on Media Effects.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_media_reconstruction_9160d9
 parent_title: Media Effects
@@ -16,7 +16,7 @@ parent_permalink: /media-effects/
 
 # Explore Topics in Media Effects
 
-The following pages expand on the main **[Media Effects]({{ '/media-effects/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Media Effects]({{ '/media-effects/' | relative_url }})** page and cover its key branches in.
 
 - [Fireball Gap]({{ '/fireball-gap/' | relative_url }})
 - [Flatbed Story]({{ '/flatbed-story/' | relative_url }})

@@ -274,18 +274,18 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e_why_d
 
 ## Introduction
 
-One of the most persistent questions in [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}) is why military personnel and government agencies would have shown interest in a reported object falling into rural Pennsylvania. Cold War debris-recovery programmes provide an important part of the answer. They do not establish that an object was recovered at Kecksburg, nor do they identify what, if anything, landed there. They do, however, show that recovering fallen aerospace hardware was a real government concern in the 1960s. In that context, reports of a fiery object descending from the sky could attract official attention even if the object ultimately proved to be a satellite fragment, missile component, experimental [re-entry]({{ 're-entry/' | relative_url }}) hardware, or ordinary space debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Moon_Dust" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Moon Dust</span><span class="citation-popover-snippet">January 4, 2025 — The aim of the project was to recover objects and debris from spacecraft that survived re-entry through the atmosphere...</span><span class="citation-popover-meta">Published: January 4, 2025</span></span></span>
+One of the most persistent questions in [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}) is why military personnel and government agencies would have shown interest in a reported object falling into rural Pennsylvania. Cold War debris-recovery programmes provide an important part of the answer. They do not establish that an object was recovered at Kecksburg, nor do they identify what, if anything, landed there. They do, however, show that recovering fallen aerospace hardware was a real government concern in the 1960s. In that context, reports of a fiery object descending from the sky could attract official attention even if the object ultimately proved to be a satellite fragment, missile component, experimental [re-entry]({{ 're-entry/' | relative_url }}) hardware, or ordinary space debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Moon_Dust" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Moon Dust</span><span class="citation-popover-snippet">January 4, 2025 — The aim of the project was to recover objects and debris from spacecraft that survived re-entry through the atmosphere...</span><span class="citation-popover-meta">Published: January 4, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e_why_debris_mattered_5f29a2-Illustration-1-dark.svg" | relative_url }}" alt="Why It Mattered illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e_why_debris_mattered_5f29a2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e_why_debris_mattered_5f29a2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Understanding this mechanism helps separate two different claims that are often merged together in popular discussions. The first claim is that officials might have investigated a reported impact site. Cold War records make that entirely plausible. The second claim is that officials recovered an extraordinary or non-human craft. The available [Moon Dust records]({{ 'moon-dust-13e495/' | relative_url }}) do not demonstrate that conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Moon_Dust" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Moon Dust</span><span class="citation-popover-snippet">January 4, 2025 — The aim of the project was to recover objects and debris from spacecraft that survived re-entry through the atmosphere...</span><span class="citation-popover-meta">Published: January 4, 2025</span></span></span>
+Understanding this mechanism helps separate two different claims that are often merged together in popular discussions. The first claim is that officials might have investigated a reported impact site. Cold War records make that entirely plausible. The second claim is that officials recovered an extraordinary or non-human craft. The available [Moon Dust records]({{ 'moon-dust-13e495/' | relative_url }}) do not demonstrate that conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Moon_Dust" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Moon Dust</span><span class="citation-popover-snippet">January 4, 2025 — The aim of the project was to recover objects and debris from spacecraft that survived re-entry through the atmosphere...</span><span class="citation-popover-meta">Published: January 4, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CKK66LtZ1Hs" title="Episode 184 Kecksburg Revisited with Stan Gordon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CKK66LtZ1Hs" target="_blank" rel="noopener noreferrer">Episode 184 Kecksburg Revisited with Stan Gordon</a></p><p class="youtube-embed-meta">Channel: Astonishing Legends &middot; Views: 2.3K &middot; Uploaded: May 2022 &middot; Length: 2 hours 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CKK66LtZ1Hs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CKK66LtZ1Hs">Open on YouTube</a></p></div></div></div>
 
 ## Why Would Officials Care About Space Debris?
 
-During the Cold War, a piece of fallen aerospace hardware was more than scrap metal. It could provide intelligence about another country's engineering capabilities, materials, manufacturing techniques, electronics, heat shielding, or re-entry technology. Recovering such objects became a recognised mission for parts of the US government, particularly when Soviet hardware was involved. Project Moon Dust was established to locate and recover foreign space-related objects that survived re-entry and reached the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Moon_Dust" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Moon Dust</span><span class="citation-popover-snippet">January 4, 2025 — The aim of the project was to recover objects and debris from spacecraft that survived re-entry through the atmosphere...</span><span class="citation-popover-meta">Published: January 4, 2025</span></span></span>
+During the Cold War, a piece of fallen aerospace hardware was more than scrap metal. It could provide intelligence about another country's engineering capabilities, materials, manufacturing techniques, electronics, heat shielding, or re-entry technology. Recovering such objects became a recognised mission for parts of the US government, particularly when Soviet hardware was involved. Project Moon Dust was established to locate and recover foreign space-related objects that survived re-entry and reached the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Moon_Dust" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Moon Dust</span><span class="citation-popover-snippet">January 4, 2025 — The aim of the project was to recover objects and debris from spacecraft that survived re-entry through the atmosphere...</span><span class="citation-popover-meta">Published: January 4, 2025</span></span></span>
 
 For officials in 1965, several possibilities would have justified a rapid response to reports of a descending object:
 
@@ -300,7 +300,7 @@ For officials in 1965, several possibilities would have justified a rapid respon
 
 </div>
 
-From an intelligence perspective, the most important fact was often not what the object turned out to be, but that nobody knew immediately what it was. Recovery and identification came first; explanations followed later. This mindset is reflected in later Moon Dust documentation, which shows US agencies coordinating internationally to locate, examine, and sometimes retrieve suspected space objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967-1972.pdf3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source of documents: National Archives...</span></span></span>
+From an intelligence perspective, the most important fact was often not what the object turned out to be, but that nobody knew immediately what it was. Recovery and identification came first; explanations followed later. This mindset is reflected in later Moon Dust documentation, which shows US agencies coordinating internationally to locate, examine, and sometimes retrieve suspected space objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967-1972.pdf3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source of documents: National Archives...</span></span></span>
 
 Kecksburg therefore occurred at a time when reports of unusual objects falling from the sky would not automatically be dismissed. They could trigger a genuine effort to determine whether strategically important hardware had reached the ground.
 
@@ -311,11 +311,11 @@ Kecksburg therefore occurred at a time when reports of unusual objects falling f
 
 The value of Moon Dust to the Kecksburg discussion is not that it solves the mystery. Its importance is that it provides a realistic framework for understanding why [witnesses]({{ 'witnesses/' | relative_url }}) reported official interest.
 
-Contemporary news reports from December 1965 described police, military personnel, and searches in the area after residents reported something coming down in the woods. Whether every later witness account is accurate remains debated, but the basic claim that authorities would investigate such reports is consistent with known Cold War practices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Contemporary news reports from December 1965 described police, military personnel, and searches in the area after residents reported something coming down in the woods. Whether every later witness account is accurate remains debated, but the basic claim that authorities would investigate such reports is consistent with known Cold War practices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-Moon Dust also helps explain why secrecy alone is not evidence of a UFO. If officials believed an object might be foreign hardware, classified American equipment, or something of intelligence value, restricting access to a search area would have been routine. Such behaviour would not require an extraterrestrial explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Moon_Dust" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Moon Dust</span><span class="citation-popover-snippet">January 4, 2025 — The aim of the project was to recover objects and debris from spacecraft that survived re-entry through the atmosphere...</span><span class="citation-popover-meta">Published: January 4, 2025</span></span></span>
+Moon Dust also helps explain why secrecy alone is not evidence of a UFO. If officials believed an object might be foreign hardware, classified American equipment, or something of intelligence value, restricting access to a search area would have been routine. Such behaviour would not require an extraterrestrial explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Moon_Dust" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Moon Dust</span><span class="citation-popover-snippet">January 4, 2025 — The aim of the project was to recover objects and debris from spacecraft that survived re-entry through the atmosphere...</span><span class="citation-popover-meta">Published: January 4, 2025</span></span></span>
 
-This is one reason several non-UFO explanations for Kecksburg have focused on aerospace hardware rather than meteors alone. Over the years researchers have suggested possibilities ranging from Soviet space debris to classified re-entry vehicles. These theories remain disputed, but they arise partly because Cold War recovery programmes demonstrate that governments were actively interested in retrieving such objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+This is one reason several non-UFO explanations for Kecksburg have focused on aerospace hardware rather than meteors alone. Over the years researchers have suggested possibilities ranging from Soviet space debris to classified re-entry vehicles. These theories remain disputed, but they arise partly because Cold War recovery programmes demonstrate that governments were actively interested in retrieving such objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 In practical terms, Moon Dust makes three aspects of the Kecksburg story more believable:
 
@@ -336,7 +336,7 @@ Those points fit known Cold War procedures regardless of what actually fell near
 
 [Timing]({{ 'timing/' | relative_url }}) matters. The incident occurred during a period of intense competition between the United States and the Soviet Union in space and missile technology. Every recovered fragment potentially represented information that could not be obtained through observation alone.
 
-Unlike today, when orbital objects are tracked with extensive public databases and global monitoring systems, identification of re-entering objects in the mid-1960s was often slower and less certain. Initial reports of a bright fireball could generate competing interpretations, including meteors, satellites, rocket debris, aircraft accidents, or [classified hardware]({{ 'hardware-marks/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/19990041784/downloads/19990041784.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerOrbital Debris: A ChronologyDecember 2, 2002 — by DSF Portree · 1999 · Cited by 152 — This chronology is an...</span><span class="citation-popover-meta">Published: December 2, 2002</span></span></span>
+Unlike today, when orbital objects are tracked with extensive public databases and global monitoring systems, identification of re-entering objects in the mid-1960s was often slower and less certain. Initial reports of a bright fireball could generate competing interpretations, including meteors, satellites, rocket debris, aircraft accidents, or [classified hardware]({{ 'hardware-marks/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/19990041784/downloads/19990041784.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerOrbital Debris: A ChronologyDecember 2, 2002 — by DSF Portree · 1999 · Cited by 152 — This chronology is an...</span><span class="citation-popover-meta">Published: December 2, 2002</span></span></span>
 
 That uncertainty is important when considering Kecksburg. Officials responding on the evening of 9 December 1965 would not necessarily have possessed an immediate explanation. If they received reports of an object descending into a wooded area, an investigation would have been a reasonable response even if the event later turned out to have a mundane cause.
 
@@ -347,204 +347,204 @@ That uncertainty is important when considering Kecksburg. Officials responding o
 
 The strongest caution in the Kecksburg debate is that Moon Dust provides context, not confirmation.
 
-No publicly released Moon Dust document has been shown to identify Kecksburg as a documented Moon Dust recovery site. The surviving records reveal how such recoveries were conducted and why governments cared about them, but they do not establish that a specific object was recovered from the Kecksburg woods on 9 December 1965. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967-1972.pdf3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source of documents: National Archives...</span></span></span>
+No publicly released Moon Dust document has been shown to identify Kecksburg as a documented Moon Dust recovery site. The surviving records reveal how such recoveries were conducted and why governments cared about them, but they do not establish that a specific object was recovered from the Kecksburg woods on 9 December 1965.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967-1972.pdf3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source of documents: National Archives...</span></span></span>
 
-Likewise, the existence of debris-recovery programmes does not validate later claims about an acorn-shaped craft, exotic [symbols]({{ 'symbols/' | relative_url }}), extraterrestrial technology, or a large-scale cover-up. Those claims must stand or fall on their own evidence. Moon Dust neither proves nor disproves them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Likewise, the existence of debris-recovery programmes does not validate later claims about an acorn-shaped craft, exotic [symbols]({{ 'symbols/' | relative_url }}), extraterrestrial technology, or a large-scale cover-up. Those claims must stand or fall on their own evidence. Moon Dust neither proves nor disproves them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-What the records do show is narrower but still significant: in the Cold War environment of the 1960s, governments had genuine reasons to take reports of fallen aerospace objects seriously. That historical reality makes official interest in a case like Kecksburg understandable without resolving the larger mystery of what, if anything, actually came down there. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Moon_Dust" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Moon Dust</span><span class="citation-popover-snippet">January 4, 2025 — The aim of the project was to recover objects and debris from spacecraft that survived re-entry through the atmosphere...</span><span class="citation-popover-meta">Published: January 4, 2025</span></span></span>
+What the records do show is narrower but still significant: in the Cold War environment of the 1960s, governments had genuine reasons to take reports of fallen aerospace objects seriously. That historical reality makes official interest in a case like Kecksburg understandable without resolving the larger mystery of what, if anything, actually came down there.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Moon_Dust" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Moon Dust</span><span class="citation-popover-snippet">January 4, 2025 — The aim of the project was to recover objects and debris from spacecraft that survived re-entry through the atmosphere...</span><span class="citation-popover-meta">Published: January 4, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e_why_debris_mattered_5f29a2-Illustration-3-dark.svg" | relative_url }}" alt="Why It Mattered illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e_why_debris_mattered_5f29a2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e_why_debris_mattered_5f29a2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Would Officials Care About Space Debris?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Would Officials Care About Space Debris?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explains why governments cared deeply about recovered aerospace hardware.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why governments cared deeply about recovered aerospace hardware.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Shows intelligence value of advanced aerospace technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows intelligence value of advanced aerospace technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines evidence and official interest in unexplained aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidence and official interest in unexplained aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Focuses on investigation of unusual technology claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on investigation of unusual technology claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Exploration Poster Discovery Program Educational Wall Art"><img src="{{ '/assets/images/marketplace-covers/8b40a52765d96cab261d.jpg' | relative_url }}" alt="Listing image for Space Exploration Poster Discovery Program Educational Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Space Exploration Poster Discovery Program Educational Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Exploration Poster Discovery Program Educational Wall Art"><img src="{{ '/assets/images/marketplace-covers/8b40a52765d96cab261d.jpg' | relative_url }}" alt="Listing image for Space Exploration Poster Discovery Program Educational Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Space Exploration Poster Discovery Program Educational Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Exploration Poster Wall Art - Modern Cosmic Design Home Decor"><img src="{{ '/assets/images/marketplace-covers/9a0c3ca6d872e4664d7c.jpg' | relative_url }}" alt="Listing image for Space Exploration Poster Wall Art - Modern Cosmic Design Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Space Exploration Poster Wall Art - Modern Cosmic Design Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Exploration Poster Wall Art - Modern Cosmic Design Home Decor"><img src="{{ '/assets/images/marketplace-covers/9a0c3ca6d872e4664d7c.jpg' | relative_url }}" alt="Listing image for Space Exploration Poster Wall Art - Modern Cosmic Design Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Space Exploration Poster Wall Art - Modern Cosmic Design Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space exploration Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6cf057c61cd8e4785ac6.jpg' | relative_url }}" alt="Listing image for Space exploration Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Space exploration Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space exploration Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6cf057c61cd8e4785ac6.jpg' | relative_url }}" alt="Listing image for Space exploration Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Space exploration Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Exploration Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/eee1121a7093dd873134.jpg' | relative_url }}" alt="Listing image for Space Exploration Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Space Exploration Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Exploration Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/eee1121a7093dd873134.jpg' | relative_url }}" alt="Listing image for Space Exploration Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Space Exploration Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="why-it-mattered-why-would-officials-care-about-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ What the records do show is narrower but still significant: in the Cold War envi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ What the records do show is narrower but still significant: in the Cold War envi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ What the records do show is narrower but still significant: in the Cold War envi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ What the records do show is narrower but still significant: in the Cold War envi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ What the records do show is narrower but still significant: in the Cold War envi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -750,130 +750,130 @@ What the records do show is narrower but still significant: in the Cold War envi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Project Moon Dust  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Moon_Dust" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Moon_Dust</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 4, 2025 — The aim of the project was to recover objects and debris from spacecraft that survived re-entry through the atmosphere...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Moon_Dust" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Moon_Dust</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 4, 2025 — The aim of the project was to recover objects and debris from spacecraft that survived re-entry through the atmosphere...</p></details>
    Published: January 4, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: governmentattic.org  
    Title: ProjMoondust1967 1972  
-   Link: <a href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ProjMoondust1967-1972.pdf3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source of documents: National Archives...</p></details>
+   Link:<a href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ProjMoondust1967-1972.pdf3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source of documents: National Archives...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
    Title: Project Moon Dust  
-   Link: <a href="https://archive.org/details/Project-Moon-Dust" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/Project-Moon-Dust</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveProject Moon Dust: Air Force6 Jan 2016 — The aim of the project was to exploit the discovery Soviet hardware when it tem...</p></details>
+   Link:<a href="https://archive.org/details/Project-Moon-Dust" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/Project-Moon-Dust</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveProject Moon Dust: Air Force6 Jan 2016 — The aim of the project was to exploit the discovery Soviet hardware when it tem...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
    Title: 7589 case finally closed 1965 pennsylvania ufo mystery  
-   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — This saga, now over four decades old, centerson a reported out-of...</p></details>
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — This saga, now over four decades old, centerson a reported out-of...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/19990041784/downloads/19990041784.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19990041784/downloads/19990041784.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerOrbital Debris: A ChronologyDecember 2, 2002 — by DSF Portree · 1999 · Cited by 152 — This chronology is an...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/19990041784/downloads/19990041784.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19990041784/downloads/19990041784.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerOrbital Debris: A ChronologyDecember 2, 2002 — by DSF Portree · 1999 · Cited by 152 — This chronology is an...</p></details>
    Published: December 2, 2002  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Space_debris" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_debris</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Space debrisSpace debris are defunct human-made objects in space – principally in Earth orbit – which no longer serve a useful functio...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Space_debris" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_debris</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space debrisSpace debris are defunct human-made objects in space – principally in Earth orbit – which no longer serve a useful functio...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: governmentattic.org  
-   Link: <a href="https://www.governmentattic.org/ExecBr_N-Z_docs.html" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/ExecBr_N-Z_docs.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>, 1967-1972 - [PDF 8.2 MB - 03-Jun-2024] Department...Read more...</p></details>
+   Link:<a href="https://www.governmentattic.org/ExecBr_N-Z_docs.html" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/ExecBr_N-Z_docs.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, 1967-1972 - [PDF 8.2 MB - 03-Jun-2024] Department...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Episode 184 Kecksburg Revisited with [Stan Gordon](&#123;&#123; 'stan-gordon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.youtube.com/watch?v=CKK66LtZ1Hs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CKK66LtZ1Hs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Moon Dust | Episode 8 | The Secret UFO Retrieval Program...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CKK66LtZ1Hs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CKK66LtZ1Hs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Moon Dust | Episode 8 | The Secret UFO Retrieval Program...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Project Moon Dust | Episode 8 | The Secret UFO Retrieval Program  
-   Link: <a href="https://www.youtube.com/watch?v=uKAT4yK_AyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uKAT4yK_AyY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Other Roswell: the Kecksburg UFO | Conspiracy (S1, E13) | Full Episode | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uKAT4yK_AyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uKAT4yK_AyY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Other Roswell: the Kecksburg UFO | Conspiracy (S1, E13) | Full Episode | History...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theclio.com  
    Title: Kecksburg UFO Incident  
-   Link: <a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ClioThe Kecksburg UFO Incident happened December 9, 1965 when a mysterious glowing ball of fire crash landed in a small Pennsylvanian town...</p></details>
+   Link:<a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ClioThe Kecksburg UFO Incident happened December 9, 1965 when a mysterious glowing ball of fire crash landed in a small Pennsylvanian town...</p></details>
    Published: December 9, 1965  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: academia.edu  
    Title: Space Debris as an international safety issue  
-   Link: <a href="https://www.academia.edu/83564964/Space_Debris_as_an_international_safety_issue_Case_studies_in_active_removing_techniques" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/83564964/Space_Debris_as_an_international_safety_issue_Case_studies_in_active_removing_techniques</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>thesis was conducted under the umbrella of the Department of Informatics &amp; Telecommunication of the National and Kapodistria...</p></details>
+   Link:<a href="https://www.academia.edu/83564964/Space_Debris_as_an_international_safety_issue_Case_studies_in_active_removing_techniques" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/83564964/Space_Debris_as_an_international_safety_issue_Case_studies_in_active_removing_techniques</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>thesis was conducted under the umbrella of the Department of Informatics &amp; Telecommunication of the National and Kapodistria...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: positivelypittsburgh.com  
-   Link: <a href="https://positivelypittsburgh.com/the-kecksburg-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/the-kecksburg-ufo-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO IncidentThey believe the mysterious object was a General Electric Mark 2 Re-Entry Vehicle that the U.S. government had...</p></details>
+   Link:<a href="https://positivelypittsburgh.com/the-kecksburg-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/the-kecksburg-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO IncidentThey believe the mysterious object was a General Electric Mark 2 Re-Entry Vehicle that the U.S. government had...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: Kecksburg UFO incident in Pennsylvania remains a mystery  
-   Link: <a href="https://www.facebook.com/groups/1343407189851405/posts/2089086971950086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1343407189851405/posts/2089086971950086/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>was a failed Soviet satellite known as Cosmos 96. However, the trajectory and weight of Cosmos 96 do not align with the recovery in Kecks...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1343407189851405/posts/2089086971950086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1343407189851405/posts/2089086971950086/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>was a failed Soviet satellite known as Cosmos 96. However, the trajectory and weight of Cosmos 96 do not align with the recovery in Kecks...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(referring to a covert USAF Project Moon Dust at the time to recover space debris) writes to the DIA. 1127th...Read more...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(referring to a covert USAF Project Moon Dust at the time to recover space debris) writes to the DIA. 1127th...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/39530664/kecksburg2" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/39530664/kecksburg2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rence, “when it&#x27;s fair deliver descended foreign space vehicles.Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/39530664/kecksburg2" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/39530664/kecksburg2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rence, “when it&#x27;s fair deliver descended foreign space vehicles.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uclear tipper General Electric Mark 2 re-entry vehicle. r...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uclear tipper General Electric Mark 2 re-entry vehicle. r...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: leonarddavid.com  
    Title: secretive project moon dust details revealed  
-   Link: <a href="https://www.leonarddavid.com/secretive-project-moon-dust-details-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/secretive-project-moon-dust-details-revealed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Secretive Moon Dust Details Revealed3 Jun 2024 — New revelations have come to light regarding Project Moon Dust, long known by Freedom of...</p></details>
+   Link:<a href="https://www.leonarddavid.com/secretive-project-moon-dust-details-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/secretive-project-moon-dust-details-revealed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secretive Moon Dust Details Revealed3 Jun 2024 — New revelations have come to light regarding Project Moon Dust, long known by Freedom of...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: vice.com  
-   Link: <a href="https://www.vice.com/en/article/the-most-important-ufo-crash-happened-in-pennsylvania-not-roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-most-important-ufo-crash-happened-in-pennsylvania-not-roswell/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Documents Shed Light on NASA&#x27;s Secretive &#x27;Project...4 Aug 2021 — It got 220 pages back, including some fragments of the Project Moon...</p></details>
+   Link:<a href="https://www.vice.com/en/article/the-most-important-ufo-crash-happened-in-pennsylvania-not-roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-most-important-ufo-crash-happened-in-pennsylvania-not-roswell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Documents Shed Light on NASA&#x27;s Secretive &#x27;Project...4 Aug 2021 — It got 220 pages back, including some fragments of the Project Moon...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/assets/gao-25-107591.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/gao-25-107591.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>25-107591, NASA: Assessments of Major Projects1 Jul 2025 — NASA major projects aim to explore the solar system, advance aeronautic te...</p></details>
+   Link:<a href="https://www.gao.gov/assets/gao-25-107591.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/gao-25-107591.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25-107591, NASA: Assessments of Major Projects1 Jul 2025 — NASA major projects aim to explore the solar system, advance aeronautic te...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
    Title: new documents shed light on nasas secretive  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/oy8i3d/new_documents_shed_light_on_nasas_secretive/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/oy8i3d/new_documents_shed_light_on_nasas_secretive/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Documents Shed Light on NASA&#x27;s Secretive &#x27;Project...5 Aug 2021 — New Documents Shed Light on NASA&#x27;s Secretive &#x27;Project Moon Dust&#x27; In...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/oy8i3d/new_documents_shed_light_on_nasas_secretive/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/oy8i3d/new_documents_shed_light_on_nasas_secretive/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Documents Shed Light on NASA&#x27;s Secretive &#x27;Project...5 Aug 2021 — New Documents Shed Light on NASA&#x27;s Secretive &#x27;Project Moon Dust&#x27; In...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pauldmaley.com  
    Title: HISTOR Y OF SPACE DEBRIS RECOVERIES  
-   Link: <a href="https://pauldmaley.com/sd1/" target="_blank" rel="noopener noreferrer nofollow">https://pauldmaley.com/sd1/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY OF SPACE DEBRIS RECOVERIES - Paul Maley19 Oct 2025 — We compile reports, accounts and illustration of factual events in the histo...</p></details>
+   Link:<a href="https://pauldmaley.com/sd1/" target="_blank" rel="noopener noreferrer nofollow">https://pauldmaley.com/sd1/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY OF SPACE DEBRIS RECOVERIES - Paul Maley19 Oct 2025 — We compile reports, accounts and illustration of factual events in the histo...</p></details>

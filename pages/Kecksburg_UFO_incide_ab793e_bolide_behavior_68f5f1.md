@@ -446,19 +446,19 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1-overvie
 
 ## Introduction
 
-A bright bolide can look like a nearby crash even when it is still tens of kilometres above the ground and travelling far beyond the observer’s horizon. That mechanism is central to understanding [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}): the widely witnessed event of 9 December 1965 fits a classic pattern in which a real, dramatic fireball generated local impressions of descent, impact, sound, smoke, and search activity, while scientific reconstruction placed the main sky event over the [Great Lakes]({{ 'great-lakes/' | relative_url }}) region rather than simply over the woods near Kecksburg. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — December 9, 1965 a brilliant fireball was observed...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+A bright bolide can look like a nearby crash even when it is still tens of kilometres above the ground and travelling far beyond the observer’s horizon. That mechanism is central to understanding [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}): the widely witnessed event of 9 December 1965 fits a classic pattern in which a real, dramatic fireball generated local impressions of descent, impact, sound, smoke, and search activity, while scientific reconstruction placed the main sky event over the [Great Lakes]({{ 'great-lakes/' | relative_url }}) region rather than simply over the woods near Kecksburg.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — December 9, 1965 a brilliant fireball was observed...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1-overview.webp" | relative_url }}" alt="Overview image for Bolides" loading="eager" decoding="sync" fetchpriority="high">
-This does not by itself settle every claim made about Kecksburg. It does, however, explain why sincere [witnesses]({{ 'witnesses/' | relative_url }}) in different towns can each feel that a fireball “came down over there”. Fireballs are high, fast, bright, noisy, and visually unfamiliar. Human depth perception is poor for isolated lights in the sky, and the final glowing phase of a meteor normally ends well above the ground; any surviving stones then enter a dark, invisible fall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Fireball FAQs</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQs - American Meteor Society...</span></span></span>
+This does not by itself settle every claim made about Kecksburg. It does, however, explain why sincere [witnesses]({{ 'witnesses/' | relative_url }}) in different towns can each feel that a fireball “came down over there”. Fireballs are high, fast, bright, noisy, and visually unfamiliar. Human depth perception is poor for isolated lights in the sky, and the final glowing phase of a meteor normally ends well above the ground; any surviving stones then enter a dark, invisible fall.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Fireball FAQs</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQs - American Meteor Society...</span></span></span>
 
 ## Altitude and Perspective
 
-The most important fact about bolide sightings is that the visible object is usually not close to the ground. NASA’s general description of meteors places most meteors in the mesosphere, roughly 50–80 kilometres above Earth’s surface, while the American Meteor Society notes that a fireball usually needs to remain visibly luminous below about 20 kilometres to have a good chance of producing meteorites. A meteorite-dropping fireball is therefore already an unusually deep event; many brilliant fireballs never reach that stage at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nationalgeographic.org/resource/meteor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nationalgeographic.org">[National Geographic Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nationalgeographic.org</span><span class="citation-popover-snippet">National Geographic EducationMeteor19 Oct 2023 — Meteors are often referred to as shooting stars or falling stars because of the bright t...</span></span></span>
+The most important fact about bolide sightings is that the visible object is usually not close to the ground. NASA’s general description of meteors places most meteors in the mesosphere, roughly 50–80 kilometres above Earth’s surface, while the American Meteor Society notes that a fireball usually needs to remain visibly luminous below about 20 kilometres to have a good chance of producing meteorites. A meteorite-dropping fireball is therefore already an unusually deep event; many brilliant fireballs never reach that stage at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nationalgeographic.org/resource/meteor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nationalgeographic.org">[National Geographic Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nationalgeographic.org</span><span class="citation-popover-snippet">National Geographic EducationMeteor19 Oct 2023 — Meteors are often referred to as shooting stars or falling stars because of the bright t...</span></span></span>
 
 That height makes perspective treacherous. A fireball at 50 kilometres altitude can be visible over an enormous area, so observers separated by hundreds of kilometres may all report it as descending towards their own local horizon. To a person in Kecksburg, a steeply descending fireball could appear to pass beyond a ridge, treeline, or patch of woodland. To a person in Ohio or Ontario, the same object could seem to be dropping in a different direction. The apparent “nearby crash” is not necessarily deception or exaggeration; it is a natural result of watching a bright, distant object without reliable distance cues.
 
-This is why the regional scale of the 1965 event matters. Contemporary and later summaries describe reports across multiple US states and Canada, with scientific discussion focusing on the Detroit-Windsor and Lake Erie region. The 1967 Journal of the Royal Astronomical Society of Canada analysis used trail photographs and a seismographic record to reconstruct the fireball’s path, rather than treating any single town’s impression as the true endpoint. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+This is why the regional scale of the 1965 event matters. Contemporary and later summaries describe reports across multiple US states and Canada, with scientific discussion focusing on the Detroit-Windsor and Lake Erie region. The 1967 Journal of the Royal Astronomical Society of Canada analysis used trail photographs and a seismographic record to reconstruct the fireball’s path, rather than treating any single town’s impression as the true endpoint.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 For Kecksburg, that creates a useful distinction: the sky event can be real and spectacular, while the perceived local impact can still be wrong. The witness statement “it looked as if it came down near us” is compatible with a bolide explanation. It becomes stronger evidence for a local crash only if supported by independent physical traces, a verified fall site, recovered fragments, or a documented chain of custody.
 
@@ -466,11 +466,11 @@ For Kecksburg, that creates a useful distinction: the sky event can be real and 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1-Illustration-1-dark.svg" | relative_url }}" alt="Bolides illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fragmentation and Sound
 
-Bolides are not quiet falling lamps. They ablate, flare, fragment, and sometimes explode in the atmosphere. NASA’s account of the Chelyabinsk superbolide explains the basic physics: as an object enters the atmosphere at high speed, a bow shock forms, the body heats and ablates, and fragmentation increases the area exposed to the air, intensifying braking and energy release. Disruption normally happens when pressure forces exceed the object’s strength, often near maximum brightness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jpl.nasa.gov/news/additional-details-on-the-large-feb-15-fireball-over-russia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpl.nasa.gov">[NASA Jet Propulsion Laboratory (JPL)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpl.nasa.gov</span><span class="citation-popover-snippet">NASA Jet Propulsion Laboratory (JPL)Additional Details on the Large Feb. 15 Fireball over Russia &#124; NASA Jet Propulsion Laboratory (JPL)...</span></span></span>
+Bolides are not quiet falling lamps. They ablate, flare, fragment, and sometimes explode in the atmosphere. NASA’s account of the Chelyabinsk superbolide explains the basic physics: as an object enters the atmosphere at high speed, a bow shock forms, the body heats and ablates, and fragmentation increases the area exposed to the air, intensifying braking and energy release. Disruption normally happens when pressure forces exceed the object’s strength, often near maximum brightness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jpl.nasa.gov/news/additional-details-on-the-large-feb-15-fireball-over-russia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpl.nasa.gov">[NASA Jet Propulsion Laboratory (JPL)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpl.nasa.gov</span><span class="citation-popover-snippet">NASA Jet Propulsion Laboratory (JPL)Additional Details on the Large Feb. 15 Fireball over Russia &#124; NASA Jet Propulsion Laboratory (JPL)...</span></span></span>
 
-That behaviour helps explain why witnesses often describe a fireball as “breaking up”, “exploding”, “dropping pieces”, or “ending in a flash”. A flare can feel like the moment of impact, even though it may occur high above the ground. Chelyabinsk is a modern, well-instrumented example: NASA describes a roughly 17–20 metre object that fragmented at high altitude, reached maximum brightness at about 23.3 kilometres, and produced meteorites as well as a powerful shock wave. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jpl.nasa.gov/news/additional-details-on-the-large-feb-15-fireball-over-russia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpl.nasa.gov">[NASA Jet Propulsion Laboratory (JPL)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpl.nasa.gov</span><span class="citation-popover-snippet">NASA Jet Propulsion Laboratory (JPL)Additional Details on the Large Feb. 15 Fireball over Russia &#124; NASA Jet Propulsion Laboratory (JPL)...</span></span></span>
+That behaviour helps explain why witnesses often describe a fireball as “breaking up”, “exploding”, “dropping pieces”, or “ending in a flash”. A flare can feel like the moment of impact, even though it may occur high above the ground. Chelyabinsk is a modern, well-instrumented example: NASA describes a roughly 17–20 metre object that fragmented at high altitude, reached maximum brightness at about 23.3 kilometres, and produced meteorites as well as a powerful shock wave.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jpl.nasa.gov/news/additional-details-on-the-large-feb-15-fireball-over-russia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpl.nasa.gov">[NASA Jet Propulsion Laboratory (JPL)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpl.nasa.gov</span><span class="citation-popover-snippet">NASA Jet Propulsion Laboratory (JPL)Additional Details on the Large Feb. 15 Fireball over Russia &#124; NASA Jet Propulsion Laboratory (JPL)...</span></span></span>
 
-Sound adds another trap. The American Meteor Society explains that sonic [booms]({{ 'booms/' | relative_url }}) from very bright bolides may be heard if the object penetrates deeply enough, but because sound travels far more slowly than light, the boom usually arrives about 1.5 to 4 minutes after the visible explosion. Observers are advised to listen for up to five minutes after the fireball. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Fireball FAQs</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQs - American Meteor Society...</span></span></span>
+Sound adds another trap. The American Meteor Society explains that sonic [booms]({{ 'booms/' | relative_url }}) from very bright bolides may be heard if the object penetrates deeply enough, but because sound travels far more slowly than light, the boom usually arrives about 1.5 to 4 minutes after the visible explosion. Observers are advised to listen for up to five minutes after the fireball.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Fireball FAQs</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQs - American Meteor Society...</span></span></span>
 
 That delay can scramble memory. A person sees the fireball vanish, then hears a boom, feels vibration, or sees animals react. The natural inference is that something has just struck nearby. In reality, the sound may have travelled from a high-altitude fragmentation point many kilometres away. In a wooded rural setting such as Kecksburg, with hills, darkness, and excitement, a delayed boom could easily be folded into a crash narrative.
 
@@ -479,11 +479,11 @@ That delay can scramble memory. A person sees the fireball vanish, then hears a 
 
 ## Why the Last Visible Point Is Not the Landing Point
 
-One of the most persistent false impressions is that a fireball remains visible until it hits the ground. The American Meteor Society is explicit that this is not how meteorite falls normally work. At roughly 15–20 kilometres altitude, surviving fragments usually slow enough that ablation stops and visible light is no longer generated. The remaining pieces continue in “[dark flight]({{ 'dark-flight/' | relative_url }})”, falling invisibly at terminal velocity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Fireball FAQs</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQs - American Meteor Society...</span></span></span>
+One of the most persistent false impressions is that a fireball remains visible until it hits the ground. The American Meteor Society is explicit that this is not how meteorite falls normally work. At roughly 15–20 kilometres altitude, surviving fragments usually slow enough that ablation stops and visible light is no longer generated. The remaining pieces continue in “[dark flight]({{ 'dark-flight/' | relative_url }})”, falling invisibly at terminal velocity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Fireball FAQs</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQs - American Meteor Society...</span></span></span>
 
 This matters directly for Kecksburg-style claims. A witness can honestly point to the place where the glowing object disappeared and say, “it landed there”, but the luminous phase and the physical fall are not the same thing. If meteorites survived, winds and momentum could carry fragments away from the last bright point. If the object fully disintegrated, there may be no recoverable mass at all.
 
-Modern [fireball science]({{ 'science-trail/' | relative_url }}) treats trajectory reconstruction as a technical problem, not as a simple extension of eyewitness lines of sight. Fireball networks use multiple observing stations to triangulate and dynamically analyse meteoroids; researchers note that the accuracy of trajectory methods directly affects both orbit calculation and any possible meteorite recovery area. This is precisely the kind of information that casual witnesses in 1965 did not have. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1911.00816" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Modern [fireball science]({{ 'science-trail/' | relative_url }}) treats trajectory reconstruction as a technical problem, not as a simple extension of eyewitness lines of sight. Fireball networks use multiple observing stations to triangulate and dynamically analyse meteoroids; researchers note that the accuracy of trajectory methods directly affects both orbit calculation and any possible meteorite recovery area. This is precisely the kind of information that casual witnesses in 1965 did not have.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1911.00816" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 The lesson is not that witnesses are useless. It is that unaided witness geography is fragile. Reports of direction, brightness, duration, sound, and fragmentation can be valuable, but the claimed fall point needs stronger support. In Kecksburg, the bolide mechanism explains how a broad regional fireball could seed a localised crash belief without requiring the object itself to have landed in the specific woodland later made famous.
 
@@ -497,18 +497,18 @@ Several recurring misreadings turn bolides into apparent crash events. They are 
 
 **“It got brighter at the end, so that was impact.”** A terminal flare is often fragmentation or rapid ablation high in the atmosphere. The brightest moment can occur kilometres above the ground.
 
-**“The boom proves it hit nearby.”** A sonic boom can arrive minutes after the visual event and may be generated by high-altitude fragmentation rather than ground impact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Fireball FAQs</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQs - American Meteor Society...</span></span></span>
+**“The boom proves it hit nearby.”** A sonic boom can arrive minutes after the visual event and may be generated by high-altitude fragmentation rather than ground impact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Fireball FAQs</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQs - American Meteor Society...</span></span></span>
 
-**“Falling pieces mean wreckage must be nearby.”** Fragmentation can produce dust, tiny debris, or meteorites spread over a broad strewn field. Many very bright meteors produce no recoverable meteorites, especially if the body is fragile or comet-like. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Fireball FAQs</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQs - American Meteor Society...</span></span></span>
+**“Falling pieces mean wreckage must be nearby.”** Fragmentation can produce dust, tiny debris, or meteorites spread over a broad strewn field. Many very bright meteors produce no recoverable meteorites, especially if the body is fragile or comet-like.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Fireball FAQs</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQs - American Meteor Society...</span></span></span>
 
-**“A real search means a real object was found.”** Searches often follow alarming reports even when no object is recovered. In the Kecksburg case, the tension between reports of an official search and later statements that nothing was found is one reason the story endured; it is not, by itself, proof of a landed craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+**“A real search means a real object was found.”** Searches often follow alarming reports even when no object is recovered. In the Kecksburg case, the tension between reports of an official search and later statements that nothing was found is one reason the story endured; it is not, by itself, proof of a landed craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TuZ-TP0UN30" title="American Meteor Society on rare &#x27;bolide&#x27; fireball seen across Southeast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer">American Meteor Society on rare &#x27;bolide&#x27; fireball seen across Southeast</a></p><p class="youtube-embed-meta">Channel: 11Alive &middot; Views: 55.3K &middot; Uploaded: June 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TuZ-TP0UN30">Open on YouTube</a></p></div></div></div>
 
 ## What Bolide Behaviour Explains at Kecksburg
 
-The bolide model explains the strongest and least controversial layer of the Kecksburg incident: a brilliant object was seen over a wide region, it was bright enough to alarm witnesses, and it was interpreted by astronomers and officials as a meteor-like fireball. The 1965 reports were not simply a local rumour beginning in one village; they were part of a large regional sky event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The bolide model explains the strongest and least controversial layer of the Kecksburg incident: a brilliant object was seen over a wide region, it was bright enough to alarm witnesses, and it was interpreted by astronomers and officials as a meteor-like fireball. The 1965 reports were not simply a local rumour beginning in one village; they were part of a large regional sky event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 It also explains why local certainty could form quickly. A person who sees a fireball descend behind a ridge, hears a delayed boom, and then learns that police or military personnel are searching nearby has a coherent story available: something came down here. That story may be psychologically compelling even when the physical mechanism points elsewhere.
 
@@ -527,194 +527,194 @@ That is why Kecksburg remains a useful case study in false impact impressions. I
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Fireballs Look Like Nearby Crashes. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Fireballs Look Like Nearby Crashes. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dZi_wfCqDBwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By Robert Hutchison</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dZi_wfCqDBwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
+</h4>
+<p class="fr-book-author">By Robert Hutchison</p>
         
-        <p class="fr-book-desc">Explains fireballs, meteorite falls, fragmentation and atmospheric behaviour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains fireballs, meteorite falls, fragmentation and atmospheric behaviour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide to Meteors and Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OMgDhc8d7v4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Field Guide to Meteors and Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide to Meteors and Meteorites">Field Guide to Meteors and Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton, Lawrence Chitwood</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide to Meteors and Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OMgDhc8d7v4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Field Guide to Meteors and Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide to Meteors and Meteorites">Field Guide to Meteors and Meteorites</a>
+</h4>
+<p class="fr-book-author">By O. Richard Norton, Lawrence Chitwood</p>
         
-        <p class="fr-book-desc">Covers meteor appearances, trajectories and common misconceptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers meteor appearances, trajectories and common misconceptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for interpreting unusual aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for interpreting unusual aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Useful for understanding witness perception and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding witness perception and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+to+Meteors+and+Meteorites+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field to Meteors and Meteorites books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+to+Meteors+and+Meteorites+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field to Meteors and Meteorites books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="bolides-why-fireballs-look-like-nearby-crashes-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -730,7 +730,7 @@ That is why Kecksburg remains a useful case study in false impact impressions. I
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -750,7 +750,7 @@ That is why Kecksburg remains a useful case study in false impact impressions. I
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -782,7 +782,7 @@ That is why Kecksburg remains a useful case study in false impact impressions. I
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -834,7 +834,7 @@ That is why Kecksburg remains a useful case study in false impact impressions. I
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -879,7 +879,7 @@ That is why Kecksburg remains a useful case study in false impact impressions. I
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -920,167 +920,167 @@ That is why Kecksburg remains a useful case study in false impact impressions. I
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: jpl.nasa.gov  
-   Link: <a href="https://www.jpl.nasa.gov/news/additional-details-on-the-large-feb-15-fireball-over-russia/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/news/additional-details-on-the-large-feb-15-fireball-over-russia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Jet Propulsion Laboratory (JPL)Additional Details on the Large Feb. 15 Fireball over Russia | NASA Jet Propulsion Laboratory (JPL)...</p></details>
+   Link:<a href="https://www.jpl.nasa.gov/news/additional-details-on-the-large-feb-15-fireball-over-russia/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/news/additional-details-on-the-large-feb-15-fireball-over-russia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Jet Propulsion Laboratory (JPL)Additional Details on the Large Feb. 15 Fireball over Russia | NASA Jet Propulsion Laboratory (JPL)...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: Science Meteors and Meteorites: Facts  
-   Link: <a href="https://science.nasa.gov/solar-system/meteors-meteorites/facts/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/meteors-meteorites/facts/</a>  
+   Link:<a href="https://science.nasa.gov/solar-system/meteors-meteorites/facts/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/meteors-meteorites/facts/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1911.00816" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1911.00816</a>  
+   Link:<a href="https://arxiv.org/abs/1911.00816" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1911.00816</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ares.jsc.nasa.gov  
-   Link: <a href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/events/</a>  
+   Link:<a href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/events/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2602.15440" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2602.15440</a>  
+   Link:<a href="https://arxiv.org/pdf/2602.15440" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2602.15440</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: [Kosmos](&#123;&#123; 'kosmos-96/' | relative_url &#125;&#125;) 96  
-   Link: <a href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kosmos_96</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kosmos_96</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Chelyabinsk meteor  
-   Link: <a href="https://en.wikipedia.org/wiki/Chelyabinsk_meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chelyabinsk_meteor</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chelyabinsk_meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chelyabinsk_meteor</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: The SKY Is Getting LOUDER — The 3.9 Sigma Fireball and Sonic Boom Anomaly  
-   Link: <a href="https://www.youtube.com/watch?v=wqLl2fgf3q8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wqLl2fgf3q8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FIREBALLS - Something Changed NEAR EARTH - What They Don&#x27;t EXPLAIN...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wqLl2fgf3q8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wqLl2fgf3q8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FIREBALLS - Something Changed NEAR EARTH - What They Don&#x27;t EXPLAIN...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sW9uNOBJfiw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sW9uNOBJfiw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sW9uNOBJfiw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sW9uNOBJfiw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: adsabs.harvard.edu  
-   Link: <a href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1967JRASC..61..184C</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — December 9, 1965 a brilliant fireball was observed...</p></details>
+   Link:<a href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1967JRASC..61..184C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — December 9, 1965 a brilliant fireball was observed...</p></details>
    Published: December 9, 1965  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: amsmeteors.org  
    Title: American Meteor Society Fireball FAQs  
-   Link: <a href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/faqf/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball FAQs - American Meteor Society...</p></details>
+   Link:<a href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/faqf/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball FAQs - American Meteor Society...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: education.nationalgeographic.org  
-   Link: <a href="https://education.nationalgeographic.org/resource/meteor/" target="_blank" rel="noopener noreferrer nofollow">https://education.nationalgeographic.org/resource/meteor/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Geographic EducationMeteor19 Oct 2023 — Meteors are often referred to as shooting stars or falling stars because of the bright t...</p></details>
+   Link:<a href="https://education.nationalgeographic.org/resource/meteor/" target="_blank" rel="noopener noreferrer nofollow">https://education.nationalgeographic.org/resource/meteor/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Geographic EducationMeteor19 Oct 2023 — Meteors are often referred to as shooting stars or falling stars because of the bright t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/videos?video_id=22128" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/videos?video_id=22128</a>  
+   Link:<a href="https://www.amsmeteors.org/videos?video_id=22128" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/videos?video_id=22128</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: fireball.amsmeteors.org  
    Title: browse reports  
-   Link: <a href="https://fireball.amsmeteors.org/members/imo_view/browse_reports" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_reports</a>  
+   Link:<a href="https://fireball.amsmeteors.org/members/imo_view/browse_reports" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_reports</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: amsmeteors.org  
    Title: ams q1 2026 fireball analysis  
-   Link: <a href="https://amsmeteors.org/ams-q1-2026-fireball-analysis.html" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/ams-q1-2026-fireball-analysis.html</a>  
+   Link:<a href="https://amsmeteors.org/ams-q1-2026-fireball-analysis.html" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/ams-q1-2026-fireball-analysis.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/danskoff/posts/new-update-american-meteor-society-has-a-report-on-thisfireball-meteor-did-you-h/2630929023584303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/danskoff/posts/new-update-american-meteor-society-has-a-report-on-thisfireball-meteor-did-you-h/2630929023584303/</a>  
+   Link:<a href="https://www.facebook.com/danskoff/posts/new-update-american-meteor-society-has-a-report-on-thisfireball-meteor-did-you-h/2630929023584303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/danskoff/posts/new-update-american-meteor-society-has-a-report-on-thisfireball-meteor-did-you-h/2630929023584303/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TuZ-TP0UN30</a>  
+   Link:<a href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TuZ-TP0UN30</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: icq.eps.harvard.edu  
-   Link: <a href="https://www.icq.eps.harvard.edu/meteorites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.icq.eps.harvard.edu/meteorites.html</a>  
+   Link:<a href="https://www.icq.eps.harvard.edu/meteorites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.icq.eps.harvard.edu/meteorites.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: adsabs.harvard.edu  
-   Link: <a href="https://adsabs.harvard.edu/full/1994JRASC..88..332H" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1994JRASC..88..332H</a>  
+   Link:<a href="https://adsabs.harvard.edu/full/1994JRASC..88..332H" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1994JRASC..88..332H</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2014me13.conf....3P/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2014me13.conf....3P/abstract</a>  
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2014me13.conf....3P/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2014me13.conf....3P/abstract</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Kecksburg UFO  
-   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO</a>  
+   Link:<a href="https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: scistarter.org  
    Title: American Meteor Society  
-   Link: <a href="https://scistarter.org/american-meteor-society-meteor-observing" target="_blank" rel="noopener noreferrer nofollow">https://scistarter.org/american-meteor-society-meteor-observing</a>  
+   Link:<a href="https://scistarter.org/american-meteor-society-meteor-observing" target="_blank" rel="noopener noreferrer nofollow">https://scistarter.org/american-meteor-society-meteor-observing</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/story?id=3785376&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/story?id=3785376&amp;page=1</a>  
+   Link:<a href="https://abcnews.com/Technology/story?id=3785376&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/story?id=3785376&amp;page=1</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence  
-   Link: <a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The SKY Is Getting LOUDER provides critical scientific background on how modern data from organizations like the American Meteor Society...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The SKY Is Getting LOUDER provides critical scientific background on how modern data from organizations like the American Meteor Society...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ac3hYt3k-Eo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg Incident: What Really Happened Here?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ac3hYt3k-Eo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg Incident: What Really Happened Here?...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: The Kecksburg Incident: What Really Happened Here?  
-   Link: <a href="https://www.youtube.com/watch?v=BXh2zTD9Kug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BXh2zTD9Kug</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BXh2zTD9Kug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BXh2zTD9Kug</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/375897896_The_Golden_meteorite_fall_Fireball_trajectory_orbit_and_meteorite_characterization" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375897896_The_Golden_meteorite_fall_Fireball_trajectory_orbit_and_meteorite_characterization</a>  
+   Link:<a href="https://www.researchgate.net/publication/375897896_The_Golden_meteorite_fall_Fireball_trajectory_orbit_and_meteorite_characterization" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375897896_The_Golden_meteorite_fall_Fireball_trajectory_orbit_and_meteorite_characterization</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/</a>  
+   Link:<a href="https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cnn/posts/a-rare-fireball-bright-enough-to-be-seen-during-broad-daylight-dazzled-skies-and/1310785570914091/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-rare-fireball-bright-enough-to-be-seen-during-broad-daylight-dazzled-skies-and/1310785570914091/</a>  
+   Link:<a href="https://www.facebook.com/cnn/posts/a-rare-fireball-bright-enough-to-be-seen-during-broad-daylight-dazzled-skies-and/1310785570914091/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-rare-fireball-bright-enough-to-be-seen-during-broad-daylight-dazzled-skies-and/1310785570914091/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DSB4fRqAvMw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSB4fRqAvMw/</a>  
+   Link:<a href="https://www.instagram.com/reel/DSB4fRqAvMw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSB4fRqAvMw/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MeteorologistRossEllet/posts/did-you-see-it-it-happened-again-another-fireball-meteor-lit-up-the-sky-last-nig/1508699200614732/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeteorologistRossEllet/posts/did-you-see-it-it-happened-again-another-fireball-meteor-lit-up-the-sky-last-nig/1508699200614732/</a>  
+   Link:<a href="https://www.facebook.com/MeteorologistRossEllet/posts/did-you-see-it-it-happened-again-another-fireball-meteor-lit-up-the-sky-last-nig/1508699200614732/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeteorologistRossEllet/posts/did-you-see-it-it-happened-again-another-fireball-meteor-lit-up-the-sky-last-nig/1508699200614732/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: journalrecord.com  
-   Link: <a href="https://journalrecord.com/2026/06/16/experts-puzzled-surge-fireball-meteors-north-america/" target="_blank" rel="noopener noreferrer nofollow">https://journalrecord.com/2026/06/16/experts-puzzled-surge-fireball-meteors-north-america/</a>  
+   Link:<a href="https://journalrecord.com/2026/06/16/experts-puzzled-surge-fireball-meteors-north-america/" target="_blank" rel="noopener noreferrer nofollow">https://journalrecord.com/2026/06/16/experts-puzzled-surge-fireball-meteors-north-america/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWUfqAtkS_v/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWUfqAtkS_v/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DWUfqAtkS_v/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWUfqAtkS_v/?hl=en</a>  

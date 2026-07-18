@@ -451,13 +451,13 @@ Cold War secrecy makes [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incide
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3-overview.webp" | relative_url }}" alt="Overview image for Cold War" loading="eager" decoding="sync" fetchpriority="high">
-The key point is the difference between **secrecy as proof** and **secrecy as context**. Programmes such as Project Moon Dust and Operation [Blue Fly]({{ 'blue-fly/' | relative_url }}) show that the US government did recover and analyse fallen space objects during the Cold War. Project Blue Book shows that UFO reporting also had an official national-security channel. Kecksburg sits in the overlap: a public fireball, possible debris rumours, military search activity, later NASA confusion, and a public increasingly primed to distrust tidy official explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
+The key point is the difference between **secrecy as proof** and **secrecy as context**. Programmes such as Project Moon Dust and Operation [Blue Fly]({{ 'blue-fly/' | relative_url }}) show that the US government did recover and analyse fallen space objects during the Cold War. Project Blue Book shows that UFO reporting also had an official national-security channel. Kecksburg sits in the overlap: a public fireball, possible debris rumours, military search activity, later NASA confusion, and a public increasingly primed to distrust tidy official explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
 
 ## Why unidentified debris mattered in the Cold War
 
 The Cold War made falling objects politically and technically important. A fragment that looked mundane to a villager could matter to an intelligence officer if it came from a Soviet rocket stage, a reconnaissance satellite, a [re-entry]({{ 're-entry/' | relative_url }}) vehicle or a failed space probe. Hardware could reveal metallurgy, [heat-shield]({{ 'heat-shield/' | relative_url }}) design, guidance methods, fuel systems, sensor packages or manufacturing standards. In that climate, “unidentified” did not have to mean alien; it could simply mean “not yet attributed, potentially foreign, and worth securing”.
 
-The Kecksburg case occurred at a moment when space activity was accelerating and secrecy was routine. The Soviet Union often used generic Kosmos designations for missions that failed or that were not publicly described in detail, and the failed Soviet Venus probe Kosmos 96 re-entered on 9 December 1965, the same date as the [Great Lakes]({{ 'great-lakes/' | relative_url }}) fireball. That coincidence has long made the space-debris explanation attractive, although later orbital and fireball analyses have also made a direct Kosmos 96 explanation difficult: NASA-linked summaries note that the observed [fireball path]({{ 'fireball-path/' | relative_url }}) was probably too steep for an ordinary orbital re-entry and that Air Force tracking indicated Kosmos 96 had decayed earlier than the 21:43 UTC fireball time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">Kosmos 96</span></span></span>
+The Kecksburg case occurred at a moment when space activity was accelerating and secrecy was routine. The Soviet Union often used generic Kosmos designations for missions that failed or that were not publicly described in detail, and the failed Soviet Venus probe Kosmos 96 re-entered on 9 December 1965, the same date as the [Great Lakes]({{ 'great-lakes/' | relative_url }}) fireball. That coincidence has long made the space-debris explanation attractive, although later orbital and fireball analyses have also made a direct Kosmos 96 explanation difficult: NASA-linked summaries note that the observed [fireball path]({{ 'fireball-path/' | relative_url }}) was probably too steep for an ordinary orbital re-entry and that Air Force tracking indicated Kosmos 96 had decayed earlier than the 21:43 UTC fireball time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">Kosmos 96</span></span></span>
 
 That tension is central to Kecksburg. A Cold War recovery scenario is plausible in the broad sense because such recoveries really happened. It is not automatically proven in the narrow Kecksburg sense because the best-known candidate, Kosmos 96, does not neatly fit the timing and trajectory. The strongest historical comparison therefore does not say “Kecksburg was a Soviet satellite”. It says: if authorities feared a fallen object might be foreign hardware, the secrecy, speed and confusion described by some witnesses would not be surprising.
 
@@ -465,13 +465,13 @@ That tension is central to Kecksburg. A Cold War recovery scenario is plausible 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3-Illustration-1-dark.svg" | relative_url }}" alt="Cold War illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Space debris as intelligence
 
-Project Moon Dust is the clearest reason official interest in unidentified debris cannot be dismissed as fantasy. Declassified State Department material describes communications about “Recovery of Deorbited Space Debris (Moon Dust)” from 1967 to 1972, sourced from National Archives Record Group 59. Those records include diplomatic traffic about recovered fragments, requests to locate and preserve material, and interagency handling involving the Department of State, defence channels, NASA and intelligence-linked offices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
+Project Moon Dust is the clearest reason official interest in unidentified debris cannot be dismissed as fantasy. Declassified State Department material describes communications about “Recovery of Deorbited Space Debris (Moon Dust)” from 1967 to 1972, sourced from National Archives Record Group 59. Those records include diplomatic traffic about recovered fragments, requests to locate and preserve material, and interagency handling involving the Department of State, defence channels, NASA and intelligence-linked offices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
 
-The documents show a practical pattern. When fragments appeared in places such as Nepal or Mexico, US officials did not treat them merely as curiosities. They asked where the material was, whether it could be examined, whether it could be transported for analysis, and how to handle diplomatic ownership questions. One State Department discussion noted that the Soviet Union had been given a physical description of certain fragments and invited to claim them if inspection confirmed Soviet origin; the same file also discussed uncertainty over ownership under the Outer Space Treaty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
+The documents show a practical pattern. When fragments appeared in places such as Nepal or Mexico, US officials did not treat them merely as curiosities. They asked where the material was, whether it could be examined, whether it could be transported for analysis, and how to handle diplomatic ownership questions. One State Department discussion noted that the Soviet Union had been given a physical description of certain fragments and invited to claim them if inspection confirmed Soviet origin; the same file also discussed uncertainty over ownership under the Outer Space Treaty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
 
 This matters for Kecksburg because it puts the alleged recovery story into a documented world of government behaviour. A state police cordon, military search, removal of debris or an instruction not to talk would all fit Cold War habits if officials believed the object might be Soviet or American classified hardware. Those habits do not require extraterrestrial technology. They require only the possibility that a recovered object had intelligence value.
 
-The same records also show why secrecy could look inconsistent from the outside. One 1970 State Department memorandum on Soviet space objects instructed posts to notify the Department immediately of any reports of space-debris impact and to take no action until further guidance. That kind of centralised control is understandable in diplomatic and intelligence terms, but to local witnesses it could look like concealment rather than procedure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
+The same records also show why secrecy could look inconsistent from the outside. One 1970 State Department memorandum on Soviet space objects instructed posts to notify the Department immediately of any reports of space-debris impact and to take no action until further guidance. That kind of centralised control is understandable in diplomatic and intelligence terms, but to local witnesses it could look like concealment rather than procedure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QiZxd61igSw" title="Project Moondust : The Most Secret Operation in US History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QiZxd61igSw" target="_blank" rel="noopener noreferrer">Project Moondust : The Most Secret Operation in US History</a></p><p class="youtube-embed-meta">Channel: Consciousness &middot; Views: 898 &middot; Uploaded: April 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QiZxd61igSw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QiZxd61igSw">Open on YouTube</a></p></div></div></div>
@@ -480,9 +480,9 @@ The same records also show why secrecy could look inconsistent from the outside.
 
 Cold War recovery practice was built around speed, jurisdiction and control of information. An unknown object could fall in a field, a mountain village, a foreign country or a rural wood. The first people on scene might be civilians, police or local military units, while the people who wanted the object most urgently might be technical intelligence specialists far away. That gap encouraged rapid collection, restricted access and careful messaging.
 
-Operation Blue Fly is often discussed alongside Moon Dust because it appears in released material as a mechanism for quick transport of technically valuable material to specialist analysis. Secondary repositories quoting released Air Force material describe Blue Fly as facilitating rapid delivery to the Foreign Technology Division of Moon Dust material or other items of high technical intelligence interest, while Moon Dust was described as a project to locate, recover and deliver descended foreign space vehicles. Those quoted descriptions should be treated carefully because some surviving copies circulate through UFO-document collections, but they align with the broader State Department record showing real US interest in recovered space debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sacred-texts.com/ufo/moondust.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Open source on sacred-texts.com.</span></span></span>
+Operation Blue Fly is often discussed alongside Moon Dust because it appears in released material as a mechanism for quick transport of technically valuable material to specialist analysis. Secondary repositories quoting released Air Force material describe Blue Fly as facilitating rapid delivery to the Foreign Technology Division of Moon Dust material or other items of high technical intelligence interest, while Moon Dust was described as a project to locate, recover and deliver descended foreign space vehicles. Those quoted descriptions should be treated carefully because some surviving copies circulate through UFO-document collections, but they align with the broader State Department record showing real US interest in recovered space debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sacred-texts.com/ufo/moondust.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Open source on sacred-texts.com.</span></span></span>
 
-Kecksburg’s location also matters. Wright-Patterson Air Force Base in Ohio was the headquarters of Project Blue Book, the Air Force’s UFO investigation programme, and is repeatedly named in later Kecksburg narratives as a possible destination for any recovered object. The National Archives confirms that Project Blue Book was headquartered at Wright-Patterson and that its records covered Air Force investigations of UFO reports from 1947 until the programme ended in 1969. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+Kecksburg’s location also matters. Wright-Patterson Air Force Base in Ohio was the headquarters of Project Blue Book, the Air Force’s UFO investigation programme, and is repeatedly named in later Kecksburg narratives as a possible destination for any recovered object. The National Archives confirms that Project Blue Book was headquartered at Wright-Patterson and that its records covered Air Force investigations of UFO reports from 1947 until the programme ended in 1969.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 This does not prove that a lorry carried an acorn-shaped object from Kecksburg to Ohio. It does show why the story sounded plausible to later listeners. Wright-Patterson was not an arbitrary name; it was a real hub for UFO case administration and Air Force technical interest. During the Cold War, the boundary between “UFO report”, “foreign aerospace debris” and “classified hardware problem” could be thin at the first-response stage, even if later analysis concluded that most cases had ordinary explanations.
 
@@ -492,11 +492,11 @@ This does not prove that a lorry carried an acorn-shaped object from Kecksburg t
 
 Cold War secrecy explains the atmosphere around Kecksburg better than it explains the object itself. It helps account for three durable features of the case.
 
-First, it explains why official attention could have been serious even if the object was not exotic. A brilliant fireball over several states, reports of impact, rumours of metallic debris and uncertainty about satellites or missiles would have been enough to trigger official checks. The Air Force’s own retrospective fact sheet says Project Blue Book had investigated 12,618 sightings by 1969, with 701 remaining unidentified, while concluding that none showed a national-security threat, advanced technology beyond known science, or extraterrestrial vehicles. That mixture — investigate seriously, then publicly downplay — is exactly the pattern that often generates suspicion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+First, it explains why official attention could have been serious even if the object was not exotic. A brilliant fireball over several states, reports of impact, rumours of metallic debris and uncertainty about satellites or missiles would have been enough to trigger official checks. The Air Force’s own retrospective fact sheet says Project Blue Book had investigated 12,618 sightings by 1969, with 701 remaining unidentified, while concluding that none showed a national-security threat, advanced technology beyond known science, or extraterrestrial vehicles. That mixture — investigate seriously, then publicly downplay — is exactly the pattern that often generates suspicion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
 Second, secrecy explains why local testimony and official statements diverged. A local resident might remember roadblocks, uniforms, searchlights or a military vehicle. An official spokesman might say no object was found or that the event was a meteor. Both can exist in the same historical record if authorities searched urgently but recovered nothing, recovered something they did not want to discuss, or simply controlled the scene while a natural fireball was misreported as a crash.
 
-Third, secrecy explains why gaps became evidence in the public imagination. Kecksburg did not remain controversial only because of the 1965 fireball. It remained controversial because later attempts to obtain records produced confusion. In 2007, reports on Leslie Kean’s Freedom of Information Act case said NASA had agreed to conduct a more extensive search for records relating to the 1965 incident after years of dispute, with the Reporters Committee for Freedom of the Press noting that a federal judge criticised NASA’s lack of diligence and that NASA agreed to pay legal fees and search again. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Reporters Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-snippet">Open source on rcfp.org.</span></span></span>
+Third, secrecy explains why gaps became evidence in the public imagination. Kecksburg did not remain controversial only because of the 1965 fireball. It remained controversial because later attempts to obtain records produced confusion. In 2007, reports on Leslie Kean’s Freedom of Information Act case said NASA had agreed to conduct a more extensive search for records relating to the 1965 incident after years of dispute, with the Reporters Committee for Freedom of the Press noting that a federal judge criticised NASA’s lack of diligence and that NASA agreed to pay legal fees and search again.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Reporters Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-snippet">Open source on rcfp.org.</span></span></span>
 
 But secrecy does not solve the evidentiary problem. It does not produce a verified object, a chain of custody, laboratory results, photographs, inventory records or a confirmed transport route. It also does not overcome the difficulties with Kosmos 96 as a direct explanation for the [Kecksburg fireball]({{ 'kecksburg-fireball/' | relative_url }}). The most careful conclusion is narrower: Cold War recovery programmes make official interest plausible, while the available public record still falls short of proving what, if anything, was recovered from the woods.
 
@@ -507,9 +507,9 @@ But secrecy does not solve the evidentiary problem. It does not produce a verifi
 
 The Kecksburg incident became a public-trust story because secrecy and poor records are not neutral in a case built on eyewitness claims. When people believe they saw a search, a cordon or a military removal, later statements that nothing happened can feel dismissive. When agencies later say records are missing, the gap can seem less like bureaucracy and more like confirmation.
 
-That dynamic was visible in the NASA records dispute. The Guardian reported in 2007 that NASA public liaison officer Steve McConnell had acknowledged that two boxes of papers from the period of the Kecksburg incident were missing, while a Washington judge refused to accept NASA’s position without a further records search. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Nasa told to solve &#x27;UFO crash&#x27; X-File &#124; World news</span><span class="citation-popover-snippet">The Guardian Nasa told to solve &#x27;UFO crash&#x27; X-File &#124; World news</span></span></span> CBS, carrying an Associated Press report, likewise described NASA agreeing to search its archives again for documents on the 1965 Pennsylvania incident after resisting the step in federal court. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News NASA Court-Ordered To Search For UFO Docs</span><span class="citation-popover-snippet">CBS News NASA Court-Ordered To Search For UFO Docs</span></span></span>
+That dynamic was visible in the NASA records dispute. The Guardian reported in 2007 that NASA public liaison officer Steve McConnell had acknowledged that two boxes of papers from the period of the Kecksburg incident were missing, while a Washington judge refused to accept NASA’s position without a further records search.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Nasa told to solve &#x27;UFO crash&#x27; X-File &#124; World news</span><span class="citation-popover-snippet">The Guardian Nasa told to solve &#x27;UFO crash&#x27; X-File &#124; World news</span></span></span> CBS, carrying an Associated Press report, likewise described NASA agreeing to search its archives again for documents on the 1965 Pennsylvania incident after resisting the step in federal court.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News NASA Court-Ordered To Search For UFO Docs</span><span class="citation-popover-snippet">CBS News NASA Court-Ordered To Search For UFO Docs</span></span></span>
 
-The public-trust problem is not simply that the government kept secrets. During the Cold War, some secrecy around aerospace debris was rational. The problem is that secrecy, denial and incomplete archival trails create a vacuum in which every later inconsistency becomes meaningful. If NASA says fragments were once examined but the supporting records cannot be found, sceptics see institutional carelessness at best and concealment at worst. If the Air Force says Project Blue Book found no national-security threat and no evidence of extraterrestrial vehicles, believers can still point to the separate existence of debris-recovery programmes and argue that the wrong file set is being searched. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The public-trust problem is not simply that the government kept secrets. During the Cold War, some secrecy around aerospace debris was rational. The problem is that secrecy, denial and incomplete archival trails create a vacuum in which every later inconsistency becomes meaningful. If NASA says fragments were once examined but the supporting records cannot be found, sceptics see institutional carelessness at best and concealment at worst. If the Air Force says Project Blue Book found no national-security threat and no evidence of extraterrestrial vehicles, believers can still point to the separate existence of debris-recovery programmes and argue that the wrong file set is being searched.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 Kecksburg therefore shows how Cold War information habits outlived the Cold War itself. A procedure designed to protect intelligence value in 1965 became, decades later, part of a folklore machine. The less complete the paper trail, the easier it became for each side to read the silence differently.
 
@@ -517,7 +517,7 @@ Kecksburg therefore shows how Cold War information habits outlived the Cold War 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3-Illustration-3-dark.svg" | relative_url }}" alt="Cold War illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The balanced reading
 
-The Cold War secrecy angle strengthens the Kecksburg case as a historical problem, but not necessarily as an extraterrestrial one. It shows that the government had real programmes, real motives and real procedures for recovering unidentified or foreign space debris. It also shows that UFO reports were not merely laughed off; they were collected, investigated and archived through official channels until Project Blue Book ended in 1969. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
+The Cold War secrecy angle strengthens the Kecksburg case as a historical problem, but not necessarily as an extraterrestrial one. It shows that the government had real programmes, real motives and real procedures for recovering unidentified or foreign space debris. It also shows that UFO reports were not merely laughed off; they were collected, investigated and archived through official channels until Project Blue Book ended in 1969.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
 
 At the same time, the best available public evidence does not establish that Kecksburg produced a recovered craft. The fireball was regional, not just local. Kosmos 96 is an intriguing Cold War coincidence but a poor fit in several orbital reconstructions. Moon Dust and Blue Fly demonstrate that recovery programmes existed, not that they recovered the Kecksburg object. NASA’s later record problems justify frustration and renewed scrutiny, but missing files are not the same as a confirmed object.
 
@@ -528,194 +528,194 @@ The most useful way to frame the subtopic is therefore this: Cold War secrecy ar
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Cold War Secrecy Shaped Kecksburg. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Cold War Secrecy Shaped Kecksburg. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Provides strong context for how Cold War secrecy shaped public interpretations of unexplained events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides strong context for how Cold War secrecy shaped public interpretations of unexplained events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores government handling of UFO reports and official responses to unexplained aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores government handling of UFO reports and official responses to unexplained aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cold War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dZ-MEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cold War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold War">The Cold War</a>
-        </h4>
-        <p class="fr-book-author">By John Lewis Gaddis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cold War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dZ-MEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cold War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold War">The Cold War</a>
+</h4>
+<p class="fr-book-author">By John Lewis Gaddis</p>
         
-        <p class="fr-book-desc">Explains the intelligence and security environment that made unidentified debris politically sensitive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the intelligence and security environment that made unidentified debris politically sensitive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e9NaAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
-        </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e9NaAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
+</h4>
+<p class="fr-book-author">By Brad Steiger</p>
         
-        <p class="fr-book-desc">Connects directly to official UFO reporting channels active during the Cold War era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects directly to official UFO reporting channels active during the Cold War era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cold+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cold War</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cold+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cold War</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for F-117 Nighthawk Stealth Fighter Photo Print, Cold War Aviation Art"><img src="{{ '/assets/images/marketplace-covers/ee0011c3142c593d51ef.jpg' | relative_url }}" alt="Listing image for F-117 Nighthawk Stealth Fighter Photo Print, Cold War Aviation Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">F-117 Nighthawk Stealth Fighter Photo Print, Cold War Aviation Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for F-117 Nighthawk Stealth Fighter Photo Print, Cold War Aviation Art"><img src="{{ '/assets/images/marketplace-covers/ee0011c3142c593d51ef.jpg' | relative_url }}" alt="Listing image for F-117 Nighthawk Stealth Fighter Photo Print, Cold War Aviation Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">F-117 Nighthawk Stealth Fighter Photo Print, Cold War Aviation Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for B-2 Spirit Stealth Bomber Blueprint, Cold War Aviation Art"><img src="{{ '/assets/images/marketplace-covers/c36adcbda066b1104cd0.jpg' | relative_url }}" alt="Listing image for B-2 Spirit Stealth Bomber Blueprint, Cold War Aviation Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">B-2 Spirit Stealth Bomber Blueprint, Cold War Aviation Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for B-2 Spirit Stealth Bomber Blueprint, Cold War Aviation Art"><img src="{{ '/assets/images/marketplace-covers/c36adcbda066b1104cd0.jpg' | relative_url }}" alt="Listing image for B-2 Spirit Stealth Bomber Blueprint, Cold War Aviation Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">B-2 Spirit Stealth Bomber Blueprint, Cold War Aviation Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1984 Modern Warplanes Poster Cold War Jets F-14 F-15 MiG Aviation"><img src="{{ '/assets/images/marketplace-covers/a59200130f85b13f183d.jpg' | relative_url }}" alt="Listing image for Vintage 1984 Modern Warplanes Poster Cold War Jets F-14 F-15 MiG Aviation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1984 Modern Warplanes Poster Cold War Jets F-14 F-15 MiG Aviation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1984 Modern Warplanes Poster Cold War Jets F-14 F-15 MiG Aviation"><img src="{{ '/assets/images/marketplace-covers/a59200130f85b13f183d.jpg' | relative_url }}" alt="Listing image for Vintage 1984 Modern Warplanes Poster Cold War Jets F-14 F-15 MiG Aviation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1984 Modern Warplanes Poster Cold War Jets F-14 F-15 MiG Aviation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet Cold War Propaganda Poster 1960 U-2 Incident USSR Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/120d85136d76b0aed0e5.jpg' | relative_url }}" alt="Listing image for Soviet Cold War Propaganda Poster 1960 U-2 Incident USSR Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet Cold War Propaganda Poster 1960 U-2 Incident USSR Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet Cold War Propaganda Poster 1960 U-2 Incident USSR Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/120d85136d76b0aed0e5.jpg' | relative_url }}" alt="Listing image for Soviet Cold War Propaganda Poster 1960 U-2 Incident USSR Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet Cold War Propaganda Poster 1960 U-2 Incident USSR Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-how-cold-war-secrecy-shaped-kecksburg-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -731,7 +731,7 @@ The most useful way to frame the subtopic is therefore this: Cold War secrecy ar
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -751,7 +751,7 @@ The most useful way to frame the subtopic is therefore this: Cold War secrecy ar
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -783,7 +783,7 @@ The most useful way to frame the subtopic is therefore this: Cold War secrecy ar
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -835,7 +835,7 @@ The most useful way to frame the subtopic is therefore this: Cold War secrecy ar
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -880,7 +880,7 @@ The most useful way to frame the subtopic is therefore this: Cold War secrecy ar
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -921,165 +921,165 @@ The most useful way to frame the subtopic is therefore this: Cold War secrecy ar
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Kosmos 96  
-   Link: <a href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kosmos_96</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kosmos_96</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Project Moon Dust  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Moon_Dust" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Moon_Dust</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Moon_Dust" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Moon_Dust</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: space.com  
    Title: 7589 case finally closed 1965 pennsylvania ufo mystery  
-   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: space.com  
    Title: failed soviet venus lander kosmos 482 crashes to earth after 53 years in orbit  
-   Link: <a href="https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit</a>  
+   Link:<a href="https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/19830022069/downloads/19830022069.pdf?attachment=true" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19830022069/downloads/19830022069.pdf?attachment=true</a>  
+   Link:<a href="https://ntrs.nasa.gov/api/citations/19830022069/downloads/19830022069.pdf?attachment=true" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19830022069/downloads/19830022069.pdf?attachment=true</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ia601405.us.archive.org  
-   Link: <a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
+   Link:<a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aerospace.org  
    Title: venus probe will fall earth week heres how aerospace tracking it  
-   Link: <a href="https://aerospace.org/kickstage/venus-probe-will-fall-earth-week-heres-how-aerospace-tracking-it" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/kickstage/venus-probe-will-fall-earth-week-heres-how-aerospace-tracking-it</a>  
+   Link:<a href="https://aerospace.org/kickstage/venus-probe-will-fall-earth-week-heres-how-aerospace-tracking-it" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/kickstage/venus-probe-will-fall-earth-week-heres-how-aerospace-tracking-it</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ac3hYt3k-Eo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Moon Dust | Episode 8 | The Secret UFO Retrieval Program...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ac3hYt3k-Eo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Moon Dust | Episode 8 | The Secret UFO Retrieval Program...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Project Moon Dust | Episode 8 | The Secret UFO Retrieval Program  
-   Link: <a href="https://www.youtube.com/watch?v=uKAT4yK_AyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uKAT4yK_AyY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uKAT4yK_AyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uKAT4yK_AyY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: governmentattic.org  
    Title: ProjMoondust1967 1972  
-   Link: <a href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf</a>  
+   Link:<a href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/moondust.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/moondust.htm</a>  
+   Link:<a href="https://sacred-texts.com/ufo/moondust.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/moondust.htm</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: rcfp.org  
-   Link: <a href="https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/</a>  
+   Link:<a href="https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
    Title: The Guardian Nasa told to solve 'UFO crash' X-File | World news  
-   Link: <a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
+   Link:<a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cbsnews.com  
    Title: CBS News NASA Court-Ordered To Search For UFO Docs  
-   Link: <a href="https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/</a>  
+   Link:<a href="https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: unsolved.com  
    Title: Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
    Title: Project Moon Dust  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11db49s/project_moon_dust_the_covert_crash_retrieval/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11db49s/project_moon_dust_the_covert_crash_retrieval/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11db49s/project_moon_dust_the_covert_crash_retrieval/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11db49s/project_moon_dust_the_covert_crash_retrieval/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theclio.com  
    Title: Kecksburg UFO Incident  
-   Link: <a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
+   Link:<a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: rcfp.org  
    Title: nasa ordered review its records data ufo sighting  
-   Link: <a href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/</a>  
+   Link:<a href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: thedebrief.org  
    Title: project moon dust  
-   Link: <a href="https://thedebrief.org/project-moon-dust/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/project-moon-dust/</a>  
+   Link:<a href="https://thedebrief.org/project-moon-dust/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/project-moon-dust/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000838058.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000838058.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000838058.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000838058.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/0005516044" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005516044</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/0005516044" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005516044</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: The Space Junk Disaster That Began in the Cold War  
-   Link: <a href="https://www.youtube.com/watch?v=03NVxRx82Wk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=03NVxRx82Wk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=03NVxRx82Wk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=03NVxRx82Wk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nsa.gov  
    Title: United States Air Force Fact Sheet 95-03United States Air Force Fact Sheet 95-03  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/</a>  
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: The Kecksburg Incident: What Really Happened Here?  
-   Link: <a href="https://www.youtube.com/watch?v=BXh2zTD9Kug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BXh2zTD9Kug</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Space Junk Disaster That Began in the Cold War...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BXh2zTD9Kug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BXh2zTD9Kug</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Space Junk Disaster That Began in the Cold War...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  

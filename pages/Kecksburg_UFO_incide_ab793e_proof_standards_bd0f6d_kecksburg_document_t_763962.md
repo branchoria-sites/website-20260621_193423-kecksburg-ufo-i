@@ -280,7 +280,7 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_proof_standards_bd0f6d_kecksbu
 
 ## Introduction
 
-If a recovery really occurred at Kecksburg, the single most important discovery would not be another witness statement. It would be a routine government record showing that personnel recovered, transported, stored, or inventoried an object despite Project Blue Book's official conclusion that searchers found nothing. The public Blue Book record has long maintained that Air Force personnel and state police searched the area and came up empty-handed. Contemporary press reports echoed that conclusion, reporting that the search was called off after nothing was found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+If a recovery really occurred at Kecksburg, the single most important discovery would not be another witness statement. It would be a routine government record showing that personnel recovered, transported, stored, or inventoried an object despite Project Blue Book's official conclusion that searchers found nothing. The public Blue Book record has long maintained that Air Force personnel and state police searched the area and came up empty-handed. Contemporary press reports echoed that conclusion, reporting that the search was called off after nothing was found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_proof_standards_bd0f6d_kecksburg_document_t_763962-Illustration-1-dark.svg" | relative_url }}" alt="Paper Trail illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_proof_standards_bd0f6d_kecksburg_document_t_763962-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_proof_standards_bd0f6d_kecksburg_document_t_763962-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,7 +290,7 @@ That means the document most capable of overturning the Blue Book account would 
 
 The significance of any new document depends on what it would have to overcome.
 
-The surviving Blue Book narrative is straightforward. Air Force personnel associated with the search effort, together with local authorities, reportedly investigated the woods near Kecksburg and found no crashed object. Contemporary newspaper coverage recorded the same basic result, with search teams reporting that they discovered "absolutely nothing" and terminating the operation. The Air Force's public position was that the phenomenon was consistent with a meteor or similar natural event rather than a recovered craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The surviving Blue Book narrative is straightforward. Air Force personnel associated with the search effort, together with local authorities, reportedly investigated the woods near Kecksburg and found no crashed object. Contemporary newspaper coverage recorded the same basic result, with search teams reporting that they discovered "absolutely nothing" and terminating the operation. The Air Force's public position was that the phenomenon was consistent with a meteor or similar natural event rather than a recovered craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 Because that position was entered into the official investigative record, later claims of a military retrieval face a specific evidentiary hurdle. It is not enough to show that [witnesses]({{ 'witnesses/' | relative_url }}) believed an object was removed. The key question is whether an official record exists that demonstrates the public investigation file was incomplete, inaccurate, or separated from another classified reporting channel.
 
@@ -322,7 +322,7 @@ Even a vague description such as "recovered aerospace article" or "foreign hardw
 
 An inventory sheet would be even more powerful because it would imply physical possession.
 
-Military and government organisations commonly generate inventories when collecting debris, equipment, or evidence. An authenticated inventory listing an object recovered on or immediately after 9 December 1965 would establish that something entered official custody. Such a record would directly conflict with the reported conclusion that nothing had been found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Military and government organisations commonly generate inventories when collecting debris, equipment, or evidence. An authenticated inventory listing an object recovered on or immediately after 9 December 1965 would establish that something entered official custody. Such a record would directly conflict with the reported conclusion that nothing had been found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 The strongest version would include serial numbers, dimensions, photographs, or accompanying accession paperwork.
 
@@ -376,7 +376,7 @@ For Kecksburg, a collection of mutually supporting routine records would likely 
 
 One reason the Kecksburg debate has persisted is that records relevant to the case may not reside in one archive.
 
-Project Blue Book files were ultimately transferred to the National Archives, and researchers have spent decades examining them. Yet Blue Book represented only one reporting channel within a much larger military and government bureaucracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe National Archives searched the Official Meeting Minute Files of the N...</span></span></span>
+Project Blue Book files were ultimately transferred to the National Archives, and researchers have spent decades examining them. Yet Blue Book represented only one reporting channel within a much larger military and government bureaucracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe National Archives searched the Official Meeting Minute Files of the N...</span></span></span>
 
 A convincing documentary case would emerge if independent archives produced records that matched one another without relying on witness testimony.
 
@@ -400,7 +400,7 @@ None of those documents would need to mention extraterrestrial technology. Their
 
 The long-running dispute over NASA records illustrates why cross-matching matters.
 
-Freedom of Information Act litigation concerning Kecksburg led to searches for historical records, and NASA officials acknowledged that certain boxes of documents from the relevant period could not be located. Missing records, however, do not themselves prove a recovery occurred. They establish only that gaps exist in the surviving paper trail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Freedom of Information Act litigation concerning Kecksburg led to searches for historical records, and NASA officials acknowledged that certain boxes of documents from the relevant period could not be located. Missing records, however, do not themselves prove a recovery occurred. They establish only that gaps exist in the surviving paper trail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 To overturn the Blue Book account, researchers would need more than evidence of absent files. They would need a surviving document that positively records recovery, transport, storage, or examination of an object connected to Kecksburg.
 
@@ -410,201 +410,201 @@ Among all possible discoveries, the strongest single document would likely be a 
 
 Such a record would answer the central historical question in one step: not whether witnesses believed something was recovered, but whether government personnel officially recorded possession of an object from the Kecksburg site.
 
-If authenticated and supported by related transport or receiving records, that kind of paperwork would directly contradict the longstanding Blue Book position that searchers found nothing. More than any witness recollection, media report, or later interpretation, it would represent the clearest documentary basis for claiming that an actual recovery occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+If authenticated and supported by related transport or receiving records, that kind of paperwork would directly contradict the longstanding Blue Book position that searchers found nothing. More than any witness recollection, media report, or later interpretation, it would represent the clearest documentary basis for claiming that an actual recovery occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CKK66LtZ1Hs" title="Episode 184 Kecksburg Revisited with Stan Gordon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CKK66LtZ1Hs" target="_blank" rel="noopener noreferrer">Episode 184 Kecksburg Revisited with Stan Gordon</a></p><p class="youtube-embed-meta">Channel: Astonishing Legends &middot; Views: 2.3K &middot; Uploaded: May 2022 &middot; Length: 2 hours 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CKK66LtZ1Hs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CKK66LtZ1Hs">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Document That Could Change Kecksburg. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Document That Could Change Kecksburg. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Relies heavily on records, reports, and official documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relies heavily on records, reports, and official documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Demonstrates the value of documentary evidence in aerospace mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates the value of documentary evidence in aerospace mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides a framework for authenticating claims and documents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides a framework for authenticating claims and documents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+by+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The CIA and the Cult of Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+by+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The CIA and the Cult of Intelligence">The CIA and the Cult of Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Victor Marchetti, John D. Marks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+by+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The CIA and the Cult of Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+by+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The CIA and the Cult of Intelligence">The CIA and the Cult of Intelligence</a>
+</h4>
+<p class="fr-book-author">By Victor Marchetti, John D. Marks</p>
         
-        <p class="fr-book-desc">Shows how records, archives, and secrecy intersect.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+by+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how records, archives, and secrecy intersect.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+by+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Kecksburg UFO 10” Shoulder Mount Base 7.5” Unique Alien"><img src="{{ '/assets/images/marketplace-covers/46d74cc16f9dbf62a2c3.jpg' | relative_url }}" alt="Listing image for Roswell Kecksburg UFO 10” Shoulder Mount Base 7.5” Unique Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell Kecksburg UFO 10” Shoulder Mount Base 7.5” Unique Alien</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Kecksburg UFO 10” Shoulder Mount Base 7.5” Unique Alien"><img src="{{ '/assets/images/marketplace-covers/46d74cc16f9dbf62a2c3.jpg' | relative_url }}" alt="Listing image for Roswell Kecksburg UFO 10” Shoulder Mount Base 7.5” Unique Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell Kecksburg UFO 10” Shoulder Mount Base 7.5” Unique Alien</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BSA WESTMORELAND FAYETTE OA WAGION 6 2023 JAMBOREE 2-PATCH KECKSBURG UFO ALIEN"><img src="{{ '/assets/images/marketplace-covers/80f03e2530527080e0dd.jpg' | relative_url }}" alt="Listing image for BSA WESTMORELAND FAYETTE OA WAGION 6 2023 JAMBOREE 2-PATCH KECKSBURG UFO ALIEN" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">BSA WESTMORELAND FAYETTE OA WAGION 6 2023 JAMBOREE 2-PATCH KECKSBURG UFO ALIEN</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BSA WESTMORELAND FAYETTE OA WAGION 6 2023 JAMBOREE 2-PATCH KECKSBURG UFO ALIEN"><img src="{{ '/assets/images/marketplace-covers/80f03e2530527080e0dd.jpg' | relative_url }}" alt="Listing image for BSA WESTMORELAND FAYETTE OA WAGION 6 2023 JAMBOREE 2-PATCH KECKSBURG UFO ALIEN" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">BSA WESTMORELAND FAYETTE OA WAGION 6 2023 JAMBOREE 2-PATCH KECKSBURG UFO ALIEN</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed"><img src="{{ '/assets/images/marketplace-covers/e4340afcb137f2bf938a.jpg' | relative_url }}" alt="Listing image for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed"><img src="{{ '/assets/images/marketplace-covers/e4340afcb137f2bf938a.jpg' | relative_url }}" alt="Listing image for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed"><img src="{{ '/assets/images/marketplace-covers/2d28adb2b053d08362c1.jpg' | relative_url }}" alt="Listing image for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed"><img src="{{ '/assets/images/marketplace-covers/2d28adb2b053d08362c1.jpg' | relative_url }}" alt="Listing image for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="paper-trail-9ce83b-the-document-that-could-change-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -620,7 +620,7 @@ If authenticated and supported by related transport or receiving records, that k
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -640,7 +640,7 @@ If authenticated and supported by related transport or receiving records, that k
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -672,7 +672,7 @@ If authenticated and supported by related transport or receiving records, that k
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -724,7 +724,7 @@ If authenticated and supported by related transport or receiving records, that k
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -769,7 +769,7 @@ If authenticated and supported by related transport or receiving records, that k
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -810,79 +810,79 @@ If authenticated and supported by related transport or receiving records, that k
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe National Archives searched the Official Meeting Minute Files of the N...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe National Archives searched the Official Meeting Minute Files of the N...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — Project Blue Book, from March 1952 to December 1969—the long...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Public Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — Project Blue Book, from March 1952 to December 1969—the long...</p></details>
    Published: March 1952  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pennsylvania.fandom.com  
-   Link: <a href="https://pennsylvania.fandom.com/wiki/Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://pennsylvania.fandom.com/wiki/Kecksburg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>alien craft by others, an object crashed in Kecksburg December 9, 1965... Through his research, Gordon says he knows the Air Force was s...</p></details>
+   Link:<a href="https://pennsylvania.fandom.com/wiki/Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://pennsylvania.fandom.com/wiki/Kecksburg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alien craft by others, an object crashed in Kecksburg December 9, 1965... Through his research, Gordon says he knows the Air Force was s...</p></details>
    Published: December 9, 1965  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Force regulation establishing and controlling the program for investigating and analyzing UFOs was rescinded.Read more...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Force regulation establishing and controlling the program for investigating and analyzing UFOs was rescinded.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsTo mark the 50th anniversary of the end of Project Blue Book, the National Archives will...</p></details>
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsTo mark the 50th anniversary of the end of Project Blue Book, the National Archives will...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: stangordon.info  
-   Link: <a href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.stangordon.info/wp/kecksburg/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg Incident and UpdatesThis case is much to involved to cover here in detail. One good source of information on the case can be fo...</p></details>
+   Link:<a href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.stangordon.info/wp/kecksburg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg Incident and UpdatesThis case is much to involved to cover here in detail. One good source of information on the case can be fo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s mysterious UFO landing 60 years agoSixty years ago, a December day changed the course of history for Kecksburg, a small commu...</p></details>
+   Link:<a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s mysterious UFO landing 60 years agoSixty years ago, a December day changed the course of history for Kecksburg, a small commu...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: docsteach.org  
-   Link: <a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Status Report Number EightProject Bluebook unwarranted and called for Project Blue Book to be discontinued. all activit...</p></details>
+   Link:<a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Status Report Number EightProject Bluebook unwarranted and called for Project Blue Book to be discontinued. all activit...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: forcesnews.com  
    Title: project blue book what was us air force operation investigate ufos  
-   Link: <a href="https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: What was US Air Force operation to...3 Aug 2022 — More than 12000 sightings of UFOs were investigated during the prog...</p></details>
+   Link:<a href="https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: What was US Air Force operation to...3 Aug 2022 — More than 12000 sightings of UFOs were investigated during the prog...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg IncidentAlleged UFO Crash and Search Effort. Several publications, notably the Greensburg, Pennsylvania Tribune-Review, carried...</p></details>
+   Link:<a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg IncidentAlleged UFO Crash and Search Effort. Several publications, notably the Greensburg, Pennsylvania Tribune-Review, carried...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: docsteach.org  
-   Link: <a href="https://docsteach.org/document/ufo-questionnaire/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/ufo-questionnaire/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s investigations into UFOs. During the Cold War in 1952, fearful that the...Read more...</p></details>
+   Link:<a href="https://docsteach.org/document/ufo-questionnaire/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/ufo-questionnaire/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s investigations into UFOs. During the Cold War in 1952, fearful that the...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the unidentified object up close before US military officials were able to...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the unidentified object up close before US military officials were able to...Read more...</p></details>

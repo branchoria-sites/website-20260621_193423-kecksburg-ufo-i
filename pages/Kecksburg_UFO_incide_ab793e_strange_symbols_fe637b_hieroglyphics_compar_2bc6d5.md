@@ -280,7 +280,7 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_hierogl
 
 ## Introduction
 
-The word “hieroglyphics” is one of the most influential terms in the Kecksburg UFO story. It instantly suggests writing, meaning and perhaps even an identifiable civilisation. Yet the original witness descriptions were considerably narrower than that implication. In most retellings, the comparison referred to the appearance of unfamiliar shapes on a raised band near the rear of the object, not to a recognised language, a readable inscription or a documented text. The distinction matters because much of the mystery attached to the [markings]({{ 'markings/' | relative_url }}) comes from how the comparison has been interpreted over time rather than from what was actually recorded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/2021/08/21/kecksburg-ufo-witness-james-romansky-passes-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-snippet">Stan GordonKecksburg UFO Witness- James Romansky- Passes AwayAugust 21, 2021 — 21 Aug 2021 — Upon that section of the object were unusual...</span><span class="citation-popover-meta">Published: August 21, 2021</span></span></span>
+The word “hieroglyphics” is one of the most influential terms in the Kecksburg UFO story. It instantly suggests writing, meaning and perhaps even an identifiable civilisation. Yet the original witness descriptions were considerably narrower than that implication. In most retellings, the comparison referred to the appearance of unfamiliar shapes on a raised band near the rear of the object, not to a recognised language, a readable inscription or a documented text. The distinction matters because much of the mystery attached to the [markings]({{ 'markings/' | relative_url }}) comes from how the comparison has been interpreted over time rather than from what was actually recorded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/2021/08/21/kecksburg-ufo-witness-james-romansky-passes-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-snippet">Stan GordonKecksburg UFO Witness- James Romansky- Passes AwayAugust 21, 2021 — 21 Aug 2021 — Upon that section of the object were unusual...</span><span class="citation-popover-meta">Published: August 21, 2021</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_hieroglyphics_compar_2bc6d5-Illustration-1-dark.svg" | relative_url }}" alt="Hieroglyphics illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_hieroglyphics_compar_2bc6d5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_hieroglyphics_compar_2bc6d5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Understanding the limits of the hieroglyphics comparison helps clarify what evid
 
 ## What the Comparison Originally Meant
 
-The best-known witness associated with the markings is volunteer firefighter James Romansky. In later interviews he described unusual symbols located on a raised “bumper” area of [the acorn-shaped object]({{ 'the-acorn-shaped-object/' | relative_url }}). His comparison to Egyptian hieroglyphics was presented as a visual analogy rather than an identification of an actual script. According to accounts preserved by investigator [Stan Gordon]({{ 'stan-gordon/' | relative_url }}), Romansky recalled shapes that appeared unfamiliar and symbolic, not letters, numbers or readable words. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/2021/08/21/kecksburg-ufo-witness-james-romansky-passes-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-snippet">Stan GordonKecksburg UFO Witness- James Romansky- Passes AwayAugust 21, 2021 — 21 Aug 2021 — Upon that section of the object were unusual...</span><span class="citation-popover-meta">Published: August 21, 2021</span></span></span>
+The best-known witness associated with the markings is volunteer firefighter James Romansky. In later interviews he described unusual symbols located on a raised “bumper” area of [the acorn-shaped object]({{ 'the-acorn-shaped-object/' | relative_url }}). His comparison to Egyptian hieroglyphics was presented as a visual analogy rather than an identification of an actual script. According to accounts preserved by investigator [Stan Gordon]({{ 'stan-gordon/' | relative_url }}), Romansky recalled shapes that appeared unfamiliar and symbolic, not letters, numbers or readable words.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/2021/08/21/kecksburg-ufo-witness-james-romansky-passes-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-snippet">Stan GordonKecksburg UFO Witness- James Romansky- Passes AwayAugust 21, 2021 — 21 Aug 2021 — Upon that section of the object were unusual...</span><span class="citation-popover-meta">Published: August 21, 2021</span></span></span>
 
 This type of comparison is common when people encounter markings they cannot classify. Rather than identifying a language, observers often reach for the closest cultural reference available. Egyptian hieroglyphics are especially useful as a comparison because many people recognise them as pictorial symbols without necessarily knowing how they function as writing.
 
@@ -300,7 +300,7 @@ Several details suggest that the original claim was relatively limited:
 * No contemporaneous copy of the markings is known to exist.
 * No witness reported translating or reading the symbols.
 * Descriptions varied between circles, stars, lines, geometric figures and symbolic shapes.
-* The comparison focused on appearance rather than linguistic content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/2021/08/21/kecksburg-ufo-witness-james-romansky-passes-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon+2Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-snippet">Stan GordonKecksburg UFO Witness- James Romansky- Passes AwayAugust 21, 2021 — 21 Aug 2021 — Upon that section of the object were unusual...</span><span class="citation-popover-meta">Published: August 21, 2021</span></span></span>
+* The comparison focused on appearance rather than linguistic content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/2021/08/21/kecksburg-ufo-witness-james-romansky-passes-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[stangordon.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-snippet">Stan GordonKecksburg UFO Witness- James Romansky- Passes AwayAugust 21, 2021 — 21 Aug 2021 — Upon that section of the object were unusual...</span><span class="citation-popover-meta">Published: August 21, 2021</span></span></span>
 
 </div>
 
@@ -311,11 +311,11 @@ In other words, “looked like hieroglyphics” and “were hieroglyphics” are
 
 ## Why the Wording Became Stronger Later
 
-As the Kecksburg story entered documentaries, television programmes, books and popular UFO culture, the shorthand description often became more powerful than the original observation. Reports began referring to “hieroglyphics on the craft” rather than “symbols that reminded a witness of hieroglyphics”. That subtle change transformed a comparison into what sounded like a factual identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</span></span></span>
+As the Kecksburg story entered documentaries, television programmes, books and popular UFO culture, the shorthand description often became more powerful than the original observation. Reports began referring to “hieroglyphics on the craft” rather than “symbols that reminded a witness of hieroglyphics”. That subtle change transformed a comparison into what sounded like a factual identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</span></span></span>
 
 The effect is understandable. The phrase “strange hieroglyphics” is vivid and memorable. It creates an immediate mental image and distinguishes the Kecksburg object from ordinary debris. A metallic object with unfamiliar markings sounds mysterious; a metallic object with “hieroglyphics” sounds as though it carries a message.
 
-[Media retellings]({{ 'media-retellings/' | relative_url }}) often compress uncertainty. A witness's nuanced description may become a shorter and more dramatic summary. Over decades, repeated summaries can gradually harden into accepted features of a story even when the underlying testimony was more cautious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Kecksburg UFO incidentIt quoted local residents as large as a Volkswagen Beetle bearing writing resembling Egyptian hieroglyphs which was...</span></span></span>
+[Media retellings]({{ 'media-retellings/' | relative_url }}) often compress uncertainty. A witness's nuanced description may become a shorter and more dramatic summary. Over decades, repeated summaries can gradually harden into accepted features of a story even when the underlying testimony was more cautious.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Kecksburg UFO incidentIt quoted local residents as large as a Volkswagen Beetle bearing writing resembling Egyptian hieroglyphs which was...</span></span></span>
 
 The Kecksburg case demonstrates this process clearly. The comparison survived because it was memorable, while the qualifications surrounding it were easier to lose.
 
@@ -336,11 +336,11 @@ Consider three different versions of the same basic observation:
 
 </div>
 
-Each statement sounds stronger than the previous one, yet only the first two are reasonably supported by the witness accounts. The third introduces a level of certainty that the testimony does not provide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/2021/08/21/kecksburg-ufo-witness-james-romansky-passes-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-snippet">Stan GordonKecksburg UFO Witness- James Romansky- Passes AwayAugust 21, 2021 — 21 Aug 2021 — Upon that section of the object were unusual...</span><span class="citation-popover-meta">Published: August 21, 2021</span></span></span>
+Each statement sounds stronger than the previous one, yet only the first two are reasonably supported by the witness accounts. The third introduces a level of certainty that the testimony does not provide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/2021/08/21/kecksburg-ufo-witness-james-romansky-passes-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-snippet">Stan GordonKecksburg UFO Witness- James Romansky- Passes AwayAugust 21, 2021 — 21 Aug 2021 — Upon that section of the object were unusual...</span><span class="citation-popover-meta">Published: August 21, 2021</span></span></span>
 
 This distinction matters because extraordinary conclusions often depend on the strongest wording. If the markings were merely unusual geometric forms, they could fit many explanations. If they were an identifiable writing system, the implications would be far greater. The evidence available does not bridge that gap.
 
-The absence of photographs is especially important. Without visual documentation, researchers must rely on recollections recorded years after the event. Human memory is capable of preserving genuine impressions, but it is also vulnerable to reinterpretation, repeated storytelling and influence from later depictions. A remembered comparison is therefore less precise than a preserved image or sketch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</span></span></span>
+The absence of photographs is especially important. Without visual documentation, researchers must rely on recollections recorded years after the event. Human memory is capable of preserving genuine impressions, but it is also vulnerable to reinterpretation, repeated storytelling and influence from later depictions. A remembered comparison is therefore less precise than a preserved image or sketch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tU7WSHZye5w" title="Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer">Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 68.0K &middot; Uploaded: March 2025 &middot; Length: 1 hour 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tU7WSHZye5w">Open on YouTube</a></p></div></div></div>
@@ -364,7 +364,7 @@ When confronted with unknown symbols, observers frequently compare them to:
 
 The comparison often reflects recognition rather than identification. A [shape]({{ 'shape/' | relative_url }}) can resemble a known symbol without actually belonging to that system.
 
-This issue appears repeatedly in UFO reports. Across different cases, witnesses have described markings as resembling hieroglyphics, runes, military insignia or unknown alphabets. Such comparisons can be useful descriptive tools, but they do not establish origin or meaning by themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/ved82o/weird_symbols_on_ufos_sometimes_called/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Weird symbols on ufos sometimes called hieroglyphics</span><span class="citation-popover-snippet">June 17, 2022 — Weird symbols on ufos sometimes called hieroglyphics. Two examples are the 1964 Officer Lonnie Zamora incident and the 19...</span><span class="citation-popover-meta">Published: June 17, 2022</span></span></span>
+This issue appears repeatedly in UFO reports. Across different cases, witnesses have described markings as resembling hieroglyphics, runes, military insignia or unknown alphabets. Such comparisons can be useful descriptive tools, but they do not establish origin or meaning by themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/ved82o/weird_symbols_on_ufos_sometimes_called/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Weird symbols on ufos sometimes called hieroglyphics</span><span class="citation-popover-snippet">June 17, 2022 — Weird symbols on ufos sometimes called hieroglyphics. Two examples are the 1964 Officer Lonnie Zamora incident and the 19...</span><span class="citation-popover-meta">Published: June 17, 2022</span></span></span>
 
 For Kecksburg specifically, the witness descriptions point to unfamiliar forms arranged on a particular section of the object. They do not demonstrate that the marks constituted language, encoded information or even intentional writing.
 
@@ -372,205 +372,205 @@ For Kecksburg specifically, the witness descriptions point to unfamiliar forms a
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_hieroglyphics_compar_2bc6d5-Illustration-3-dark.svg" | relative_url }}" alt="Hieroglyphics illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_hieroglyphics_compar_2bc6d5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_hieroglyphics_compar_2bc6d5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Hieroglyphics Claim Actually Adds
 
-The hieroglyphics comparison remains significant because it captures how witnesses attempted to describe something they regarded as unusual. It contributes to the enduring image of the Kecksburg object and helps explain why the case became so memorable within UFO folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Kecksburg UFO incidentIt quoted local residents as large as a Volkswagen Beetle bearing writing resembling Egyptian hieroglyphs which was...</span></span></span>
+The hieroglyphics comparison remains significant because it captures how witnesses attempted to describe something they regarded as unusual. It contributes to the enduring image of the Kecksburg object and helps explain why the case became so memorable within UFO folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Kecksburg UFO incidentIt quoted local residents as large as a Volkswagen Beetle bearing writing resembling Egyptian hieroglyphs which was...</span></span></span>
 
-At the same time, the comparison has clear limits. It does not provide a decipherable inscription. It does not identify a known script. It does not establish extraterrestrial origin. What it provides is a witness impression: that certain shapes on the object's raised band looked symbolic and reminded at least one observer of ancient Egyptian hieroglyphics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/2021/08/21/kecksburg-ufo-witness-james-romansky-passes-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-snippet">Stan GordonKecksburg UFO Witness- James Romansky- Passes AwayAugust 21, 2021 — 21 Aug 2021 — Upon that section of the object were unusual...</span><span class="citation-popover-meta">Published: August 21, 2021</span></span></span>
+At the same time, the comparison has clear limits. It does not provide a decipherable inscription. It does not identify a known script. It does not establish extraterrestrial origin. What it provides is a witness impression: that certain shapes on the object's raised band looked symbolic and reminded at least one observer of ancient Egyptian hieroglyphics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/2021/08/21/kecksburg-ufo-witness-james-romansky-passes-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-snippet">Stan GordonKecksburg UFO Witness- James Romansky- Passes AwayAugust 21, 2021 — 21 Aug 2021 — Upon that section of the object were unusual...</span><span class="citation-popover-meta">Published: August 21, 2021</span></span></span>
 
-Seen in that light, the term is best understood as a descriptive metaphor rather than a linguistic conclusion. The mystery lies not in a confirmed written message, but in how a brief visual comparison evolved into one of the most enduring features of the Kecksburg narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/2021/08/21/kecksburg-ufo-witness-james-romansky-passes-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-snippet">Stan GordonKecksburg UFO Witness- James Romansky- Passes AwayAugust 21, 2021 — 21 Aug 2021 — Upon that section of the object were unusual...</span><span class="citation-popover-meta">Published: August 21, 2021</span></span></span>
+Seen in that light, the term is best understood as a descriptive metaphor rather than a linguistic conclusion. The mystery lies not in a confirmed written message, but in how a brief visual comparison evolved into one of the most enduring features of the Kecksburg narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/2021/08/21/kecksburg-ufo-witness-james-romansky-passes-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-snippet">Stan GordonKecksburg UFO Witness- James Romansky- Passes AwayAugust 21, 2021 — 21 Aug 2021 — Upon that section of the object were unusual...</span><span class="citation-popover-meta">Published: August 21, 2021</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vnau2WjDhds" title="Kecksburg UFO - Aliens in Pennsylvania?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vnau2WjDhds" target="_blank" rel="noopener noreferrer">Kecksburg UFO - Aliens in Pennsylvania?</a></p><p class="youtube-embed-meta">Channel: PraveenMohan</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vnau2WjDhds" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vnau2WjDhds">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Shapes Became Hieroglyphics. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Shapes Became Hieroglyphics. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Explores how witness descriptions, symbols, interpretations and later retellings shape famous UFO mysteries, closely matching the page&#x27;s...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how witness descriptions, symbols, interpretations and later retellings shape famous UFO mysteries, closely matching the page&#x27;s...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Emphasizes evaluating witness testimony and avoiding overstatement, paralleling the article&#x27;s discussion of &#x27;hieroglyphics&#x27; versus simple...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes evaluating witness testimony and avoiding overstatement, paralleling the article&#x27;s discussion of &#x27;hieroglyphics&#x27; versus simple...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on evidence quality, testimony, and careful sourcing rather than sensational claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidence quality, testimony, and careful sourcing rather than sensational claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hMf3TgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a>
-        </h4>
-        <p class="fr-book-author">By Stan Gordon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hMf3TgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a>
+</h4>
+<p class="fr-book-author">By Stan Gordon</p>
         
-        <p class="fr-book-desc">Provides regional context and the investigative approach associated with Stan Gordon&#x27;s work on unusual Pennsylvania cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides regional context and the investigative approach associated with Stan Gordon&#x27;s work on unusual Pennsylvania cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg Ufo Alien Incident Brand New Shirt Multiple Sizes and Colors"><img src="https://i.ebayimg.com/images/g/Lm0AAOSwdxVcSPds/s-l225.jpg" alt="Listing image for Kecksburg Ufo Alien Incident Brand New Shirt Multiple Sizes and Colors" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Kecksburg Ufo Alien Incident Brand New Shirt Multiple Sizes and Colors</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KECKSBURG PA Military GAS MASK WWII 12/09/1965 UFO Incident BLUE T-Shirt Men&#x27;s L"><img src="https://i.ebayimg.com/images/g/rSUAAOSwAhNlDJ1c/s-l225.jpg" alt="Listing image for KECKSBURG PA Military GAS MASK WWII 12/09/1965 UFO Incident BLUE T-Shirt Men&#x27;s L" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">KECKSBURG PA Military GAS MASK WWII 12/09/1965 UFO Incident BLUE T-Shirt Men&#x27;s L</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bell Bell Wonder Weapon Myth Kecksburg UFO Secret Project T-Shirt #46876"><img src="https://i.ebayimg.com/images/g/3S4AAeSwAI1o-fjw/s-l225.jpg" alt="Listing image for The Bell Bell Wonder Weapon Myth Kecksburg UFO Secret Project T-Shirt #46876" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">The Bell Bell Wonder Weapon Myth Kecksburg UFO Secret Project T-Shirt #46876</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="hieroglyphics-when-shapes-became-hieroglyphics-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO The Bell Kecksburg Flying Disc Haunebu Luftwaffe Secret T-Shirt #19880"><img src="https://i.ebayimg.com/images/g/Yz4AAOSw5EJe~BgR/s-l225.jpg" alt="Listing image for UFO The Bell Kecksburg Flying Disc Haunebu Luftwaffe Secret T-Shirt #19880" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO The Bell Kecksburg Flying Disc Haunebu Luftwaffe Secret T-Shirt #19880</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="when-shapes-became-hieroglyphics-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -586,7 +586,7 @@ Seen in that light, the term is best understood as a descriptive metaphor rather
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -606,7 +606,7 @@ Seen in that light, the term is best understood as a descriptive metaphor rather
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -638,7 +638,7 @@ Seen in that light, the term is best understood as a descriptive metaphor rather
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -690,7 +690,7 @@ Seen in that light, the term is best understood as a descriptive metaphor rather
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -735,7 +735,7 @@ Seen in that light, the term is best understood as a descriptive metaphor rather
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -776,111 +776,111 @@ Seen in that light, the term is best understood as a descriptive metaphor rather
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/39530664/kecksburg2" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/39530664/kecksburg2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ked like Egyptian hieroglyph- “Multitudes of people had some...</p></details>
+   Link:<a href="https://www.scribd.com/document/39530664/kecksburg2" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/39530664/kecksburg2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ked like Egyptian hieroglyph- “Multitudes of people had some...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unsolved.com  
    Title: Mysteries Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</p></details>
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO - Unsolved MysteriesStan Gordon interviewed dozens of Kecksburg eyewitnesses and has examined several the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incidentIt quoted local residents as large as a Volkswagen Beetle bearing writing resembling Egyptian hieroglyphs which was...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incidentIt quoted local residents as large as a Volkswagen Beetle bearing writing resembling Egyptian hieroglyphs which was...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: Weird symbols on ufos sometimes called hieroglyphics  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/ved82o/weird_symbols_on_ufos_sometimes_called/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ved82o/weird_symbols_on_ufos_sometimes_called/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 17, 2022 — Weird symbols on ufos sometimes called hieroglyphics. Two examples are the 1964 Officer Lonnie Zamora incident and the 19...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/ved82o/weird_symbols_on_ufos_sometimes_called/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ved82o/weird_symbols_on_ufos_sometimes_called/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 17, 2022 — Weird symbols on ufos sometimes called hieroglyphics. Two examples are the 1964 Officer Lonnie Zamora incident and the 19...</p></details>
    Published: June 17, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>an. In 1965, any Russian technology entering North American...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an. In 1965, any Russian technology entering North American...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Kecksburg UFO  
-   Link: <a href="https://www.youtube.com/watch?v=vnau2WjDhds" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vnau2WjDhds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg Incident: What Really Happened Here?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vnau2WjDhds" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vnau2WjDhds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg Incident: What Really Happened Here?...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: stangordon.info  
-   Link: <a href="https://www.stangordon.info/wp/2021/08/21/kecksburg-ufo-witness-james-romansky-passes-away/" target="_blank" rel="noopener noreferrer nofollow">https://www.stangordon.info/wp/2021/08/21/kecksburg-ufo-witness-james-romansky-passes-away/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stan GordonKecksburg UFO Witness- James Romansky- Passes AwayAugust 21, 2021 — 21 Aug 2021 — Upon that section of the object were unusual...</p></details>
+   Link:<a href="https://www.stangordon.info/wp/2021/08/21/kecksburg-ufo-witness-james-romansky-passes-away/" target="_blank" rel="noopener noreferrer nofollow">https://www.stangordon.info/wp/2021/08/21/kecksburg-ufo-witness-james-romansky-passes-away/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stan GordonKecksburg UFO Witness- James Romansky- Passes AwayAugust 21, 2021 — 21 Aug 2021 — Upon that section of the object were unusual...</p></details>
    Published: August 21, 2021  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: in 1965 a mysterious [acorn shape](&#123;&#123; 'acorn-shape/' | relative_url &#125;&#125;) object crash landed just down the road in kecks  
-   Link: <a href="https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-acorn-shape-object-crash-landed-just-down-the-road-in-kecks/974564784944605/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-acorn-shape-object-crash-landed-just-down-the-road-in-kecks/974564784944605/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stan Gordon discusses Kecksburg UFO incidentWriting resembling Egyptian hieroglyphs is also said to be in a calls the bumper area. Upon t...</p></details>
+   Link:<a href="https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-acorn-shape-object-crash-landed-just-down-the-road-in-kecks/974564784944605/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-acorn-shape-object-crash-landed-just-down-the-road-in-kecks/974564784944605/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stan Gordon discusses Kecksburg UFO incidentWriting resembling Egyptian hieroglyphs is also said to be in a calls the bumper area. Upon t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Kecksburg UFO  
-   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO | Unsolved Mysteries Wiki - FandomFinally, it had markings on it which could be misinterpreted as foreign markings (as described by w...</p></details>
+   Link:<a href="https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO | Unsolved Mysteries Wiki - FandomFinally, it had markings on it which could be misinterpreted as foreign markings (as described by w...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: 𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟 𝐖𝐞𝐬𝐭𝐞𝐫𝐧 𝐏𝐞𝐧𝐧𝐬𝐲𝐥𝐯𝐚𝐧𝐢𝐚𝐬 𝐆𝐫𝐞𝐚𝐭 𝐔𝐅𝐎 𝐔𝐀𝐏 𝐄𝐯𝐞𝐧𝐭 𝐚𝐭 𝐊𝐞  
-   Link: <a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟...Fireman James Romansky talks witnessing the 1965 crashed UFO at Kecksburg... hieroglyphics—symbols n...</p></details>
+   Link:<a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟...Fireman James Romansky talks witnessing the 1965 crashed UFO at Kecksburg... hieroglyphics—symbols n...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence  
-   Link: <a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You can watch this video about [the Kecksburg UFO incident](&amp;#123;&amp;#123; &#x27;the-kecksburg-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;) to learn how eyewitnesses described the strange inscriptions on the object as l...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You can watch this video about [the Kecksburg UFO incident](&amp;#123;&amp;#123; &#x27;the-kecksburg-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;) to learn how eyewitnesses described the strange inscriptions on the object as l...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/405414715_UFO_Curated_Landmark_Cases_and_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/405414715_UFO_Curated_Landmark_Cases_and_Analysis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) UFO Curated Landmark Cases and Analysis30 May 2026 — A raised ring or band around the base, sometimes described as a bumper or skirt...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/405414715_UFO_Curated_Landmark_Cases_and_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/405414715_UFO_Curated_Landmark_Cases_and_Analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) UFO Curated Landmark Cases and Analysis30 May 2026 — A raised ring or band around the base, sometimes described as a bumper or skirt...</p></details>
    Published: May 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYVIcS8oKZZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYVIcS8oKZZ/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the mysterious 1965 incident that continues to baffle experts...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYVIcS8oKZZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYVIcS8oKZZ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the mysterious 1965 incident that continues to baffle experts...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NorwinPublicLibrary/posts/7215ee9c/1367106712128508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NorwinPublicLibrary/posts/7215ee9c/1367106712128508/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Romansky talks witnessing the 1965 crashed UFO at Kecksburg...</p></details>
+   Link:<a href="https://www.facebook.com/NorwinPublicLibrary/posts/7215ee9c/1367106712128508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NorwinPublicLibrary/posts/7215ee9c/1367106712128508/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Romansky talks witnessing the 1965 crashed UFO at Kecksburg...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pabook.libraries.psu.edu  
    Title: acorn space kecksburg incident  
-   Link: <a href="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident" target="_blank" rel="noopener noreferrer nofollow">https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>from Space: The Kecksburg IncidentWitnesses in Kecksburg claimed that the object crashed into the woods nearby the small western Pennsylv...</p></details>
+   Link:<a href="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident" target="_blank" rel="noopener noreferrer nofollow">https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>from Space: The Kecksburg IncidentWitnesses in Kecksburg claimed that the object crashed into the woods nearby the small western Pennsylv...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ac3hYt3k-Eo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ac3hYt3k-Eo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Kecksburg Incident: What Really Happened Here?  
-   Link: <a href="https://www.youtube.com/watch?v=BXh2zTD9Kug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BXh2zTD9Kug</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BXh2zTD9Kug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BXh2zTD9Kug</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/pennsylvaniaphotos/posts/3965626140374425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/pennsylvaniaphotos/posts/3965626140374425/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, Pennsylvania, in 1965...</p></details>
+   Link:<a href="https://www.facebook.com/groups/pennsylvaniaphotos/posts/3965626140374425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/pennsylvaniaphotos/posts/3965626140374425/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, Pennsylvania, in 1965...</p></details>

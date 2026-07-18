@@ -273,7 +273,7 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_cold_war_kosm
 
 ## Introduction
 
-One reason the [Kosmos 96 theory]({{ 'kosmos-96-fc7c69/' | relative_url }}) gained lasting attention in discussions of [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}) is that it offered a straightforward explanation for something many witnesses found puzzling: reports of military interest and alleged secrecy. If an object connected to the Soviet space programme had fallen in North America during the Cold War, US authorities would have had an obvious reason to secure the site, recover any debris, and limit public information. The appeal of the theory was therefore not only technical. It rested on a historical assumption that seemed reasonable in 1965: Soviet space hardware was strategically valuable, and governments often treated space-related intelligence as sensitive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB501/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive U.S</span><span class="citation-popover-snippet">INTELLIGENCE AND THE SOVIET SPACE PROGRAM4 Feb 2015 — A compilation of over 50 documents concerning US intelligence collection and analys...</span></span></span>
+One reason the [Kosmos 96 theory]({{ 'kosmos-96-fc7c69/' | relative_url }}) gained lasting attention in discussions of [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}) is that it offered a straightforward explanation for something many witnesses found puzzling: reports of military interest and alleged secrecy. If an object connected to the Soviet space programme had fallen in North America during the Cold War, US authorities would have had an obvious reason to secure the site, recover any debris, and limit public information. The appeal of the theory was therefore not only technical. It rested on a historical assumption that seemed reasonable in 1965: Soviet space hardware was strategically valuable, and governments often treated space-related intelligence as sensitive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB501/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive U.S</span><span class="citation-popover-snippet">INTELLIGENCE AND THE SOVIET SPACE PROGRAM4 Feb 2015 — A compilation of over 50 documents concerning US intelligence collection and analys...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_cold_war_kosmos96_ap_de5943-Illustration-1-dark.svg" | relative_url }}" alt="Cold War illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_cold_war_kosmos96_ap_de5943-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_cold_war_kosmos96_ap_de5943-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -283,7 +283,7 @@ Importantly, this explains why the [Kosmos]({{ 'kosmos-96/' | relative_url }}) 9
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_cold_war_kosmos96_ap_de5943-Illustration-3-dark.svg" | relative_url }}" alt="Cold War illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_cold_war_kosmos96_ap_de5943-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_cold_war_kosmos96_ap_de5943-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Soviet Hardware Would Attract US Interest
 
-In December 1965, the United States and the Soviet Union were competing not only in space exploration but also in a broader geopolitical struggle. Space technology and military technology were closely linked. Launch vehicles were derived from missile programmes, and intelligence agencies carefully monitored Soviet space activities for clues about technical capabilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.openedition.org/ejas/20427" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.openedition.org">[OpenEdition Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.openedition.org</span><span class="citation-popover-title">It fills the gap in historiography of the Space Race.Read more</span><span class="citation-popover-snippet">OpenEdition JournalsCold War in Space: Reconnaissance Satellites and US...by W Muszyński-Sulima · 2023 · Cited by 18 — This article trac...</span></span></span>
+In December 1965, the United States and the Soviet Union were competing not only in space exploration but also in a broader geopolitical struggle. Space technology and military technology were closely linked. Launch vehicles were derived from missile programmes, and intelligence agencies carefully monitored Soviet space activities for clues about technical capabilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.openedition.org/ejas/20427" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.openedition.org">[OpenEdition Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.openedition.org</span><span class="citation-popover-title">It fills the gap in historiography of the Space Race.Read more</span><span class="citation-popover-snippet">OpenEdition JournalsCold War in Space: Reconnaissance Satellites and US...by W Muszyński-Sulima · 2023 · Cited by 18 — This article trac...</span></span></span>
 
 Against that backdrop, a recovered Soviet spacecraft would have been more than an engineering curiosity. It could potentially provide information about:
 
@@ -292,16 +292,16 @@ Against that backdrop, a recovered Soviet spacecraft would have been more than a
 * [Heat-shield]({{ 'heat-shield/' | relative_url }}) and [re-entry]({{ 're-entry/' | relative_url }}) engineering.
 * The capabilities of the Soviet deep-space programme.
 
-The appeal of the Kosmos 96 explanation therefore depended on a plausible motive. If the object were Soviet, officials would not need an extraordinary reason to secure it. Ordinary Cold War intelligence priorities would be enough. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB501/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive U.S</span><span class="citation-popover-snippet">INTELLIGENCE AND THE SOVIET SPACE PROGRAM4 Feb 2015 — A compilation of over 50 documents concerning US intelligence collection and analys...</span></span></span>
+The appeal of the Kosmos 96 explanation therefore depended on a plausible motive. If the object were Soviet, officials would not need an extraordinary reason to secure it. Ordinary Cold War intelligence priorities would be enough.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB501/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive U.S</span><span class="citation-popover-snippet">INTELLIGENCE AND THE SOVIET SPACE PROGRAM4 Feb 2015 — A compilation of over 50 documents concerning US intelligence collection and analys...</span></span></span>
 
-Another factor strengthened this perception. The Soviet Union routinely concealed failures within its space programme. The very name “Kosmos 96” reflected a broader practice of assigning generic Cosmos designations to missions that failed to reach their intended destinations. Western observers knew that Soviet space operations often involved secrecy and cover stories. That historical reality made it easier for later researchers and [witnesses]({{ 'witnesses/' | relative_url }}) to imagine a similarly secretive American response to recovered Soviet hardware. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">Kosmos 96</span></span></span>
+Another factor strengthened this perception. The Soviet Union routinely concealed failures within its space programme. The very name “Kosmos 96” reflected a broader practice of assigning generic Cosmos designations to missions that failed to reach their intended destinations. Western observers knew that Soviet space operations often involved secrecy and cover stories. That historical reality made it easier for later researchers and [witnesses]({{ 'witnesses/' | relative_url }}) to imagine a similarly secretive American response to recovered Soviet hardware.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">Kosmos 96</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iIzVe8ZsyNg" title="“We Went Out And Tried To Disinform People Who Have Had A UFO Sighting” | UFO Witness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iIzVe8ZsyNg" target="_blank" rel="noopener noreferrer">“We Went Out And Tried To Disinform People Who Have Had A UFO Sighting” | UFO Witness</a></p><p class="youtube-embed-meta">Channel: Quest TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iIzVe8ZsyNg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iIzVe8ZsyNg">Open on YouTube</a></p></div></div></div>
 
 ## Military Cordons and Cold War Expectations
 
-Accounts of the Kecksburg incident frequently include reports of military personnel, restricted access, and claims that an object was removed from the area. Whether every detail of those accounts is accurate remains disputed, but the reports themselves helped sustain the Kosmos 96 theory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Accounts of the Kecksburg incident frequently include reports of military personnel, restricted access, and claims that an object was removed from the area. Whether every detail of those accounts is accurate remains disputed, but the reports themselves helped sustain the Kosmos 96 theory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 For believers in the Soviet-probe explanation, military involvement did not require a conspiracy. Instead, it fit established Cold War expectations. If authorities believed that foreign space hardware had come down on American soil, several actions would have appeared routine:
 
@@ -317,7 +317,7 @@ For believers in the Soviet-probe explanation, military involvement did not requ
 
 This logic distinguished the Kosmos 96 theory from extraterrestrial explanations. Rather than requiring a decades-long cover-up about alien technology, it relied on behaviour that many Americans already expected from military and intelligence agencies during the Cold War.
 
-The atmosphere of the era is important here. In the 1960s, much government activity related to defence, missiles, satellites, and intelligence gathering occurred behind classified barriers. Public knowledge of space operations was limited, and secrecy itself often appeared unsurprising. As a result, witness reports of official control over a crash site naturally encouraged speculation about a Soviet connection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB501/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive U.S</span><span class="citation-popover-snippet">INTELLIGENCE AND THE SOVIET SPACE PROGRAM4 Feb 2015 — A compilation of over 50 documents concerning US intelligence collection and analys...</span></span></span>
+The atmosphere of the era is important here. In the 1960s, much government activity related to defence, missiles, satellites, and intelligence gathering occurred behind classified barriers. Public knowledge of space operations was limited, and secrecy itself often appeared unsurprising. As a result, witness reports of official control over a crash site naturally encouraged speculation about a Soviet connection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB501/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive U.S</span><span class="citation-popover-snippet">INTELLIGENCE AND THE SOVIET SPACE PROGRAM4 Feb 2015 — A compilation of over 50 documents concerning US intelligence collection and analys...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RUIDSyKGN0g" title="5 Dark Secrets of the Soviet Space Program They Tried to Hide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RUIDSyKGN0g" target="_blank" rel="noopener noreferrer">5 Dark Secrets of the Soviet Space Program They Tried to Hide</a></p><p class="youtube-embed-meta">Channel: Facts Verse</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RUIDSyKGN0g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RUIDSyKGN0g">Open on YouTube</a></p></div></div></div>
@@ -330,203 +330,203 @@ The strongest feature of the Kosmos 96 explanation is its motive. It provides a 
 
 However, motive alone does not establish that the object was Kosmos 96.
 
-This distinction is crucial. A theory can explain why secrecy would make sense without proving that the underlying event occurred as proposed. Later analyses of orbital data and fireball observations raised substantial questions about whether Kosmos 96 could physically have been responsible for the Kecksburg event. Researchers examining tracking information argued that the Soviet probe likely re-entered much earlier than the reported Pennsylvania incident, weakening the identification even while leaving the secrecy argument intact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">Kosmos 96</span></span></span>
+This distinction is crucial. A theory can explain why secrecy would make sense without proving that the underlying event occurred as proposed. Later analyses of orbital data and fireball observations raised substantial questions about whether Kosmos 96 could physically have been responsible for the Kecksburg event. Researchers examining tracking information argued that the Soviet probe likely re-entered much earlier than the reported Pennsylvania incident, weakening the identification even while leaving the secrecy argument intact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">Kosmos 96</span></span></span>
 
-In other words, the Cold War context explains the enduring appeal of the theory better than it proves the theory itself. The idea of a Soviet Venus probe offered a middle ground between a simple meteor and an extraterrestrial craft. It supplied a believable reason for military attention, fit the political realities of 1965, and transformed alleged secrecy from a mystery into something historically understandable. Yet the existence of a plausible motive does not resolve the separate question of whether Kosmos 96 was actually the object involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">Kosmos 96</span></span></span>
+In other words, the Cold War context explains the enduring appeal of the theory better than it proves the theory itself. The idea of a Soviet Venus probe offered a middle ground between a simple meteor and an extraterrestrial craft. It supplied a believable reason for military attention, fit the political realities of 1965, and transformed alleged secrecy from a mystery into something historically understandable. Yet the existence of a plausible motive does not resolve the separate question of whether Kosmos 96 was actually the object involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">Kosmos 96</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9HZl2Nl1h5U" title="NASA Claim To Have “Lost” Important Wreckage From The Kecksburg UFO Incident | UFO Witness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9HZl2Nl1h5U" target="_blank" rel="noopener noreferrer">NASA Claim To Have “Lost” Important Wreckage From The Kecksburg UFO Incident | UFO Witness</a></p><p class="youtube-embed-meta">Channel: Quest TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9HZl2Nl1h5U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9HZl2Nl1h5U">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why a Soviet Probe Made Sense to Witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why a Soviet Probe Made Sense to Witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Connects UFO reports, government responses, secrecy claims, and military interest that mirror themes in the Kecksburg and Cold War debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects UFO reports, government responses, secrecy claims, and military interest that mirror themes in the Kecksburg and Cold War debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cold War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dZ-MEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cold War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold War">The Cold War</a>
-        </h4>
-        <p class="fr-book-author">By John Lewis Gaddis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cold War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dZ-MEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cold War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold War">The Cold War</a>
+</h4>
+<p class="fr-book-author">By John Lewis Gaddis</p>
         
-        <p class="fr-book-desc">Explains why suspected Soviet technology would have attracted intelligence and military attention in 1965.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why suspected Soviet technology would have attracted intelligence and military attention in 1965.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Space+Race+by+Deborah+Cadbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Space Race on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e4g_jgwzXzoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Space Race" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Space+Race+by+Deborah+Cadbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Space Race">Space Race</a>
-        </h4>
-        <p class="fr-book-author">By Deborah Cadbury</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Space+Race+by+Deborah+Cadbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Space Race on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e4g_jgwzXzoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Space Race" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Space+Race+by+Deborah+Cadbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Space Race">Space Race</a>
+</h4>
+<p class="fr-book-author">By Deborah Cadbury</p>
         
-        <p class="fr-book-desc">Provides the broader Soviet-American space competition context behind the Kosmos 96 theory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Space+Race+by+Deborah+Cadbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the broader Soviet-American space competition context behind the Kosmos 96 theory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Space+Race+by+Deborah+Cadbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kecksburg UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kecksburg UFO Incident">The Kecksburg UFO Incident</a>
-        </h4>
-        <p class="fr-book-author">By George Dudding</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kecksburg UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kecksburg UFO Incident">The Kecksburg UFO Incident</a>
+</h4>
+<p class="fr-book-author">By George Dudding</p>
         
-        <p class="fr-book-desc">Focused specifically on the Kecksburg case and competing explanations including military involvement and spacecraft theories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focused specifically on the Kecksburg case and competing explanations including military involvement and spacecraft theories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cold+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cold War</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Space+Race&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Space Race</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cold+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cold War</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Space+Race&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Space Race</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lockheed SR 71 Blackbird aircraft military stealth Cold War Martin 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/b2533537361b7d5ed6ec.jpg' | relative_url }}" alt="Listing image for Lockheed SR 71 Blackbird aircraft military stealth Cold War Martin 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Lockheed SR 71 Blackbird aircraft military stealth Cold War Martin 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lockheed SR 71 Blackbird aircraft military stealth Cold War Martin 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/b2533537361b7d5ed6ec.jpg' | relative_url }}" alt="Listing image for Lockheed SR 71 Blackbird aircraft military stealth Cold War Martin 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Lockheed SR 71 Blackbird aircraft military stealth Cold War Martin 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage USSR Aviation Poster DOSAAF Soviet Pilots Goggles Cold War Military Art"><img src="{{ '/assets/images/marketplace-covers/54beab8584e8aa1d12e5.jpg' | relative_url }}" alt="Listing image for Vintage USSR Aviation Poster DOSAAF Soviet Pilots Goggles Cold War Military Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage USSR Aviation Poster DOSAAF Soviet Pilots Goggles Cold War Military Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage USSR Aviation Poster DOSAAF Soviet Pilots Goggles Cold War Military Art"><img src="{{ '/assets/images/marketplace-covers/54beab8584e8aa1d12e5.jpg' | relative_url }}" alt="Listing image for Vintage USSR Aviation Poster DOSAAF Soviet Pilots Goggles Cold War Military Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage USSR Aviation Poster DOSAAF Soviet Pilots Goggles Cold War Military Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Northrop F-5A Freedom Fighter Blueprint Poster, Cold War Aviation Art"><img src="{{ '/assets/images/marketplace-covers/12e40a807d593d2ba1f0.jpg' | relative_url }}" alt="Listing image for Northrop F-5A Freedom Fighter Blueprint Poster, Cold War Aviation Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Northrop F-5A Freedom Fighter Blueprint Poster, Cold War Aviation Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Northrop F-5A Freedom Fighter Blueprint Poster, Cold War Aviation Art"><img src="{{ '/assets/images/marketplace-covers/12e40a807d593d2ba1f0.jpg' | relative_url }}" alt="Listing image for Northrop F-5A Freedom Fighter Blueprint Poster, Cold War Aviation Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Northrop F-5A Freedom Fighter Blueprint Poster, Cold War Aviation Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cold War Aviation Technology Vintage 1960s Turbo Jet Engine Advertising Poster"><img src="{{ '/assets/images/marketplace-covers/a407264bfe2c52f6bf58.jpg' | relative_url }}" alt="Listing image for Cold War Aviation Technology Vintage 1960s Turbo Jet Engine Advertising Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Cold War Aviation Technology Vintage 1960s Turbo Jet Engine Advertising Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cold War Aviation Technology Vintage 1960s Turbo Jet Engine Advertising Poster"><img src="{{ '/assets/images/marketplace-covers/a407264bfe2c52f6bf58.jpg' | relative_url }}" alt="Listing image for Cold War Aviation Technology Vintage 1960s Turbo Jet Engine Advertising Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Cold War Aviation Technology Vintage 1960s Turbo Jet Engine Advertising Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="cold-war-bf3e8b-why-a-soviet-probe-made-sense-to-witnesses-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ In other words, the Cold War context explains the enduring appeal of the theory 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ In other words, the Cold War context explains the enduring appeal of the theory 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ In other words, the Cold War context explains the enduring appeal of the theory 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ In other words, the Cold War context explains the enduring appeal of the theory 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ In other words, the Cold War context explains the enduring appeal of the theory 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,100 +732,100 @@ In other words, the Cold War context explains the enduring appeal of the theory 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: journals.openedition.org  
    Title: It fills the gap in historiography of the Space Race.Read more  
-   Link: <a href="https://journals.openedition.org/ejas/20427" target="_blank" rel="noopener noreferrer nofollow">https://journals.openedition.org/ejas/20427</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenEdition JournalsCold War in Space: Reconnaissance Satellites and US...by W Muszyński-Sulima · 2023 · Cited by 18 — This article trac...</p></details>
+   Link:<a href="https://journals.openedition.org/ejas/20427" target="_blank" rel="noopener noreferrer nofollow">https://journals.openedition.org/ejas/20427</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OpenEdition JournalsCold War in Space: Reconnaissance Satellites and US...by W Muszyński-Sulima · 2023 · Cited by 18 — This article trac...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Kosmos 96  
-   Link: <a href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kosmos_96</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kosmos_96</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-probe-is-expected-to-fall-to-earth-today-but-when-and-where-heres-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-probe-is-expected-to-fall-to-earth-today-but-when-and-where-heres-what-we-know</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Failed Soviet Venus probe Kosmos 482 is expected to fall...8 May 2025 — It&#x27;s still quite uncertain just where and when the craft will fa...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-probe-is-expected-to-fall-to-earth-today-but-when-and-where-heres-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-probe-is-expected-to-fall-to-earth-today-but-when-and-where-heres-what-we-know</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Failed Soviet Venus probe Kosmos 482 is expected to fall...8 May 2025 — It&#x27;s still quite uncertain just where and when the craft will fa...</p></details>
    Published: May 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nsarchive2.gwu.edu  
    Title: National Security Archive U.S  
-   Link: <a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB501/" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB501/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>INTELLIGENCE AND THE SOVIET SPACE PROGRAM4 Feb 2015 — A compilation of over 50 documents concerning US intelligence collection and analys...</p></details>
+   Link:<a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB501/" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB501/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INTELLIGENCE AND THE SOVIET SPACE PROGRAM4 Feb 2015 — A compilation of over 50 documents concerning US intelligence collection and analys...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theclio.com  
    Title: Clio Kecksburg UFO Incident  
-   Link: <a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Incident - ClioThe Kecksburg UFO Incident happened December 9, 1965 when a mysterious glowing ball of fire crash landed in...</p></details>
+   Link:<a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Incident - ClioThe Kecksburg UFO Incident happened December 9, 1965 when a mysterious glowing ball of fire crash landed in...</p></details>
    Published: December 9, 1965  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aa.com.tr  
-   Link: <a href="https://www.aa.com.tr/en/science-technology/cold-war-era-spacecraft-of-former-ussr-to-reenter-earth-s-atmosphere-after-53-years-in-orbit/3554998" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/science-technology/cold-war-era-spacecraft-of-former-ussr-to-reenter-earth-s-atmosphere-after-53-years-in-orbit/3554998</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cold War-era spacecraft of former USSR to reenter Earth&#x27;s...2 May 2025 — A Soviet spacecraft launched more than half a century ago will...</p></details>
+   Link:<a href="https://www.aa.com.tr/en/science-technology/cold-war-era-spacecraft-of-former-ussr-to-reenter-earth-s-atmosphere-after-53-years-in-orbit/3554998" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/science-technology/cold-war-era-spacecraft-of-former-ussr-to-reenter-earth-s-atmosphere-after-53-years-in-orbit/3554998</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cold War-era spacecraft of former USSR to reenter Earth&#x27;s...2 May 2025 — A Soviet spacecraft launched more than half a century ago will...</p></details>
    Published: May 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: blogs.esa.int  
    Title: reentry prediction soviet era venera venus lander cosmos 482 descent craft  
-   Link: <a href="https://blogs.esa.int/rocketscience/2025/05/07/reentry-prediction-soviet-era-venera-venus-lander-cosmos-482-descent-craft/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.esa.int/rocketscience/2025/05/07/reentry-prediction-soviet-era-venera-venus-lander-cosmos-482-descent-craft/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>prediction Soviet-era Venera Venus lander (Cosmos...7 May 2025 — On 10 May, an uncontrolled reentry will take place of the Cosmos-482 de...</p></details>
+   Link:<a href="https://blogs.esa.int/rocketscience/2025/05/07/reentry-prediction-soviet-era-venera-venus-lander-cosmos-482-descent-craft/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.esa.int/rocketscience/2025/05/07/reentry-prediction-soviet-era-venera-venus-lander-cosmos-482-descent-craft/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>prediction Soviet-era Venera Venus lander (Cosmos...7 May 2025 — On 10 May, an uncontrolled reentry will take place of the Cosmos-482 de...</p></details>
    Published: May 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: eusst.eu  
    Title: eu sst closely monitors re entry space object cosmos 482 descent craft  
-   Link: <a href="https://www.eusst.eu/newsroom/news/eu-sst-closely-monitors-re-entry-space-object-cosmos-482-descent-craft" target="_blank" rel="noopener noreferrer nofollow">https://www.eusst.eu/newsroom/news/eu-sst-closely-monitors-re-entry-space-object-cosmos-482-descent-craft</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EU SST closely monitors re-entry of space object Cosmos-...13 May 2025 — Due to its inclination of approximately 51.95 degrees, the obje...</p></details>
+   Link:<a href="https://www.eusst.eu/newsroom/news/eu-sst-closely-monitors-re-entry-space-object-cosmos-482-descent-craft" target="_blank" rel="noopener noreferrer nofollow">https://www.eusst.eu/newsroom/news/eu-sst-closely-monitors-re-entry-space-object-cosmos-482-descent-craft</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EU SST closely monitors re-entry of space object Cosmos-...13 May 2025 — Due to its inclination of approximately 51.95 degrees, the obje...</p></details>
    Published: May 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=iIzVe8ZsyNg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iIzVe8ZsyNg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incident Soviet satellite Kosmos 96 [Cold War secrecy](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) What Crashed in Kecksburg. Uncovering the 1965 UFO Mystery Paskvan Pod...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iIzVe8ZsyNg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iIzVe8ZsyNg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incident Soviet satellite Kosmos 96 [Cold War secrecy](&amp;#123;&amp;#123; &#x27;cold-war/&#x27; | relative_url &amp;#125;&amp;#125;) What Crashed in Kecksburg. Uncovering the 1965 UFO Mystery Paskvan Pod...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abc.net.au  
    Title: kosmos 482 tracking data soviet venus space probe atmosphere  
-   Link: <a href="https://www.abc.net.au/news/science/2025-05-08/kosmos-482-tracking-data-soviet-venus-space-probe-atmosphere/105269940" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/science/2025-05-08/kosmos-482-tracking-data-soviet-venus-space-probe-atmosphere/105269940</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Where will the Soviet probe set to crash back to Earth land?7 May 2025 — A decades-old Soviet spacecraft originally bound for Venus will...</p></details>
+   Link:<a href="https://www.abc.net.au/news/science/2025-05-08/kosmos-482-tracking-data-soviet-venus-space-probe-atmosphere/105269940" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/science/2025-05-08/kosmos-482-tracking-data-soviet-venus-space-probe-atmosphere/105269940</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Where will the Soviet probe set to crash back to Earth land?7 May 2025 — A decades-old Soviet spacecraft originally bound for Venus will...</p></details>
    Published: May 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: universetoday.com  
    Title: spot a failed soviet venus probe in earth orbit  
-   Link: <a href="https://www.universetoday.com/articles/spot-a-failed-soviet-venus-probe-in-earth-orbit" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/spot-a-failed-soviet-venus-probe-in-earth-orbit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spot Failed Soviet Venus Probe Kosmos 482 in Earth Orbit19 Mar 2019 — The failed Kosmos-96 mission crashed in Pennsylvania shortly after...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/spot-a-failed-soviet-venus-probe-in-earth-orbit" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/spot-a-failed-soviet-venus-probe-in-earth-orbit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spot Failed Soviet Venus Probe Kosmos 482 in Earth Orbit19 Mar 2019 — The failed Kosmos-96 mission crashed in Pennsylvania shortly after...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: What fell from the sky in Kecksburg PA  
-   Link: <a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It has been confirmed that a faulty Soviet Venus probe identified as Kosmos 96, reentered in Canada on the same date, but at about 3:18 A...</p></details>
+   Link:<a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It has been confirmed that a faulty Soviet Venus probe identified as Kosmos 96, reentered in Canada on the same date, but at about 3:18 A...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: basementofthebizarre.com  
    Title: kecksburg ufo incident 1965 mystery  
-   Link: <a href="https://basementofthebizarre.com/2026/06/04/kecksburg-ufo-incident-1965-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://basementofthebizarre.com/2026/06/04/kecksburg-ufo-incident-1965-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David&#x27;s Basement of the BizarreThe Kecksburg Incident: Pennsylvania&#x27;s “Area 51” MomentJun 4, 2026 — For years, theorists suggested the ob...</p></details>
+   Link:<a href="https://basementofthebizarre.com/2026/06/04/kecksburg-ufo-incident-1965-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://basementofthebizarre.com/2026/06/04/kecksburg-ufo-incident-1965-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David&#x27;s Basement of the BizarreThe Kecksburg Incident: Pennsylvania&#x27;s “Area 51” MomentJun 4, 2026 — For years, theorists suggested the ob...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9HZl2Nl1h5U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9HZl2Nl1h5U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery of the UFO crash in Kecksburg, Pennsylvania, on December 9, 1965...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9HZl2Nl1h5U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9HZl2Nl1h5U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery of the UFO crash in Kecksburg, Pennsylvania, on December 9, 1965...</p></details>
    Published: December 9, 1965  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wikidata.org  
-   Link: <a href="https://www.wikidata.org/wiki/Q1632091" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidata.org/wiki/Q1632091</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>al Chinese. No label defined. No...Read more...</p></details>
+   Link:<a href="https://www.wikidata.org/wiki/Q1632091" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidata.org/wiki/Q1632091</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>al Chinese. No label defined. No...Read more...</p></details>

@@ -280,7 +280,7 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_witness_cat
 
 ## Introduction
 
-One reason [Stan Gordon]({{ 'stan-gordon/' | relative_url }})’s witness archive remains important to the Kecksburg UFO debate is that it does not treat all testimony as a single body of evidence. Instead, Gordon repeatedly separated reports into distinct witness categories: people who saw something in the sky, people who reported activity on the ground, people who claimed to have seen an object, and people who later described military transport or recovery operations. That distinction matters because many arguments about Kecksburg arise from combining different kinds of testimony as though they all referred to the same event. Gordon’s archive functions less as a single narrative and more as a sorting system that attempts to distinguish what each witness actually claimed to observe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
+One reason [Stan Gordon]({{ 'stan-gordon/' | relative_url }})’s witness archive remains important to the Kecksburg UFO debate is that it does not treat all testimony as a single body of evidence. Instead, Gordon repeatedly separated reports into distinct witness categories: people who saw something in the sky, people who reported activity on the ground, people who claimed to have seen an object, and people who later described military transport or recovery operations. That distinction matters because many arguments about Kecksburg arise from combining different kinds of testimony as though they all referred to the same event. Gordon’s archive functions less as a single narrative and more as a sorting system that attempts to distinguish what each witness actually claimed to observe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_witness_categories_c34ea8-Illustration-1-dark.svg" | relative_url }}" alt="One Reason Stan Gordon’s Witness Archive illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_witness_categories_c34ea8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_witness_categories_c34ea8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,20 +288,20 @@ One reason [Stan Gordon]({{ 'stan-gordon/' | relative_url }})’s witness archiv
 
 ### Sky witnesses versus ground witnesses
 
-The largest category in the Kecksburg record consists of sky [witnesses]({{ 'witnesses/' | relative_url }}). These people reported seeing a brilliant fireball or luminous object crossing a wide region of the United States and Canada on 9 December 1965. Their testimony establishes that an unusual aerial phenomenon was widely observed, but it does not by itself prove that anything crashed in the Kecksburg woods. Astronomical studies and contemporary reporting focus primarily on this category of evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The largest category in the Kecksburg record consists of sky [witnesses]({{ 'witnesses/' | relative_url }}). These people reported seeing a brilliant fireball or luminous object crossing a wide region of the United States and Canada on 9 December 1965. Their testimony establishes that an unusual aerial phenomenon was widely observed, but it does not by itself prove that anything crashed in the Kecksburg woods. Astronomical studies and contemporary reporting focus primarily on this category of evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-Gordon generally treated these reports separately from what might be called ground witnesses. Ground witnesses are people who reported hearing impacts, feeling vibrations, observing smoke in the woods, seeing police or military activity, or travelling to the search area after the object was supposedly seen descending. These accounts concern events in and around Kecksburg itself rather than the [regional fireball]({{ 'fireball-map/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
+Gordon generally treated these reports separately from what might be called ground witnesses. Ground witnesses are people who reported hearing impacts, feeling vibrations, observing smoke in the woods, seeing police or military activity, or travelling to the search area after the object was supposedly seen descending. These accounts concern events in and around Kecksburg itself rather than the [regional fireball]({{ 'fireball-map/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
 
-The distinction is crucial because a witness can be highly reliable about seeing a fireball in the sky while having no direct knowledge of what occurred on the ground. Gordon's categorisation attempts to prevent a regional observation from being automatically interpreted as evidence for a local crash. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
+The distinction is crucial because a witness can be highly reliable about seeing a fireball in the sky while having no direct knowledge of what occurred on the ground. Gordon's categorisation attempts to prevent a regional observation from being automatically interpreted as evidence for a local crash.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CKK66LtZ1Hs" title="Episode 184 Kecksburg Revisited with Stan Gordon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CKK66LtZ1Hs" target="_blank" rel="noopener noreferrer">Episode 184 Kecksburg Revisited with Stan Gordon</a></p><p class="youtube-embed-meta">Channel: Astonishing Legends &middot; Views: 2.3K &middot; Uploaded: May 2022 &middot; Length: 2 hours 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CKK66LtZ1Hs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CKK66LtZ1Hs">Open on YouTube</a></p></div></div></div>
 
 ### Object witnesses versus inference witnesses
 
-A smaller and much more controversial category consists of alleged object witnesses. These are individuals who later stated that they saw a metallic object in the woods before military personnel secured the area. In Gordon’s archive, such reports are treated differently from witnesses who merely concluded that something must have landed because they observed a descending object overhead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
+A smaller and much more controversial category consists of alleged object witnesses. These are individuals who later stated that they saw a metallic object in the woods before military personnel secured the area. In Gordon’s archive, such reports are treated differently from witnesses who merely concluded that something must have landed because they observed a descending object overhead.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
 
-This separation addresses a common problem in the Kecksburg literature. Many people saw something descend toward the horizon, but only a far smaller number claimed direct visual contact with a landed object. Gordon's records preserve these as different evidential layers rather than merging them into a single claim. According to accounts collected over the years, some witnesses described an acorn-shaped metallic object partially embedded in the ground, while many others only reported seeing lights, smoke, or unusual activity nearby. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon+2Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
+This separation addresses a common problem in the Kecksburg literature. Many people saw something descend toward the horizon, but only a far smaller number claimed direct visual contact with a landed object. Gordon's records preserve these as different evidential layers rather than merging them into a single claim. According to accounts collected over the years, some witnesses described an acorn-shaped metallic object partially embedded in the ground, while many others only reported seeing lights, smoke, or unusual activity nearby.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[stangordon.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
 
 By distinguishing direct-object witnesses from those making inferences, Gordon effectively separates testimony about an alleged craft from testimony about an observed aerial event.
 
@@ -309,7 +309,7 @@ By distinguishing direct-object witnesses from those making inferences, Gordon e
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_witness_categories_c34ea8-Illustration-2-dark.svg" | relative_url }}" alt="One Reason Stan Gordon’s Witness Archive illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_witness_categories_c34ea8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_witness_categories_c34ea8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Search and Military Activity Reports
 
-Another category in Gordon’s archive concerns the search itself. These witnesses did not necessarily see an object either in the sky or on the ground. Instead, they reported police, firefighters, military personnel, roadblocks, restricted access, or organised search operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
+Another category in Gordon’s archive concerns the search itself. These witnesses did not necessarily see an object either in the sky or on the ground. Instead, they reported police, firefighters, military personnel, roadblocks, restricted access, or organised search operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
 
 This category includes:
 
@@ -319,11 +319,11 @@ This category includes:
 * Firefighters and local responders who travelled to the area.
 * Residents who observed military vehicles.
 * Reporters who documented the cordoned-off search zone.
-* Civilians who claimed they were prevented from entering the woods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
+* Civilians who claimed they were prevented from entering the woods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[stangordon.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
 
 </div>
 
-These witnesses are important because their testimony addresses a different question from the object witnesses. They are not necessarily describing what landed; they are describing what authorities did afterwards. Gordon frequently highlighted reports that military personnel were present, while critics point out that military involvement alone does not establish the recovery of an unusual object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
+These witnesses are important because their testimony addresses a different question from the object witnesses. They are not necessarily describing what landed; they are describing what authorities did afterwards. Gordon frequently highlighted reports that military personnel were present, while critics point out that military involvement alone does not establish the recovery of an unusual object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
 
 Separating search witnesses from object witnesses therefore prevents a logical shortcut. Evidence of a search is not automatically evidence of a recovered craft, even if the two categories are often discussed together.
 
@@ -332,9 +332,9 @@ Separating search witnesses from object witnesses therefore prevents a logical s
 
 ### Transport and removal witnesses
 
-Perhaps the most specialised category in Gordon’s archive involves alleged transport witnesses. These individuals reported seeing a [flatbed]({{ 'flatbed/' | relative_url }}) truck or other military vehicle carrying a covered object away from the area later that evening. Gordon has repeatedly noted such accounts in his summaries of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
+Perhaps the most specialised category in Gordon’s archive involves alleged transport witnesses. These individuals reported seeing a [flatbed]({{ 'flatbed/' | relative_url }}) truck or other military vehicle carrying a covered object away from the area later that evening. Gordon has repeatedly noted such accounts in his summaries of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
 
-These reports differ from both crash witnesses and search witnesses. A person might claim to have seen a tarpaulin-covered load on a truck without ever seeing the object in the woods. Likewise, someone who reported military activity might never have witnessed any transport operation at all. Gordon's categorisation keeps those testimonies separate rather than assuming they describe the same sequence of events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
+These reports differ from both crash witnesses and search witnesses. A person might claim to have seen a tarpaulin-covered load on a truck without ever seeing the object in the woods. Likewise, someone who reported military activity might never have witnessed any transport operation at all. Gordon's categorisation keeps those testimonies separate rather than assuming they describe the same sequence of events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
 
 This distinction is especially important because transport stories are often cited as evidence that something significant was recovered. Yet they depend on a different witness chain and therefore require separate evaluation.
 
@@ -342,209 +342,209 @@ This distinction is especially important because transport stories are often cit
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_witness_categories_c34ea8-Illustration-3-dark.svg" | relative_url }}" alt="One Reason Stan Gordon’s Witness Archive illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_witness_categories_c34ea8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_witness_categories_c34ea8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Category Mistakes Change the Case
 
-The Kecksburg debate often becomes confused when these categories are blended together. A person who saw a fireball becomes treated as a crash witness. A resident who saw soldiers becomes treated as an object witness. A witness who reported a truck becomes treated as someone who saw what was on the truck. Gordon's archive was, in part, an attempt to avoid those conflations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
+The Kecksburg debate often becomes confused when these categories are blended together. A person who saw a fireball becomes treated as a crash witness. A resident who saw soldiers becomes treated as an object witness. A witness who reported a truck becomes treated as someone who saw what was on the truck. Gordon's archive was, in part, an attempt to avoid those conflations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
 
 When separated, the evidence looks less like one continuous story and more like several overlapping layers:
 
 Witness categoryWhat it addressesSky witnessesThe regional aerial phenomenonGround witnessesLocal effects and activity near KecksburgObject witnessesClaims of direct observation of a landed objectSearch witnessesPolice, military, and recovery operationsTransport witnessesAlleged removal of an object from the area
 
-Viewed this way, the central question becomes whether these categories describe one underlying event or several independent experiences later woven together into a single narrative. Sceptical interpretations often argue that a genuine fireball was later combined with unrelated local memories. Supporters of the recovery hypothesis argue that the categories reinforce one another and point to a concealed retrieval operation. Gordon's archival approach does not settle that dispute, but it provides a framework for analysing it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Viewed this way, the central question becomes whether these categories describe one underlying event or several independent experiences later woven together into a single narrative. Sceptical interpretations often argue that a genuine fireball was later combined with unrelated local memories. Supporters of the recovery hypothesis argue that the categories reinforce one another and point to a concealed retrieval operation. Gordon's archival approach does not settle that dispute, but it provides a framework for analysing it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-The lasting value of Gordon’s witness archive is therefore not simply the number of testimonies collected. It is the effort to separate who saw the fireball, who saw the search, who claimed to see an object, and who reported its removal. Those distinctions help explain why different researchers can examine the same Kecksburg case file and reach very different conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
+The lasting value of Gordon’s witness archive is therefore not simply the number of testimonies collected. It is the effort to separate who saw the fireball, who saw the search, who claimed to see an object, and who reported its removal. Those distinctions help explain why different researchers can examine the same Kecksburg case file and reach very different conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-title">Stan Gordon Kecksburg Incident and Updates</span><span class="citation-popover-snippet">Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Ka9dOx7ZWY" title="The Kecksburg UFO Case: Finally Solved After 60 Years?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer">The Kecksburg UFO Case: Finally Solved After 60 Years?</a></p><p class="youtube-embed-meta">Channel: Redoubt Productions &middot; Views: 851 &middot; Uploaded: December 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Ka9dOx7ZWY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Kecksburg Witness Saw What?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Kecksburg Witness Saw What?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Famous for categorising witness reports and encounter types.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Famous for categorising witness reports and encounter types.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Separates and evaluates different classes of testimony and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Separates and evaluates different classes of testimony and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hMf3TgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a>
-        </h4>
-        <p class="fr-book-author">By Stan Gordon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hMf3TgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a>
+</h4>
+<p class="fr-book-author">By Stan Gordon</p>
         
-        <p class="fr-book-desc">Demonstrates how investigators sort and compare multiple witness categories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how investigators sort and compare multiple witness categories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Compares patterns across many witness reports and traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Compares patterns across many witness reports and traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Silent+Invasion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silent Invasion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Silent+Invasion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silent Invasion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e189d60d830bfd72f148.jpg' | relative_url }}" alt="Listing image for UFO Over Forest Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e189d60d830bfd72f148.jpg' | relative_url }}" alt="Listing image for UFO Over Forest Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B"><img src="{{ '/assets/images/marketplace-covers/a33be2f55d4bbeda4acc.jpg' | relative_url }}" alt="Listing image for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B"><img src="{{ '/assets/images/marketplace-covers/a33be2f55d4bbeda4acc.jpg' | relative_url }}" alt="Listing image for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="one-reason-stan-gordons-witness-archive-which-kecksburg-witness-saw-what-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ The lasting value of Gordon’s witness archive is therefore not simply the numb
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ The lasting value of Gordon’s witness archive is therefore not simply the numb
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ The lasting value of Gordon’s witness archive is therefore not simply the numb
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ The lasting value of Gordon’s witness archive is therefore not simply the numb
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ The lasting value of Gordon’s witness archive is therefore not simply the numb
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -750,94 +750,94 @@ The lasting value of Gordon’s witness archive is therefore not simply the numb
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unsolved.com  
    Title: Mysteries Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThousands see a UFO in the sky above Kecksburg, Pennsylvania. A ball of light streaki...</p></details>
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThousands see a UFO in the sky above Kecksburg, Pennsylvania. A ball of light streaki...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: stangordon.info  
    Title: Stan Gordon Kecksburg Incident and Updates  
-   Link: <a href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.stangordon.info/wp/kecksburg/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</p></details>
+   Link:<a href="https://www.stangordon.info/wp/kecksburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.stangordon.info/wp/kecksburg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters are among the many witnesses who verify that they saw military personnel in the Kecksburg area that night.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: stangordon.info  
    Title: From: Researcher Stan Gordon www.stangordon.info.Read more  
-   Link: <a href="https://www.stangordon.info/wp/2024/12/09/the-kecksburg-pennsylvania-ufo-incident-59-years-later-a-new-detail-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://www.stangordon.info/wp/2024/12/09/the-kecksburg-pennsylvania-ufo-incident-59-years-later-a-new-detail-revealed/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stan GordonThe Kecksburg Pennsylvania UFO Incident-59 Years Later-A...9 Dec 2024 — The Kecksburg, Pennsylvania UFO Incident-59 Years La...</p></details>
+   Link:<a href="https://www.stangordon.info/wp/2024/12/09/the-kecksburg-pennsylvania-ufo-incident-59-years-later-a-new-detail-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://www.stangordon.info/wp/2024/12/09/the-kecksburg-pennsylvania-ufo-incident-59-years-later-a-new-detail-revealed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stan GordonThe Kecksburg Pennsylvania UFO Incident-59 Years Later-A...9 Dec 2024 — The Kecksburg, Pennsylvania UFO Incident-59 Years La...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-[acorn-shape" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-[acorn-shape</a>  
+   Link:<a href="https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-[acorn-shape" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-[acorn-shape</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pennsylvania.fandom.com  
-   Link: <a href="https://pennsylvania.fandom.com/wiki/Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://pennsylvania.fandom.com/wiki/Kecksburg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pennsylvania Wiki - FandomShock waves were reported by pilots, and a seismograph near Detroit recorded a shock, wrote investigator Stan...</p></details>
+   Link:<a href="https://pennsylvania.fandom.com/wiki/Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://pennsylvania.fandom.com/wiki/Kecksburg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pennsylvania Wiki - FandomShock waves were reported by pilots, and a seismograph near Detroit recorded a shock, wrote investigator Stan...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: post-gazette.com  
-   Link: <a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>9, 1965, they say, was a General Electric Mark 2 [Re-entry](&amp;#123;&amp;#123; &#x27;re-entry/&#x27; | relative_url &amp;#125;&amp;#125;) Vehicle that had been launched by the Air Force as...Read more...</p></details>
+   Link:<a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9, 1965, they say, was a General Electric Mark 2 [Re-entry](&amp;#123;&amp;#123; &#x27;re-entry/&#x27; | relative_url &amp;#125;&amp;#125;) Vehicle that had been launched by the Air Force as...Read more...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DMQD_nqhp_H/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMQD_nqhp_H/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DMQD_nqhp_H/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMQD_nqhp_H/?hl=en</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CKK66LtZ1Hs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CKK66LtZ1Hs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 184 Kecksburg Revisited with Stan GordonThe object was loaded onto a flatbed truck along with multiple... witness to the origina...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CKK66LtZ1Hs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CKK66LtZ1Hs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 184 Kecksburg Revisited with Stan GordonThe object was loaded onto a flatbed truck along with multiple... witness to the origina...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wtae.com  
-   Link: <a href="https://www.wtae.com/article/kecksburg-ufo-pennsylvania-4-the-record/69631280" target="_blank" rel="noopener noreferrer nofollow">https://www.wtae.com/article/kecksburg-ufo-pennsylvania-4-the-record/69631280</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in Kecksburg, Pennsylvania is a 60-year mystery7 Dec 2025 — But he said he interviewed multiple people who saw military personnel...</p></details>
+   Link:<a href="https://www.wtae.com/article/kecksburg-ufo-pennsylvania-4-the-record/69631280" target="_blank" rel="noopener noreferrer nofollow">https://www.wtae.com/article/kecksburg-ufo-pennsylvania-4-the-record/69631280</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in Kecksburg, Pennsylvania is a 60-year mystery7 Dec 2025 — But he said he interviewed multiple people who saw military personnel...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: What fell from the sky in Kecksburg PA  
-   Link: <a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Witnesses say they saw the military drive a flatbed truck down into the woods where the object was. They saw damaged trees where somethin...</p></details>
+   Link:<a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Witnesses say they saw the military drive a flatbed truck down into the woods where the object was. They saw damaged trees where somethin...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYVIcS8oKZZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYVIcS8oKZZ/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ncluding 600+ witnesses, military testimony, and chilling...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYVIcS8oKZZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYVIcS8oKZZ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ncluding 600+ witnesses, military testimony, and chilling...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟...full report / article...</p></details>
+   Link:<a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟...full report / article...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: crash site of the 1965 kecksburg ufo  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On December 9th, 1965, Southeast of Pittsburgh a fiery object darted across the sky, and crashed in a wooded ravine on a farm in the vill...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On December 9th, 1965, Southeast of Pittsburgh a fiery object darted across the sky, and crashed in a wooded ravine on a farm in the vill...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: basementofthebizarre.com  
    Title: kecksburg ufo incident 1965 mystery  
-   Link: <a href="https://basementofthebizarre.com/2026/06/04/kecksburg-ufo-incident-1965-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://basementofthebizarre.com/2026/06/04/kecksburg-ufo-incident-1965-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg Incident: Pennsylvania&#x27;s “Area 51” Moment4 Jun 2026 — Explore the mysterious Kecksburg UFO crash and its lasting impact on...</p></details>
+   Link:<a href="https://basementofthebizarre.com/2026/06/04/kecksburg-ufo-incident-1965-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://basementofthebizarre.com/2026/06/04/kecksburg-ufo-incident-1965-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg Incident: Pennsylvania&#x27;s “Area 51” Moment4 Jun 2026 — Explore the mysterious Kecksburg UFO crash and its lasting impact on...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel  
-   Link: <a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lg1m_PvR55g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Kecksburg UFO Case: Finally Solved After 60 Years?[https://www.youtube.com/watch?v=3Ka9dOx7ZWY...&quot;](https://www.youtube.com/watch?v=3Ka9dOx7ZWY...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lg1m_PvR55g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Kecksburg UFO Case: Finally Solved After 60 Years?[https://www.youtube.com/watch?v=3Ka9dOx7ZWY...&quot;](https://www.youtube.com/watch?v=3Ka9dOx7ZWY...&quot;)...</p></details>

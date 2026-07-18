@@ -265,7 +265,7 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_venus_probe_s
 
 ## Introduction
 
-One reason the [Kosmos]({{ 'kosmos-96/' | relative_url }}) 96 explanation for the Kecksburg incident has remained attractive is that Kosmos 96 was not a routine Earth-orbiting satellite. It was a failed Soviet Venus mission built from hardware intended to operate in the extreme conditions of interplanetary flight. That distinction matters because some spacecraft components are designed to survive intense heating, pressure, and acceleration. If any part of such a probe returned through Earth's atmosphere, it could potentially produce debris that looked engineered rather than meteoritic. However, the specific characteristics of Soviet Venus spacecraft also reveal why survival claims do not automatically support a match with the object reportedly seen near Kecksburg. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">April 29, 2026 — Kosmos 96 or 3MV-4 No.6, was a Soviet spacecraft intended to explore Venus. A 3MV-4 spacecraft launched as part of the V...</span><span class="citation-popover-meta">Published: April 29, 2026</span></span></span>
+One reason the [Kosmos]({{ 'kosmos-96/' | relative_url }}) 96 explanation for the Kecksburg incident has remained attractive is that Kosmos 96 was not a routine Earth-orbiting satellite. It was a failed Soviet Venus mission built from hardware intended to operate in the extreme conditions of interplanetary flight. That distinction matters because some spacecraft components are designed to survive intense heating, pressure, and acceleration. If any part of such a probe returned through Earth's atmosphere, it could potentially produce debris that looked engineered rather than meteoritic. However, the specific characteristics of Soviet Venus spacecraft also reveal why survival claims do not automatically support a match with the object reportedly seen near Kecksburg.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">April 29, 2026 — Kosmos 96 or 3MV-4 No.6, was a Soviet spacecraft intended to explore Venus. A 3MV-4 spacecraft launched as part of the V...</span><span class="citation-popover-meta">Published: April 29, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_venus_probe_survival_dc3911-Illustration-1-dark.svg" | relative_url }}" alt="Venus Probe Survival illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_venus_probe_survival_dc3911-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_venus_probe_survival_dc3911-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -273,11 +273,11 @@ One reason the [Kosmos]({{ 'kosmos-96/' | relative_url }}) 96 explanation for th
 
 ### What Kosmos 96 was built to do
 
-Kosmos 96 was designated 3MV-4 No. 6, part of the Soviet Union's third-generation Mars-Venus probe family. The spacecraft was intended to fly past Venus and return scientific data, but a launch failure left it stranded in Earth orbit instead of sending it onto an interplanetary trajectory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">April 29, 2026 — Kosmos 96 or 3MV-4 No.6, was a Soviet spacecraft intended to explore Venus. A 3MV-4 spacecraft launched as part of the V...</span><span class="citation-popover-meta">Published: April 29, 2026</span></span></span>
+Kosmos 96 was designated 3MV-4 No. 6, part of the Soviet Union's third-generation Mars-Venus probe family. The spacecraft was intended to fly past Venus and return scientific data, but a launch failure left it stranded in Earth orbit instead of sending it onto an interplanetary trajectory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">April 29, 2026 — Kosmos 96 or 3MV-4 No.6, was a Soviet spacecraft intended to explore Venus. A 3MV-4 spacecraft launched as part of the V...</span><span class="citation-popover-meta">Published: April 29, 2026</span></span></span>
 
-The important point for the Kecksburg debate is that Soviet planetary probes were fundamentally different from many ordinary satellites. They were expected to endure long-duration spaceflight and, in some mission variants, atmospheric entry at another planet. Contemporary sister missions in the same programme carried dedicated entry vehicles intended to descend into the Venusian atmosphere. For example, Venera 3, launched only days before Kosmos 96, included an atmospheric entry probe designed to survive passage through Venus's atmosphere and descend by parachute. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Venera_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Venera 3</span><span class="citation-popover-snippet">Venera 3</span></span></span>
+The important point for the Kecksburg debate is that Soviet planetary probes were fundamentally different from many ordinary satellites. They were expected to endure long-duration spaceflight and, in some mission variants, atmospheric entry at another planet. Contemporary sister missions in the same programme carried dedicated entry vehicles intended to descend into the Venusian atmosphere. For example, Venera 3, launched only days before Kosmos 96, included an atmospheric entry probe designed to survive passage through Venus's atmosphere and descend by parachute.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Venera_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Venera 3</span><span class="citation-popover-snippet">Venera 3</span></span></span>
 
-Because the Soviet programme used standardised spacecraft designs across related missions, researchers have long examined whether hardware derived from these planetary vehicles might have possessed unusually robust structures compared with conventional satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/3MV" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">s to Mars and Venus.Read more...</span></span></span>
+Because the Soviet programme used standardised spacecraft designs across related missions, researchers have long examined whether hardware derived from these planetary vehicles might have possessed unusually robust structures compared with conventional satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/3MV" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">s to Mars and Venus.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CKK66LtZ1Hs" title="Episode 184 Kecksburg Revisited with Stan Gordon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CKK66LtZ1Hs" target="_blank" rel="noopener noreferrer">Episode 184 Kecksburg Revisited with Stan Gordon</a></p><p class="youtube-embed-meta">Channel: Astonishing Legends &middot; Views: 2.3K &middot; Uploaded: May 2022 &middot; Length: 2 hours 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CKK66LtZ1Hs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CKK66LtZ1Hs">Open on YouTube</a></p></div></div></div>
@@ -286,11 +286,11 @@ Because the Soviet programme used standardised spacecraft designs across related
 
 The strongest argument behind the Kosmos 96 debris theory is not that an entire spacecraft would survive [re-entry]({{ 're-entry/' | relative_url }}). Rather, it is that certain specialised components might.
 
-Modern analyses of later Soviet Venus hardware provide a useful benchmark. The Venus descent craft carried by the failed Cosmos 482 mission of 1972 was specifically engineered to survive entry into Venus's extraordinarily dense atmosphere. European Space Agency specialists noted that the capsule was designed for extreme loads and pressure, making it unusually likely to survive re-entry into Earth's atmosphere as a largely intact object. The capsule featured a heavily protected structure intended to withstand conditions far harsher than those encountered during most satellite re-entries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reentry.esoc.esa.int/home/blog/cosmos-482-reentry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reentry.esoc.esa.int">[ESA Re-entry Predictions+2EU SST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reentry.esoc.esa.int</span><span class="citation-popover-title">cosmos 482 reentry</span><span class="citation-popover-snippet">ESA Re-entry PredictionsUncontrolled reentry of Soviet-era Venus lander6 May 2025 — The 495 kg lander was made to withstand the extremely...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Modern analyses of later Soviet Venus hardware provide a useful benchmark. The Venus descent craft carried by the failed Cosmos 482 mission of 1972 was specifically engineered to survive entry into Venus's extraordinarily dense atmosphere. European Space Agency specialists noted that the capsule was designed for extreme loads and pressure, making it unusually likely to survive re-entry into Earth's atmosphere as a largely intact object. The capsule featured a heavily protected structure intended to withstand conditions far harsher than those encountered during most satellite re-entries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reentry.esoc.esa.int/home/blog/cosmos-482-reentry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reentry.esoc.esa.int">[esa.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reentry.esoc.esa.int</span><span class="citation-popover-title">cosmos 482 reentry</span><span class="citation-popover-snippet">ESA Re-entry PredictionsUncontrolled reentry of Soviet-era Venus lander6 May 2025 — The 495 kg lander was made to withstand the extremely...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-Spaceflight analysts evaluating Cosmos 482 in 2025 repeatedly emphasised the same principle: hardware designed for Venus atmospheric entry has a much greater chance of surviving Earth re-entry than ordinary spacecraft debris. The capsule's robust shell, thermal protection systems, and pressure-resistant construction were expected to make it exceptionally durable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-lander-will-fall-back-to-earth-after-being-stranded-for-53-years" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space+2Rice News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">A failed Soviet Venus lander will fall back to Earth after...28 Apr 2025 — Venus, custom-made to withstand reentry through the thic...</span></span></span>
+Spaceflight analysts evaluating Cosmos 482 in 2025 repeatedly emphasised the same principle: hardware designed for Venus atmospheric entry has a much greater chance of surviving Earth re-entry than ordinary spacecraft debris. The capsule's robust shell, thermal protection systems, and pressure-resistant construction were expected to make it exceptionally durable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-lander-will-fall-back-to-earth-after-being-stranded-for-53-years" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">A failed Soviet Venus lander will fall back to Earth after...28 Apr 2025 — Venus, custom-made to withstand reentry through the thic...</span></span></span>
 
-This observation is often carried backward into discussions of Kosmos 96. If Soviet Venus-related spacecraft incorporated similarly rugged components, then surviving debris is not inherently impossible. Unlike fragile solar panels, antennae, or lightweight satellite structures, dense pressure vessels, [heat shields]({{ 'heat-shield/' | relative_url }}), and entry-system components can remain intact through atmospheric passage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reentry.esoc.esa.int/home/blog/cosmos-482-reentry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reentry.esoc.esa.int">[ESA Re-entry Predictions+2EU SST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reentry.esoc.esa.int</span><span class="citation-popover-title">cosmos 482 reentry</span><span class="citation-popover-snippet">ESA Re-entry PredictionsUncontrolled reentry of Soviet-era Venus lander6 May 2025 — The 495 kg lander was made to withstand the extremely...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+This observation is often carried backward into discussions of Kosmos 96. If Soviet Venus-related spacecraft incorporated similarly rugged components, then surviving debris is not inherently impossible. Unlike fragile solar panels, antennae, or lightweight satellite structures, dense pressure vessels, [heat shields]({{ 'heat-shield/' | relative_url }}), and entry-system components can remain intact through atmospheric passage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reentry.esoc.esa.int/home/blog/cosmos-482-reentry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reentry.esoc.esa.int">[esa.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reentry.esoc.esa.int</span><span class="citation-popover-title">cosmos 482 reentry</span><span class="citation-popover-snippet">ESA Re-entry PredictionsUncontrolled reentry of Soviet-era Venus lander6 May 2025 — The 495 kg lander was made to withstand the extremely...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 That possibility helps explain why the [Kosmos 96 theory]({{ 'kosmos-96-fc7c69/' | relative_url }}) initially appeared more plausible than suggestions involving ordinary satellite debris. A planetary spacecraft offers a mechanism by which [witnesses]({{ 'witnesses/' | relative_url }}) could, in principle, encounter a compact metallic object rather than a scattering of melted fragments.
 
@@ -300,11 +300,11 @@ That possibility helps explain why the [Kosmos 96 theory]({{ 'kosmos-96-fc7c69/'
 
 The existence of potentially survivable hardware does not resolve the larger identification problem.
 
-First, Kosmos 96 was not the same type of mission as the later Venus landers often cited in re-entry discussions. It was a Venus flyby spacecraft, and the exact configuration of any atmospheric-entry hardware associated with the mission remains a matter of historical reconstruction. Claims that a large, intact Venus landing capsule must have survived from Kosmos 96 sometimes blur distinctions between different Soviet Venus spacecraft generations and mission designs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">April 29, 2026 — Kosmos 96 or 3MV-4 No.6, was a Soviet spacecraft intended to explore Venus. A 3MV-4 spacecraft launched as part of the V...</span><span class="citation-popover-meta">Published: April 29, 2026</span></span></span>
+First, Kosmos 96 was not the same type of mission as the later Venus landers often cited in re-entry discussions. It was a Venus flyby spacecraft, and the exact configuration of any atmospheric-entry hardware associated with the mission remains a matter of historical reconstruction. Claims that a large, intact Venus landing capsule must have survived from Kosmos 96 sometimes blur distinctions between different Soviet Venus spacecraft generations and mission designs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">April 29, 2026 — Kosmos 96 or 3MV-4 No.6, was a Soviet spacecraft intended to explore Venus. A 3MV-4 spacecraft launched as part of the V...</span><span class="citation-popover-meta">Published: April 29, 2026</span></span></span>
 
-Second, even if a robust component could have survived re-entry, survivability alone says nothing about where that object came down. The central challenge for the Kosmos 96 explanation is orbital [timing]({{ 'timing/' | relative_url }}) and trajectory, not whether Soviet engineering could withstand atmospheric heating. Later analyses cited in the Kecksburg debate place the spacecraft's re-entry many hours before the reported Pennsylvania event and on a track inconsistent with the late-afternoon fireball associated with Kecksburg. The question is therefore not merely whether debris could survive, but whether the spacecraft could physically have been over the region at the required time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/comicbookstartrek/posts/steven-spielbergs-disclosure-day-draws-on-two-real-world-ufo-legends-for-inspira/1369671555024921/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Read more</span><span class="citation-popover-snippet">Steven Spielberg&#x27;s Disclosure Day draws on two real-world...It has been confirmed that a faulty Soviet Venus probe identified as...</span></span></span>
+Second, even if a robust component could have survived re-entry, survivability alone says nothing about where that object came down. The central challenge for the Kosmos 96 explanation is orbital [timing]({{ 'timing/' | relative_url }}) and trajectory, not whether Soviet engineering could withstand atmospheric heating. Later analyses cited in the Kecksburg debate place the spacecraft's re-entry many hours before the reported Pennsylvania event and on a track inconsistent with the late-afternoon fireball associated with Kecksburg. The question is therefore not merely whether debris could survive, but whether the spacecraft could physically have been over the region at the required time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/comicbookstartrek/posts/steven-spielbergs-disclosure-day-draws-on-two-real-world-ufo-legends-for-inspira/1369671555024921/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Read more</span><span class="citation-popover-snippet">Steven Spielberg&#x27;s Disclosure Day draws on two real-world...It has been confirmed that a faulty Soviet Venus probe identified as...</span></span></span>
 
-Finally, descriptions associated with Kecksburg often involve reports of an acorn-shaped object or a relatively intact craft. Demonstrating that some Venus-probe components might survive re-entry does not establish that they would emerge in the specific form described by witnesses. Re-entry physics, breakup dynamics, impact damage, and uncertainty about the exact hardware involved all complicate attempts to match witness accounts to a particular Soviet spacecraft component. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-probe-is-falling-to-earth-heres-what-it-might-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">a failed soviet venus probe is falling to earth heres what it might look like</span><span class="citation-popover-snippet">What the Soviet Venus Probe&#x27;s fiery fall to Earth might look...8 May 2025 — Most dead satellites and other pieces of space junk ree...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Finally, descriptions associated with Kecksburg often involve reports of an acorn-shaped object or a relatively intact craft. Demonstrating that some Venus-probe components might survive re-entry does not establish that they would emerge in the specific form described by witnesses. Re-entry physics, breakup dynamics, impact damage, and uncertainty about the exact hardware involved all complicate attempts to match witness accounts to a particular Soviet spacecraft component.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-probe-is-falling-to-earth-heres-what-it-might-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">a failed soviet venus probe is falling to earth heres what it might look like</span><span class="citation-popover-snippet">What the Soviet Venus Probe&#x27;s fiery fall to Earth might look...8 May 2025 — Most dead satellites and other pieces of space junk ree...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/koPYSFxDy4Y" title="The Soviet Probe Survived Long Enough to Capture THIS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=koPYSFxDy4Y" target="_blank" rel="noopener noreferrer">The Soviet Probe Survived Long Enough to Capture THIS</a></p><p class="youtube-embed-meta">Channel: Space Matters</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=koPYSFxDy4Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=koPYSFxDy4Y">Open on YouTube</a></p></div></div></div>
@@ -314,202 +314,202 @@ Finally, descriptions associated with Kecksburg often involve reports of an acor
 
 ## What the Hardware Argument Actually Shows
 
-The hardware-survival argument contributes one important point to the broader Kosmos 96 space-debris theory: a failed Soviet Venus probe is a more credible source of recognisable debris than an ordinary satellite because planetary spacecraft could contain exceptionally durable components. Evidence from later Soviet Venus missions demonstrates that some Venus-entry hardware was indeed built to survive severe atmospheric conditions and could remain largely intact after Earth re-entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reentry.esoc.esa.int/home/blog/cosmos-482-reentry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reentry.esoc.esa.int">[ESA Re-entry Predictions+2EU SST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reentry.esoc.esa.int</span><span class="citation-popover-title">cosmos 482 reentry</span><span class="citation-popover-snippet">ESA Re-entry PredictionsUncontrolled reentry of Soviet-era Venus lander6 May 2025 — The 495 kg lander was made to withstand the extremely...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+The hardware-survival argument contributes one important point to the broader Kosmos 96 space-debris theory: a failed Soviet Venus probe is a more credible source of recognisable debris than an ordinary satellite because planetary spacecraft could contain exceptionally durable components. Evidence from later Soviet Venus missions demonstrates that some Venus-entry hardware was indeed built to survive severe atmospheric conditions and could remain largely intact after Earth re-entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reentry.esoc.esa.int/home/blog/cosmos-482-reentry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reentry.esoc.esa.int">[esa.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reentry.esoc.esa.int</span><span class="citation-popover-title">cosmos 482 reentry</span><span class="citation-popover-snippet">ESA Re-entry PredictionsUncontrolled reentry of Soviet-era Venus lander6 May 2025 — The 495 kg lander was made to withstand the extremely...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-However, this only addresses the mechanism of survival. It does not solve the more difficult questions of timing, trajectory, location, or correspondence with reported Kecksburg observations. As a result, the durability of Soviet Venus-probe hardware strengthens the theoretical possibility of surviving debris while falling short of proving that any such debris was the object involved in the Kecksburg incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">April 29, 2026 — Kosmos 96 or 3MV-4 No.6, was a Soviet spacecraft intended to explore Venus. A 3MV-4 spacecraft launched as part of the V...</span><span class="citation-popover-meta">Published: April 29, 2026</span></span></span>
+However, this only addresses the mechanism of survival. It does not solve the more difficult questions of timing, trajectory, location, or correspondence with reported Kecksburg observations. As a result, the durability of Soviet Venus-probe hardware strengthens the theoretical possibility of surviving debris while falling short of proving that any such debris was the object involved in the Kecksburg incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">April 29, 2026 — Kosmos 96 or 3MV-4 No.6, was a Soviet spacecraft intended to explore Venus. A 3MV-4 spacecraft launched as part of the V...</span><span class="citation-popover-meta">Published: April 29, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_venus_probe_survival_dc3911-Illustration-3-dark.svg" | relative_url }}" alt="Venus Probe Survival illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_venus_probe_survival_dc3911-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_venus_probe_survival_dc3911-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Venus Probe Survival. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Venus Probe Survival. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Evidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Gic3gcQysOsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Evidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Evidence">The UFO Evidence</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Hall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Evidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Gic3gcQysOsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Evidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Evidence">The UFO Evidence</a>
+</h4>
+<p class="fr-book-author">By Richard H. Hall</p>
         
-        <p class="fr-book-desc">Provides historical case documentation and competing interpretations useful for evaluating Kecksburg and Kosmos 96 timing claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical case documentation and competing interpretations useful for evaluating Kecksburg and Kosmos 96 timing claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
-        </h4>
-        <p class="fr-book-author">By Emile Souvestre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
+</h4>
+<p class="fr-book-author">By Emile Souvestre</p>
         
-        <p class="fr-book-desc">Provides scientific discussion of UFO reports, witness evidence and conventional explanations relevant to evaluating Kecksburg and the Ko...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides scientific discussion of UFO reports, witness evidence and conventional explanations relevant to evaluating Kecksburg and the Ko...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for evaluating military, government, and aerospace-related UFO cases such as Kecksburg.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for evaluating military, government, and aerospace-related UFO cases such as Kecksburg.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Covers government investigations, records, tracking data and historical UFO controversies relevant to the Kecksburg debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers government investigations, records, tracking data and historical UFO controversies relevant to the Kecksburg debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Evidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Evidence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Evidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Evidence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="venus-probe-survival-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -525,7 +525,7 @@ However, this only addresses the mechanism of survival. It does not solve the mo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -545,7 +545,7 @@ However, this only addresses the mechanism of survival. It does not solve the mo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -577,7 +577,7 @@ However, this only addresses the mechanism of survival. It does not solve the mo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -629,7 +629,7 @@ However, this only addresses the mechanism of survival. It does not solve the mo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -674,7 +674,7 @@ However, this only addresses the mechanism of survival. It does not solve the mo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -715,146 +715,146 @@ However, this only addresses the mechanism of survival. It does not solve the mo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kosmos 96  
-   Link: <a href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kosmos_96</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 29, 2026 — Kosmos 96 or 3MV-4 No.6, was a Soviet spacecraft intended to explore Venus. A 3MV-4 spacecraft launched as part of the V...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kosmos_96</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 29, 2026 — Kosmos 96 or 3MV-4 No.6, was a Soviet spacecraft intended to explore Venus. A 3MV-4 spacecraft launched as part of the V...</p></details>
    Published: April 29, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/3MV" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/3MV</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>s to Mars and Venus.Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/3MV" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/3MV</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s to Mars and Venus.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Venera 3  
-   Link: <a href="https://en.wikipedia.org/wiki/Venera_3" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Venera_3</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Venera_3" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Venera_3</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reentry.esoc.esa.int  
    Title: cosmos 482 reentry  
-   Link: <a href="https://reentry.esoc.esa.int/home/blog/cosmos-482-reentry" target="_blank" rel="noopener noreferrer nofollow">https://reentry.esoc.esa.int/home/blog/cosmos-482-reentry</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ESA Re-entry PredictionsUncontrolled reentry of Soviet-era Venus lander6 May 2025 — The 495 kg lander was made to withstand the extremely...</p></details>
+   Link:<a href="https://reentry.esoc.esa.int/home/blog/cosmos-482-reentry" target="_blank" rel="noopener noreferrer nofollow">https://reentry.esoc.esa.int/home/blog/cosmos-482-reentry</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ESA Re-entry PredictionsUncontrolled reentry of Soviet-era Venus lander6 May 2025 — The 495 kg lander was made to withstand the extremely...</p></details>
    Published: May 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-lander-will-fall-back-to-earth-after-being-stranded-for-53-years" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-lander-will-fall-back-to-earth-after-being-stranded-for-53-years</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A failed Soviet Venus lander will fall back to Earth after...28 Apr 2025 — Venus, custom-made to withstand reentry through the thic...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-lander-will-fall-back-to-earth-after-being-stranded-for-53-years" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-lander-will-fall-back-to-earth-after-being-stranded-for-53-years</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A failed Soviet Venus lander will fall back to Earth after...28 Apr 2025 — Venus, custom-made to withstand reentry through the thic...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: news.rice.edu  
    Title: kosmos 482s return being watched closely rice experts  
-   Link: <a href="https://news.rice.edu/news/2025/kosmos-482s-return-being-watched-closely-rice-experts" target="_blank" rel="noopener noreferrer nofollow">https://news.rice.edu/news/2025/kosmos-482s-return-being-watched-closely-rice-experts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rice NewsKosmos 482&#x27;s return being watched closely by Rice experts6 May 2025 — The spacecraft&#x27;s descent module, a titanium-encased capsul...</p></details>
+   Link:<a href="https://news.rice.edu/news/2025/kosmos-482s-return-being-watched-closely-rice-experts" target="_blank" rel="noopener noreferrer nofollow">https://news.rice.edu/news/2025/kosmos-482s-return-being-watched-closely-rice-experts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rice NewsKosmos 482&#x27;s return being watched closely by Rice experts6 May 2025 — The spacecraft&#x27;s descent module, a titanium-encased capsul...</p></details>
    Published: May 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: Read more  
-   Link: <a href="https://www.facebook.com/comicbookstartrek/posts/steven-spielbergs-disclosure-day-draws-on-two-real-world-ufo-legends-for-inspira/1369671555024921/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/comicbookstartrek/posts/steven-spielbergs-disclosure-day-draws-on-two-real-world-ufo-legends-for-inspira/1369671555024921/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg&#x27;s Disclosure Day draws on two real-world...It has been confirmed that a faulty Soviet Venus probe identified as...</p></details>
+   Link:<a href="https://www.facebook.com/comicbookstartrek/posts/steven-spielbergs-disclosure-day-draws-on-two-real-world-ufo-legends-for-inspira/1369671555024921/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/comicbookstartrek/posts/steven-spielbergs-disclosure-day-draws-on-two-real-world-ufo-legends-for-inspira/1369671555024921/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg&#x27;s Disclosure Day draws on two real-world...It has been confirmed that a faulty Soviet Venus probe identified as...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: space.com  
    Title: a failed soviet venus probe is falling to earth heres what it might look like  
-   Link: <a href="https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-probe-is-falling-to-earth-heres-what-it-might-look-like" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-probe-is-falling-to-earth-heres-what-it-might-look-like</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What the Soviet Venus Probe&#x27;s fiery fall to Earth might look...8 May 2025 — Most dead satellites and other pieces of space junk ree...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-probe-is-falling-to-earth-heres-what-it-might-look-like" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-probe-is-falling-to-earth-heres-what-it-might-look-like</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What the Soviet Venus Probe&#x27;s fiery fall to Earth might look...8 May 2025 — Most dead satellites and other pieces of space junk ree...</p></details>
    Published: May 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Venera 4  
-   Link: <a href="https://en.wikipedia.org/wiki/Venera_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Venera_4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Venera 4Venera 4 provided the first chemical analysis of the Venusian atmosphere, showing it to be primarily carbon dioxide with a few...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Venera_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Venera_4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Venera 4Venera 4 provided the first chemical analysis of the Venusian atmosphere, showing it to be primarily carbon dioxide with a few...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: blogs.esa.int  
    Title: reentry prediction soviet era venera venus lander cosmos 482 descent craft  
-   Link: <a href="https://blogs.esa.int/rocketscience/2025/05/07/reentry-prediction-soviet-era-venera-venus-lander-cosmos-482-descent-craft/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.esa.int/rocketscience/2025/05/07/reentry-prediction-soviet-era-venera-venus-lander-cosmos-482-descent-craft/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>prediction Soviet-era Venera Venus lander (Cosmos...7 May 2025 — The 495 kg lander was made to withstand the extremely harsh conditions...</p></details>
+   Link:<a href="https://blogs.esa.int/rocketscience/2025/05/07/reentry-prediction-soviet-era-venera-venus-lander-cosmos-482-descent-craft/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.esa.int/rocketscience/2025/05/07/reentry-prediction-soviet-era-venera-venus-lander-cosmos-482-descent-craft/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>prediction Soviet-era Venera Venus lander (Cosmos...7 May 2025 — The 495 kg lander was made to withstand the extremely harsh conditions...</p></details>
    Published: May 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: time.com  
    Title: soviet spacecraft plunging back to earth what to know  
-   Link: <a href="https://time.com/7283460/soviet-spacecraft-plunging-back-to-earth-what-to-know/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7283460/soviet-spacecraft-plunging-back-to-earth-what-to-know/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What to Know About the Soviet Spacecraft Plunging to Earth7 May 2025 — Launched in 1972, the failed Venus probe, Kosmos 482, has been stu...</p></details>
+   Link:<a href="https://time.com/7283460/soviet-spacecraft-plunging-back-to-earth-what-to-know/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7283460/soviet-spacecraft-plunging-back-to-earth-what-to-know/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What to Know About the Soviet Spacecraft Plunging to Earth7 May 2025 — Launched in 1972, the failed Venus probe, Kosmos 482, has been stu...</p></details>
    Published: May 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/madisonastronomicalsociety/posts/24080148488257943/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/madisonastronomicalsociety/posts/24080148488257943/</a>  
+   Link:<a href="https://www.facebook.com/groups/madisonastronomicalsociety/posts/24080148488257943/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/madisonastronomicalsociety/posts/24080148488257943/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: eusst.eu  
    Title: eu sst closely monitors re entry space object cosmos 482 descent craft  
-   Link: <a href="https://www.eusst.eu/newsroom/news/eu-sst-closely-monitors-re-entry-space-object-cosmos-482-descent-craft" target="_blank" rel="noopener noreferrer nofollow">https://www.eusst.eu/newsroom/news/eu-sst-closely-monitors-re-entry-space-object-cosmos-482-descent-craft</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EU SST closely monitors re-entry of space object Cosmos-...13 May 2025 — The Cosmos-482 Descent Craft was a remarkable object deserving...</p></details>
+   Link:<a href="https://www.eusst.eu/newsroom/news/eu-sst-closely-monitors-re-entry-space-object-cosmos-482-descent-craft" target="_blank" rel="noopener noreferrer nofollow">https://www.eusst.eu/newsroom/news/eu-sst-closely-monitors-re-entry-space-object-cosmos-482-descent-craft</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EU SST closely monitors re-entry of space object Cosmos-...13 May 2025 — The Cosmos-482 Descent Craft was a remarkable object deserving...</p></details>
    Published: May 2025  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aerospace.org  
    Title: venus probe will fall earth week heres how aerospace tracking it  
-   Link: <a href="https://aerospace.org/kickstage/venus-probe-will-fall-earth-week-heres-how-aerospace-tracking-it" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/kickstage/venus-probe-will-fall-earth-week-heres-how-aerospace-tracking-it</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Venus probe will fall to Earth this week6 May 2025 — The current CORDS estimate for the reentry of the Cosmos 482 lander is within 4 ho...</p></details>
+   Link:<a href="https://aerospace.org/kickstage/venus-probe-will-fall-earth-week-heres-how-aerospace-tracking-it" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/kickstage/venus-probe-will-fall-earth-week-heres-how-aerospace-tracking-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Venus probe will fall to Earth this week6 May 2025 — The current CORDS estimate for the reentry of the Cosmos 482 lander is within 4 ho...</p></details>
    Published: May 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/1kigfna/a_sovietera_spacecraft_built_to_land_on_venus_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/1kigfna/a_sovietera_spacecraft_built_to_land_on_venus_is/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d | Kosmos 482 is encased in a titanium heat shield, with a good chance...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/1kigfna/a_sovietera_spacecraft_built_to_land_on_venus_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/1kigfna/a_sovietera_spacecraft_built_to_land_on_venus_is/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d | Kosmos 482 is encased in a titanium heat shield, with a good chance...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: leonarddavid.com  
    Title: old soviet venus descent craft nearing earth reentry  
-   Link: <a href="https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Apr 2025 — “As this is a lander that was designed to survive passage through the Venus atmosphere, it is possible that it will survive...</p></details>
+   Link:<a href="https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>29 Apr 2025 — “As this is a lander that was designed to survive passage through the Venus atmosphere, it is possible that it will survive...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: collectspace.com  
    Title: news 051025a kosmos 482 soviet venus lander reentry  
-   Link: <a href="https://www.collectspace.com/news/news-051025a-kosmos-482-soviet-venus-lander-reentry.html" target="_blank" rel="noopener noreferrer nofollow">https://www.collectspace.com/news/news-051025a-kosmos-482-soviet-venus-lander-reentry.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Soviet Venus probe Kosmos 482 plunges back to Earth 53...10 May 2025 — the 3.3-foot-wide (1-meter) and 1,190-pound (495-kilogram) titani...</p></details>
+   Link:<a href="https://www.collectspace.com/news/news-051025a-kosmos-482-soviet-venus-lander-reentry.html" target="_blank" rel="noopener noreferrer nofollow">https://www.collectspace.com/news/news-051025a-kosmos-482-soviet-venus-lander-reentry.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Soviet Venus probe Kosmos 482 plunges back to Earth 53...10 May 2025 — the 3.3-foot-wide (1-meter) and 1,190-pound (495-kilogram) titani...</p></details>
    Published: May 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
    Title: kosmos 482 soviet spacecraft plunges to earth  
-   Link: <a href="https://www.theguardian.com/science/2025/may/10/kosmos-482-soviet-spacecraft-plunges-to-earth" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2025/may/10/kosmos-482-soviet-spacecraft-plunges-to-earth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Soviet-era spacecraft plunges to Earth after 53 years stuck...10 May 2025 — Kosmos 482 re-enters the atmosphere more than a half century...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2025/may/10/kosmos-482-soviet-spacecraft-plunges-to-earth" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2025/may/10/kosmos-482-soviet-spacecraft-plunges-to-earth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Soviet-era spacecraft plunges to Earth after 53 years stuck...10 May 2025 — Kosmos 482 re-enters the atmosphere more than a half century...</p></details>
    Published: May 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/1kaxx16/a_failed_soviet_venus_lander_will_fall_back_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/1kaxx16/a_failed_soviet_venus_lander_will_fall_back_to/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is speculated the probe may survive reentry.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/1kaxx16/a_failed_soviet_venus_lander_will_fall_back_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/1kaxx16/a_failed_soviet_venus_lander_will_fall_back_to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is speculated the probe may survive reentry.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: abc.net.au  
    Title: kosmos 482 re entry soviet venus  
-   Link: <a href="https://www.abc.net.au/news/science/2025-05-02/kosmos-482-re-entry-soviet-venus/105237772" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/science/2025-05-02/kosmos-482-re-entry-soviet-venus/105237772</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Soviet spacecraft Kosmos 482 expected to crash back to...1 May 2025 — Dr Langbroek said it&#x27;s quite possible that the lander will survive...</p></details>
+   Link:<a href="https://www.abc.net.au/news/science/2025-05-02/kosmos-482-re-entry-soviet-venus/105237772" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/science/2025-05-02/kosmos-482-re-entry-soviet-venus/105237772</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Soviet spacecraft Kosmos 482 expected to crash back to...1 May 2025 — Dr Langbroek said it&#x27;s quite possible that the lander will survive...</p></details>
    Published: May 2025  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thespacereview.com  
-   Link: <a href="https://www.thespacereview.com/article/4993/1" target="_blank" rel="noopener noreferrer nofollow">https://www.thespacereview.com/article/4993/1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a post-mortem of an interesting reentry and the confusion...27 May 2025 — The lander, which was supposed to go to Venus but got stuck in...</p></details>
+   Link:<a href="https://www.thespacereview.com/article/4993/1" target="_blank" rel="noopener noreferrer nofollow">https://www.thespacereview.com/article/4993/1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a post-mortem of an interesting reentry and the confusion...27 May 2025 — The lander, which was supposed to go to Venus but got stuck in...</p></details>
    Published: May 2025  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Real Images Of Venus Show That Something Is Seriously Off With The Planet  
-   Link: <a href="https://www.youtube.com/watch?v=-N2PhuRQYM0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-N2PhuRQYM0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Soviet Probe Survived Long Enough to Capture THIS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-N2PhuRQYM0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-N2PhuRQYM0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Soviet Probe Survived Long Enough to Capture THIS...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: leonarddavid.com  
    Title: The Venus lander  
-   Link: <a href="https://www.leonarddavid.com/old-and-stranded-soviet-venus-lander-to-return-to-earth/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/old-and-stranded-soviet-venus-lander-to-return-to-earth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Old, Stranded Soviet Venus Lander to Return to Earth...25 Apr 2025 — The Soviet-style contraption was built to withstand the heat of div...</p></details>
+   Link:<a href="https://www.leonarddavid.com/old-and-stranded-soviet-venus-lander-to-return-to-earth/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/old-and-stranded-soviet-venus-lander-to-return-to-earth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Old, Stranded Soviet Venus Lander to Return to Earth...25 Apr 2025 — The Soviet-style contraption was built to withstand the heat of div...</p></details>

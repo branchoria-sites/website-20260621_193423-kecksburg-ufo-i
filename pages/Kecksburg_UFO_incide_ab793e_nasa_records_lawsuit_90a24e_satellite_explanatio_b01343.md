@@ -288,24 +288,24 @@ One of the most striking disputes in the Kecksburg UFO controversy emerged not f
 
 ### The public Russian satellite statement
 
-In December 2005, as interest in Kecksburg intensified around the incident’s fortieth anniversary, NASA stated that specialists had examined metallic fragments associated with the case and determined that they came from a Soviet satellite that had re-entered Earth’s atmosphere. At the same time, the agency said that records documenting those findings had been misplaced or lost during later archival handling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+In December 2005, as interest in Kecksburg intensified around the incident’s fortieth anniversary, NASA stated that specialists had examined metallic fragments associated with the case and determined that they came from a Soviet satellite that had re-entered Earth’s atmosphere. At the same time, the agency said that records documenting those findings had been misplaced or lost during later archival handling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-The statement was important because it appeared to offer a conventional explanation for one of the most debated aspects of the Kecksburg story. Rather than an unknown craft, NASA was effectively suggesting that recovered material had already been identified as space debris from a Soviet object. The problem was that the agency could not produce the documentation said to support that conclusion. According to subsequent reporting and court-related discussions, the records underlying the claim were unavailable when researchers sought them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The statement was important because it appeared to offer a conventional explanation for one of the most debated aspects of the Kecksburg story. Rather than an unknown craft, NASA was effectively suggesting that recovered material had already been identified as space debris from a Soviet object. The problem was that the agency could not produce the documentation said to support that conclusion. According to subsequent reporting and court-related discussions, the records underlying the claim were unavailable when researchers sought them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-The public explanation also left an obvious unanswered question: which Soviet satellite was being referenced? Earlier discussions of Kecksburg had often centred on the failed Soviet Venus probe Cosmos 96 ([Kosmos]({{ 'kosmos-96/' | relative_url }}) 96), whose [re-entry]({{ 're-entry/' | relative_url }}) occurred on the same date as the fireball. NASA’s 2005 remarks did not clearly resolve whether that object was the basis for the conclusion or whether another Soviet spacecraft was involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The public explanation also left an obvious unanswered question: which Soviet satellite was being referenced? Earlier discussions of Kecksburg had often centred on the failed Soviet Venus probe Cosmos 96 ([Kosmos]({{ 'kosmos-96/' | relative_url }}) 96), whose [re-entry]({{ 're-entry/' | relative_url }}) occurred on the same date as the fireball. NASA’s 2005 remarks did not clearly resolve whether that object was the basis for the conclusion or whether another Soviet spacecraft was involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ac3hYt3k-Eo" title="The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer">The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 149.6K &middot; Uploaded: July 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ac3hYt3k-Eo">Open on YouTube</a></p></div></div></div>
 
 ### Nicholas Johnson’s reported objection
 
-The challenge to NASA’s position came from Nicholas L. Johnson, a highly regarded NASA expert who led work on orbital debris and satellite re-entries. According to Leslie Kean and multiple contemporary reports, Johnson reviewed orbital data, satellite trajectories and historical records from 1965 as part of an examination of potential explanations for the Kecksburg event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vindyarchives.com/news/2005/dec/10/southwest-pa-still-seeking-answers-to-65-ufo/?print=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vindyarchives.com">[http://vindyarchives.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vindyarchives.com</span><span class="citation-popover-snippet">Still seeking answers to &#x27;65 &#x27;UFO&#x27; incident10 Dec 2005 — Kean said Nicholas L. Johnson, NASA&#x27;s chief scientist for orbital debris, determ...</span></span></span>
+The challenge to NASA’s position came from Nicholas L. Johnson, a highly regarded NASA expert who led work on orbital debris and satellite re-entries. According to Leslie Kean and multiple contemporary reports, Johnson reviewed orbital data, satellite trajectories and historical records from 1965 as part of an examination of potential explanations for the Kecksburg event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vindyarchives.com/news/2005/dec/10/southwest-pa-still-seeking-answers-to-65-ufo/?print=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vindyarchives.com">[http://vindyarchives.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vindyarchives.com</span><span class="citation-popover-snippet">Still seeking answers to &#x27;65 &#x27;UFO&#x27; incident10 Dec 2005 — Kean said Nicholas L. Johnson, NASA&#x27;s chief scientist for orbital debris, determ...</span></span></span>
 
-Kean reported that Johnson concluded the object associated with Kecksburg could not have been a Russian satellite and could not be linked to any other known man-made object. Contemporary newspaper coverage quoted this assessment directly, describing Johnson as having determined that the object was not a Soviet satellite and not any other identified artificial spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vindyarchives.com/news/2005/dec/10/southwest-pa-still-seeking-answers-to-65-ufo/?print=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vindyarchives.com">[http://vindyarchives.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vindyarchives.com</span><span class="citation-popover-snippet">Still seeking answers to &#x27;65 &#x27;UFO&#x27; incident10 Dec 2005 — Kean said Nicholas L. Johnson, NASA&#x27;s chief scientist for orbital debris, determ...</span></span></span>
+Kean reported that Johnson concluded the object associated with Kecksburg could not have been a Russian satellite and could not be linked to any other known man-made object. Contemporary newspaper coverage quoted this assessment directly, describing Johnson as having determined that the object was not a Soviet satellite and not any other identified artificial spacecraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vindyarchives.com/news/2005/dec/10/southwest-pa-still-seeking-answers-to-65-ufo/?print=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vindyarchives.com">[http://vindyarchives.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vindyarchives.com</span><span class="citation-popover-snippet">Still seeking answers to &#x27;65 &#x27;UFO&#x27; incident10 Dec 2005 — Kean said Nicholas L. Johnson, NASA&#x27;s chief scientist for orbital debris, determ...</span></span></span>
 
-Accounts of Johnson’s analysis became even more specific in later summaries of the dispute. They reported that he found it “absolutely impossible” for Cosmos 96 to have produced an object descending into Pennsylvania during the relevant time period and that no known artificial object was recorded as re-entering in a manner consistent with the Kecksburg reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingKecksburg IncidentIn 2003, Kean asked Nicholas L. Johnson to examine orbital data for the Soviet probe...</span></span></span>
+Accounts of Johnson’s analysis became even more specific in later summaries of the dispute. They reported that he found it “absolutely impossible” for Cosmos 96 to have produced an object descending into Pennsylvania during the relevant time period and that no known artificial object was recorded as re-entering in a manner consistent with the Kecksburg reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingKecksburg IncidentIn 2003, Kean asked Nicholas L. Johnson to examine orbital data for the Soviet probe...</span></span></span>
 
-This did not mean Johnson endorsed extraordinary explanations. Rather, his reported position was narrower: the available orbital mechanics and tracking data did not support the identification of the Kecksburg object as known satellite debris. That is a technical conclusion about trajectory and [timing]({{ 'timing/' | relative_url }}), not a conclusion about extraterrestrial origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingKecksburg IncidentIn 2003, Kean asked Nicholas L. Johnson to examine orbital data for the Soviet probe...</span></span></span>
+This did not mean Johnson endorsed extraordinary explanations. Rather, his reported position was narrower: the available orbital mechanics and tracking data did not support the identification of the Kecksburg object as known satellite debris. That is a technical conclusion about trajectory and [timing]({{ 'timing/' | relative_url }}), not a conclusion about extraterrestrial origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingKecksburg IncidentIn 2003, Kean asked Nicholas L. Johnson to examine orbital data for the Soviet probe...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_nasa_records_lawsuit_90a24e_satellite_explanatio_b01343-Illustration-2-dark.svg" | relative_url }}" alt="Satellite Claim illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_nasa_records_lawsuit_90a24e_satellite_explanatio_b01343-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_nasa_records_lawsuit_90a24e_satellite_explanatio_b01343-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -313,7 +313,7 @@ This did not mean Johnson endorsed extraordinary explanations. Rather, his repor
 
 The significance of the dispute was less about proving what fell near Kecksburg and more about evaluating the reliability of official explanations.
 
-If NASA’s public statement was correct, then there should have been records showing how specialists identified the debris and which Soviet object was involved. If Johnson’s reported analysis was correct, then the agency’s satellite explanation required further clarification because the most obvious candidate explanations had already been rejected on orbital grounds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_de_Kecksburg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni de Kecksburg</span><span class="citation-popover-snippet">Incidente ovni de Kecksburg</span></span></span>
+If NASA’s public statement was correct, then there should have been records showing how specialists identified the debris and which Soviet object was involved. If Johnson’s reported analysis was correct, then the agency’s satellite explanation required further clarification because the most obvious candidate explanations had already been rejected on orbital grounds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_de_Kecksburg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni de Kecksburg</span><span class="citation-popover-snippet">Incidente ovni de Kecksburg</span></span></span>
 
 This created three competing possibilities:
 
@@ -326,7 +326,7 @@ This created three competing possibilities:
 
 </div>
 
-The inability to produce the underlying records meant that outside researchers could not independently verify which possibility was correct. That problem became especially important during the FOIA litigation, where the adequacy of NASA’s searches and the fate of historical files became central issues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Reporters Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-title">nasa ordered review its records data ufo sighting</span><span class="citation-popover-snippet">NASA to meticulously comb its files for documents about what many residents of Kecksburg, Pa., believe was a UFO sighting 42-yers ago. A...</span></span></span>
+The inability to produce the underlying records meant that outside researchers could not independently verify which possibility was correct. That problem became especially important during the FOIA litigation, where the adequacy of NASA’s searches and the fate of historical files became central issues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Reporters Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-title">nasa ordered review its records data ufo sighting</span><span class="citation-popover-snippet">NASA to meticulously comb its files for documents about what many residents of Kecksburg, Pa., believe was a UFO sighting 42-yers ago. A...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ruKDXL13lk8" title="The 1965 Kecksburg Incident: A UFO Crash the Government Hides to This Day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ruKDXL13lk8" target="_blank" rel="noopener noreferrer">The 1965 Kecksburg Incident: A UFO Crash the Government Hides to This Day</a></p><p class="youtube-embed-meta">Channel: FORGOTTEN HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ruKDXL13lk8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ruKDXL13lk8">Open on YouTube</a></p></div></div></div>
@@ -338,202 +338,202 @@ The inability to produce the underlying records meant that outside researchers c
 
 The Johnson-versus-satellite controversy is often misunderstood as evidence either for or against extraordinary claims. In reality, it highlights a narrower but more important issue. The dispute exposed a gap between a public explanation and the surviving documentary record.
 
-NASA’s satellite explanation rested on records that the agency later said it could not locate. Johnson’s reported analysis rested on orbital-debris expertise and historical trajectory data that, according to Kean and contemporary reports, ruled out known human-made re-entries as an explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vindyarchives.com/news/2005/dec/10/southwest-pa-still-seeking-answers-to-65-ufo/?print=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vindyarchives.com">[http://vindyarchives.com+2Pittsburgh Post-Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vindyarchives.com</span><span class="citation-popover-snippet">Still seeking answers to &#x27;65 &#x27;UFO&#x27; incident10 Dec 2005 — Kean said Nicholas L. Johnson, NASA&#x27;s chief scientist for orbital debris, determ...</span></span></span>
+NASA’s satellite explanation rested on records that the agency later said it could not locate. Johnson’s reported analysis rested on orbital-debris expertise and historical trajectory data that, according to Kean and contemporary reports, ruled out known human-made re-entries as an explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vindyarchives.com/news/2005/dec/10/southwest-pa-still-seeking-answers-to-65-ufo/?print=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vindyarchives.com">[vindyarchives.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vindyarchives.com</span><span class="citation-popover-snippet">Still seeking answers to &#x27;65 &#x27;UFO&#x27; incident10 Dec 2005 — Kean said Nicholas L. Johnson, NASA&#x27;s chief scientist for orbital debris, determ...</span></span></span>
 
-As a result, the contradiction became one of the most discussed elements of the Kecksburg records controversy. It did not establish what the object was. Instead, it raised a question that remained relevant throughout the transparency fight: how can a definitive official explanation be evaluated when the records supporting it are missing and when a NASA specialist is reported to have reached a different conclusion from the one later presented publicly? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Reporters Committee+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-title">nasa ordered review its records data ufo sighting</span><span class="citation-popover-snippet">NASA to meticulously comb its files for documents about what many residents of Kecksburg, Pa., believe was a UFO sighting 42-yers ago. A...</span></span></span>
+As a result, the contradiction became one of the most discussed elements of the Kecksburg records controversy. It did not establish what the object was. Instead, it raised a question that remained relevant throughout the transparency fight: how can a definitive official explanation be evaluated when the records supporting it are missing and when a NASA specialist is reported to have reached a different conclusion from the one later presented publicly?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[rcfp.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-title">nasa ordered review its records data ufo sighting</span><span class="citation-popover-snippet">NASA to meticulously comb its files for documents about what many residents of Kecksburg, Pa., believe was a UFO sighting 42-yers ago. A...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_nasa_records_lawsuit_90a24e_satellite_explanatio_b01343-Illustration-3-dark.svg" | relative_url }}" alt="Satellite Claim illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_nasa_records_lawsuit_90a24e_satellite_explanatio_b01343-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_nasa_records_lawsuit_90a24e_satellite_explanatio_b01343-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did NASA&#x27;s Satellite Explanation Hold Up?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did NASA&#x27;s Satellite Explanation Hold Up?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Leslie Kean led the FOIA effort connected to the Kecksburg case and discusses government transparency, official investigations, and dispu...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Leslie Kean led the FOIA effort connected to the Kecksburg case and discusses government transparency, official investigations, and dispu...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating competing explanations and official claims, matching the article&#x27;s focus on assessing NASA&#x27;s satellit...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating competing explanations and official claims, matching the article&#x27;s focus on assessing NASA&#x27;s satellit...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Examines how official agencies handled UFO reports and evidence, paralleling the transparency issues raised in the NASA records dispute.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how official agencies handled UFO reports and evidence, paralleling the transparency issues raised in the NASA records dispute.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kecksburg UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kecksburg UFO Incident">The Kecksburg UFO Incident</a>
-        </h4>
-        <p class="fr-book-author">By George Dudding</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kecksburg UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kecksburg UFO Incident">The Kecksburg UFO Incident</a>
+</h4>
+<p class="fr-book-author">By George Dudding</p>
         
-        <p class="fr-book-desc">Focused specifically on the 1965 Kecksburg event, its competing explanations, and the continuing controversy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focused specifically on the 1965 Kecksburg event, its competing explanations, and the continuing controversy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Apollo Mission Patch Badge Patches Badges"><img src="https://i.ebayimg.com/images/g/sF8AAOSwNslhitKW/s-l225.jpg" alt="Listing image for NASA Apollo Mission Patch Badge Patches Badges" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Apollo Mission Patch Badge Patches Badges</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA mission patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA mission patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Lot of 60 NASA STS Shuttle Mission Astronaut Space Patches"><img src="https://i.ebayimg.com/images/g/oEwAAeSwTKNo4pN6/s-l225.jpg" alt="Listing image for Vintage Lot of 60 NASA STS Shuttle Mission Astronaut Space Patches" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage Lot of 60 NASA STS Shuttle Mission Astronaut Space Patches</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA mission patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA mission patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Artemis 2 Return to the Moon 4&quot; Embroidered Crew Mission Patch"><img src="https://i.ebayimg.com/images/g/bt4AAeSwgcVp3Kzb/s-l225.jpg" alt="Listing image for NASA Artemis 2 Return to the Moon 4&quot; Embroidered Crew Mission Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Artemis 2 Return to the Moon 4&quot; Embroidered Crew Mission Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA mission patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA mission patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="satellite-claim-157dc3-did-nasa-s-satellite-explanation-hold-up-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Artemis II Return to the Moon 4&quot; Embroidered Mission Patch"><img src="https://i.ebayimg.com/images/g/zlIAAeSwLb5o0vJ8/s-l225.jpg" alt="Listing image for NASA Artemis II Return to the Moon 4&quot; Embroidered Mission Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Artemis II Return to the Moon 4&quot; Embroidered Mission Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA mission patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA mission patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="did-nasa-s-satellite-explanation-hold-up-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -549,7 +549,7 @@ As a result, the contradiction became one of the most discussed elements of the 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -569,7 +569,7 @@ As a result, the contradiction became one of the most discussed elements of the 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -601,7 +601,7 @@ As a result, the contradiction became one of the most discussed elements of the 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -653,7 +653,7 @@ As a result, the contradiction became one of the most discussed elements of the 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -698,7 +698,7 @@ As a result, the contradiction became one of the most discussed elements of the 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -739,105 +739,105 @@ As a result, the contradiction became one of the most discussed elements of the 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Incidente ovni de Kecksburg  
-   Link: <a href="https://es.wikipedia.org/wiki/Incidente_ovni_de_Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Incidente_ovni_de_Kecksburg</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Incidente_ovni_de_Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Incidente_ovni_de_Kecksburg</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingKecksburg IncidentIn 2003, Kean asked Nicholas L. Johnson to examine orbital data for the Soviet probe...</p></details>
+   Link:<a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingKecksburg IncidentIn 2003, Kean asked Nicholas L. Johnson to examine orbital data for the Soviet probe...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: vindyarchives.com  
-   Link: <a href="https://vindyarchives.com/news/2005/dec/10/southwest-pa-still-seeking-answers-to-65-ufo/?print=" target="_blank" rel="noopener noreferrer nofollow">https://vindyarchives.com/news/2005/dec/10/southwest-pa-still-seeking-answers-to-65-ufo/?print=</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Still seeking answers to &#x27;65 &#x27;UFO&#x27; incident10 Dec 2005 — Kean said Nicholas L. Johnson, NASA&#x27;s chief scientist for orbital debris, determ...</p></details>
+   Link:<a href="https://vindyarchives.com/news/2005/dec/10/southwest-pa-still-seeking-answers-to-65-ufo/?print=" target="_blank" rel="noopener noreferrer nofollow">https://vindyarchives.com/news/2005/dec/10/southwest-pa-still-seeking-answers-to-65-ufo/?print=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Still seeking answers to &#x27;65 &#x27;UFO&#x27; incident10 Dec 2005 — Kean said Nicholas L. Johnson, NASA&#x27;s chief scientist for orbital debris, determ...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: post-gazette.com  
-   Link: <a href="https://www.post-gazette.com/breaking/2005/12/08/kecksburg-ufo-records-still-an-alien-concept/stories/200512080509" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/breaking/2005/12/08/kecksburg-ufo-records-still-an-alien-concept/stories/200512080509</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg &#x27;UFO&#x27; records still an alien concept7 Dec 2005 — Nicholas L. Johnson, NASA&#x27;s chief scientist for orbital debris, determined the...</p></details>
+   Link:<a href="https://www.post-gazette.com/breaking/2005/12/08/kecksburg-ufo-records-still-an-alien-concept/stories/200512080509" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/breaking/2005/12/08/kecksburg-ufo-records-still-an-alien-concept/stories/200512080509</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg &#x27;UFO&#x27; records still an alien concept7 Dec 2005 — Nicholas L. Johnson, NASA&#x27;s chief scientist for orbital debris, determined the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: orbitaldebris.jsc.nasa.gov  
-   Link: <a href="https://orbitaldebris.jsc.nasa.gov/Quarterly-News/pdfs/ODQNv2i2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/Quarterly-News/pdfs/ODQNv2i2.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OBOX SCORE — The Orbital Debris Nicholas Johnson, an extensive assortment of computer models and simulations. This paper presen...</p></details>
+   Link:<a href="https://orbitaldebris.jsc.nasa.gov/Quarterly-News/pdfs/ODQNv2i2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/Quarterly-News/pdfs/ODQNv2i2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OBOX SCORE — The Orbital Debris Nicholas Johnson, an extensive assortment of computer models and simulations. This paper presen...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/history/rogersrep/v2appf.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/history/rogersrep/v2appf.htm</a>  
+   Link:<a href="https://www.nasa.gov/history/rogersrep/v2appf.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/history/rogersrep/v2appf.htm</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianNasa told to solve &#x27;UFO crash&#x27; X-File | World news11 Nov 2007 — Steve McConnell, Nasa&#x27;s public liaison officer, has admitted...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianNasa told to solve &#x27;UFO crash&#x27; X-File | World news11 Nov 2007 — Steve McConnell, Nasa&#x27;s public liaison officer, has admitted...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: rcfp.org  
    Title: nasa ordered review its records data ufo sighting  
-   Link: <a href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to meticulously comb its files for documents about what many residents of Kecksburg, Pa., believe was a UFO sighting 42-yers ago. A...</p></details>
+   Link:<a href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to meticulously comb its files for documents about what many residents of Kecksburg, Pa., believe was a UFO sighting 42-yers ago. A...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: engineering.org.cn  
-   Link: <a href="https://www.engineering.org.cn/engi/EN/PDF/10.1016/j.eng.2022.03.005" target="_blank" rel="noopener noreferrer nofollow">https://www.engineering.org.cn/engi/EN/PDF/10.1016/j.eng.2022.03.005</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Russian Anti-Satellite Test Spotlights Space Debris DangerLooming dangerously close to the ISS in its orbit at 410 km, the debris created...</p></details>
+   Link:<a href="https://www.engineering.org.cn/engi/EN/PDF/10.1016/j.eng.2022.03.005" target="_blank" rel="noopener noreferrer nofollow">https://www.engineering.org.cn/engi/EN/PDF/10.1016/j.eng.2022.03.005</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Russian Anti-Satellite Test Spotlights Space Debris DangerLooming dangerously close to the ISS in its orbit at 410 km, the debris created...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: universetoday.com  
-   Link: <a href="https://www.universetoday.com/articles/irresponsible-russian-anti-satellite-test-creates-orbital-debris-field-endangering-the-space-station-and-crew" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/irresponsible-russian-anti-satellite-test-creates-orbital-debris-field-endangering-the-space-station-and-crew</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Irresponsible&quot; Russian Anti-Satellite Test Creates Orbital...15 Nov 2021 — What became apparent as the day wore on is that the debris f...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/irresponsible-russian-anti-satellite-test-creates-orbital-debris-field-endangering-the-space-station-and-crew" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/irresponsible-russian-anti-satellite-test-creates-orbital-debris-field-endangering-the-space-station-and-crew</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Irresponsible&quot; Russian Anti-Satellite Test Creates Orbital...15 Nov 2021 — What became apparent as the day wore on is that the debris f...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalgeographic.com  
    Title: russia just blew up a satellite heres why that spells trouble for spaceflight  
-   Link: <a href="https://www.nationalgeographic.com/science/article/russia-just-blew-up-a-satellite-heres-why-that-spells-trouble-for-spaceflight" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/russia-just-blew-up-a-satellite-heres-why-that-spells-trouble-for-spaceflight</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Russia just blew up a satellite—here&#x27;s why that spells...16 Nov 2021 — A Russian missile test recently destroyed a defunct Soviet satell...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/science/article/russia-just-blew-up-a-satellite-heres-why-that-spells-trouble-for-spaceflight" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/russia-just-blew-up-a-satellite-heres-why-that-spells-trouble-for-spaceflight</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Russia just blew up a satellite—here&#x27;s why that spells...16 Nov 2021 — A Russian missile test recently destroyed a defunct Soviet satell...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: spaceflightnow.com  
    Title: u s officials space station at risk from reckless russian anti satellite test  
-   Link: <a href="https://spaceflightnow.com/2021/11/15/u-s-officials-space-station-at-risk-from-reckless-russian-anti-satellite-test/" target="_blank" rel="noopener noreferrer nofollow">https://spaceflightnow.com/2021/11/15/u-s-officials-space-station-at-risk-from-reckless-russian-anti-satellite-test/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space station at risk from &#x27;reckless&#x27; Russian anti-satellite test15 Nov 2021 — Russia shot down an old Soviet-era military spacecraft Mon...</p></details>
+   Link:<a href="https://spaceflightnow.com/2021/11/15/u-s-officials-space-station-at-risk-from-reckless-russian-anti-satellite-test/" target="_blank" rel="noopener noreferrer nofollow">https://spaceflightnow.com/2021/11/15/u-s-officials-space-station-at-risk-from-reckless-russian-anti-satellite-test/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space station at risk from &#x27;reckless&#x27; Russian anti-satellite test15 Nov 2021 — Russia shot down an old Soviet-era military spacecraft Mon...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufoevidence.org  
    Title: Sci-Fi Kecksberg Press Conference Materialshave been what landed in Kecksburg  
-   Link: <a href="https://www.ufoevidence.org/documents/doc1815.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/documents/doc1815.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Even more intriguing, Johnson s data shows that no man-made object from any country entered our atmosphere and landed in...Read more...</p></details>
+   Link:<a href="https://www.ufoevidence.org/documents/doc1815.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/documents/doc1815.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Even more intriguing, Johnson s data shows that no man-made object from any country entered our atmosphere and landed in...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — Col. Steve Wilson claims a secret space program utilizes Vandenberg AFB and...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — Col. Steve Wilson claims a secret space program utilizes Vandenberg AFB and...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: russias reckless antisatellite test created over  
-   Link: <a href="https://www.reddit.com/r/space/comments/quvicw/russias_reckless_antisatellite_test_created_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/quvicw/russias_reckless_antisatellite_test_created_over/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Russia&#x27;s &#x27;reckless&#x27; anti-satellite test created over 1500...Russia&#x27;s test will contribute to Kessler syndrome, in which the debris from...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/quvicw/russias_reckless_antisatellite_test_created_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/quvicw/russias_reckless_antisatellite_test_created_over/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Russia&#x27;s &#x27;reckless&#x27; anti-satellite test created over 1500...Russia&#x27;s test will contribute to Kessler syndrome, in which the debris from...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thephillyvoice/posts/the-directors-latest-sci-fi-film-out-friday-includes-footage-of-kecksburg-a-town/1462102285963791/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thephillyvoice/posts/the-directors-latest-sci-fi-film-out-friday-includes-footage-of-kecksburg-a-town/1462102285963791/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>others suggest it could have been a secret Nazi experimental vehicle or...</p></details>
+   Link:<a href="https://www.facebook.com/thephillyvoice/posts/the-directors-latest-sci-fi-film-out-friday-includes-footage-of-kecksburg-a-town/1462102285963791/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thephillyvoice/posts/the-directors-latest-sci-fi-film-out-friday-includes-footage-of-kecksburg-a-town/1462102285963791/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>others suggest it could have been a secret Nazi experimental vehicle or...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thewire.in/posts/russias-anti-satellite-test-broke-up-a-satellite-into-thousands-of-pieces-of-deb/6357345584339718/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thewire.in/posts/russias-anti-satellite-test-broke-up-a-satellite-into-thousands-of-pieces-of-deb/6357345584339718/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Johnson, NASA chief scientist for orbital debris...</p></details>
+   Link:<a href="https://www.facebook.com/thewire.in/posts/russias-anti-satellite-test-broke-up-a-satellite-into-thousands-of-pieces-of-deb/6357345584339718/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thewire.in/posts/russias-anti-satellite-test-broke-up-a-satellite-into-thousands-of-pieces-of-deb/6357345584339718/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Johnson, NASA chief scientist for orbital debris...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aerospaceamerica.aiaa.org  
    Title: reactions to mystery sightings  
-   Link: <a href="https://aerospaceamerica.aiaa.org/departments/reactions-to-mystery-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/departments/reactions-to-mystery-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to “Mystery sightings” - Aerospace America - AIAA26 Nov 2019 — As for the CIA&#x27;s claim that U-2 flights accounted for many UFO sightings...</p></details>
+   Link:<a href="https://aerospaceamerica.aiaa.org/departments/reactions-to-mystery-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/departments/reactions-to-mystery-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to “Mystery sightings” - Aerospace America - AIAA26 Nov 2019 — As for the CIA&#x27;s claim that U-2 flights accounted for many UFO sightings...</p></details>

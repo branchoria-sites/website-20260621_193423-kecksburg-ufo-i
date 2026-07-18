@@ -280,247 +280,247 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_official_trust_gap_c78489_nasa
 
 ## Introduction
 
-The 2007 NASA records settlement did not solve the Kecksburg mystery. Its significance lay elsewhere: it tested whether a federal agency could restore public confidence by reopening an old case and conducting a more rigorous search for records. For critics of the official story, the dispute was never only about what fell near Kecksburg in 1965. It was also about whether government agencies had searched honestly, preserved records properly, and disclosed what they knew. The settlement produced new document searches and greater transparency about NASA’s record-keeping practices, yet it ultimately demonstrated a difficult reality: disclosure can clarify procedures without resolving the underlying event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Reporters Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-title">nasa ordered review its records data ufo sighting</span><span class="citation-popover-snippet">NASA to meticulously comb its files for documents about what many residents of Kecksburg, Pa., believe was a UFO sighting 42-yers ago. A...</span></span></span>
+The 2007 NASA records settlement did not solve the Kecksburg mystery. Its significance lay elsewhere: it tested whether a federal agency could restore public confidence by reopening an old case and conducting a more rigorous search for records. For critics of the official story, the dispute was never only about what fell near Kecksburg in 1965. It was also about whether government agencies had searched honestly, preserved records properly, and disclosed what they knew. The settlement produced new document searches and greater transparency about NASA’s record-keeping practices, yet it ultimately demonstrated a difficult reality: disclosure can clarify procedures without resolving the underlying event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Reporters Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-title">nasa ordered review its records data ufo sighting</span><span class="citation-popover-snippet">NASA to meticulously comb its files for documents about what many residents of Kecksburg, Pa., believe was a UFO sighting 42-yers ago. A...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_official_trust_gap_c78489_nasa_settlement_disc_f551b6-Illustration-1-dark.svg" | relative_url }}" alt="NASA Settlement illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_official_trust_gap_c78489_nasa_settlement_disc_f551b6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_official_trust_gap_c78489_nasa_settlement_disc_f551b6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader issue of official denials and public trust, the Kecksburg litigation became a case study in the limits of transparency. Even when courts compel agencies to search, the outcome may answer questions about records management more effectively than questions about history itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Reporters Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-title">judge forces nasa take giant leap foia suit</span><span class="citation-popover-snippet">Reporters CommitteeJudge forces NASA to take a giant leap in FOIA suit10 Dec 2007 — After four years of foot dragging, NASA must conduct...</span></span></span>
+Within the broader issue of official denials and public trust, the Kecksburg litigation became a case study in the limits of transparency. Even when courts compel agencies to search, the outcome may answer questions about records management more effectively than questions about history itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Reporters Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-title">judge forces nasa take giant leap foia suit</span><span class="citation-popover-snippet">Reporters CommitteeJudge forces NASA to take a giant leap in FOIA suit10 Dec 2007 — After four years of foot dragging, NASA must conduct...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lg1m_PvR55g" title="UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer">UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lg1m_PvR55g">Open on YouTube</a></p></div></div></div>
 
 ## What the Settlement Required
 
-The dispute began with Freedom of Information Act requests seeking records related to the 1965 Kecksburg incident. Journalist Leslie Kean and supporting organisations argued that NASA had not adequately accounted for records concerning reports that an object had fallen in Pennsylvania. The disagreement evolved into years of litigation over whether NASA had conducted a sufficiently thorough search and whether relevant files had been overlooked or improperly reported as missing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2007/10/nasa-opens-keck/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">nasa opens keck</span><span class="citation-popover-snippet">NASA Will Re-Open Kecksburg UFO FilesOct 29, 2007 — NASA Will Re-Open Kecksburg UFO Files... March, a judge rejected NASA&#x27;s request...</span></span></span>
+The dispute began with Freedom of Information Act requests seeking records related to the 1965 Kecksburg incident. Journalist Leslie Kean and supporting organisations argued that NASA had not adequately accounted for records concerning reports that an object had fallen in Pennsylvania. The disagreement evolved into years of litigation over whether NASA had conducted a sufficiently thorough search and whether relevant files had been overlooked or improperly reported as missing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2007/10/nasa-opens-keck/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">nasa opens keck</span><span class="citation-popover-snippet">NASA Will Re-Open Kecksburg UFO FilesOct 29, 2007 — NASA Will Re-Open Kecksburg UFO Files... March, a judge rejected NASA&#x27;s request...</span></span></span>
 
-A turning point came in 2007 when NASA agreed to undertake a renewed and more comprehensive records search under court supervision. Contemporary reporting described the agreement as the result of a settlement in a long-running FOIA lawsuit. NASA was required to conduct a meticulous review of its holdings and provide a fuller accounting of what records existed and what records could no longer be located. The agency also faced scrutiny over earlier search efforts that the court regarded as inadequate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Reporters Committee+2Reporters Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-title">nasa ordered review its records data ufo sighting</span><span class="citation-popover-snippet">NASA to meticulously comb its files for documents about what many residents of Kecksburg, Pa., believe was a UFO sighting 42-yers ago. A...</span></span></span>
+A turning point came in 2007 when NASA agreed to undertake a renewed and more comprehensive records search under court supervision. Contemporary reporting described the agreement as the result of a settlement in a long-running FOIA lawsuit. NASA was required to conduct a meticulous review of its holdings and provide a fuller accounting of what records existed and what records could no longer be located. The agency also faced scrutiny over earlier search efforts that the court regarded as inadequate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Reporters Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-title">nasa ordered review its records data ufo sighting</span><span class="citation-popover-snippet">NASA to meticulously comb its files for documents about what many residents of Kecksburg, Pa., believe was a UFO sighting 42-yers ago. A...</span></span></span>
 
-One reason the settlement attracted attention was that NASA officials acknowledged that some archival materials from the relevant period could not be found. Reports from the court proceedings noted that boxes of records associated with the era were missing, immediately raising questions about whether the absence reflected routine archival problems or something more consequential. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Kecksburg incident are missing. The episode has parallels to the 1947 Roswell incident, when a UFO was said to have landed in New Mexico...</span></span></span>
+One reason the settlement attracted attention was that NASA officials acknowledged that some archival materials from the relevant period could not be found. Reports from the court proceedings noted that boxes of records associated with the era were missing, immediately raising questions about whether the absence reflected routine archival problems or something more consequential.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Kecksburg incident are missing. The episode has parallels to the 1947 Roswell incident, when a UFO was said to have landed in New Mexico...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bntdCsyy20k" title="Kecksburg | HD | Horror, Sci-Fi | Full Movie in English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bntdCsyy20k" target="_blank" rel="noopener noreferrer">Kecksburg | HD | Horror, Sci-Fi | Full Movie in English</a></p><p class="youtube-embed-meta">Channel: Film&amp;Clips in English &middot; Views: 8.5K &middot; Uploaded: July 2025 &middot; Length: 1 hour 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bntdCsyy20k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bntdCsyy20k">Open on YouTube</a></p></div></div></div>
 
 ## What Renewed Searches Could and Could Not Prove
 
-The renewed search produced a large volume of documents and a more detailed reconstruction of NASA’s archival history. However, the process did not uncover a decisive record proving that NASA had recovered an extraterrestrial craft, concealed a crash, or possessed a definitive explanation for what [witnesses]({{ 'witnesses/' | relative_url }}) reported. The court-ordered effort therefore generated more information about bureaucratic processes than about the object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — The Conclusion of the NASA Lawsuit - Concerning the Kecksbur...</span></span></span>
+The renewed search produced a large volume of documents and a more detailed reconstruction of NASA’s archival history. However, the process did not uncover a decisive record proving that NASA had recovered an extraterrestrial craft, concealed a crash, or possessed a definitive explanation for what [witnesses]({{ 'witnesses/' | relative_url }}) reported. The court-ordered effort therefore generated more information about bureaucratic processes than about the object itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — The Conclusion of the NASA Lawsuit - Concerning the Kecksbur...</span></span></span>
 
-This distinction is crucial. A successful disclosure effort can establish whether an agency searched properly, whether files were destroyed according to policy, or whether records were misfiled. It cannot automatically recreate documents that no longer exist. By the end of the process, some records remained missing or were believed to have been destroyed, leaving investigators unable to determine with certainty what those files might have contained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2009/11/conclusion-of-nasa-lawsuit-concerning_10.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[The UFO Chronicles+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-snippet">The UFO ChroniclesTHE CONCLUSION OF THE NASA LAWSUIT: Concerning...11 Nov 2009 — A settlement four years later, in October, 2007, requir...</span></span></span>
+This distinction is crucial. A successful disclosure effort can establish whether an agency searched properly, whether files were destroyed according to policy, or whether records were misfiled. It cannot automatically recreate documents that no longer exist. By the end of the process, some records remained missing or were believed to have been destroyed, leaving investigators unable to determine with certainty what those files might have contained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2009/11/conclusion-of-nasa-lawsuit-concerning_10.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[theufochronicles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-snippet">The UFO ChroniclesTHE CONCLUSION OF THE NASA LAWSUIT: Concerning...11 Nov 2009 — A settlement four years later, in October, 2007, requir...</span></span></span>
 
-The search also exposed an often-overlooked problem in historical investigations: the difference between evidence of concealment and evidence of poor record management. Missing files can support suspicions, but they can also result from ordinary archival failures accumulated over decades. The Kecksburg case never produced a document showing a deliberate cover-up, yet neither did it completely eliminate public concerns created by the disappearance of records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_de_Kecksburg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni de Kecksburg</span><span class="citation-popover-snippet">Incidente ovni de Kecksburg</span></span></span>
+The search also exposed an often-overlooked problem in historical investigations: the difference between evidence of concealment and evidence of poor record management. Missing files can support suspicions, but they can also result from ordinary archival failures accumulated over decades. The Kecksburg case never produced a document showing a deliberate cover-up, yet neither did it completely eliminate public concerns created by the disappearance of records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_de_Kecksburg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni de Kecksburg</span><span class="citation-popover-snippet">Incidente ovni de Kecksburg</span></span></span>
 
-For sceptics of the UFO interpretation, the outcome reinforced the possibility that NASA simply did not possess the dramatic records some researchers expected. For those already convinced that important information had been withheld, the inability to account for every missing file became further reason for doubt. The same disclosure process therefore strengthened opposite conclusions among different audiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — The Conclusion of the NASA Lawsuit - Concerning the Kecksbur...</span></span></span>
+For sceptics of the UFO interpretation, the outcome reinforced the possibility that NASA simply did not possess the dramatic records some researchers expected. For those already convinced that important information had been withheld, the inability to account for every missing file became further reason for doubt. The same disclosure process therefore strengthened opposite conclusions among different audiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — The Conclusion of the NASA Lawsuit - Concerning the Kecksbur...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_official_trust_gap_c78489_nasa_settlement_disc_f551b6-Illustration-2-dark.svg" | relative_url }}" alt="NASA Settlement illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_official_trust_gap_c78489_nasa_settlement_disc_f551b6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_official_trust_gap_c78489_nasa_settlement_disc_f551b6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Procedural Wins Rarely Close Belief Gaps
 
-The settlement achieved something tangible. It forced a more thorough search, produced additional documentation, and compelled NASA to explain aspects of its archival practices that otherwise might never have been examined publicly. From a transparency perspective, that was a meaningful victory. It demonstrated that agencies can be required to revisit old responses and justify how they handle records requests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Reporters Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-title">nasa ordered review its records data ufo sighting</span><span class="citation-popover-snippet">NASA to meticulously comb its files for documents about what many residents of Kecksburg, Pa., believe was a UFO sighting 42-yers ago. A...</span></span></span>
+The settlement achieved something tangible. It forced a more thorough search, produced additional documentation, and compelled NASA to explain aspects of its archival practices that otherwise might never have been examined publicly. From a transparency perspective, that was a meaningful victory. It demonstrated that agencies can be required to revisit old responses and justify how they handle records requests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Reporters Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-title">nasa ordered review its records data ufo sighting</span><span class="citation-popover-snippet">NASA to meticulously comb its files for documents about what many residents of Kecksburg, Pa., believe was a UFO sighting 42-yers ago. A...</span></span></span>
 
-Yet procedural success does not necessarily resolve historical controversies. Public mistrust often develops because people believe an institution has failed to tell the full story. When records are missing, incomplete, or ambiguous, disclosure can reveal the limits of institutional memory without satisfying expectations for a final answer. In Kecksburg, the search clarified what NASA could document in the present, but it could not fully reconstruct what happened decades earlier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — The Conclusion of the NASA Lawsuit - Concerning the Kecksbur...</span></span></span>
+Yet procedural success does not necessarily resolve historical controversies. Public mistrust often develops because people believe an institution has failed to tell the full story. When records are missing, incomplete, or ambiguous, disclosure can reveal the limits of institutional memory without satisfying expectations for a final answer. In Kecksburg, the search clarified what NASA could document in the present, but it could not fully reconstruct what happened decades earlier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — The Conclusion of the NASA Lawsuit - Concerning the Kecksbur...</span></span></span>
 
-The case also highlights a broader challenge for government transparency. Courts can require agencies to search, disclose, and explain. They cannot guarantee that long-lost records will reappear. As a result, disclosure efforts often improve accountability while leaving core mysteries intact. The public may gain a clearer understanding of how information was handled, yet remain divided over what actually occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Reporters Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-title">nasa ordered review its records data ufo sighting</span><span class="citation-popover-snippet">NASA to meticulously comb its files for documents about what many residents of Kecksburg, Pa., believe was a UFO sighting 42-yers ago. A...</span></span></span>
+The case also highlights a broader challenge for government transparency. Courts can require agencies to search, disclose, and explain. They cannot guarantee that long-lost records will reappear. As a result, disclosure efforts often improve accountability while leaving core mysteries intact. The public may gain a clearer understanding of how information was handled, yet remain divided over what actually occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Reporters Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-title">nasa ordered review its records data ufo sighting</span><span class="citation-popover-snippet">NASA to meticulously comb its files for documents about what many residents of Kecksburg, Pa., believe was a UFO sighting 42-yers ago. A...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tU7WSHZye5w" title="Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer">Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 68.0K &middot; Uploaded: March 2025 &middot; Length: 1 hour 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tU7WSHZye5w">Open on YouTube</a></p></div></div></div>
 
 ## What Disclosure Could Not Settle
 
-The enduring lesson of the NASA settlement is not that it proved or disproved extraordinary claims. Rather, it revealed the limits of what disclosure can accomplish after decades of uncertainty. The renewed searches showed how government records systems function, where they fail, and how courts can compel greater openness. They did not provide a definitive answer to the Kecksburg event itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — The Conclusion of the NASA Lawsuit - Concerning the Kecksbur...</span></span></span>
+The enduring lesson of the NASA settlement is not that it proved or disproved extraordinary claims. Rather, it revealed the limits of what disclosure can accomplish after decades of uncertainty. The renewed searches showed how government records systems function, where they fail, and how courts can compel greater openness. They did not provide a definitive answer to the Kecksburg event itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — The Conclusion of the NASA Lawsuit - Concerning the Kecksbur...</span></span></span>
 
-For the Kecksburg controversy, that distinction matters. The settlement addressed questions about procedure, accountability, and access to information. The central mystery—what witnesses believed they saw and whether all relevant evidence survived—remained unresolved. In that sense, the litigation became a [landmark]({{ 'landmark/' | relative_url }}) not because it closed the case, but because it demonstrated how transparency can illuminate the record while still leaving history open to interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Reporters Committee+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-title">nasa ordered review its records data ufo sighting</span><span class="citation-popover-snippet">NASA to meticulously comb its files for documents about what many residents of Kecksburg, Pa., believe was a UFO sighting 42-yers ago. A...</span></span></span>
+For the Kecksburg controversy, that distinction matters. The settlement addressed questions about procedure, accountability, and access to information. The central mystery—what witnesses believed they saw and whether all relevant evidence survived—remained unresolved. In that sense, the litigation became a [landmark]({{ 'landmark/' | relative_url }}) not because it closed the case, but because it demonstrated how transparency can illuminate the record while still leaving history open to interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[rcfp.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-title">nasa ordered review its records data ufo sighting</span><span class="citation-popover-snippet">NASA to meticulously comb its files for documents about what many residents of Kecksburg, Pa., believe was a UFO sighting 42-yers ago. A...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_official_trust_gap_c78489_nasa_settlement_disc_f551b6-Illustration-3-dark.svg" | relative_url }}" alt="NASA Settlement illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_official_trust_gap_c78489_nasa_settlement_disc_f551b6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_official_trust_gap_c78489_nasa_settlement_disc_f551b6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Disclosure Could Not Settle. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Disclosure Could Not Settle. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Closely aligned with transparency and records themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely aligned with transparency and records themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains investigative standards and evidence issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains investigative standards and evidence issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Relevant to disputes over government investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to disputes over government investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kecksburg UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kecksburg UFO Incident">The Kecksburg UFO Incident</a>
-        </h4>
-        <p class="fr-book-author">By George Dudding</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kecksburg UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kecksburg UFO Incident">The Kecksburg UFO Incident</a>
+</h4>
+<p class="fr-book-author">By George Dudding</p>
         
-        <p class="fr-book-desc">Provides background to the NASA-related controversy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background to the NASA-related controversy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Artemis II Return to the Moon 4&quot; Embroidered Mission Patch"><img src="{{ '/assets/images/marketplace-covers/8aad33795e9731901fb8.jpg' | relative_url }}" alt="Listing image for NASA Artemis II Return to the Moon 4&quot; Embroidered Mission Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Artemis II Return to the Moon 4&quot; Embroidered Mission Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA mission patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Artemis II Return to the Moon 4&quot; Embroidered Mission Patch"><img src="{{ '/assets/images/marketplace-covers/8aad33795e9731901fb8.jpg' | relative_url }}" alt="Listing image for NASA Artemis II Return to the Moon 4&quot; Embroidered Mission Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Artemis II Return to the Moon 4&quot; Embroidered Mission Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA mission patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA mission patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Artemis 2 Return to the Moon 4&quot; Embroidered Crew Mission Patch"><img src="{{ '/assets/images/marketplace-covers/d29cf6416669274ca71e.jpg' | relative_url }}" alt="Listing image for NASA Artemis 2 Return to the Moon 4&quot; Embroidered Crew Mission Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Artemis 2 Return to the Moon 4&quot; Embroidered Crew Mission Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA mission patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Artemis 2 Return to the Moon 4&quot; Embroidered Crew Mission Patch"><img src="{{ '/assets/images/marketplace-covers/d29cf6416669274ca71e.jpg' | relative_url }}" alt="Listing image for NASA Artemis 2 Return to the Moon 4&quot; Embroidered Crew Mission Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Artemis 2 Return to the Moon 4&quot; Embroidered Crew Mission Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA mission patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA mission patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for X2 NASA Shuttle Mission Sew-on Embroidered Badges"><img src="{{ '/assets/images/marketplace-covers/d5954918ecfe2c004a8b.jpg' | relative_url }}" alt="Listing image for X2 NASA Shuttle Mission Sew-on Embroidered Badges" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">X2 NASA Shuttle Mission Sew-on Embroidered Badges</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA mission patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for X2 NASA Shuttle Mission Sew-on Embroidered Badges"><img src="{{ '/assets/images/marketplace-covers/d5954918ecfe2c004a8b.jpg' | relative_url }}" alt="Listing image for X2 NASA Shuttle Mission Sew-on Embroidered Badges" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">X2 NASA Shuttle Mission Sew-on Embroidered Badges</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA mission patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA mission patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Lot of 60 NASA STS Shuttle Mission Astronaut Space Patches"><img src="{{ '/assets/images/marketplace-covers/82cd0f39311298a65a37.jpg' | relative_url }}" alt="Listing image for Vintage Lot of 60 NASA STS Shuttle Mission Astronaut Space Patches" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage Lot of 60 NASA STS Shuttle Mission Astronaut Space Patches</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA mission patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Lot of 60 NASA STS Shuttle Mission Astronaut Space Patches"><img src="{{ '/assets/images/marketplace-covers/82cd0f39311298a65a37.jpg' | relative_url }}" alt="Listing image for Vintage Lot of 60 NASA STS Shuttle Mission Astronaut Space Patches" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage Lot of 60 NASA STS Shuttle Mission Astronaut Space Patches</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA mission patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA mission patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="nasa-settlement-what-disclosure-could-not-settle-kecksburg-ufo-incide-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -536,7 +536,7 @@ For the Kecksburg controversy, that distinction matters. The settlement addresse
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,7 +556,7 @@ For the Kecksburg controversy, that distinction matters. The settlement addresse
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -588,7 +588,7 @@ For the Kecksburg controversy, that distinction matters. The settlement addresse
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -640,7 +640,7 @@ For the Kecksburg controversy, that distinction matters. The settlement addresse
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -685,7 +685,7 @@ For the Kecksburg controversy, that distinction matters. The settlement addresse
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -726,120 +726,120 @@ For the Kecksburg controversy, that distinction matters. The settlement addresse
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — The Conclusion of the NASA Lawsuit - Concerning the Kecksbur...</p></details>
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — The Conclusion of the NASA Lawsuit - Concerning the Kecksbur...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
    Title: nasa opens keck  
-   Link: <a href="https://www.wired.com/2007/10/nasa-opens-keck/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2007/10/nasa-opens-keck/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Will Re-Open Kecksburg UFO FilesOct 29, 2007 — NASA Will Re-Open Kecksburg UFO Files... March, a judge rejected NASA&#x27;s request...</p></details>
+   Link:<a href="https://www.wired.com/2007/10/nasa-opens-keck/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2007/10/nasa-opens-keck/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Will Re-Open Kecksburg UFO FilesOct 29, 2007 — NASA Will Re-Open Kecksburg UFO Files... March, a judge rejected NASA&#x27;s request...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Incidente ovni de Kecksburg  
-   Link: <a href="https://es.wikipedia.org/wiki/Incidente_ovni_de_Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Incidente_ovni_de_Kecksburg</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Incidente_ovni_de_Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Incidente_ovni_de_Kecksburg</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incidentThe Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireb...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incidentThe Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireb...</p></details>
    Published: December 9, 1965  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel  
-   Link: <a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lg1m_PvR55g</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg | HD | Horror, Sci-Fi | Full Movie in English...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lg1m_PvR55g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg | HD | Horror, Sci-Fi | Full Movie in English...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Kecksburg | HD | Horror, Sci-Fi | Full Movie in English  
-   Link: <a href="https://www.youtube.com/watch?v=bntdCsyy20k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bntdCsyy20k</a>  
+   Link:<a href="https://www.youtube.com/watch?v=bntdCsyy20k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bntdCsyy20k</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: rcfp.org  
    Title: nasa ordered review its records data ufo sighting  
-   Link: <a href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to meticulously comb its files for documents about what many residents of Kecksburg, Pa., believe was a UFO sighting 42-yers ago. A...</p></details>
+   Link:<a href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to meticulously comb its files for documents about what many residents of Kecksburg, Pa., believe was a UFO sighting 42-yers ago. A...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rcfp.org  
    Title: judge forces nasa take giant leap foia suit  
-   Link: <a href="https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters CommitteeJudge forces NASA to take a giant leap in FOIA suit10 Dec 2007 — After four years of foot dragging, NASA must conduct...</p></details>
+   Link:<a href="https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters CommitteeJudge forces NASA to take a giant leap in FOIA suit10 Dec 2007 — After four years of foot dragging, NASA must conduct...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/story?id=3785376&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/story?id=3785376&amp;page=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to search files for UFO incident27 Oct 2007 — NASA has agreed to search its archives once again for documents on a 1965 UFO incident...</p></details>
+   Link:<a href="https://abcnews.com/Technology/story?id=3785376&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/story?id=3785376&amp;page=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to search files for UFO incident27 Oct 2007 — NASA has agreed to search its archives once again for documents on a 1965 UFO incident...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg incident are missing. The episode has parallels to the 1947 Roswell incident, when a UFO was said to have landed in New Mexico...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg incident are missing. The episode has parallels to the 1947 Roswell incident, when a UFO was said to have landed in New Mexico...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theufochronicles.com  
-   Link: <a href="https://www.theufochronicles.com/2009/11/conclusion-of-nasa-lawsuit-concerning_10.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2009/11/conclusion-of-nasa-lawsuit-concerning_10.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO ChroniclesTHE CONCLUSION OF THE NASA LAWSUIT: Concerning...11 Nov 2009 — A settlement four years later, in October, 2007, requir...</p></details>
+   Link:<a href="https://www.theufochronicles.com/2009/11/conclusion-of-nasa-lawsuit-concerning_10.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2009/11/conclusion-of-nasa-lawsuit-concerning_10.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO ChroniclesTHE CONCLUSION OF THE NASA LAWSUIT: Concerning...11 Nov 2009 — A settlement four years later, in October, 2007, requir...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: positivelypittsburgh.com  
-   Link: <a href="https://positivelypittsburgh.com/[the-kecksburg-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/[the-kecksburg-ufo-incident</a>  
+   Link:<a href="https://positivelypittsburgh.com/[the-kecksburg-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/[the-kecksburg-ufo-incident</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: is case finally closed on 1965 ufo mysteryleslie  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is case finally closed on 1965 UFO mystery?--Leslie Keane...&quot;A settlement four years later, in October 2007, required NASA to provide hu...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is case finally closed on 1965 UFO mystery?--Leslie Keane...&quot;A settlement four years later, in October 2007, required NASA to provide hu...</p></details>
    Published: October 2007  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: phillyvoice.com  
    Title: disclosure day ufo encounters kecksburg pennsylvania  
-   Link: <a href="https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a bizarre incident that occurred in Kecksburg, Pennsylvania, on Dec. 9, 1965. Some residents think an alien UFO crashed in the woods...</p></details>
+   Link:<a href="https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a bizarre incident that occurred in Kecksburg, Pennsylvania, on Dec. 9, 1965. Some residents think an alien UFO crashed in the woods...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: mg.co.za  
    Title: 2007 11 11 nasa told to solve ufo crash xfile  
-   Link: <a href="https://mg.co.za/article/2007-11-11-nasa-told-to-solve-ufo-crash-xfile/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/article/2007-11-11-nasa-told-to-solve-ufo-crash-xfile/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa told to solve &#x27;UFO crash&#x27; X-file11 Nov 2007 — Nasa told to solve &#x27;UFO crash&#x27; X-file... For four decades, residents of the tiny Penn...</p></details>
+   Link:<a href="https://mg.co.za/article/2007-11-11-nasa-told-to-solve-ufo-crash-xfile/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/article/2007-11-11-nasa-told-to-solve-ufo-crash-xfile/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa told to solve &#x27;UFO crash&#x27; X-file11 Nov 2007 — Nasa told to solve &#x27;UFO crash&#x27; X-file... For four decades, residents of the tiny Penn...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: upi.com  
    Title: SC I FI could be part of lawsuit vs NASA  
-   Link: <a href="https://www.upi.com/Entertainment_News/2003/11/22/SCI-FI-could-be-part-of-lawsuit-vs-NASA/74621069533550/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Entertainment_News/2003/11/22/SCI-FI-could-be-part-of-lawsuit-vs-NASA/74621069533550/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SCI FI could be part of lawsuit vs NASA - UPI.com22 Nov 2003 — The SCI FI Channel may be part of a lawsuit against NASA for allegedly wit...</p></details>
+   Link:<a href="https://www.upi.com/Entertainment_News/2003/11/22/SCI-FI-could-be-part-of-lawsuit-vs-NASA/74621069533550/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Entertainment_News/2003/11/22/SCI-FI-could-be-part-of-lawsuit-vs-NASA/74621069533550/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SCI FI could be part of lawsuit vs NASA - UPI.com22 Nov 2003 — The SCI FI Channel may be part of a lawsuit against NASA for allegedly wit...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Other Roswell: the Kecksburg UFO | Conspiracy (S1, E13) | Full Episode | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Other Roswell: the Kecksburg UFO | Conspiracy (S1, E13) | Full Episode | History...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: documents2.theblackvault.com  
-   Link: <a href="https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA is still refusing to comply with a lO-month old. FOIA request to release its records on the 1965 UFO incident in Kecksburg. This.Rea...</p></details>
+   Link:<a href="https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA is still refusing to comply with a lO-month old. FOIA request to release its records on the 1965 UFO incident in Kecksburg. This.Rea...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Kl0C1zOxPc4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kl0C1zOxPc4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Kl0C1zOxPc4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kl0C1zOxPc4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theclio.com  
    Title: Kecksburg UFO Incident  
-   Link: <a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ClioAnother conspiracy surrounding the Kecksburg UFO incident is that the object that landed was an alien UFO.... NASA to release the Ke...</p></details>
+   Link:<a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ClioAnother conspiracy surrounding the Kecksburg UFO incident is that the object that landed was an alien UFO.... NASA to release the Ke...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vkHgTeIpRpY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkHgTeIpRpY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>zijn op een missie om de waarheid achter UFO-waarnemingen en...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vkHgTeIpRpY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkHgTeIpRpY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>zijn op een missie om de waarheid achter UFO-waarnemingen en...</p></details>

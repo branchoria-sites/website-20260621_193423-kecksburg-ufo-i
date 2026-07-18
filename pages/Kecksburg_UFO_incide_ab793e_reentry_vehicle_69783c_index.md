@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e-reentry/
 description: Focused pages that expand on Re entry.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_reentry_vehicle_69783c
 parent_title: Re entry
@@ -16,7 +16,7 @@ parent_permalink: /re-entry/
 
 # Explore Topics in Re entry
 
-The following pages expand on the main **[Re entry]({{ '/re-entry/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Re entry]({{ '/re-entry/' | relative_url }})** page and cover its key branches in.
 
 - [Heat Shield]({{ '/heat-shield/' | relative_url }})
 - [Mark 2 Shape]({{ '/mark-2-shape/' | relative_url }})

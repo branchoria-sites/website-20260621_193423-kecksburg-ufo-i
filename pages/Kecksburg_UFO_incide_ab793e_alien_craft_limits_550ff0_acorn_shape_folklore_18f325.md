@@ -278,28 +278,28 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_alien_craft_limits_550ff0_acor
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_alien_craft_limits_550ff0_acorn_shape_folklore_18f325-Illustration-1-dark.svg" | relative_url }}" alt="Acorn Shape illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_alien_craft_limits_550ff0_acorn_shape_folklore_18f325-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_alien_craft_limits_550ff0_acorn_shape_folklore_18f325-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the alien-craft interpretation of Kecksburg, the shape matters because it feels specific. Witnesses and later retellings described a metallic, bronze-coloured object resembling an acorn or bell, sometimes said to be roughly the size of a small car and marked with [strange symbols]({{ 'symbols/' | relative_url }}). Over time, that image became the visual shorthand for the entire incident. The difficulty is that the shape's fame grew through repeated retellings, television reconstructions, local tourism, and folklore, while direct [physical evidence]({{ 'no-object/' | relative_url }}) of such an object never emerged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — It quoted local residents at the time who said they had found an object in the woods shaped like an acorn was subsequentl...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
+Within the alien-craft interpretation of Kecksburg, the shape matters because it feels specific. Witnesses and later retellings described a metallic, bronze-coloured object resembling an acorn or bell, sometimes said to be roughly the size of a small car and marked with [strange symbols]({{ 'symbols/' | relative_url }}). Over time, that image became the visual shorthand for the entire incident. The difficulty is that the shape's fame grew through repeated retellings, television reconstructions, local tourism, and folklore, while direct [physical evidence]({{ 'no-object/' | relative_url }}) of such an object never emerged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — It quoted local residents at the time who said they had found an object in the woods shaped like an acorn was subsequentl...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
 
 ## Why a Shape Makes the Story Persuasive
 
 Descriptions of unusual objects are often more persuasive than descriptions of unusual lights. A witness who says, "I saw a bright object in the sky" leaves considerable room for interpretation. A witness who says, "I saw an acorn-shaped metallic object with [markings]({{ 'markings/' | relative_url }})" appears to be describing a manufactured thing.
 
-That distinction helps explain why the acorn image became central to Kecksburg's alien-craft interpretation. The shape suggests design rather than a natural phenomenon. It also differs from the stereotypical flying-saucer image, giving the account an air of originality. The unusual profile made the story memorable and easy to visualise. Accounts that circulated widely described an acorn-shaped object about the size of a Volkswagen Beetle, sometimes with a band of symbols around its lower section. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — It quoted local residents at the time who said they had found an object in the woods shaped like an acorn was subsequentl...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
+That distinction helps explain why the acorn image became central to Kecksburg's alien-craft interpretation. The shape suggests design rather than a natural phenomenon. It also differs from the stereotypical flying-saucer image, giving the account an air of originality. The unusual profile made the story memorable and easy to visualise. Accounts that circulated widely described an acorn-shaped object about the size of a Volkswagen Beetle, sometimes with a band of symbols around its lower section.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — It quoted local residents at the time who said they had found an object in the woods shaped like an acorn was subsequentl...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
 
-The shape also encouraged comparison with known vehicles and speculative technologies. Some writers compared it to re-entry capsules, while others linked it to more exotic ideas ranging from secret military hardware to extraterrestrial craft. Because an acorn or bell shape already resembles certain aerospace designs, the description could be interpreted in multiple ways, allowing very different theories to coexist around the same image. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post-gazette.com">[Pittsburgh Post-Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post-gazette.com</span><span class="citation-popover-snippet">Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — Mystery cloaked the strange object that fell f...</span></span></span>
+The shape also encouraged comparison with known vehicles and speculative technologies. Some writers compared it to re-entry capsules, while others linked it to more exotic ideas ranging from secret military hardware to extraterrestrial craft. Because an acorn or bell shape already resembles certain aerospace designs, the description could be interpreted in multiple ways, allowing very different theories to coexist around the same image.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post-gazette.com">[Pittsburgh Post-Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post-gazette.com</span><span class="citation-popover-snippet">Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — Mystery cloaked the strange object that fell f...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ac3hYt3k-Eo" title="The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer">The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 149.6K &middot; Uploaded: July 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ac3hYt3k-Eo">Open on YouTube</a></p></div></div></div>
 
 ## How Repetition Can Harden Uncertain Memories
 
-The acorn image became far more influential after the event than during it. One reason is the role of media retellings. The 1990 television programme *Unsolved Mysteries* brought the Kecksburg story to a national audience and presented dramatic reconstructions of the alleged object. The programme helped establish a standard visual version of the craft in popular culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imdb.com/title/tt1924036/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb+2YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">IMDb&quot;Unsolved Mysteries&quot; Episode #3.1 (TV Episode 1990)This episode includes: Kecksburg UFO (Pts. 1 and 2), Update: Pizza Man and 3rd Ann...</span></span></span>
+The acorn image became far more influential after the event than during it. One reason is the role of media retellings. The 1990 television programme *Unsolved Mysteries* brought the Kecksburg story to a national audience and presented dramatic reconstructions of the alleged object. The programme helped establish a standard visual version of the craft in popular culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imdb.com/title/tt1924036/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[imdb.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">IMDb&quot;Unsolved Mysteries&quot; Episode #3.1 (TV Episode 1990)This episode includes: Kecksburg UFO (Pts. 1 and 2), Update: Pizza Man and 3rd Ann...</span></span></span>
 
 Once a particular image becomes widely known, it can affect how later audiences remember a story. Historians of memory have long observed that recollections are not static recordings; they are often reconstructed and influenced by later information. In the Kecksburg case, many people encountered the reconstructed acorn before they encountered the original witness testimony. The visual representation therefore became part of the story itself.
 
-A striking example of this process is the physical "Space Acorn" monument now associated with Kecksburg. According to accounts of the site's history, a life-size prop created for *Unsolved Mysteries* became the basis for a local landmark and tourist attraction. The result is unusual: a reconstruction built decades after the incident has become one of the most visible pieces of evidence in the public imagination, even though it is not evidence from 1965. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">space acorn</span><span class="citation-popover-snippet">Atlas ObscuraSpace Acorn in Kecksburg3 Jul 2013 — In 1990 the Kecksburg incident attracted the attention of the television show Unsolved...</span></span></span>
+A striking example of this process is the physical "Space Acorn" monument now associated with Kecksburg. According to accounts of the site's history, a life-size prop created for *Unsolved Mysteries* became the basis for a local landmark and tourist attraction. The result is unusual: a reconstruction built decades after the incident has become one of the most visible pieces of evidence in the public imagination, even though it is not evidence from 1965.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">space acorn</span><span class="citation-popover-snippet">Atlas ObscuraSpace Acorn in Kecksburg3 Jul 2013 — In 1990 the Kecksburg incident attracted the attention of the television show Unsolved...</span></span></span>
 
-This does not mean witnesses invented the shape. Rather, it shows how folklore develops. A memorable description is repeated, illustrated, reproduced in models and monuments, and eventually becomes inseparable from the event. The symbol gains cultural weight regardless of whether the original observation can still be independently verified. The existence of commercial replicas and local [landmarks]({{ 'landmarks/' | relative_url }}) centred on the "Kecksburg Acorn" demonstrates how thoroughly the image has entered popular culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebay.co.uk/itm/334287659207?mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inline-source&amp;toolid=10001" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebay.co.uk">[eBay UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebay.co.uk</span><span class="citation-popover-title">This Replica Is Custom Made For You. 80mm tall x</span><span class="citation-popover-snippet">eBay UKKecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek GiftA model of the UFO reportedly to have crashed in Kecksburg, Pennsylvania i...</span></span></span>
+This does not mean witnesses invented the shape. Rather, it shows how folklore develops. A memorable description is repeated, illustrated, reproduced in models and monuments, and eventually becomes inseparable from the event. The symbol gains cultural weight regardless of whether the original observation can still be independently verified. The existence of commercial replicas and local [landmarks]({{ 'landmarks/' | relative_url }}) centred on the "Kecksburg Acorn" demonstrates how thoroughly the image has entered popular culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebay.co.uk/itm/334287659207?mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inline-source&amp;toolid=10001" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebay.co.uk">[eBay UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebay.co.uk</span><span class="citation-popover-title">This Replica Is Custom Made For You. 80mm tall x</span><span class="citation-popover-snippet">eBay UKKecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek GiftA model of the UFO reportedly to have crashed in Kecksburg, Pennsylvania i...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_alien_craft_limits_550ff0_acorn_shape_folklore_18f325-Illustration-2-dark.svg" | relative_url }}" alt="Acorn Shape illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_alien_craft_limits_550ff0_acorn_shape_folklore_18f325-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_alien_craft_limits_550ff0_acorn_shape_folklore_18f325-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -307,9 +307,9 @@ This does not mean witnesses invented the shape. Rather, it shows how folklore d
 
 The acorn image is often accompanied by another memorable element: reports of strange markings resembling Egyptian hieroglyphics.
 
-From a storytelling perspective, the combination is powerful. A strangely shaped object can be interpreted as unusual technology; a strangely marked object can be interpreted as evidence of intelligence. Together they create a complete narrative of an unknown craft rather than an unidentified object. Witness accounts and later retellings frequently paired the acorn shape with reports of symbols around a lower band of the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — It quoted local residents at the time who said they had found an object in the woods shaped like an acorn was subsequentl...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
+From a storytelling perspective, the combination is powerful. A strangely shaped object can be interpreted as unusual technology; a strangely marked object can be interpreted as evidence of intelligence. Together they create a complete narrative of an unknown craft rather than an unidentified object. Witness accounts and later retellings frequently paired the acorn shape with reports of symbols around a lower band of the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — It quoted local residents at the time who said they had found an object in the woods shaped like an acorn was subsequentl...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
 
-At the same time, the markings suffer from the same evidential problem as the shape itself. No authenticated photograph of the alleged symbols has been publicly produced. The symbols are known largely through descriptions, sketches, and later reconstructions. As a result, they function more as narrative reinforcement than as independently testable evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — It quoted local residents at the time who said they had found an object in the woods shaped like an acorn was subsequentl...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
+At the same time, the markings suffer from the same evidential problem as the shape itself. No authenticated photograph of the alleged symbols has been publicly produced. The symbols are known largely through descriptions, sketches, and later reconstructions. As a result, they function more as narrative reinforcement than as independently testable evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — It quoted local residents at the time who said they had found an object in the woods shaped like an acorn was subsequentl...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tU7WSHZye5w" title="Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer">Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 68.0K &middot; Uploaded: March 2025 &middot; Length: 1 hour 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tU7WSHZye5w">Open on YouTube</a></p></div></div></div>
@@ -318,7 +318,7 @@ At the same time, the markings suffer from the same evidential problem as the sh
 
 The enduring popularity of the acorn image can create the impression that the object's appearance is well established. In reality, several forms of evidence that would strengthen the claim remain absent.
 
-Most notably, there is no publicly verified photograph of the alleged object at the crash site. No authenticated fragment, recovered component, or laboratory-tested material has been linked to the acorn-shaped craft. Nor has any official inventory or transportation record definitively documented the recovery of such an object. Investigations, lawsuits over records, and decades of public interest have not produced a physical artefact that confirms the famous description. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — The Conclusion of the NASA Lawsuit - Concerning the Kecksbur...</span></span></span>
+Most notably, there is no publicly verified photograph of the alleged object at the crash site. No authenticated fragment, recovered component, or laboratory-tested material has been linked to the acorn-shaped craft. Nor has any official inventory or transportation record definitively documented the recovery of such an object. Investigations, lawsuits over records, and decades of public interest have not produced a physical artefact that confirms the famous description.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — The Conclusion of the NASA Lawsuit - Concerning the Kecksbur...</span></span></span>
 
 This gap is important because shape alone is weak evidence. A shape can be remembered differently, described differently by different observers, or altered by later retellings. Physical artefacts, photographs, and measurements are harder to reshape through folklore. The acorn image remains influential precisely because it is vivid, but its vividness should not be confused with verification.
 
@@ -326,203 +326,203 @@ This gap is important because shape alone is weak evidence. A shape can be remem
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_alien_craft_limits_550ff0_acorn_shape_folklore_18f325-Illustration-3-dark.svg" | relative_url }}" alt="Acorn Shape illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_alien_craft_limits_550ff0_acorn_shape_folklore_18f325-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_alien_craft_limits_550ff0_acorn_shape_folklore_18f325-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Acorn Image Endures
 
-The acorn-shaped object survives because it sits at the intersection of evidence and folklore. As evidence, it is a recurring witness description that helped distinguish Kecksburg from countless other UFO reports. As folklore, it became a symbol reproduced in television dramatisations, monuments, [souvenirs]({{ 'souvenirs/' | relative_url }}), and popular retellings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura+2Road Unraveled]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">space acorn</span><span class="citation-popover-snippet">Atlas ObscuraSpace Acorn in Kecksburg3 Jul 2013 — In 1990 the Kecksburg incident attracted the attention of the television show Unsolved...</span></span></span>
+The acorn-shaped object survives because it sits at the intersection of evidence and folklore. As evidence, it is a recurring witness description that helped distinguish Kecksburg from countless other UFO reports. As folklore, it became a symbol reproduced in television dramatisations, monuments, [souvenirs]({{ 'souvenirs/' | relative_url }}), and popular retellings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[atlasobscura.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">space acorn</span><span class="citation-popover-snippet">Atlas ObscuraSpace Acorn in Kecksburg3 Jul 2013 — In 1990 the Kecksburg incident attracted the attention of the television show Unsolved...</span></span></span>
 
-For supporters of the alien-craft interpretation, the shape suggests that witnesses encountered a real, structured object rather than merely observing a fireball. For sceptics, the same shape demonstrates how a compelling visual detail can expand beyond the limits of what can be proven. Both views acknowledge the same fact: without the acorn image, Kecksburg would likely be remembered as a regional fireball sighting. With it, the incident became one of the most enduring UFO legends in the United States. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2discoveryuk.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — It quoted local residents at the time who said they had found an object in the woods shaped like an acorn was subsequentl...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
+For supporters of the alien-craft interpretation, the shape suggests that witnesses encountered a real, structured object rather than merely observing a fireball. For sceptics, the same shape demonstrates how a compelling visual detail can expand beyond the limits of what can be proven. Both views acknowledge the same fact: without the acorn image, Kecksburg would likely be remembered as a regional fireball sighting. With it, the incident became one of the most enduring UFO legends in the United States.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — It quoted local residents at the time who said they had found an object in the woods shaped like an acorn was subsequentl...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Ka9dOx7ZWY" title="The Kecksburg UFO Case: Finally Solved After 60 Years?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer">The Kecksburg UFO Case: Finally Solved After 60 Years?</a></p><p class="youtube-embed-meta">Channel: Redoubt Productions &middot; Views: 851 &middot; Uploaded: December 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Ka9dOx7ZWY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Acorn Image Is So Hard to Shake. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Acorn Image Is So Hard to Shake. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains why vivid narratives and repeated stories become persuasive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why vivid narratives and repeated stories become persuasive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for how witness descriptions shape UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how witness descriptions shape UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Covers memory, reinforcement, and belief persistence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers memory, reinforcement, and belief persistence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Connects UFO narratives to folklore and recurring cultural motifs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects UFO narratives to folklore and recurring cultural motifs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien USCSS Nostromo Weyland Yutani Crew Uniform Officer Pins"><img src="{{ '/assets/images/marketplace-covers/34e7d70d238cef745946.jpg' | relative_url }}" alt="Listing image for Alien USCSS Nostromo Weyland Yutani Crew Uniform Officer Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Alien USCSS Nostromo Weyland Yutani Crew Uniform Officer Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien USCSS Nostromo Weyland Yutani Crew Uniform Officer Pins"><img src="{{ '/assets/images/marketplace-covers/34e7d70d238cef745946.jpg' | relative_url }}" alt="Listing image for Alien USCSS Nostromo Weyland Yutani Crew Uniform Officer Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Alien USCSS Nostromo Weyland Yutani Crew Uniform Officer Pins</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien"><img src="{{ '/assets/images/marketplace-covers/f1f1b07bc0a68642baf5.jpg' | relative_url }}" alt="Listing image for USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien"><img src="{{ '/assets/images/marketplace-covers/f1f1b07bc0a68642baf5.jpg' | relative_url }}" alt="Listing image for USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="acorn-shape-why-the-acorn-image-is-so-hard-to-shake-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ For supporters of the alien-craft interpretation, the shape suggests that witnes
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ For supporters of the alien-craft interpretation, the shape suggests that witnes
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ For supporters of the alien-craft interpretation, the shape suggests that witnes
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ For supporters of the alien-craft interpretation, the shape suggests that witnes
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ For supporters of the alien-craft interpretation, the shape suggests that witnes
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,179 +728,179 @@ For supporters of the alien-craft interpretation, the shape suggests that witnes
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 7, 2026 — It quoted local residents at the time who said they had found an object in the woods shaped like an acorn was subsequentl...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 7, 2026 — It quoted local residents at the time who said they had found an object in the woods shaped like an acorn was subsequentl...</p></details>
    Published: March 7, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: yahoo.com  
    Title: kecksburg incident remains mystery 60 035900487  
-   Link: <a href="https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg incident remains mystery 60 years later13 Jul 2025 — Reports at the time noted a strange bronze-colored, acorn-shaped object me...</p></details>
+   Link:<a href="https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg incident remains mystery 60 years later13 Jul 2025 — Reports at the time noted a strange bronze-colored, acorn-shaped object me...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: post-gazette.com  
-   Link: <a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — Mystery cloaked the strange object that fell f...</p></details>
+   Link:<a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — Mystery cloaked the strange object that fell f...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — The Conclusion of the NASA Lawsuit - Concerning the Kecksbur...</p></details>
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — The Conclusion of the NASA Lawsuit - Concerning the Kecksbur...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt1924036/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt1924036/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IMDb&quot;Unsolved Mysteries&quot; Episode #3.1 (TV Episode 1990)This episode includes: Kecksburg UFO (Pts. 1 and 2), Update: Pizza Man and 3rd Ann...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt1924036/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt1924036/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IMDb&quot;Unsolved Mysteries&quot; Episode #3.1 (TV Episode 1990)This episode includes: Kecksburg UFO (Pts. 1 and 2), Update: Pizza Man and 3rd Ann...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: You Tube Unsolved Mysteries with Robert Stack  
-   Link: <a href="https://www.youtube.com/watch?v=U2dlW6hUnuk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U2dlW6hUnuk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries with Robert Stack - Season 3, Episode 1...This episode includes: Kecksburg UFO (Pts. 1 &amp; 2), Update: Pizza Man &amp; 3rd...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=U2dlW6hUnuk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U2dlW6hUnuk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries with Robert Stack - Season 3, Episode 1...This episode includes: Kecksburg UFO (Pts. 1 &amp; 2), Update: Pizza Man &amp; 3rd...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: discoveryuk.com  
    Title: the kecksburg ufo incident a cold war mystery  
-   Link: <a href="https://www.discoveryuk.com/mysteries/the-kecksburg-ufo-incident-a-cold-war-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-kecksburg-ufo-incident-a-cold-war-mystery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Incident: A Cold War Mystery21 Aug 2024 — While many scientists argue that the Kecksburg UFO was a meteor, there will a...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/the-kecksburg-ufo-incident-a-cold-war-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-kecksburg-ufo-incident-a-cold-war-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Incident: A Cold War Mystery21 Aug 2024 — While many scientists argue that the Kecksburg UFO was a meteor, there will a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vkHgTeIpRpY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkHgTeIpRpY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>zijn op een missie om de waarheid achter UFO-waarnemingen en...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vkHgTeIpRpY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkHgTeIpRpY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>zijn op een missie om de waarheid achter UFO-waarnemingen en...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3Ka9dOx7ZWY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>racing History. Join us as visit the scene of the...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3Ka9dOx7ZWY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>racing History. Join us as visit the scene of the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=REsZcbglO3c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=REsZcbglO3c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>thing was spotted in the sky over the Westmoreland County...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=REsZcbglO3c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=REsZcbglO3c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>thing was spotted in the sky over the Westmoreland County...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: unsolved.com  
    Title: Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesI know who the first civilian people were who arrived at the kecksburgh UFO landing and the alien technology that they...</p></details>
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesI know who the first civilian people were who arrived at the kecksburgh UFO landing and the alien technology that they...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence  
-   Link: <a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ac3hYt3k-Eo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg Incident: What Really Happened Here?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ac3hYt3k-Eo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg Incident: What Really Happened Here?...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Kecksburg Incident: What Really Happened Here?  
-   Link: <a href="https://www.youtube.com/watch?v=BXh2zTD9Kug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BXh2zTD9Kug</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>60-year mystery: Questions surrounding Kecksburg UFO incident in Pennsylvania...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BXh2zTD9Kug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BXh2zTD9Kug</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>60-year mystery: Questions surrounding Kecksburg UFO incident in Pennsylvania...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: 60-year mystery: Questions surrounding Kecksburg UFO incident in Pennsylvania  
-   Link: <a href="https://www.youtube.com/watch?v=vROJdm_xGAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vROJdm_xGAQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=vROJdm_xGAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vROJdm_xGAQ</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: atlasobscura.com  
    Title: space acorn  
-   Link: <a href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/space-acorn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atlas ObscuraSpace Acorn in Kecksburg3 Jul 2013 — In 1990 the Kecksburg incident attracted the attention of the television show Unsolved...</p></details>
+   Link:<a href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/space-acorn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atlas ObscuraSpace Acorn in Kecksburg3 Jul 2013 — In 1990 the Kecksburg incident attracted the attention of the television show Unsolved...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: roadunraveled.com  
-   Link: <a href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Road UnraveledThe Kecksburg UFO Crash and the Roswell of Pennsylvania1 Oct 2020 — Still, it&#x27;s the stories of aliens and space crafts that...</p></details>
+   Link:<a href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Road UnraveledThe Kecksburg UFO Crash and the Roswell of Pennsylvania1 Oct 2020 — Still, it&#x27;s the stories of aliens and space crafts that...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ebay.co.uk  
    Title: This [Replica](&#123;&#123; 'replica/' | relative_url &#125;&#125;) Is Custom Made For You. 80mm tall x  
-   Link: <a href="https://www.ebay.co.uk/itm/334287659207?mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.co.uk/itm/334287659207?mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eBay UKKecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek GiftA model of the UFO reportedly to have crashed in Kecksburg, Pennsylvania i...</p></details>
+   Link:<a href="https://www.ebay.co.uk/itm/334287659207?mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.co.uk/itm/334287659207?mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=endnote-source&amp;toolid=10001</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eBay UKKecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek GiftA model of the UFO reportedly to have crashed in Kecksburg, Pennsylvania i...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa told to solve &#x27;UFO crash&#x27; X-File | World news11 Nov 2007 —... Kecksburg incident are missing. The episode has parallels to the 1947...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa told to solve &#x27;UFO crash&#x27; X-File | World news11 Nov 2007 —... Kecksburg incident are missing. The episode has parallels to the 1947...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theclio.com  
    Title: Kecksburg UFO Incident  
-   Link: <a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ClioMany eye-witness testimony described the object as being metallic and acorn-shaped with odd hieroglyphics written on it. The Kecksbur...</p></details>
+   Link:<a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ClioMany eye-witness testimony described the object as being metallic and acorn-shaped with odd hieroglyphics written on it. The Kecksbur...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Kecksburg UFO  
-   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO | Unsolved Mysteries Wiki - FandomThe UFO was bright orange as it shot through the sky over Kecksburg. Case File: Kecksburg UFO Locat...</p></details>
+   Link:<a href="https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO | Unsolved Mysteries Wiki - FandomThe UFO was bright orange as it shot through the sky over Kecksburg. Case File: Kecksburg UFO Locat...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Kecksburg UFO mysteryThe hieroglyphic-like symbols and the acorn-shaped craft continue to intrigue UFO enthusiasts and rese...</p></details>
+   Link:<a href="https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Kecksburg UFO mysteryThe hieroglyphic-like symbols and the acorn-shaped craft continue to intrigue UFO enthusiasts and rese...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-landmarks-/1410030341163016/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-landmarks-/1410030341163016/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s UFO Acorn: A Pennsylvania LandmarkMany reported seeing an acorn-shaped object being hauled out of town by government official...</p></details>
+   Link:<a href="https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-landmarks-/1410030341163016/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-landmarks-/1410030341163016/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s UFO Acorn: A Pennsylvania LandmarkMany reported seeing an acorn-shaped object being hauled out of town by government official...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s mysterious UFO landing 60 years agoSixty years ago, a December day changed the course of history for Kecksburg, a small commu...</p></details>
+   Link:<a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s mysterious UFO landing 60 years agoSixty years ago, a December day changed the course of history for Kecksburg, a small commu...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gb9llo/examples_of_reported_symbols_and_markings_on_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gb9llo/examples_of_reported_symbols_and_markings_on_ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Symbols similar to Sheehan&#x27;s in a photo on the UFO Mania Blog... The Interplanetary Phenomenon Unit: Evidence of UFO Investigations?Read...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gb9llo/examples_of_reported_symbols_and_markings_on_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gb9llo/examples_of_reported_symbols_and_markings_on_ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Symbols similar to Sheehan&#x27;s in a photo on the UFO Mania Blog... The Interplanetary Phenomenon Unit: Evidence of UFO Investigations?Read...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
    Title: is case finally closed on 1965 ufo mysteryleslie  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is case finally closed on 1965 UFO mystery?--Leslie Keane...What famous UFO case have you gone from believing to debunking - or vice ver...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is case finally closed on 1965 UFO mystery?--Leslie Keane...What famous UFO case have you gone from believing to debunking - or vice ver...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Incident Witness Account and Possible Nazi...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Incident Witness Account and Possible Nazi...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYVIcS8oKZZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYVIcS8oKZZ/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The object was still warm, still glowing. But...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYVIcS8oKZZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYVIcS8oKZZ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The object was still warm, still glowing. But...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: andthatswhywedrink.com  
-   Link: <a href="https://www.andthatswhywedrink.com/listen/e459" target="_blank" rel="noopener noreferrer nofollow">https://www.andthatswhywedrink.com/listen/e459</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>E459 Radioactive Acorns and Chicken TricksNov 23, 2025 — This week Em covers the Kecksburg Incident aka Pennsylvania&#x27;s Roswell, a classic...</p></details>
+   Link:<a href="https://www.andthatswhywedrink.com/listen/e459" target="_blank" rel="noopener noreferrer nofollow">https://www.andthatswhywedrink.com/listen/e459</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>E459 Radioactive Acorns and Chicken TricksNov 23, 2025 — This week Em covers the Kecksburg Incident aka Pennsylvania&#x27;s Roswell, a classic...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
    Title: today i learned of the kecksburg pa ufo incident  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The object resembles the Die Glocke, a Nazi time traveling device. All evidence...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The object resembles the Die Glocke, a Nazi time traveling device. All evidence...Read more...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: phillyvoice.com  
    Title: · Featured.Read more  
-   Link: <a href="https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Long rumored alien encounter in &#x27;Pennsylvania&#x27;s Roswell&#x27;...7 days ago — The director&#x27;s latest sci-fi film, out Friday, includes footage...</p></details>
+   Link:<a href="https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Long rumored alien encounter in &#x27;Pennsylvania&#x27;s Roswell&#x27;...7 days ago — The director&#x27;s latest sci-fi film, out Friday, includes footage...</p></details>

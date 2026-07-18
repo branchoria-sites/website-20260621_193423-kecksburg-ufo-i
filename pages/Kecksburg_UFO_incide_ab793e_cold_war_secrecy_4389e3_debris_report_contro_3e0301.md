@@ -284,20 +284,20 @@ One of the least appreciated features of the Cold War space age was that reports
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_debris_report_contro_3e0301-Illustration-1-dark.svg" | relative_url }}" alt="Report Control illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_debris_report_contro_3e0301-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_debris_report_contro_3e0301-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key governance problem was straightforward: an object on the ground might be a harmless meteorite, a fragment of a satellite, a foreign space vehicle, or sensitive military hardware. Until its identity was known, authorities had incentives to limit public statements, concentrate reporting in higher headquarters, and coordinate responses across agencies. Programmes associated with Project Moon Dust illustrate how this process worked and why it could easily be interpreted by outsiders as a cover-up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">Government AtticProjMoondust1967-1972.pdfJune 4, 2024 — 3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source...</span><span class="citation-popover-meta">Published: June 4, 2024</span></span></span>
+The key governance problem was straightforward: an object on the ground might be a harmless meteorite, a fragment of a satellite, a foreign space vehicle, or sensitive military hardware. Until its identity was known, authorities had incentives to limit public statements, concentrate reporting in higher headquarters, and coordinate responses across agencies. Programmes associated with Project Moon Dust illustrate how this process worked and why it could easily be interpreted by outsiders as a cover-up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">Government AtticProjMoondust1967-1972.pdfJune 4, 2024 — 3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source...</span><span class="citation-popover-meta">Published: June 4, 2024</span></span></span>
 
 ## Why officials wanted reports sent upward first
 
 Cold War recovery procedures were designed around uncertainty. Local officials, police officers and even nearby military personnel often lacked the information needed to identify a fallen object. A fragment that appeared insignificant could potentially reveal details about a foreign space programme, missile technology or [re-entry]({{ 're-entry/' | relative_url }}) system.
 
-Documents associated with Project Moon Dust show that reports of recovered debris were routinely passed through chains of command involving military, diplomatic and technical authorities rather than being settled at the local level. The emphasis was on preserving evidence, establishing origin and determining whether the object had intelligence value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">Government AtticProjMoondust1967-1972.pdfJune 4, 2024 — 3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source...</span><span class="citation-popover-meta">Published: June 4, 2024</span></span></span>
+Documents associated with Project Moon Dust show that reports of recovered debris were routinely passed through chains of command involving military, diplomatic and technical authorities rather than being settled at the local level. The emphasis was on preserving evidence, establishing origin and determining whether the object had intelligence value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">Government AtticProjMoondust1967-1972.pdfJune 4, 2024 — 3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source...</span><span class="citation-popover-meta">Published: June 4, 2024</span></span></span>
 
 This centralisation served several practical purposes:
 
 * **Preventing loss of evidence.** Officials wanted debris secured before souvenir hunters, journalists or curious members of the public disturbed it.
 * **Avoiding premature conclusions.** Early eyewitness descriptions were often unreliable, particularly after dramatic fireballs or re-entry events.
 * **Protecting intelligence interests.** If foreign hardware was involved, technical examination could yield valuable information.
-* **Maintaining diplomatic consistency.** Public statements had to match whatever conclusions eventually emerged from technical analysis and international consultations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">Government AtticProjMoondust1967-1972.pdfJune 4, 2024 — 3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source...</span><span class="citation-popover-meta">Published: June 4, 2024</span></span></span>
+* **Maintaining diplomatic consistency.** Public statements had to match whatever conclusions eventually emerged from technical analysis and international consultations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">Government AtticProjMoondust1967-1972.pdfJune 4, 2024 — 3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source...</span><span class="citation-popover-meta">Published: June 4, 2024</span></span></span>
 
 Viewed from inside government, these procedures were administrative safeguards. Viewed from outside, they could resemble an effort to suppress information.
 
@@ -308,7 +308,7 @@ Viewed from inside government, these procedures were administrative safeguards. 
 
 The reporting chain did not exist solely because of intelligence concerns. International law also created complications. During the 1960s and early 1970s, governments increasingly faced questions about who owned objects that fell back to Earth.
 
-Records connected with Moon Dust reveal discussions involving the Department of State, foreign governments and questions of ownership under emerging [space-law]({{ 'space-law/' | relative_url }}) frameworks. Recovered fragments could not automatically be treated as abandoned property. If debris belonged to another state, diplomatic procedures might be required before examination, transfer or return. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">Government AtticProjMoondust1967-1972.pdfJune 4, 2024 — 3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source...</span><span class="citation-popover-meta">Published: June 4, 2024</span></span></span>
+Records connected with Moon Dust reveal discussions involving the Department of State, foreign governments and questions of ownership under emerging [space-law]({{ 'space-law/' | relative_url }}) frameworks. Recovered fragments could not automatically be treated as abandoned property. If debris belonged to another state, diplomatic procedures might be required before examination, transfer or return.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">Government AtticProjMoondust1967-1972.pdfJune 4, 2024 — 3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source...</span><span class="citation-popover-meta">Published: June 4, 2024</span></span></span>
 
 The situation became even more complicated when origin was uncertain. Authorities often had to answer several questions before making public claims:
 
@@ -324,7 +324,7 @@ The situation became even more complicated when origin was uncertain. Authoritie
 
 </div>
 
-The international framework that developed around space activities recognised continuing state interests in space objects and encouraged reporting and coordination when recovered hardware was discovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unoosa.org">[UNOOSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unoosa.org</span><span class="citation-popover-snippet">Recovery and Return of Objects Launched into Outer SpaceIn compliance with article 8 of the Treaty on Principles Governing the Acti...</span></span></span>
+The international framework that developed around space activities recognised continuing state interests in space objects and encouraged reporting and coordination when recovered hardware was discovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unoosa.org">[UNOOSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unoosa.org</span><span class="citation-popover-snippet">Recovery and Return of Objects Launched into Outer SpaceIn compliance with article 8 of the Treaty on Principles Governing the Acti...</span></span></span>
 
 As a result, centralised review was not merely bureaucratic habit. It was partly a response to legal and diplomatic obligations that local authorities were not equipped to manage.
 
@@ -337,7 +337,7 @@ The same procedures that made sense from a governance perspective often produced
 
 Information moved vertically rather than publicly. [Witnesses]({{ 'witnesses/' | relative_url }}) might see military personnel arrive, observe restricted access to an area and then receive little explanation about what had happened. Because technical assessment occurred elsewhere, local communities frequently experienced a gap between the event itself and any official account.
 
-In incidents associated with possible space debris, that gap could last days, weeks or even longer. During that period, rumours naturally filled the vacuum. A witness who saw an object removed might conclude that authorities already knew its identity. In reality, the object could still be undergoing analysis within a centralised reporting system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">Government AtticProjMoondust1967-1972.pdfJune 4, 2024 — 3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source...</span><span class="citation-popover-meta">Published: June 4, 2024</span></span></span>
+In incidents associated with possible space debris, that gap could last days, weeks or even longer. During that period, rumours naturally filled the vacuum. A witness who saw an object removed might conclude that authorities already knew its identity. In reality, the object could still be undergoing analysis within a centralised reporting system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">Government AtticProjMoondust1967-1972.pdfJune 4, 2024 — 3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source...</span><span class="citation-popover-meta">Published: June 4, 2024</span></span></span>
 
 The problem became especially acute when different agencies issued incomplete or inconsistent explanations. Later record searches, missing files or conflicting recollections could then be interpreted as evidence of deliberate concealment rather than ordinary bureaucratic fragmentation. This pattern helps explain why debates surrounding Kecksburg persisted long after the original event.
 
@@ -347,7 +347,7 @@ The problem became especially acute when different agencies issued incomplete or
 
 The central lesson is not that every unidentified object was secretly recovered, nor that every official denial was deceptive. Rather, Cold War debris-management systems were built to prioritise control, verification and coordination over immediate public disclosure.
 
-Project Moon Dust-era practices show how a perfectly ordinary administrative mechanism could generate extraordinary public interpretations. Reports were funnelled upward, ownership questions were reviewed centrally, and public messaging was often delayed until officials knew more. From the outside, those same actions could look indistinguishable from the concealment of something remarkable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic+2Leonard David]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">Government AtticProjMoondust1967-1972.pdfJune 4, 2024 — 3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source...</span><span class="citation-popover-meta">Published: June 4, 2024</span></span></span>
+Project Moon Dust-era practices show how a perfectly ordinary administrative mechanism could generate extraordinary public interpretations. Reports were funnelled upward, ownership questions were reviewed centrally, and public messaging was often delayed until officials knew more. From the outside, those same actions could look indistinguishable from the concealment of something remarkable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">Government AtticProjMoondust1967-1972.pdfJune 4, 2024 — 3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source...</span><span class="citation-popover-meta">Published: June 4, 2024</span></span></span>
 
 For understanding the Kecksburg controversy, that distinction is crucial. Centralised control of space-debris reports does not prove that a recovered object was exotic. It does show how routine Cold War procedures could make uncertainty itself appear secretive, turning an unresolved debris event into a lasting mystery.
 
@@ -356,194 +356,194 @@ For understanding the Kecksburg controversy, that distinction is crucial. Centra
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Procedure Looks Like a Cover Up. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Procedure Looks Like a Cover Up. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Zgw35KTLOVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
-        </h4>
-        <p class="fr-book-author">By Richard Dolan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Zgw35KTLOVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
+</h4>
+<p class="fr-book-author">By Richard Dolan</p>
         
-        <p class="fr-book-desc">Directly explores claims of secrecy, intelligence involvement, reporting chains and official handling of UFO-related events during the Co...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explores claims of secrecy, intelligence involvement, reporting chains and official handling of UFO-related events during the Co...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines how governments, military organizations and officials handle unexplained aerial incidents and public disclosure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how governments, military organizations and officials handle unexplained aerial incidents and public disclosure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+</h4>
+<p class="fr-book-author">By Mark Pilkington</p>
         
-        <p class="fr-book-desc">Focuses on how official procedures, misinformation and security concerns can create perceptions of cover-ups.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on how official procedures, misinformation and security concerns can create perceptions of cover-ups.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Provides context on Cold War secrecy, classified recovery programs and why official silence often fuels speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on Cold War secrecy, classified recovery programs and why official silence often fuels speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and the National Security State</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and the National Security State</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage USSR Aviation Poster DOSAAF Soviet Pilots Goggles Cold War Military Art"><img src="{{ '/assets/images/marketplace-covers/54beab8584e8aa1d12e5.jpg' | relative_url }}" alt="Listing image for Vintage USSR Aviation Poster DOSAAF Soviet Pilots Goggles Cold War Military Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage USSR Aviation Poster DOSAAF Soviet Pilots Goggles Cold War Military Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage USSR Aviation Poster DOSAAF Soviet Pilots Goggles Cold War Military Art"><img src="{{ '/assets/images/marketplace-covers/54beab8584e8aa1d12e5.jpg' | relative_url }}" alt="Listing image for Vintage USSR Aviation Poster DOSAAF Soviet Pilots Goggles Cold War Military Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage USSR Aviation Poster DOSAAF Soviet Pilots Goggles Cold War Military Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1984 Modern Warplanes Poster Cold War Jets F-14 F-15 MiG Aviation"><img src="{{ '/assets/images/marketplace-covers/a59200130f85b13f183d.jpg' | relative_url }}" alt="Listing image for Vintage 1984 Modern Warplanes Poster Cold War Jets F-14 F-15 MiG Aviation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1984 Modern Warplanes Poster Cold War Jets F-14 F-15 MiG Aviation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1984 Modern Warplanes Poster Cold War Jets F-14 F-15 MiG Aviation"><img src="{{ '/assets/images/marketplace-covers/a59200130f85b13f183d.jpg' | relative_url }}" alt="Listing image for Vintage 1984 Modern Warplanes Poster Cold War Jets F-14 F-15 MiG Aviation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1984 Modern Warplanes Poster Cold War Jets F-14 F-15 MiG Aviation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cold War Aviation Technology Vintage 1960s Turbo Jet Engine Advertising Poster"><img src="{{ '/assets/images/marketplace-covers/a407264bfe2c52f6bf58.jpg' | relative_url }}" alt="Listing image for Cold War Aviation Technology Vintage 1960s Turbo Jet Engine Advertising Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Cold War Aviation Technology Vintage 1960s Turbo Jet Engine Advertising Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cold War Aviation Technology Vintage 1960s Turbo Jet Engine Advertising Poster"><img src="{{ '/assets/images/marketplace-covers/a407264bfe2c52f6bf58.jpg' | relative_url }}" alt="Listing image for Cold War Aviation Technology Vintage 1960s Turbo Jet Engine Advertising Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Cold War Aviation Technology Vintage 1960s Turbo Jet Engine Advertising Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for F-117 Nighthawk Stealth Fighter Photo Print, Cold War Aviation Art"><img src="{{ '/assets/images/marketplace-covers/ee0011c3142c593d51ef.jpg' | relative_url }}" alt="Listing image for F-117 Nighthawk Stealth Fighter Photo Print, Cold War Aviation Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">F-117 Nighthawk Stealth Fighter Photo Print, Cold War Aviation Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for F-117 Nighthawk Stealth Fighter Photo Print, Cold War Aviation Art"><img src="{{ '/assets/images/marketplace-covers/ee0011c3142c593d51ef.jpg' | relative_url }}" alt="Listing image for F-117 Nighthawk Stealth Fighter Photo Print, Cold War Aviation Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">F-117 Nighthawk Stealth Fighter Photo Print, Cold War Aviation Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="report-control-when-procedure-looks-like-a-cover-up-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -559,7 +559,7 @@ For understanding the Kecksburg controversy, that distinction is crucial. Centra
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -579,7 +579,7 @@ For understanding the Kecksburg controversy, that distinction is crucial. Centra
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -611,7 +611,7 @@ For understanding the Kecksburg controversy, that distinction is crucial. Centra
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -663,7 +663,7 @@ For understanding the Kecksburg controversy, that distinction is crucial. Centra
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -708,7 +708,7 @@ For understanding the Kecksburg controversy, that distinction is crucial. Centra
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,105 +749,105 @@ For understanding the Kecksburg controversy, that distinction is crucial. Centra
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: unoosa.org  
-   Link: <a href="https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Recovery and Return of Objects Launched into Outer SpaceIn compliance with article 8 of the Treaty on Principles Governing the Acti...</p></details>
+   Link:<a href="https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recovery and Return of Objects Launched into Outer SpaceIn compliance with article 8 of the Treaty on Principles Governing the Acti...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unoosa.org  
    Title: st space 49E  
-   Link: <a href="https://www.unoosa.org/pdf/publications/st_space_49E.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/pdf/publications/st_space_49E.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Debris Mitigation Guidelines of the Committee on...At its thirty-third session, in 1996, the Subcommittee agreed to prepare a tech...</p></details>
+   Link:<a href="https://www.unoosa.org/pdf/publications/st_space_49E.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/pdf/publications/st_space_49E.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Debris Mitigation Guidelines of the Committee on...At its thirty-third session, in 1996, the Subcommittee agreed to prepare a tech...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: unoosa.org  
-   Link: <a href="https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/moon-agreement.html" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/moon-agreement.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moon AgreementReaffirming the importance of international cooperation in the field of the exploration and peaceful uses of outer space, i...</p></details>
+   Link:<a href="https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/moon-agreement.html" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/moon-agreement.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moon AgreementReaffirming the importance of international cooperation in the field of the exploration and peaceful uses of outer space, i...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Project Moon Dust | Episode 8 | The Secret UFO Retrieval Program  
-   Link: <a href="https://www.youtube.com/watch?v=uKAT4yK_AyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uKAT4yK_AyY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uKAT4yK_AyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uKAT4yK_AyY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: THE KECKSBURG UFO INCIDENT | Full SCI-FI UFO Movie INSPIRED BY REAL EVENTS  
-   Link: <a href="https://www.youtube.com/watch?v=Kl0C1zOxPc4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kl0C1zOxPc4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Kl0C1zOxPc4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kl0C1zOxPc4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: governmentattic.org  
    Title: ProjMoondust1967 1972  
-   Link: <a href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Government AtticProjMoondust1967-1972.pdfJune 4, 2024 — 3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source...</p></details>
+   Link:<a href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government AtticProjMoondust1967-1972.pdfJune 4, 2024 — 3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source...</p></details>
    Published: June 4, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: leonarddavid.com  
    Title: secretive project moon dust details revealed  
-   Link: <a href="https://www.leonarddavid.com/secretive-project-moon-dust-details-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/secretive-project-moon-dust-details-revealed/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Secretive Moon Dust Details Revealed3 Jun 2024 — New revelations have come to light regarding Project Moon Dust, long known by Freedom of...</p></details>
+   Link:<a href="https://www.leonarddavid.com/secretive-project-moon-dust-details-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/secretive-project-moon-dust-details-revealed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secretive Moon Dust Details Revealed3 Jun 2024 — New revelations have come to light regarding Project Moon Dust, long known by Freedom of...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cordis.europa.eu  
-   Link: <a href="https://cordis.europa.eu/project/id/262824/reporting" target="_blank" rel="noopener noreferrer nofollow">https://cordis.europa.eu/project/id/262824/reporting</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of Capability and Capacity for the Objective of...10 Mar 2015 — Executive Summary: Access to important regions of space is necessary for...</p></details>
+   Link:<a href="https://cordis.europa.eu/project/id/262824/reporting" target="_blank" rel="noopener noreferrer nofollow">https://cordis.europa.eu/project/id/262824/reporting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Capability and Capacity for the Objective of...10 Mar 2015 — Executive Summary: Access to important regions of space is necessary for...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: romatrepress.uniroma3.it  
-   Link: <a href="https://romatrepress.uniroma3.it/wp-content/uploads/2024/10/Comparative-Visions-in-Space-Law.pdf" target="_blank" rel="noopener noreferrer nofollow">https://romatrepress.uniroma3.it/wp-content/uploads/2024/10/Comparative-Visions-in-Space-Law.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VISIONS IN SPACE LAWincluding any recovery from the surface or subsurface of the Moon, Mars, comets, or... Outer Space Treaty and Articl...</p></details>
+   Link:<a href="https://romatrepress.uniroma3.it/wp-content/uploads/2024/10/Comparative-Visions-in-Space-Law.pdf" target="_blank" rel="noopener noreferrer nofollow">https://romatrepress.uniroma3.it/wp-content/uploads/2024/10/Comparative-Visions-in-Space-Law.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VISIONS IN SPACE LAWincluding any recovery from the surface or subsurface of the Moon, Mars, comets, or... Outer Space Treaty and Articl...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7ebee940f0b6230268b464/20140808_MOD_Acronyms_and_Abbreviations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7ebee940f0b6230268b464/20140808_MOD_Acronyms_and_Abbreviations.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Defence acronyms and abbreviationsAcronym. Long Title. 1ACC. No. 1 Air Control Centre. 1SL. First Sea Lord. 200D. Second OOD. 200W. Se...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7ebee940f0b6230268b464/20140808_MOD_Acronyms_and_Abbreviations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7ebee940f0b6230268b464/20140808_MOD_Acronyms_and_Abbreviations.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Defence acronyms and abbreviationsAcronym. Long Title. 1ACC. No. 1 Air Control Centre. 1SL. First Sea Lord. 200D. Second OOD. 200W. Se...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: repository.law.umich.edu  
-   Link: <a href="https://repository.law.umich.edu/cgi/viewcontent.cgi?article=2175&amp;context=mjil" target="_blank" rel="noopener noreferrer nofollow">https://repository.law.umich.edu/cgi/viewcontent.cgi?article=2175&amp;context=mjil</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space and Put Up A Parking Lotby DA Koplow · 2025 · Cited by 2 — This article focuses on one remarkable set of space locations, kno...</p></details>
+   Link:<a href="https://repository.law.umich.edu/cgi/viewcontent.cgi?article=2175&amp;context=mjil" target="_blank" rel="noopener noreferrer nofollow">https://repository.law.umich.edu/cgi/viewcontent.cgi?article=2175&amp;context=mjil</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space and Put Up A Parking Lotby DA Koplow · 2025 · Cited by 2 — This article focuses on one remarkable set of space locations, kno...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: unidir.org  
-   Link: <a href="https://unidir.org/files/publication/pdfs/outer-space-and-global-security-307.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unidir.org/files/publication/pdfs/outer-space-and-global-security-307.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on launch notification, space debris and elements...Read more...</p></details>
+   Link:<a href="https://unidir.org/files/publication/pdfs/outer-space-and-global-security-307.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unidir.org/files/publication/pdfs/outer-space-and-global-security-307.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on launch notification, space debris and elements...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aerospaceamerica.aiaa.org  
    Title: scrubbing away lunar dust  
-   Link: <a href="https://aerospaceamerica.aiaa.org/scrubbing-away-lunar-dust/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/scrubbing-away-lunar-dust/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>away lunar dust - Aerospace America - AIAA23 Mar 2026 — Researchers in Colorado are wrapping up testing this month on a device they hope...</p></details>
+   Link:<a href="https://aerospaceamerica.aiaa.org/scrubbing-away-lunar-dust/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/scrubbing-away-lunar-dust/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>away lunar dust - Aerospace America - AIAA23 Mar 2026 — Researchers in Colorado are wrapping up testing this month on a device they hope...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theccc.org.uk  
    Title: the seventh carbon budget  
-   Link: <a href="https://www.theccc.org.uk/publication/the-seventh-carbon-budget/" target="_blank" rel="noopener noreferrer nofollow">https://www.theccc.org.uk/publication/the-seventh-carbon-budget/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Feb 2025 — This statutory report provides advice to the UK Government on the level of the Seventh Carbon Budget (2038 to 2042).Read more...</p></details>
+   Link:<a href="https://www.theccc.org.uk/publication/the-seventh-carbon-budget/" target="_blank" rel="noopener noreferrer nofollow">https://www.theccc.org.uk/publication/the-seventh-carbon-budget/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26 Feb 2025 — This statutory report provides advice to the UK Government on the level of the Seventh Carbon Budget (2038 to 2042).Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: belfercenter.org  
    Title: space cop governance  
-   Link: <a href="https://www.belfercenter.org/research-analysis/space-cop-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.belfercenter.org/research-analysis/space-cop-governance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Governing Outer Space: A Conference of the Parties for...8 Dec 2025 — The backbone of international space law is the 1967 Outer Space Tr...</p></details>
+   Link:<a href="https://www.belfercenter.org/research-analysis/space-cop-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.belfercenter.org/research-analysis/space-cop-governance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Governing Outer Space: A Conference of the Parties for...8 Dec 2025 — The backbone of international space law is the 1967 Outer Space Tr...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20060050035/downloads/20060050035.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20060050035/downloads/20060050035.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Descent/Ascentby S Wagner · 2006 · Cited by 170 — The report evaluates information presented in the Apollo documents and proposes forward...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20060050035/downloads/20060050035.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20060050035/downloads/20060050035.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Descent/Ascentby S Wagner · 2006 · Cited by 170 — The report evaluates information presented in the Apollo documents and proposes forward...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence  
-   Link: <a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Microscopic Artifacts in Moon Dust | Lewis Pinault | IAUS404...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Microscopic Artifacts in Moon Dust | Lewis Pinault | IAUS404...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: static.e-publishing.af.mil  
    Title: dafi91 202  
-   Link: <a href="https://static.e-publishing.af.mil/production/1/af_se/publication/dafi91-202/dafi91-202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.e-publishing.af.mil/production/1/af_se/publication/dafi91-202/dafi91-202.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OC JONES · 2026 · Cited by 5 — A hazard report may be submitted on any event that includes hazards, errors, unsafe procedures, practices...</p></details>
+   Link:<a href="https://static.e-publishing.af.mil/production/1/af_se/publication/dafi91-202/dafi91-202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.e-publishing.af.mil/production/1/af_se/publication/dafi91-202/dafi91-202.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OC JONES · 2026 · Cited by 5 — A hazard report may be submitted on any event that includes hazards, errors, unsafe procedures, practices...</p></details>

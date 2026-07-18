@@ -284,11 +284,11 @@ One of the most important mistakes in discussions of [the Kecksburg UFO incident
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_search_memories_obje_872b6f-Illustration-1-dark.svg" | relative_url }}" alt="Search vs Object illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_search_memories_obje_872b6f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_search_memories_obje_872b6f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because many of the strongest Kecksburg disagreements arise when memories of local commotion are used as indirect proof that an extraordinary object must have existed. Historians and investigators generally obtain more reliable conclusions when they separate memories of a search from claims about the object supposedly being searched for. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+This distinction matters because many of the strongest Kecksburg disagreements arise when memories of local commotion are used as indirect proof that an extraordinary object must have existed. Historians and investigators generally obtain more reliable conclusions when they separate memories of a search from claims about the object supposedly being searched for.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 ## Why Local Activity Can Be Remembered Accurately
 
-A dramatic event occurred on 9 December 1965. A brilliant fireball was reported across multiple states and parts of Canada, generating widespread confusion and numerous reports of a crash or impact. Contemporary [newspapers]({{ 'newspapers/' | relative_url }}) recorded that state police, military personnel and other officials searched areas around Kecksburg after reports that something had fallen into the woods. Early accounts also described smoke, vibrations, a thump and public curiosity. Importantly, reports from the time indicate that searchers ultimately stated they found nothing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+A dramatic event occurred on 9 December 1965. A brilliant fireball was reported across multiple states and parts of Canada, generating widespread confusion and numerous reports of a crash or impact. Contemporary [newspapers]({{ 'newspapers/' | relative_url }}) recorded that state police, military personnel and other officials searched areas around Kecksburg after reports that something had fallen into the woods. Early accounts also described smoke, vibrations, a thump and public curiosity. Importantly, reports from the time indicate that searchers ultimately stated they found nothing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 Because of this, memories of local activity are not inherently suspicious. Residents may genuinely remember:
 
@@ -304,7 +304,7 @@ Because of this, memories of local activity are not inherently suspicious. Resid
 
 </div>
 
-These are the sorts of events that people often notice and discuss immediately. Even decades later, [witnesses]({{ 'witnesses/' | relative_url }}) can retain reasonably accurate memories that a search occurred, that officials were present, or that a wooded area became the focus of attention. Such recollections are consistent with known historical reports and do not require the existence of an extraterrestrial craft or secret recovery programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+These are the sorts of events that people often notice and discuss immediately. Even decades later, [witnesses]({{ 'witnesses/' | relative_url }}) can retain reasonably accurate memories that a search occurred, that officials were present, or that a wooded area became the focus of attention. Such recollections are consistent with known historical reports and do not require the existence of an extraterrestrial craft or secret recovery programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 A useful comparison is a major accident scene. Residents may accurately remember ambulances, police tape and road closures years later without being able to provide a reliable description of the precise object that caused the emergency. The surrounding activity can be memorable even when details of the central event remain uncertain.
 
@@ -312,7 +312,7 @@ A useful comparison is a major accident scene. Residents may accurately remember
 
 Claims about a recovered object belong to a different evidential category.
 
-In later retellings of the Kecksburg story, some witnesses described an acorn-shaped object, metallic surfaces, unusual [markings]({{ 'markings/' | relative_url }}), military transport on a [flatbed]({{ 'flatbed/' | relative_url }}) truck and other highly specific features. These accounts are far more detailed than simple recollections of local activity. They therefore require stronger support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+In later retellings of the Kecksburg story, some witnesses described an acorn-shaped object, metallic surfaces, unusual [markings]({{ 'markings/' | relative_url }}), military transport on a [flatbed]({{ 'flatbed/' | relative_url }}) truck and other highly specific features. These accounts are far more detailed than simple recollections of local activity. They therefore require stronger support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 The reason is straightforward. A witness remembering that soldiers were present is reporting a broad observation. A witness describing dimensions, [shape]({{ 'shape/' | relative_url }}), symbols and recovery procedures is making a series of precise claims about an object that supposedly existed. Precision increases the need for corroboration.
 
@@ -332,16 +332,16 @@ Investigators normally look for evidence such as:
 
 Without such support, detailed object descriptions remain claims rather than established facts.
 
-This is particularly important in Kecksburg because some of the most famous object narratives became prominent years after the incident, after extensive media coverage, UFO investigations, documentaries and public discussion had already shaped the story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+This is particularly important in Kecksburg because some of the most famous object narratives became prominent years after the incident, after extensive media coverage, UFO investigations, documentaries and public discussion had already shaped the story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vROJdm_xGAQ" title="60-year mystery: Questions surrounding Kecksburg UFO incident in Pennsylvania" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vROJdm_xGAQ" target="_blank" rel="noopener noreferrer">60-year mystery: Questions surrounding Kecksburg UFO incident in Pennsylvania</a></p><p class="youtube-embed-meta">Channel: WTAE-TV Pittsburgh</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vROJdm_xGAQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vROJdm_xGAQ">Open on YouTube</a></p></div></div></div>
 
 ## Why the Distinction Matters for Memory
 
-Research on eyewitness memory consistently shows that recollections can be altered by post-event information. Exposure to news reports, conversations with other witnesses, repeated interviews and later interpretations can influence what people remember. Memory is not simply replayed; it is reconstructed. Innocence Project+2Public Prosecution Service of Canada <span class="citation-link-wrap"><a class="citation-inline-link" href="https://innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: innocenceproject.org">[innocenceproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">innocenceproject.org</span><span class="citation-popover-snippet">Innocence ProjectIdentifying the Culprit: Assessing Eyewitness IdentificationAn eyewitness&#x27;s memory can be contaminated by a wide variety...</span></span></span>
+Research on eyewitness memory consistently shows that recollections can be altered by post-event information. Exposure to news reports, conversations with other witnesses, repeated interviews and later interpretations can influence what people remember. Memory is not simply replayed; it is reconstructed. Innocence Project+2Public Prosecution Service of Canada<span class="citation-link-wrap"><a class="citation-inline-link" href="https://innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: innocenceproject.org">[innocenceproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">innocenceproject.org</span><span class="citation-popover-snippet">Innocence ProjectIdentifying the Culprit: Assessing Eyewitness IdentificationAn eyewitness&#x27;s memory can be contaminated by a wide variety...</span></span></span>
 
-This does not mean witnesses are dishonest. In fact, memory researchers emphasise that sincere witnesses can become increasingly confident in details that were added after the original event. Exposure to misleading information can affect later recollection, especially after long delays. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/24022799/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Adult eyewitness memory and compliance: effects of post-...by PM Paz-Alonso · 2013 · Cited by 42 — This study investigated effects...</span></span></span>
+This does not mean witnesses are dishonest. In fact, memory researchers emphasise that sincere witnesses can become increasingly confident in details that were added after the original event. Exposure to misleading information can affect later recollection, especially after long delays.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/24022799/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Adult eyewitness memory and compliance: effects of post-...by PM Paz-Alonso · 2013 · Cited by 42 — This study investigated effects...</span></span></span>
 
 Kecksburg presents exactly the kind of environment where this process can occur:
 
@@ -357,7 +357,7 @@ Kecksburg presents exactly the kind of environment where this process can occur:
 
 </div>
 
-Under those conditions, a memory that originally consisted of "there were soldiers in the woods" can become linked to later narratives about what those soldiers were supposedly recovering. Psychological research shows that such contamination risks increase with time and repeated retelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/62246/chapter/550960878?searchresult=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic+2Noba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Eyewitness Memory</span><span class="citation-popover-snippet">OUP AcademicEyewitness Memory - Oxford AcademicMar 22, 2023 — Indeed, the very act of testing memory changes (i.e., contaminates) memory...</span></span></span>
+Under those conditions, a memory that originally consisted of "there were soldiers in the woods" can become linked to later narratives about what those soldiers were supposedly recovering. Psychological research shows that such contamination risks increase with time and repeated retelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/62246/chapter/550960878?searchresult=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[oup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Eyewitness Memory</span><span class="citation-popover-snippet">OUP AcademicEyewitness Memory - Oxford AcademicMar 22, 2023 — Indeed, the very act of testing memory changes (i.e., contaminates) memory...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_search_memories_obje_872b6f-Illustration-2-dark.svg" | relative_url }}" alt="Search vs Object illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_search_memories_obje_872b6f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_search_memories_obje_872b6f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -376,11 +376,11 @@ Examples include reports of:
 * Search teams.
 * Flashlights or vehicles.
 * Crowds gathering.
-* Military or police presence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Exploring the Kecksburg UFO mysteryWitnesses claim military personnel swiftly cordoned off the crash... 🕵️‍♂️ **The Military&#x27;s Tight Gri...</span></span></span>
+* Military or police presence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Exploring the Kecksburg UFO mysteryWitnesses claim military personnel swiftly cordoned off the crash... 🕵️‍♂️ **The Military&#x27;s Tight Gri...</span></span></span>
 
 </div>
 
-These claims concern observable human activity and often fit contemporary reporting. They can be considered plausible even if the nature of the original object remains unknown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+These claims concern observable human activity and often fit contemporary reporting. They can be considered plausible even if the nature of the original object remains unknown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ac3hYt3k-Eo" title="The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer">The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 149.6K &middot; Uploaded: July 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ac3hYt3k-Eo">Open on YouTube</a></p></div></div></div>
@@ -399,7 +399,7 @@ Examples include:
 
 </div>
 
-These observations may suggest that people thought an object had landed, but they do not establish what that object was. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+These observations may suggest that people thought an object had landed, but they do not establish what that object was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 ### Grade 3: Object Descriptions
 
@@ -408,14 +408,14 @@ Examples include:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Acorn-shaped craft descriptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://positivelypittsburgh.com/the-kecksburg-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivelypittsburgh.com">[positivelypittsburgh.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivelypittsburgh.com</span><span class="citation-popover-snippet">Positively PittsburghThe Kecksburg UFO IncidentWitnesses say that the military quickly arrived, set up a perimeter, and took an acorn-sha...</span></span></span>
+* Acorn-shaped craft descriptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://positivelypittsburgh.com/the-kecksburg-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivelypittsburgh.com">[positivelypittsburgh.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivelypittsburgh.com</span><span class="citation-popover-snippet">Positively PittsburghThe Kecksburg UFO IncidentWitnesses say that the military quickly arrived, set up a perimeter, and took an acorn-sha...</span></span></span>
 * Claims of unusual markings.
 * Estimates of size and dimensions.
 * Statements about metallic construction.
 
 </div>
 
-These require corroboration because they concern the characteristics of the alleged object itself. The greater the detail, the greater the evidential burden. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post-gazette.com">[Pittsburgh Post-Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post-gazette.com</span><span class="citation-popover-snippet">Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — Witnesses who saw it — before members of the m...</span></span></span>
+These require corroboration because they concern the characteristics of the alleged object itself. The greater the detail, the greater the evidential burden.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post-gazette.com">[Pittsburgh Post-Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post-gazette.com</span><span class="citation-popover-snippet">Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — Witnesses who saw it — before members of the m...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_search_memories_obje_872b6f-Illustration-3-dark.svg" | relative_url }}" alt="Search vs Object illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_search_memories_obje_872b6f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_search_memories_obje_872b6f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -428,7 +428,7 @@ Examples include:
 * Descriptions of transportation procedures.
 * Allegations of official concealment.
 
-These are the strongest claims and therefore demand the strongest evidence. Ideally they would be supported by contemporary records, photographs, recordings or multiple independent witnesses whose accounts were documented close to the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://positivelypittsburgh.com/the-kecksburg-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivelypittsburgh.com">[Positively Pittsburgh]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivelypittsburgh.com</span><span class="citation-popover-snippet">Positively PittsburghThe Kecksburg UFO IncidentWitnesses say that the military quickly arrived, set up a perimeter, and took an acorn-sha...</span></span></span>
+These are the strongest claims and therefore demand the strongest evidence. Ideally they would be supported by contemporary records, photographs, recordings or multiple independent witnesses whose accounts were documented close to the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://positivelypittsburgh.com/the-kecksburg-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivelypittsburgh.com">[Positively Pittsburgh]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivelypittsburgh.com</span><span class="citation-popover-snippet">Positively PittsburghThe Kecksburg UFO IncidentWitnesses say that the military quickly arrived, set up a perimeter, and took an acorn-sha...</span></span></span>
 
 ## The Most Reliable Question to Ask
 
@@ -443,194 +443,194 @@ Separating search memories from [object claims]({{ 'object-claims/' | relative_u
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Search Memories Are Not Object Proof. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Search Memories Are Not Object Proof. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating UFO reports and separating different categories of evidence and testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating UFO reports and separating different categories of evidence and testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Provides tools for assessing extraordinary claims and evolving narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Provides tools for assessing extraordinary claims and evolving narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains how memory, belief commitment, and self-justification can affect witness interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how memory, belief commitment, and self-justification can affect witness interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly supports the article&#x27;s theme that claims require appropriate levels of evidence and corroboration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports the article&#x27;s theme that claims require appropriate levels of evidence and corroboration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="search-vs-object-search-memories-are-not-object-proof-kecksburg-ufo-incide-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -646,7 +646,7 @@ Separating search memories from [object claims]({{ 'object-claims/' | relative_u
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -666,7 +666,7 @@ Separating search memories from [object claims]({{ 'object-claims/' | relative_u
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -698,7 +698,7 @@ Separating search memories from [object claims]({{ 'object-claims/' | relative_u
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -750,7 +750,7 @@ Separating search memories from [object claims]({{ 'object-claims/' | relative_u
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -795,7 +795,7 @@ Separating search memories from [object claims]({{ 'object-claims/' | relative_u
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -836,120 +836,120 @@ Separating search memories from [object claims]({{ 'object-claims/' | relative_u
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: post-gazette.com  
-   Link: <a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — Witnesses who saw it — before members of the m...</p></details>
+   Link:<a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — Witnesses who saw it — before members of the m...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academic.oup.com  
    Title: Academic Eyewitness Memory  
-   Link: <a href="https://academic.oup.com/edited-volume/62246/chapter/550960878?searchresult=1" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/62246/chapter/550960878?searchresult=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicEyewitness Memory - Oxford AcademicMar 22, 2023 — Indeed, the very act of testing memory changes (i.e., contaminates) memory...</p></details>
+   Link:<a href="https://academic.oup.com/edited-volume/62246/chapter/550960878?searchresult=1" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/62246/chapter/550960878?searchresult=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicEyewitness Memory - Oxford AcademicMar 22, 2023 — Indeed, the very act of testing memory changes (i.e., contaminates) memory...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: innocenceproject.org  
-   Link: <a href="https://innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow">https://innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Innocence ProjectIdentifying the Culprit: Assessing Eyewitness IdentificationAn eyewitness&#x27;s memory can be contaminated by a wide variety...</p></details>
+   Link:<a href="https://innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow">https://innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Innocence ProjectIdentifying the Culprit: Assessing Eyewitness IdentificationAn eyewitness&#x27;s memory can be contaminated by a wide variety...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ppsc-sppc.gc.ca  
    Title: Public Prosecution Service of Canada Chapter 3  
-   Link: <a href="https://www.ppsc-sppc.gc.ca/eng/pub/is-ip/ch3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ppsc-sppc.gc.ca/eng/pub/is-ip/ch3.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Prosecution Service of CanadaChapter 3 - Eyewitness Identification and TestimonyApr 25, 2019 — During this time, the witness may a...</p></details>
+   Link:<a href="https://www.ppsc-sppc.gc.ca/eng/pub/is-ip/ch3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ppsc-sppc.gc.ca/eng/pub/is-ip/ch3.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Public Prosecution Service of CanadaChapter 3 - Eyewitness Identification and TestimonyApr 25, 2019 — During this time, the witness may a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24022799/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24022799/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adult eyewitness memory and compliance: effects of post-...by PM Paz-Alonso · 2013 · Cited by 42 — This study investigated effects...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/24022799/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24022799/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adult eyewitness memory and compliance: effects of post-...by PM Paz-Alonso · 2013 · Cited by 42 — This study investigated effects...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2294692" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2294692</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineWitnesses&#x27; susceptibility to misleading post-event...by SJ Sharman · 2024 · Cited by 4 — This study examined the...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2294692" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2294692</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineWitnesses&#x27; susceptibility to misleading post-event...by SJ Sharman · 2024 · Cited by 4 — This study examined the...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/09658211.2025.2551222" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09658211.2025.2551222</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineEyewitness suspect identification: six claims regarding the...by DS Lindsay · 2025 · Cited by 4 — An eyewitness&#x27;s...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/09658211.2025.2551222" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09658211.2025.2551222</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineEyewitness suspect identification: six claims regarding the...by DS Lindsay · 2025 · Cited by 4 — An eyewitness&#x27;s...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: positivelypittsburgh.com  
-   Link: <a href="https://positivelypittsburgh.com/the-kecksburg-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/the-kecksburg-ufo-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Positively PittsburghThe Kecksburg UFO IncidentWitnesses say that the military quickly arrived, set up a perimeter, and took an acorn-sha...</p></details>
+   Link:<a href="https://positivelypittsburgh.com/the-kecksburg-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/the-kecksburg-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Positively PittsburghThe Kecksburg UFO IncidentWitnesses say that the military quickly arrived, set up a perimeter, and took an acorn-sha...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theclio.com  
    Title: Clio Kecksburg UFO Incident  
-   Link: <a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Incident - ClioThe military forces, who secured the crash site, were heavily armed according to eye-witness testimony and w...</p></details>
+   Link:<a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Incident - ClioThe military forces, who secured the crash site, were heavily armed according to eye-witness testimony and w...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK621592/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK621592/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide on Eyewitness Identification - NCBIEyewitness identification is defined in operational legal terms as “a naming or description by w...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK621592/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK621592/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guide on Eyewitness Identification - NCBIEyewitness identification is defined in operational legal terms as “a naming or description by w...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12408934/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12408934/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blind lineups, Police investiga...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12408934/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12408934/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blind lineups, Police investiga...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/318347975_Effects_of_Postwarning_Specificity_on_Memory_Performance_and_Confidence_in_the_Eyewitness_Misinformation_Paradigm" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318347975_Effects_of_Postwarning_Specificity_on_Memory_Performance_and_Confidence_in_the_Eyewitness_Misinformation_Paradigm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Effects of Postwarning Specificity on Memory...9 Oct 2025 — Misinformation facilitated event memory during narrative encoding if d...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/318347975_Effects_of_Postwarning_Specificity_on_Memory_Performance_and_Confidence_in_the_Eyewitness_Misinformation_Paradigm" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318347975_Effects_of_Postwarning_Specificity_on_Memory_Performance_and_Confidence_in_the_Eyewitness_Misinformation_Paradigm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Effects of Postwarning Specificity on Memory...9 Oct 2025 — Misinformation facilitated event memory during narrative encoding if d...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: 4 Basic Research on Vision and MemoryShort-term memories of events that happened early in a witnessed proceeding may simply be f...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/18891/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: 4 Basic Research on Vision and MemoryShort-term memories of events that happened early in a witnessed proceeding may simply be f...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Kecksburg UFO mysteryWitnesses claim military personnel swiftly cordoned off the crash... 🕵️‍♂️ **The Military&#x27;s Tight Gri...</p></details>
+   Link:<a href="https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Kecksburg UFO mysteryWitnesses claim military personnel swiftly cordoned off the crash... 🕵️‍♂️ **The Military&#x27;s Tight Gri...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: appliedmemorylab.co.uk  
-   Link: <a href="https://www.appliedmemorylab.co.uk/eyewitness-identification" target="_blank" rel="noopener noreferrer nofollow">https://www.appliedmemorylab.co.uk/eyewitness-identification</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Identification | Lab websiteThe police administer witness identification procedures to test whether witnesses identify the cri...</p></details>
+   Link:<a href="https://www.appliedmemorylab.co.uk/eyewitness-identification" target="_blank" rel="noopener noreferrer nofollow">https://www.appliedmemorylab.co.uk/eyewitness-identification</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Identification | Lab websiteThe police administer witness identification procedures to test whether witnesses identify the cri...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nobaproject.com  
-   Link: <a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Testimony and Memory BiasesHundreds of subsequent studies have demonstrated that memory can be contaminated by erroneous infor...</p></details>
+   Link:<a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Testimony and Memory BiasesHundreds of subsequent studies have demonstrated that memory can be contaminated by erroneous infor...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: judicature.duke.edu  
-   Link: <a href="https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow">https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clearer View: The Impact of the National Academy of...In the case of eyewitness identification, scaling techniques can be used to quanti...</p></details>
+   Link:<a href="https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow">https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clearer View: The Impact of the National Academy of...In the case of eyewitness identification, scaling techniques can be used to quanti...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs – Seven Decades, and Counting......Page 13 2. SIGHTINGS OF ufoS......Page 31 3. UFO Photos and Videos: Is...Read more...</p></details>
+   Link:<a href="https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs – Seven Decades, and Counting......Page 13 2. SIGHTINGS OF ufoS......Page 31 3. UFO Photos and Videos: Is...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalacademies.org  
    Title: National Academies Chapter: 5 Applied Eyewitness Identification Research  
-   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/7" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>after the event had been encoded into long-term memory, affected identification accuracy. The study also found that memories acquired dur...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/18891/chapter/7" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>after the event had been encoded into long-term memory, affected identification accuracy. The study also found that memories acquired dur...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: psychologicalscience.org  
    Title: may 2022 pspilive eyewitness testimony  
-   Link: <a href="https://www.psychologicalscience.org/publications/observer/may-2022-pspilive-eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/observer/may-2022-pspilive-eyewitness-testimony.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Error: Malleable Memories, Flawed Legal...10 May 2022 — The study of human memory provides evidence for some of the best prac...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/publications/observer/may-2022-pspilive-eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/observer/may-2022-pspilive-eyewitness-testimony.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Error: Malleable Memories, Flawed Legal...10 May 2022 — The study of human memory provides evidence for some of the best prac...</p></details>
    Published: may 2022  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/projects/PGA-STL-13-02/publication/18891" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/PGA-STL-13-02/publication/18891</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>est practices that law enforcement agencies and courts should follow to improve the...Read more...</p></details>
+   Link:<a href="https://www.nationalacademies.org/projects/PGA-STL-13-02/publication/18891" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/PGA-STL-13-02/publication/18891</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>est practices that law enforcement agencies and courts should follow to improve the...Read more...</p></details>

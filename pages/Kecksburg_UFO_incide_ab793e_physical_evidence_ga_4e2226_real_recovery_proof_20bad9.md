@@ -278,11 +278,11 @@ The central question in the Kecksburg debate is not whether people reported seei
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_physical_evidence_ga_4e2226_real_recovery_proof_20bad9-Illustration-1-dark.svg" | relative_url }}" alt="Recovery Proof illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_physical_evidence_ga_4e2226_real_recovery_proof_20bad9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_physical_evidence_ga_4e2226_real_recovery_proof_20bad9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Many discussions of Kecksburg focus on witness descriptions of an object, military activity, or later claims about a removal operation. Those accounts may be important historical evidence, but they are not, by themselves, proof that a specific object was recovered. Real recovery proof would require an identifiable artefact, records showing who handled it, and documentation allowing independent verification. The absence of that evidential chain remains the key gap in the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">chain custody</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody of Evidence &#124; National Institute of Justice7 Jun 2023 — The chain of custody of evidence is...</span></span></span>
+Many discussions of Kecksburg focus on witness descriptions of an object, military activity, or later claims about a removal operation. Those accounts may be important historical evidence, but they are not, by themselves, proof that a specific object was recovered. Real recovery proof would require an identifiable artefact, records showing who handled it, and documentation allowing independent verification. The absence of that evidential chain remains the key gap in the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">chain custody</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody of Evidence &#124; National Institute of Justice7 Jun 2023 — The chain of custody of evidence is...</span></span></span>
 
 ## Why a Story Needs a Traceable Object
 
-A recovery claim becomes substantially stronger when investigators can point to a physical object rather than relying solely on recollections. In forensic practice, evidence is considered trustworthy when its history can be reconstructed from the moment it is found. The National Institute of Justice defines chain of custody as a record of the individuals who possessed evidence and the documentation needed to preserve its integrity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">chain custody</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody of Evidence &#124; National Institute of Justice7 Jun 2023 — The chain of custody of evidence is...</span></span></span>
+A recovery claim becomes substantially stronger when investigators can point to a physical object rather than relying solely on recollections. In forensic practice, evidence is considered trustworthy when its history can be reconstructed from the moment it is found. The National Institute of Justice defines chain of custody as a record of the individuals who possessed evidence and the documentation needed to preserve its integrity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">chain custody</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody of Evidence &#124; National Institute of Justice7 Jun 2023 — The chain of custody of evidence is...</span></span></span>
 
 Applied to Kecksburg, a traceable object would answer several questions at once:
 
@@ -298,7 +298,7 @@ Applied to Kecksburg, a traceable object would answer several questions at once:
 
 </div>
 
-Without those answers, even a genuine fragment cannot be confidently linked to the incident. A metal sample discovered decades later, for example, might be authentic debris from something that fell from the sky—or it might be unrelated material introduced at another time. The distinction depends on documentation rather than appearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody/chain-custody-record" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-title">National Institute of Justice Chain of Custody Record &#124; National Institute of Justice The chain of custody record must contain identifier</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody Record &#124; National Institute of JusticeThe chain of custody record must contain identifiers...</span></span></span>
+Without those answers, even a genuine fragment cannot be confidently linked to the incident. A metal sample discovered decades later, for example, might be authentic debris from something that fell from the sky—or it might be unrelated material introduced at another time. The distinction depends on documentation rather than appearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody/chain-custody-record" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-title">National Institute of Justice Chain of Custody Record &#124; National Institute of Justice The chain of custody record must contain identifier</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody Record &#124; National Institute of JusticeThe chain of custody record must contain identifiers...</span></span></span>
 
 This is why claims that an object was “taken away by the military” are not equivalent to proof that a recovered object existed. The stronger claim requires evidence of the object itself and evidence of its documented handling.
 
@@ -324,7 +324,7 @@ A genuinely testable recovery case could include:
 
 </div>
 
-Each document would reinforce the others. A single memo might be interesting; a connected paper trail would be far more persuasive because independent records could corroborate one another. National Institute of Justice+2National Institute of Justice <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody/chain-custody-record" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-title">National Institute of Justice Chain of Custody Record &#124; National Institute of Justice The chain of custody record must contain identifier</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody Record &#124; National Institute of JusticeThe chain of custody record must contain identifiers...</span></span></span>
+Each document would reinforce the others. A single memo might be interesting; a connected paper trail would be far more persuasive because independent records could corroborate one another. National Institute of Justice+2National Institute of Justice<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody/chain-custody-record" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-title">National Institute of Justice Chain of Custody Record &#124; National Institute of Justice The chain of custody record must contain identifier</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody Record &#124; National Institute of JusticeThe chain of custody record must contain identifiers...</span></span></span>
 
 Importantly, none of these records would need to mention extraterrestrial technology. They would only need to establish that a specific object was recovered and can be traced through official handling procedures.
 
@@ -334,7 +334,7 @@ Importantly, none of these records would need to mention extraterrestrial techno
 
 Imagine a hypothetical metal fragment allegedly recovered in Kecksburg.
 
-A strong evidential chain would begin with field notes describing where the fragment was found. The notes would be followed by collection records, packaging information, transport documents and laboratory receipts. Analysis results would reference the same identifying number used at the recovery site. Finally, a storage record would show where the item was placed after examination. National Institute of Justice+2National Institute of Justice <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/collecting-dna-evidence-at-property-crime-scenes/evidence-collection/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[nij.ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">chain custody</span><span class="citation-popover-snippet">National Institute of JusticeCollecting DNA Evidence at Property Crime Scenes &#124; Chain of...7 Jun 2023 — The chain of custody is a tracki...</span></span></span>
+A strong evidential chain would begin with field notes describing where the fragment was found. The notes would be followed by collection records, packaging information, transport documents and laboratory receipts. Analysis results would reference the same identifying number used at the recovery site. Finally, a storage record would show where the item was placed after examination. National Institute of Justice+2National Institute of Justice<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/collecting-dna-evidence-at-property-crime-scenes/evidence-collection/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[nij.ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">chain custody</span><span class="citation-popover-snippet">National Institute of JusticeCollecting DNA Evidence at Property Crime Scenes &#124; Chain of...7 Jun 2023 — The chain of custody is a tracki...</span></span></span>
 
 Such a sequence would allow later researchers to inspect the same object and verify earlier conclusions. That possibility of re-examination is what separates durable evidence from anecdote.
 
@@ -342,7 +342,7 @@ Such a sequence would allow later researchers to inspect the same object and ver
 
 The Kecksburg case contains reports of searches, reports of military involvement and reports of missing records. What it does not contain publicly is a verified artefact accompanied by a complete documentary trail.
 
-One recurring claim involves metallic fragments supposedly examined by experts and identified as debris from a Soviet space vehicle. NASA representatives stated in the mid-2000s that fragments from the area had been examined and associated with a Soviet satellite, while records concerning that work were reportedly lost. Even if accurate, such statements do not provide the underlying specimen, laboratory documentation or chain-of-custody records needed for independent verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.post-gazette.com/breaking/2005/12/08/kecksburg-ufo-records-still-an-alien-concept/stories/200512080509" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post-gazette.com">[Pittsburgh Post-Gazette+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post-gazette.com</span><span class="citation-popover-snippet">government records documenting it have been lost. Kean wants files on what...</span></span></span>
+One recurring claim involves metallic fragments supposedly examined by experts and identified as debris from a Soviet space vehicle. NASA representatives stated in the mid-2000s that fragments from the area had been examined and associated with a Soviet satellite, while records concerning that work were reportedly lost. Even if accurate, such statements do not provide the underlying specimen, laboratory documentation or chain-of-custody records needed for independent verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.post-gazette.com/breaking/2005/12/08/kecksburg-ufo-records-still-an-alien-concept/stories/200512080509" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post-gazette.com">[post-gazette.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post-gazette.com</span><span class="citation-popover-snippet">government records documenting it have been lost. Kean wants files on what...</span></span></span>
 
 The distinction is crucial. A statement that testing occurred is not the same thing as producing the tested item and the records associated with it. Evidence becomes stronger when others can inspect it, replicate the analysis and confirm the provenance.
 
@@ -353,9 +353,9 @@ The distinction is crucial. A statement that testing occurred is not the same th
 
 One of the most misunderstood aspects of the Kecksburg controversy is that the strongest proof may not be a dramatic photograph or sensational confession. It could be a shipping form, a warehouse receipt or a laboratory accession sheet.
 
-Forensic and legal systems place great importance on mundane records because they document continuity. If an object can be traced from recovery to examination without unexplained gaps, confidence in the evidence increases. Conversely, missing links create uncertainty about substitution, contamination or misidentification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">chain custody</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody of Evidence &#124; National Institute of Justice7 Jun 2023 — The chain of custody of evidence is...</span></span></span>
+Forensic and legal systems place great importance on mundane records because they document continuity. If an object can be traced from recovery to examination without unexplained gaps, confidence in the evidence increases. Conversely, missing links create uncertainty about substitution, contamination or misidentification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">chain custody</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody of Evidence &#124; National Institute of Justice7 Jun 2023 — The chain of custody of evidence is...</span></span></span>
 
-This helps explain why the long-running Freedom of Information Act dispute over Kecksburg attracted attention. The legal battle focused largely on whether relevant government records existed, were missing or had been inadequately searched for. Court proceedings and subsequent reporting noted concerns about lost files and incomplete searches, but they did not establish the existence of a recovered craft or authenticate a recovered artefact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Wikipedia+3Reporters Committee+3The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-title">nasa ordered review its records data ufo sighting</span><span class="citation-popover-snippet">Reporters CommitteeNASA Ordered to Review Its Records for Data on &quot;UFO...10 Dec 2007 — A recent settlement in a four-year old Freedom of...</span></span></span>
+This helps explain why the long-running Freedom of Information Act dispute over Kecksburg attracted attention. The legal battle focused largely on whether relevant government records existed, were missing or had been inadequately searched for. Court proceedings and subsequent reporting noted concerns about lost files and incomplete searches, but they did not establish the existence of a recovered craft or authenticate a recovered artefact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[rcfp.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-title">nasa ordered review its records data ufo sighting</span><span class="citation-popover-snippet">Reporters CommitteeNASA Ordered to Review Its Records for Data on &quot;UFO...10 Dec 2007 — A recent settlement in a four-year old Freedom of...</span></span></span>
 
 In evidential terms, missing records are intriguing because they suggest unresolved questions. They are not, however, substitutes for the records themselves.
 
@@ -383,197 +383,197 @@ A claim approaches genuine proof when it includes:
 
 If even one of those elements is missing, confidence declines. If all are present, the discussion changes fundamentally. The debate would no longer centre on witness recollections and disputed memories. It would become a question about an inspectable piece of evidence.
 
-That is why the [physical evidence]({{ 'no-object/' | relative_url }}) gap remains so important. For Kecksburg, real recovery proof is not defined by how extraordinary the object might be. It is defined by whether the object can be traced, authenticated and tested. National Institute of Justice+2National Institute of Justice <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[nij.ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">chain custody</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody of Evidence &#124; National Institute of Justice7 Jun 2023 — The chain of custody of evidence is...</span></span></span>
+That is why the [physical evidence]({{ 'no-object/' | relative_url }}) gap remains so important. For Kecksburg, real recovery proof is not defined by how extraordinary the object might be. It is defined by whether the object can be traced, authenticated and tested. National Institute of Justice+2National Institute of Justice<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[nij.ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">chain custody</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody of Evidence &#124; National Institute of Justice7 Jun 2023 — The chain of custody of evidence is...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Would Real Kecksburg Proof Look Like?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Would Real Kecksburg Proof Look Like?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores what types of evidence are considered persuasive in UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores what types of evidence are considered persuasive in UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how official investigations distinguish evidence from speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how official investigations distinguish evidence from speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines how investigators evaluate sightings and physical traces.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how investigators evaluate sightings and physical traces.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly addresses standards of evidence and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses standards of evidence and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️"><img src="{{ '/assets/images/marketplace-covers/4ce088b8aa2a266dfa2a.jpg' | relative_url }}" alt="Listing image for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️"><img src="{{ '/assets/images/marketplace-covers/4ce088b8aa2a266dfa2a.jpg' | relative_url }}" alt="Listing image for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999"><img src="{{ '/assets/images/marketplace-covers/8cea51f0a1e3d4c7fd88.jpg' | relative_url }}" alt="Listing image for VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999"><img src="{{ '/assets/images/marketplace-covers/8cea51f0a1e3d4c7fd88.jpg' | relative_url }}" alt="Listing image for VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green alien figurine on a stand model Area 51 UFO space alien 24cm"><img src="{{ '/assets/images/marketplace-covers/6086c63050eecd0ae43d.jpg' | relative_url }}" alt="Listing image for Green alien figurine on a stand model Area 51 UFO space alien 24cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Green alien figurine on a stand model Area 51 UFO space alien 24cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green alien figurine on a stand model Area 51 UFO space alien 24cm"><img src="{{ '/assets/images/marketplace-covers/6086c63050eecd0ae43d.jpg' | relative_url }}" alt="Listing image for Green alien figurine on a stand model Area 51 UFO space alien 24cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Green alien figurine on a stand model Area 51 UFO space alien 24cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO 7 Mini Figures Complete Konami SF Movie Selection Pre-Colored In stock"><img src="{{ '/assets/images/marketplace-covers/5f55a4db894634238b0e.jpg' | relative_url }}" alt="Listing image for SHADO UFO 7 Mini Figures Complete Konami SF Movie Selection Pre-Colored In stock" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO 7 Mini Figures Complete Konami SF Movie Selection Pre-Colored In stock</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO 7 Mini Figures Complete Konami SF Movie Selection Pre-Colored In stock"><img src="{{ '/assets/images/marketplace-covers/5f55a4db894634238b0e.jpg' | relative_url }}" alt="Listing image for SHADO UFO 7 Mini Figures Complete Konami SF Movie Selection Pre-Colored In stock" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO 7 Mini Figures Complete Konami SF Movie Selection Pre-Colored In stock</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="recovery-proof-what-would-real-kecksburg-proof-look-like-kecksburg-ufo-incide-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -589,7 +589,7 @@ That is why the [physical evidence]({{ 'no-object/' | relative_url }}) gap remai
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -609,7 +609,7 @@ That is why the [physical evidence]({{ 'no-object/' | relative_url }}) gap remai
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -641,7 +641,7 @@ That is why the [physical evidence]({{ 'no-object/' | relative_url }}) gap remai
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -693,7 +693,7 @@ That is why the [physical evidence]({{ 'no-object/' | relative_url }}) gap remai
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -738,7 +738,7 @@ That is why the [physical evidence]({{ 'no-object/' | relative_url }}) gap remai
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -779,142 +779,142 @@ That is why the [physical evidence]({{ 'no-object/' | relative_url }}) gap remai
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Chain of Custody in the Era of Modern Forensics  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>During the trial, if...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>During the trial, if...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: post-gazette.com  
-   Link: <a href="https://www.post-gazette.com/breaking/2005/12/08/kecksburg-ufo-records-still-an-alien-concept/stories/200512080509" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/breaking/2005/12/08/kecksburg-ufo-records-still-an-alien-concept/stories/200512080509</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>government records documenting it have been lost. Kean wants files on what...</p></details>
+   Link:<a href="https://www.post-gazette.com/breaking/2005/12/08/kecksburg-ufo-records-still-an-alien-concept/stories/200512080509" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/breaking/2005/12/08/kecksburg-ufo-records-still-an-alien-concept/stories/200512080509</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government records documenting it have been lost. Kean wants files on what...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
    Title: What fell from the sky in Kecksburg PA  
-   Link: <a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 1965?...NASA released a statement in 2005 reporting that experts had examined fragments from the area and determined they we...</p></details>
+   Link:<a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 1965?...NASA released a statement in 2005 reporting that experts had examined fragments from the area and determined they we...</p></details>
    Published: December 9, 1965  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: space.com  
    Title: 7589 case finally closed 1965 pennsylvania ufo mystery  
-   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA had stonewalled and was withholdingdocuments, leaving no recourse but was completed in August 2009. many...</p></details>
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA had stonewalled and was withholdingdocuments, leaving no recourse but was completed in August 2009. many...</p></details>
    Published: August 2009  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incident... sued NASA under the Freedom of Information Act&quot; for the lost NASA records. On October 26, 2007, NASA agreed...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incident... sued NASA under the Freedom of Information Act&quot; for the lost NASA records. On October 26, 2007, NASA agreed...</p></details>
    Published: October 26, 2007  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 1965...Theories about what actually landed at Kecksburg have ranged widely, including debris from the Soviet space probe Ko...</p></details>
+   Link:<a href="https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 1965...Theories about what actually landed at Kecksburg have ranged widely, including debris from the Soviet space probe Ko...</p></details>
    Published: December 9, 1965  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thephillyvoice/posts/the-directors-latest-sci-fi-film-out-friday-includes-footage-of-kecksburg-a-town/1462102285963791/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thephillyvoice/posts/the-directors-latest-sci-fi-film-out-friday-includes-footage-of-kecksburg-a-town/1462102285963791/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ormation Act (FOIA) for how the records concerning the incident were lost...</p></details>
+   Link:<a href="https://www.facebook.com/thephillyvoice/posts/the-directors-latest-sci-fi-film-out-friday-includes-footage-of-kecksburg-a-town/1462102285963791/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thephillyvoice/posts/the-directors-latest-sci-fi-film-out-friday-includes-footage-of-kecksburg-a-town/1462102285963791/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ormation Act (FOIA) for how the records concerning the incident were lost...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: 𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟 𝐖𝐞𝐬𝐭𝐞𝐫𝐧 𝐏𝐞𝐧𝐧𝐬𝐲𝐥𝐯𝐚𝐧𝐢𝐚𝐬 𝐆𝐫𝐞𝐚𝐭 𝐔𝐅𝐎 𝐔𝐀𝐏 𝐄𝐯𝐞𝐧𝐭 𝐚𝐭 𝐊𝐞  
-   Link: <a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟...NASA released a statement in 2005 reporting that experts had examined fragments from the area and det...</p></details>
+   Link:<a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>𝐓𝐨𝐝𝐚𝐲 𝐢𝐬 𝐭𝐡𝐞 𝟔𝟎𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲 𝐨𝐟...NASA released a statement in 2005 reporting that experts had examined fragments from the area and det...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nij.ojp.gov  
    Title: chain custody  
-   Link: <a href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeChain of Custody of Evidence | National Institute of Justice7 Jun 2023 — The chain of custody of evidence is...</p></details>
+   Link:<a href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeChain of Custody of Evidence | National Institute of Justice7 Jun 2023 — The chain of custody of evidence is...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nij.ojp.gov  
-   Link: <a href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-[custody/chain" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-[custody/chain</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeChain of Custody Record | National Institute of JusticeThe chain of custody record must contain identifiers...</p></details>
+   Link:<a href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-[custody/chain" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-[custody/chain</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeChain of Custody Record | National Institute of JusticeThe chain of custody record must contain identifiers...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nij.ojp.gov  
    Title: chain custody  
-   Link: <a href="https://nij.ojp.gov/nij-hosted-online-training-courses/collecting-dna-evidence-at-property-crime-scenes/evidence-collection/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/collecting-dna-evidence-at-property-crime-scenes/evidence-collection/chain-custody</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeCollecting DNA Evidence at Property Crime Scenes | Chain of...7 Jun 2023 — The chain of custody is a tracki...</p></details>
+   Link:<a href="https://nij.ojp.gov/nij-hosted-online-training-courses/collecting-dna-evidence-at-property-crime-scenes/evidence-collection/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/collecting-dna-evidence-at-property-crime-scenes/evidence-collection/chain-custody</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeCollecting DNA Evidence at Property Crime Scenes | Chain of...7 Jun 2023 — The chain of custody is a tracki...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nij.ojp.gov  
-   Link: <a href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/sources-scientific-evidence/testing-or-evaluating-evidence-and-writing-reports/maintaining-chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/sources-scientific-evidence/testing-or-evaluating-evidence-and-writing-reports/maintaining-chain-custody</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeLaw 101: Legal Guide for the Forensic Expert | Maintaining a...Learn more about how forensic experts mainta...</p></details>
+   Link:<a href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/sources-scientific-evidence/testing-or-evaluating-evidence-and-writing-reports/maintaining-chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/sources-scientific-evidence/testing-or-evaluating-evidence-and-writing-reports/maintaining-chain-custody</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeLaw 101: Legal Guide for the Forensic Expert | Maintaining a...Learn more about how forensic experts mainta...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: rcfp.org  
    Title: nasa ordered review its records data ufo sighting  
-   Link: <a href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters CommitteeNASA Ordered to Review Its Records for Data on &quot;UFO...10 Dec 2007 — A recent settlement in a four-year old Freedom of...</p></details>
+   Link:<a href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters CommitteeNASA Ordered to Review Its Records for Data on &quot;UFO...10 Dec 2007 — A recent settlement in a four-year old Freedom of...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa told to solve &#x27;UFO crash&#x27; X-File | World news11 Nov 2007 — Steve McConnell, Nasa&#x27;s public liaison officer, has admitted two boxes of...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa told to solve &#x27;UFO crash&#x27; X-File | World news11 Nov 2007 — Steve McConnell, Nasa&#x27;s public liaison officer, has admitted two boxes of...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/369940913_Maintaining_the_chain_of_custody_Anti-contamination_measures_for_trace_DNA_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369940913_Maintaining_the_chain_of_custody_Anti-contamination_measures_for_trace_DNA_evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Maintaining the chain of custody: Anti-contamination...11 Apr 2023 — Maintaining a clear chain of custody is critical to the admis...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/369940913_Maintaining_the_chain_of_custody_Anti-contamination_measures_for_trace_DNA_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369940913_Maintaining_the_chain_of_custody_Anti-contamination_measures_for_trace_DNA_evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Maintaining the chain of custody: Anti-contamination...11 Apr 2023 — Maintaining a clear chain of custody is critical to the admis...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/359449110_Chain_of_Custody_Scaling_the_Investigation_to_the_Event" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359449110_Chain_of_Custody_Scaling_the_Investigation_to_the_Event</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody: Scaling the Investigation to the EventChain of custody is defined as the chronological documentation of handling, trans...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/359449110_Chain_of_Custody_Scaling_the_Investigation_to_the_Event" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359449110_Chain_of_Custody_Scaling_the_Investigation_to_the_Event</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody: Scaling the Investigation to the EventChain of custody is defined as the chronological documentation of handling, trans...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ijeais.org  
-   Link: <a href="https://ijeais.org/wp-content/uploads/2025/6/IJAAFMR250624.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ijeais.org/wp-content/uploads/2025/6/IJAAFMR250624.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Evidence Management: Chain Of Custody ProcessThe chain of custody is vital for documenting evidence management, ensuring its aut...</p></details>
+   Link:<a href="https://ijeais.org/wp-content/uploads/2025/6/IJAAFMR250624.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ijeais.org/wp-content/uploads/2025/6/IJAAFMR250624.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Evidence Management: Chain Of Custody ProcessThe chain of custody is vital for documenting evidence management, ensuring its aut...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
    Title: Thus, maintenance of the chain of custody itself  
-   Link: <a href="https://www.researchgate.net/profile/Pranav-Kumar-12/publication/381805123_Chain_of_Custody_for_the_Integrity_of_Evidence_A_Critical_Examination/links/667fa1112aa57f3b825e2e26/Chain-of-Custody-for-the-Integrity-of-Evidence-A-Critical-Examination.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Pranav-Kumar-12/publication/381805123_Chain_of_Custody_for_the_Integrity_of_Evidence_A_Critical_Examination/links/667fa1112aa57f3b825e2e26/Chain-of-Custody-for-the-Integrity-of-Evidence-A-Critical-Examination.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody for the Integrity of Evidence: A Critical...The chain of custody aims to establish the integrity of physica...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Pranav-Kumar-12/publication/381805123_Chain_of_Custody_for_the_Integrity_of_Evidence_A_Critical_Examination/links/667fa1112aa57f3b825e2e26/Chain-of-Custody-for-the-Integrity-of-Evidence-A-Critical-Examination.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Pranav-Kumar-12/publication/381805123_Chain_of_Custody_for_the_Integrity_of_Evidence_A_Critical_Examination/links/667fa1112aa57f3b825e2e26/Chain-of-Custody-for-the-Integrity-of-Evidence-A-Critical-Examination.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody for the Integrity of Evidence: A Critical...The chain of custody aims to establish the integrity of physica...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
    Title: is case finally closed on 1965 ufo mysteryleslie  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is case finally closed on 1965 UFO mystery?--Leslie Keane...NASA had apparently set aside a file for documents relating to the case/or n...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is case finally closed on 1965 UFO mystery?--Leslie Keane...NASA had apparently set aside a file for documents relating to the case/or n...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theclio.com  
    Title: Kecksburg UFO Incident  
-   Link: <a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ClioThe Kecksburg UFO Incident happened December 9, 1965 when a mysterious glowing ball of fire crash landed in a small Pennsylvanian town...</p></details>
+   Link:<a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ClioThe Kecksburg UFO Incident happened December 9, 1965 when a mysterious glowing ball of fire crash landed in a small Pennsylvanian town...</p></details>
    Published: December 9, 1965  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg Incident: What Really Happened Here?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg Incident: What Really Happened Here?...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel  
-   Link: <a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lg1m_PvR55g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries with Dennis Farina - Season 1 Episode 8...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lg1m_PvR55g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries with Dennis Farina - Season 1 Episode 8...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Unsolved Mysteries with Dennis Farina  
-   Link: <a href="https://www.youtube.com/watch?v=TeLgzzfOS3c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TeLgzzfOS3c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, [Witnesses](&amp;#123;&amp;#123; &#x27;witnesses/&#x27; | relative_url &amp;#125;&amp;#125;) and Vanished Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TeLgzzfOS3c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TeLgzzfOS3c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, [Witnesses](&amp;#123;&amp;#123; &#x27;witnesses/&#x27; | relative_url &amp;#125;&amp;#125;) and Vanished Evidence...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ericsmann.com  
    Title: Kecksburg UFO  
-   Link: <a href="https://ericsmann.com/kecksburg-ufo" target="_blank" rel="noopener noreferrer nofollow">https://ericsmann.com/kecksburg-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric MannNASA released a statement in 2005 reporting that experts had examined fragments from the area and determined they were from a So...</p></details>
+   Link:<a href="https://ericsmann.com/kecksburg-ufo" target="_blank" rel="noopener noreferrer nofollow">https://ericsmann.com/kecksburg-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eric MannNASA released a statement in 2005 reporting that experts had examined fragments from the area and determined they were from a So...</p></details>

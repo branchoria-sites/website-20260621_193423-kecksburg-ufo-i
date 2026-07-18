@@ -280,22 +280,22 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_fireball_science_3dbbe4_michig
 
 ## Introduction
 
-The most important [physical evidence]({{ 'no-object/' | relative_url }}) in the Kecksburg case was not a photograph of a crashed object in Pennsylvania. It was a pair of photographs taken in Michigan that captured the lingering train of the brilliant fireball seen across the [Great Lakes]({{ 'great-lakes/' | relative_url }}) region on 9 December 1965. Those images allowed astronomers to do something that witness testimony alone could not: measure the event geometrically and reconstruct its path through the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+The most important [physical evidence]({{ 'no-object/' | relative_url }}) in the Kecksburg case was not a photograph of a crashed object in Pennsylvania. It was a pair of photographs taken in Michigan that captured the lingering train of the brilliant fireball seen across the [Great Lakes]({{ 'great-lakes/' | relative_url }}) region on 9 December 1965. Those images allowed astronomers to do something that witness testimony alone could not: measure the event geometrically and reconstruct its path through the atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_science_3dbbe4_michigan_train_photo_652d36-Illustration-1-dark.svg" | relative_url }}" alt="Train photos illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_science_3dbbe4_michigan_train_photo_652d36-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_science_3dbbe4_michigan_train_photo_652d36-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The result was significant. Instead of supporting the idea of an object descending directly into the Kecksburg woods, the photographic analysis indicated a steep atmospheric trajectory extending across the Great Lakes region. The reconstructed path placed the fireball far from the simple village-centred crash narrative that later became associated with the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+The result was significant. Instead of supporting the idea of an object descending directly into the Kecksburg woods, the photographic analysis indicated a steep atmospheric trajectory extending across the Great Lakes region. The reconstructed path placed the fireball far from the simple village-centred crash narrative that later became associated with the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Ka9dOx7ZWY" title="The Kecksburg UFO Case: Finally Solved After 60 Years?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer">The Kecksburg UFO Case: Finally Solved After 60 Years?</a></p><p class="youtube-embed-meta">Channel: Redoubt Productions &middot; Views: 851 &middot; Uploaded: December 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Ka9dOx7ZWY">Open on YouTube</a></p></div></div></div>
 
 ## Why train photographs mattered more than object photos
 
-The Michigan images did not show the fireball itself. They showed its train—the luminous trail left behind after the brightest phase of flight. That distinction is crucial because a train can remain visible long enough to be photographed carefully from multiple locations. Once two separated viewpoints are available, investigators can use [triangulation]({{ 'triangulation/' | relative_url }}) to determine the three-dimensional position of the trail in space. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+The Michigan images did not show the fireball itself. They showed its train—the luminous trail left behind after the brightest phase of flight. That distinction is crucial because a train can remain visible long enough to be photographed carefully from multiple locations. Once two separated viewpoints are available, investigators can use [triangulation]({{ 'triangulation/' | relative_url }}) to determine the three-dimensional position of the trail in space.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
-This is fundamentally different from evaluating eyewitness reports of a glowing object apparently dropping behind a hill or into nearby woods. Human observers often misjudge distance and altitude during spectacular fireball events. A persistent train, however, creates a measurable geometric record. The 1967 study by Von Del Chamberlain and David J. Krause explicitly used photographic triangulation of the train to calculate the fireball's trajectory and orbital characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+This is fundamentally different from evaluating eyewitness reports of a glowing object apparently dropping behind a hill or into nearby woods. Human observers often misjudge distance and altitude during spectacular fireball events. A persistent train, however, creates a measurable geometric record. The 1967 study by Von Del Chamberlain and David J. Krause explicitly used photographic triangulation of the train to calculate the fireball's trajectory and orbital characteristics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
-For the Kecksburg debate, the importance of the photographs lies in their independence from later UFO stories. The images were recorded near the time of the event and provided data that could be analysed mathematically rather than interpreted through memory years afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+For the Kecksburg debate, the importance of the photographs lies in their independence from later UFO stories. The images were recorded near the time of the event and provided data that could be analysed mathematically rather than interpreted through memory years afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lsHWrkQWiQs" title="Real UFO? The &quot;Space Acorn&quot; of Kecksburg Pennsylvania" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer">Real UFO? The &quot;Space Acorn&quot; of Kecksburg Pennsylvania</a></p><p class="youtube-embed-meta">Channel: Ray Out There &middot; Views: 1.9K &middot; Uploaded: May 2023 &middot; Length: 4 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lsHWrkQWiQs">Open on YouTube</a></p></div></div></div>
@@ -304,227 +304,227 @@ For the Kecksburg debate, the importance of the photographs lies in their indepe
 
 The two key photographs came from different locations in southeastern Michigan.
 
-One image was taken by Lowell Wright at Orchard Lake, shortly after the fireball passed. Later geological and meteoritical summaries described the photograph as showing a train composed largely of debris left by the fireball's disintegration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.michigan.gov/-/media/Project/Websites/egle/Documents/Programs/GRMD/Catalog/02/BU-05opt.pdf?rev=90b7e40c458741ddb871c397730d9a19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michigan.gov">[Michigan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michigan.gov</span><span class="citation-popover-snippet">meteorites of michigan9 YEAR. Figure 3. Another photograph of the train of the December 9, 1965 fireball taken by Richard Champin...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+One image was taken by Lowell Wright at Orchard Lake, shortly after the fireball passed. Later geological and meteoritical summaries described the photograph as showing a train composed largely of debris left by the fireball's disintegration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.michigan.gov/-/media/Project/Websites/egle/Documents/Programs/GRMD/Catalog/02/BU-05opt.pdf?rev=90b7e40c458741ddb871c397730d9a19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michigan.gov">[Michigan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michigan.gov</span><span class="citation-popover-snippet">meteorites of michigan9 YEAR. Figure 3. Another photograph of the train of the December 9, 1965 fireball taken by Richard Champin...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
-A second image was taken by Richard Champine east of Pontiac, Michigan. Because the two photographers were separated geographically, investigators could compare the apparent position of the same train against the background sky from two distinct viewing angles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.michigan.gov/-/media/Project/Websites/egle/Documents/Programs/GRMD/Catalog/02/BU-05opt.pdf?rev=90b7e40c458741ddb871c397730d9a19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michigan.gov">[Michigan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michigan.gov</span><span class="citation-popover-snippet">meteorites of michigan9 YEAR. Figure 3. Another photograph of the train of the December 9, 1965 fireball taken by Richard Champin...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+A second image was taken by Richard Champine east of Pontiac, Michigan. Because the two photographers were separated geographically, investigators could compare the apparent position of the same train against the background sky from two distinct viewing angles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.michigan.gov/-/media/Project/Websites/egle/Documents/Programs/GRMD/Catalog/02/BU-05opt.pdf?rev=90b7e40c458741ddb871c397730d9a19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michigan.gov">[Michigan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michigan.gov</span><span class="citation-popover-snippet">meteorites of michigan9 YEAR. Figure 3. Another photograph of the train of the December 9, 1965 fireball taken by Richard Champin...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
-The value of the pair was not simply that there were two photographs, but that they formed a stereo-like observational dataset. Each image supplied a line of sight. Where those lines intersected in space, astronomers could estimate the actual location and orientation of the train. This is the same basic principle used in modern fireball networks, where multiple observing stations reconstruct meteor trajectories through triangulation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+The value of the pair was not simply that there were two photographs, but that they formed a stereo-like observational dataset. Each image supplied a line of sight. Where those lines intersected in space, astronomers could estimate the actual location and orientation of the train. This is the same basic principle used in modern fireball networks, where multiple observing stations reconstruct meteor trajectories through triangulation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
-Because the train persisted long enough to be photographed from both locations, researchers had a rare opportunity to move beyond anecdotal reporting and derive a physical trajectory from observational evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+Because the train persisted long enough to be photographed from both locations, researchers had a rare opportunity to move beyond anecdotal reporting and derive a physical trajectory from observational evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_science_3dbbe4_michigan_train_photo_652d36-Illustration-2-dark.svg" | relative_url }}" alt="Train photos illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_science_3dbbe4_michigan_train_photo_652d36-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_science_3dbbe4_michigan_train_photo_652d36-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the images shifted the path away from Kecksburg
 
-The trajectory derived from the Michigan photographs led to a conclusion that has remained central to scientific interpretations of the event. Chamberlain and Krause determined that the fireball was moving on a southwest-to-northeast course and descending steeply through the atmosphere. Their reconstruction placed the probable terminal region near the north-western shore of Lake Erie in the Windsor area rather than at Kecksburg, Pennsylvania. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The trajectory derived from the Michigan photographs led to a conclusion that has remained central to scientific interpretations of the event. Chamberlain and Krause determined that the fireball was moving on a southwest-to-northeast course and descending steeply through the atmosphere. Their reconstruction placed the probable terminal region near the north-western shore of Lake Erie in the Windsor area rather than at Kecksburg, Pennsylvania.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-This finding matters because many Kecksburg [witnesses]({{ 'witnesses/' | relative_url }}) believed they had seen an object descend locally. The photographic reconstruction suggested that at least the major fireball visible across several states and parts of Canada was following a different path from the one implied by a direct descent into the Pennsylvania woods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+This finding matters because many Kecksburg [witnesses]({{ 'witnesses/' | relative_url }}) believed they had seen an object descend locally. The photographic reconstruction suggested that at least the major fireball visible across several states and parts of Canada was following a different path from the one implied by a direct descent into the Pennsylvania woods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-The photographs therefore changed the central question. Instead of asking whether the brilliant object seen in the sky crashed at Kecksburg, investigators had to consider whether the widely observed fireball and the reported local events were actually the same phenomenon. The Michigan dataset did not explain every later claim, but it challenged the assumption that the fireball itself ended at Kecksburg. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+The photographs therefore changed the central question. Instead of asking whether the brilliant object seen in the sky crashed at Kecksburg, investigators had to consider whether the widely observed fireball and the reported local events were actually the same phenomenon. The Michigan dataset did not explain every later claim, but it challenged the assumption that the fireball itself ended at Kecksburg.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tU7WSHZye5w" title="Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer">Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 68.0K &middot; Uploaded: March 2025 &middot; Length: 1 hour 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tU7WSHZye5w">Open on YouTube</a></p></div></div></div>
 
 ## What the photographs can and cannot prove
 
-The Michigan photographs are among the strongest pieces of measurable evidence connected to the broader Kecksburg story because they enabled a reconstruction based on geometry rather than recollection. They support the existence of a large [regional fireball]({{ 'fireball-map/' | relative_url }}) and provide a scientifically derived trajectory for that event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+The Michigan photographs are among the strongest pieces of measurable evidence connected to the broader Kecksburg story because they enabled a reconstruction based on geometry rather than recollection. They support the existence of a large [regional fireball]({{ 'fireball-map/' | relative_url }}) and provide a scientifically derived trajectory for that event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
-At the same time, the photographs do not resolve every aspect of the controversy. They cannot determine what local witnesses may have heard, whether military personnel responded to reports on the ground, or whether unrelated events occurred after the fireball passed. Their value is narrower but more concrete: they establish where the visible atmospheric phenomenon most likely travelled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+At the same time, the photographs do not resolve every aspect of the controversy. They cannot determine what local witnesses may have heard, whether military personnel responded to reports on the ground, or whether unrelated events occurred after the fireball passed. Their value is narrower but more concrete: they establish where the visible atmospheric phenomenon most likely travelled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
-Within the scientific reconstruction of the Kecksburg incident, that contribution is substantial. Two photographs of a fading train transformed a dramatic sky spectacle into a measurable Great Lakes fireball, providing evidence that the principal atmospheric event followed a trajectory inconsistent with a straightforward crash at Kecksburg itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs+2Michigan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+Within the scientific reconstruction of the Kecksburg incident, that contribution is substantial. Two photographs of a fading train transformed a dramatic sky spectacle into a measurable Great Lakes fireball, providing evidence that the principal atmospheric event followed a trajectory inconsistent with a straightforward crash at Kecksburg itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_science_3dbbe4_michigan_train_photo_652d36-Illustration-3-dark.svg" | relative_url }}" alt="Train photos illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_science_3dbbe4_michigan_train_photo_652d36-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_science_3dbbe4_michigan_train_photo_652d36-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What the Michigan fireball photos really showed. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What the Michigan fireball photos really showed. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypTvAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rocks from Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypTvAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rocks from Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
+</h4>
+<p class="fr-book-author">By O. Richard Norton</p>
         
-        <p class="fr-book-desc">Explains fireball trains, observation, and documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains fireball trains, observation, and documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Science and Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BSAIAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteor Science and Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
-        </h4>
-        <p class="fr-book-author">By Donald William Robert McKinley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Science and Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BSAIAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteor Science and Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
+</h4>
+<p class="fr-book-author">By Donald William Robert McKinley</p>
         
-        <p class="fr-book-desc">Discusses trajectory analysis from observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses trajectory analysis from observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for comparing witness claims and physical evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing witness claims and physical evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cambridge+Encyclopedia+of+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cambridge Encyclopedia of Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J45wQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cambridge Encyclopedia of Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cambridge+Encyclopedia+of+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge Encyclopedia of Meteorites">The Cambridge Encyclopedia of Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cambridge+Encyclopedia+of+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cambridge Encyclopedia of Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J45wQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cambridge Encyclopedia of Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cambridge+Encyclopedia+of+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge Encyclopedia of Meteorites">The Cambridge Encyclopedia of Meteorites</a>
+</h4>
+<p class="fr-book-author">By O. Richard Norton</p>
         
-        <p class="fr-book-desc">Provides broader context for meteor documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cambridge+Encyclopedia+of+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for meteor documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cambridge+Encyclopedia+of+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Science and Engineering</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Science and Engineering</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="train-photos-what-the-michigan-fireball-photos-really-showed-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Spaceship Art Print Sci Fi Flying Saucer Fantasy Wall Decor Poster"><img src="https://i.ebayimg.com/images/g/uMEAAeSw0E1oxu9O/s-l225.jpg" alt="Listing image for Alien UFO Spaceship Art Print Sci Fi Flying Saucer Fantasy Wall Decor Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Spaceship Art Print Sci Fi Flying Saucer Fantasy Wall Decor Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-the-michigan-fireball-photos-really-showed-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ Within the scientific reconstruction of the Kecksburg incident, that contributio
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ Within the scientific reconstruction of the Kecksburg incident, that contributio
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ Within the scientific reconstruction of the Kecksburg incident, that contributio
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ Within the scientific reconstruction of the Kecksburg incident, that contributio
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ Within the scientific reconstruction of the Kecksburg incident, that contributio
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,87 +730,87 @@ Within the scientific reconstruction of the Kecksburg incident, that contributio
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: michigan.gov  
-   Link: <a href="https://www.michigan.gov/-/media/Project/Websites/egle/Documents/Programs/GRMD/Catalog/02/BU-05opt.pdf?rev=90b7e40c458741ddb871c397730d9a19" target="_blank" rel="noopener noreferrer nofollow">https://www.michigan.gov/-/media/Project/Websites/egle/Documents/Programs/GRMD/Catalog/02/BU-05opt.pdf?rev=90b7e40c458741ddb871c397730d9a19</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>meteorites of michigan9 YEAR. Figure 3. Another photograph of the train of the December 9, 1965 fireball taken by Richard Champin...</p></details>
+   Link:<a href="https://www.michigan.gov/-/media/Project/Websites/egle/Documents/Programs/GRMD/Catalog/02/BU-05opt.pdf?rev=90b7e40c458741ddb871c397730d9a19" target="_blank" rel="noopener noreferrer nofollow">https://www.michigan.gov/-/media/Project/Websites/egle/Documents/Programs/GRMD/Catalog/02/BU-05opt.pdf?rev=90b7e40c458741ddb871c397730d9a19</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>meteorites of michigan9 YEAR. Figure 3. Another photograph of the train of the December 9, 1965 fireball taken by Richard Champin...</p></details>
    Published: December 9, 1965  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv A Dynamic Trajectory Fit to Multi-Sensor Fireball Observations  
-   Link: <a href="https://arxiv.org/abs/1911.00816" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1911.00816</a>  
+   Link:<a href="https://arxiv.org/abs/1911.00816" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1911.00816</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: European Fireball Network  
-   Link: <a href="https://en.wikipedia.org/wiki/European_Fireball_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/European_Fireball_Network</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/European_Fireball_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/European_Fireball_Network</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: adsabs.harvard.edu  
-   Link: <a href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1967JRASC..61..184C</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</p></details>
+   Link:<a href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1967JRASC..61..184C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</p></details>
    Published: December 9, 1965  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.gov  
-   Link: <a href="https://www.science.gov/topicpages/n/nuclear%2Bfireball%2Bmodel" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/n/nuclear%2Bfireball%2Bmodel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nuclear fireball modelBy modeling the thermal transport between the fireball and the carrier materials, the time of mass transport is cal...</p></details>
+   Link:<a href="https://www.science.gov/topicpages/n/nuclear%2Bfireball%2Bmodel" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/n/nuclear%2Bfireball%2Bmodel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nuclear fireball modelBy modeling the thermal transport between the fireball and the carrier materials, the time of mass transport is cal...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel  
-   Link: <a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lg1m_PvR55g</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Kecksburg UFO Case: Finally Solved After 60 Years?[https://www.youtube.com/watch?v=3Ka9dOx7ZWY...&quot;](https://www.youtube.com/watch?v=3Ka9dOx7ZWY...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lg1m_PvR55g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Kecksburg UFO Case: Finally Solved After 60 Years?[https://www.youtube.com/watch?v=3Ka9dOx7ZWY...&quot;](https://www.youtube.com/watch?v=3Ka9dOx7ZWY...&quot;)...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: imo.net  
    Title: imc2016 proceedings  
-   Link: <a href="https://www.imo.net/files/imc2016/imc2016-proceedings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/files/imc2016/imc2016-proceedings.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Proceedings of the International Meteor Conference5 Jun 2016 — Australia: Fireball Trajectory and Orbit from. Photographic Records”. 74th...</p></details>
+   Link:<a href="https://www.imo.net/files/imc2016/imc2016-proceedings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/files/imc2016/imc2016-proceedings.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Proceedings of the International Meteor Conference5 Jun 2016 — Australia: Fireball Trajectory and Orbit from. Photographic Records”. 74th...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13593" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13593</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>learning for semi‐automated meteorite recoveryby S Anderson · 2020 · Cited by 16 — For every fireball event observed by multiple camera s...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13593" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13593</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>learning for semi‐automated meteorite recoveryby S Anderson · 2020 · Cited by 16 — For every fireball event observed by multiple camera s...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Real UFO? The "Space Acorn" of Kecksburg Pennsylvania  
-   Link: <a href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lsHWrkQWiQs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lsHWrkQWiQs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/04/1965.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/04/1965.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pdfThe Project Fire success in atmospheric entry of a test vehicle at speeds simulating a return from the moon provided a geometric jump...</p></details>
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2023/04/1965.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/04/1965.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pdfThe Project Fire success in atmospheric entry of a test vehicle at speeds simulating a return from the moon provided a geometric jump...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 1965...A 1967 scientific study published photographs of the fireball&#x27;s trail to triangulate its path, Trajectory analyses c...</p></details>
+   Link:<a href="https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 1965...A 1967 scientific study published photographs of the fireball&#x27;s trail to triangulate its path, Trajectory analyses c...</p></details>
    Published: December 9, 1965  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: documents.theblackvault.com  
    Title: pbb meteors  
-   Link: <a href="https://documents.theblackvault.com/bluebookdesk/pbb-meteors.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/bluebookdesk/pbb-meteors.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THEORY ON SLOW MOVING GREEN FIREBALLS-PART II12 Aug 2017 — The fireball of December 9, 1965, part I, calculation of the trajectory and or...</p></details>
+   Link:<a href="https://documents.theblackvault.com/bluebookdesk/pbb-meteors.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/bluebookdesk/pbb-meteors.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THEORY ON SLOW MOVING GREEN FIREBALLS-PART II12 Aug 2017 — The fireball of December 9, 1965, part I, calculation of the trajectory and or...</p></details>
    Published: December 9, 1965  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Around The Town  
-   Link: <a href="https://www.youtube.com/watch?v=FjFdzlRlTiA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FjFdzlRlTiA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=FjFdzlRlTiA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FjFdzlRlTiA</a>  

@@ -280,41 +280,41 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_many_f
 
 ## Introduction
 
-One of the most misunderstood aspects of the Kecksburg incident is that Kecksburg was not the only place where people thought the object came down. On 9 December 1965, a brilliant fireball crossed a huge area of North America, visible from multiple states and Ontario. In the hours that followed, reports of a landing or crash emerged from widely separated communities. The reason was not necessarily deception or confusion about whether something had been seen. Rather, it reflected a well-known problem in human perception: extremely bright fireballs can appear much closer than they really are, especially when viewed low on the horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireb...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
+One of the most misunderstood aspects of the Kecksburg incident is that Kecksburg was not the only place where people thought the object came down. On 9 December 1965, a brilliant fireball crossed a huge area of North America, visible from multiple states and Ontario. In the hours that followed, reports of a landing or crash emerged from widely separated communities. The reason was not necessarily deception or confusion about whether something had been seen. Rather, it reflected a well-known problem in human perception: extremely bright fireballs can appear much closer than they really are, especially when viewed low on the horizon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireb...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_many_false_landings_b238c2-Illustration-1-dark.svg" | relative_url }}" alt="False Landings illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_many_false_landings_b238c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_many_false_landings_b238c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The Detroit–Windsor reconstruction helps explain why so many sincere [witnesses]({{ 'witnesses/' | relative_url }}) reached different conclusions. A single regional event produced numerous local “landing” impressions, creating the impression of multiple crashes when there was almost certainly only one major fireball. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireb...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
+The Detroit–Windsor reconstruction helps explain why so many sincere [witnesses]({{ 'witnesses/' | relative_url }}) reached different conclusions. A single regional event produced numerous local “landing” impressions, creating the impression of multiple crashes when there was almost certainly only one major fireball.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireb...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_many_false_landings_b238c2-Illustration-3-dark.svg" | relative_url }}" alt="False Landings illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_many_false_landings_b238c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_many_false_landings_b238c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Bolides Fool Distance Judgment
 
-A bolide is an exceptionally bright fireball, often brighter than any planet and sometimes bright enough to illuminate the landscape. Because these objects occur at high altitude, observers usually lack familiar reference points that would allow accurate distance estimation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+A bolide is an exceptionally bright fireball, often brighter than any planet and sometimes bright enough to illuminate the landscape. Because these objects occur at high altitude, observers usually lack familiar reference points that would allow accurate distance estimation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 When a bright object is seen descending toward the horizon, the brain naturally interprets it as approaching the ground nearby. In reality, the object may still be tens or even hundreds of kilometres away. The effect becomes stronger near sunset or dusk, when visibility is reduced and [landmarks]({{ 'landmarks/' | relative_url }}) are harder to judge.
 
-The December 1965 fireball was reported across at least six states and Ontario, covering an enormous viewing area. An object visible over such a region must have been at great altitude for much of its flight. Yet individual observers often experienced it as a local event because they saw only a small portion of the trajectory from their own location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireb...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
+The December 1965 fireball was reported across at least six states and Ontario, covering an enormous viewing area. An object visible over such a region must have been at great altitude for much of its flight. Yet individual observers often experienced it as a local event because they saw only a small portion of the trajectory from their own location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireb...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
 
-Another factor was brightness itself. Very bright meteors frequently appear larger and closer than they are. Witnesses often remember them descending behind a nearby ridge, tree line, or hill, even when later trajectory analysis shows the object was far beyond that apparent horizon point. This is a common feature of major fireball reports and not unique to Kecksburg. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Another factor was brightness itself. Very bright meteors frequently appear larger and closer than they are. Witnesses often remember them descending behind a nearby ridge, tree line, or hill, even when later trajectory analysis shows the object was far beyond that apparent horizon point. This is a common feature of major fireball reports and not unique to Kecksburg.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VM68dQjp4-M" title="Nearly 50 years later, Kecksburg UFO sighting remains mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VM68dQjp4-M" target="_blank" rel="noopener noreferrer">Nearly 50 years later, Kecksburg UFO sighting remains mystery</a></p><p class="youtube-embed-meta">Channel: WTAE-TV Pittsburgh &middot; Views: 38.0K &middot; Uploaded: July 2013 &middot; Length: 2 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VM68dQjp4-M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VM68dQjp4-M">Open on YouTube</a></p></div></div></div>
 
 ## Crash Reports Across Multiple States
 
-Contemporary accounts did not immediately converge on Kecksburg as the landing site. Early reports proposed impact locations across a broad region stretching from parts of Michigan through Ohio and into Pennsylvania. Later investigators noted that numerous communities believed the object had come down in their vicinity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hjkc.de/_blog/2815-ufo-forschung---die-kecksburg-ufo-absturz-story---teil-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hjkc.de">[CENAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hjkc.de</span><span class="citation-popover-snippet">CENAPUFO-Forschung - Die Kecksburg UFO-Absturz Story - Teil 4Chamberlain positively identified the fireball as a meteor, not a UFO, and f...</span></span></span>
+Contemporary accounts did not immediately converge on Kecksburg as the landing site. Early reports proposed impact locations across a broad region stretching from parts of Michigan through Ohio and into Pennsylvania. Later investigators noted that numerous communities believed the object had come down in their vicinity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hjkc.de/_blog/2815-ufo-forschung---die-kecksburg-ufo-absturz-story---teil-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hjkc.de">[CENAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hjkc.de</span><span class="citation-popover-snippet">CENAPUFO-Forschung - Die Kecksburg UFO-Absturz Story - Teil 4Chamberlain positively identified the fireball as a meteor, not a UFO, and f...</span></span></span>
 
 Several circumstances encouraged these local interpretations:
 
 * The fireball travelled across a vast geographical area.
 * Sonic [booms]({{ 'booms/' | relative_url }}) and shock effects were heard in different places.
 * Some witnesses saw a lingering smoke-like trail after the fireball itself disappeared.
-* News reports spread rapidly before a reliable trajectory reconstruction existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg%2C_Pennsylvania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg, Pennsylvania</span><span class="citation-popover-snippet">Kecksburg, Pennsylvania</span></span></span>
+* News reports spread rapidly before a reliable trajectory reconstruction existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg%2C_Pennsylvania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg, Pennsylvania</span><span class="citation-popover-snippet">Kecksburg, Pennsylvania</span></span></span>
 
 Once a community became convinced that the object had descended nearby, additional reports often reinforced that belief. People who heard a boom, saw lights in the sky, or noticed unusual activity could interpret those experiences through the emerging crash narrative. This process is common in major aerial events, where early uncertainty leaves room for multiple competing local explanations.
 
-The result was a patchwork of presumed landing zones. Kecksburg eventually became the most famous because of the reports from the wooded area outside the village and the subsequent stories about military activity, but it emerged from a broader landscape of competing crash claims rather than from a single uncontested observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/story?id=3785376&amp;page=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsNASA to search files for UFO incident27 Oct 2007 — The Air Force&#x27;s explanation for the unidentified flying object: A meteor or me...</span></span></span>
+The result was a patchwork of presumed landing zones. Kecksburg eventually became the most famous because of the reports from the wooded area outside the village and the subsequent stories about military activity, but it emerged from a broader landscape of competing crash claims rather than from a single uncontested observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/story?id=3785376&amp;page=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[abcnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsNASA to search files for UFO incident27 Oct 2007 — The Air Force&#x27;s explanation for the unidentified flying object: A meteor or me...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Ka9dOx7ZWY" title="The Kecksburg UFO Case: Finally Solved After 60 Years?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer">The Kecksburg UFO Case: Finally Solved After 60 Years?</a></p><p class="youtube-embed-meta">Channel: Redoubt Productions &middot; Views: 851 &middot; Uploaded: December 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Ka9dOx7ZWY">Open on YouTube</a></p></div></div></div>
@@ -323,213 +323,213 @@ The result was a patchwork of presumed landing zones. Kecksburg eventually becam
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_many_false_landings_b238c2-Illustration-2-dark.svg" | relative_url }}" alt="False Landings illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_many_false_landings_b238c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_many_false_landings_b238c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Kecksburg Shared With Other Landing Claims
 
-Kecksburg was unusual in its later cultural impact, but not in the way witnesses initially interpreted the fireball. Many major meteor and bolide events generate reports from observers who are convinced the object landed nearby. Astronomers and meteor investigators have long recognised that apparent descent angles can be misleading when a bright object is viewed against a distant horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Kecksburg was unusual in its later cultural impact, but not in the way witnesses initially interpreted the fireball. Many major meteor and bolide events generate reports from observers who are convinced the object landed nearby. Astronomers and meteor investigators have long recognised that apparent descent angles can be misleading when a bright object is viewed against a distant horizon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 The 1965 event exhibited several characteristics that commonly produce false landing reports:
 
-**A long visible path.** The fireball crossed a large region, allowing observers in many locations to see it from different angles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireb...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
+**A long visible path.** The fireball crossed a large region, allowing observers in many locations to see it from different angles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireb...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
 
-**Exceptional brightness.** Brilliant fireballs dominate the visual field and distort ordinary distance perception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+**Exceptional brightness.** Brilliant fireballs dominate the visual field and distort ordinary distance perception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-**Audible effects.** Sonic booms and [shock waves]({{ 'shock-waves/' | relative_url }}) can be heard far from the actual trajectory, encouraging people to associate local sounds with a nearby impact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg%2C_Pennsylvania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg, Pennsylvania</span><span class="citation-popover-snippet">Kecksburg, Pennsylvania</span></span></span>
+**Audible effects.** Sonic booms and [shock waves]({{ 'shock-waves/' | relative_url }}) can be heard far from the actual trajectory, encouraging people to associate local sounds with a nearby impact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg%2C_Pennsylvania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg, Pennsylvania</span><span class="citation-popover-snippet">Kecksburg, Pennsylvania</span></span></span>
 
-**Rapid rumour formation.** As reports spread through news media and word of mouth, communities often connected unrelated local observations to the same event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/story?id=3785376&amp;page=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsNASA to search files for UFO incident27 Oct 2007 — The Air Force&#x27;s explanation for the unidentified flying object: A meteor or me...</span></span></span>
+**Rapid rumour formation.** As reports spread through news media and word of mouth, communities often connected unrelated local observations to the same event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/story?id=3785376&amp;page=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsNASA to search files for UFO incident27 Oct 2007 — The Air Force&#x27;s explanation for the unidentified flying object: A meteor or me...</span></span></span>
 
-Seen in this context, the Kecksburg reports become part of a larger pattern. The key historical question is not why one town believed the object landed nearby, but why so many towns did. The answer lies largely in the nature of a bright [regional fireball]({{ 'fireball-map/' | relative_url }}): an event visible over hundreds of kilometres can create dozens of sincere but incompatible impressions of where it finally came down. The Detroit–Windsor reconstruction helps explain that paradox by showing how a single aerial event could generate multiple local “crash” stories at the same time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2CENAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireb...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
+Seen in this context, the Kecksburg reports become part of a larger pattern. The key historical question is not why one town believed the object landed nearby, but why so many towns did. The answer lies largely in the nature of a bright [regional fireball]({{ 'fireball-map/' | relative_url }}): an event visible over hundreds of kilometres can create dozens of sincere but incompatible impressions of where it finally came down. The Detroit–Windsor reconstruction helps explain that paradox by showing how a single aerial event could generate multiple local “crash” stories at the same time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">March 7, 2026 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireb...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ac3hYt3k-Eo" title="The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer">The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 149.6K &middot; Uploaded: July 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ac3hYt3k-Eo">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Everyone Thought It Landed Nearby. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Everyone Thought It Landed Nearby. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating major UFO reports and witness claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating major UFO reports and witness claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores how sightings are interpreted and investigated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how sightings are interpreted and investigated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Science and Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BSAIAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteor Science and Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
-        </h4>
-        <p class="fr-book-author">By Donald William Robert McKinley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Science and Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BSAIAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteor Science and Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
+</h4>
+<p class="fr-book-author">By Donald William Robert McKinley</p>
         
-        <p class="fr-book-desc">Directly explains fireballs, bolides, and apparent landing illusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains fireballs, bolides, and apparent landing illusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Firestorm+by+Ann+Druffel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Firestorm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xGD0wAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Firestorm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Firestorm+by+Ann+Druffel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Firestorm">Firestorm</a>
-        </h4>
-        <p class="fr-book-author">By Ann Druffel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Firestorm+by+Ann+Druffel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Firestorm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xGD0wAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Firestorm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Firestorm+by+Ann+Druffel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Firestorm">Firestorm</a>
+</h4>
+<p class="fr-book-author">By Ann Druffel</p>
         
-        <p class="fr-book-desc">Covers scientific approaches to aerial phenomena and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Firestorm+by+Ann+Druffel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers scientific approaches to aerial phenomena and witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Firestorm+by+Ann+Druffel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Science and Engineering</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Science and Engineering</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/a4702a69b8c69ab6582b.jpg' | relative_url }}" alt="Listing image for Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/a4702a69b8c69ab6582b.jpg' | relative_url }}" alt="Listing image for Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/d08323b3733fc5c4b9fd.jpg' | relative_url }}" alt="Listing image for Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/d08323b3733fc5c4b9fd.jpg' | relative_url }}" alt="Listing image for Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Great Lakes including Canals and Tributary Navigable Streams Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/13030d3d769dd34fbc3e.jpg' | relative_url }}" alt="Listing image for Great Lakes including Canals and Tributary Navigable Streams Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Great Lakes including Canals and Tributary Navigable Streams Map Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Great Lakes including Canals and Tributary Navigable Streams Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/13030d3d769dd34fbc3e.jpg' | relative_url }}" alt="Listing image for Great Lakes including Canals and Tributary Navigable Streams Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Great Lakes including Canals and Tributary Navigable Streams Map Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of The Great Lakes Michigan USA 1780 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/1afd147909e2a6660806.jpg' | relative_url }}" alt="Listing image for Map Of The Great Lakes Michigan USA 1780 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of The Great Lakes Michigan USA 1780 Vintage Historic Map Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of The Great Lakes Michigan USA 1780 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/1afd147909e2a6660806.jpg' | relative_url }}" alt="Listing image for Map Of The Great Lakes Michigan USA 1780 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of The Great Lakes Michigan USA 1780 Vintage Historic Map Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="false-landings-why-everyone-thought-it-landed-nearby-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ Seen in this context, the Kecksburg reports become part of a larger pattern. The
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ Seen in this context, the Kecksburg reports become part of a larger pattern. The
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ Seen in this context, the Kecksburg reports become part of a larger pattern. The
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ Seen in this context, the Kecksburg reports become part of a larger pattern. The
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ Seen in this context, the Kecksburg reports become part of a larger pattern. The
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,108 +735,108 @@ Seen in this context, the Kecksburg reports become part of a larger pattern. The
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 7, 2026 — [The Kecksburg UFO incident](&amp;#123;&amp;#123; &#x27;the-kecksburg-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;) occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireb...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 7, 2026 — [The Kecksburg UFO incident](&amp;#123;&amp;#123; &#x27;the-kecksburg-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;) occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireb...</p></details>
    Published: March 7, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Kecksburg, Pennsylvania  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg%2C_Pennsylvania" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg%2C_Pennsylvania</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg%2C_Pennsylvania" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg%2C_Pennsylvania</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Meteor air burst  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteor_air_burst" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor_air_burst</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Meteor_air_burst" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor_air_burst</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Incidente di Kecksburg  
-   Link: <a href="https://it.wikipedia.org/wiki/Incidente_di_Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Kecksburg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Incidente di KecksburgDescritta inizialmente dai media come la caduta di un meteorite, è stata in seguito spiegata dalla NASA con il r...</p></details>
+   Link:<a href="https://it.wikipedia.org/wiki/Incidente_di_Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Kecksburg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incidente di KecksburgDescritta inizialmente dai media come la caduta di un meteorite, è stata in seguito spiegata dalla NASA con il r...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hjkc.de  
-   Link: <a href="https://www.hjkc.de/_blog/2815-ufo-forschung---die-kecksburg-ufo-absturz-story---teil-4/" target="_blank" rel="noopener noreferrer nofollow">https://www.hjkc.de/_blog/2815-ufo-forschung---die-kecksburg-ufo-absturz-story---teil-4/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CENAPUFO-Forschung - Die Kecksburg UFO-Absturz Story - Teil 4Chamberlain positively identified the fireball as a meteor, not a UFO, and f...</p></details>
+   Link:<a href="https://www.hjkc.de/_blog/2815-ufo-forschung---die-kecksburg-ufo-absturz-story---teil-4/" target="_blank" rel="noopener noreferrer nofollow">https://www.hjkc.de/_blog/2815-ufo-forschung---die-kecksburg-ufo-absturz-story---teil-4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CENAPUFO-Forschung - Die Kecksburg UFO-Absturz Story - Teil 4Chamberlain positively identified the fireball as a meteor, not a UFO, and f...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/story?id=3785376&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/story?id=3785376&amp;page=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsNASA to search files for UFO incident27 Oct 2007 — The Air Force&#x27;s explanation for the unidentified flying object: A meteor or me...</p></details>
+   Link:<a href="https://abcnews.com/Technology/story?id=3785376&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/story?id=3785376&amp;page=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsNASA to search files for UFO incident27 Oct 2007 — The Air Force&#x27;s explanation for the unidentified flying object: A meteor or me...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: post-gazette.com  
-   Link: <a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>9, 1965, they say, was a General Electric Mark 2 [Re-entry](&amp;#123;&amp;#123; &#x27;re-entry/&#x27; | relative_url &amp;#125;&amp;#125;) Vehicle that had been launched by the Air Force as...Read more...</p></details>
+   Link:<a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9, 1965, they say, was a General Electric Mark 2 [Re-entry](&amp;#123;&amp;#123; &#x27;re-entry/&#x27; | relative_url &amp;#125;&amp;#125;) Vehicle that had been launched by the Air Force as...Read more...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: positivelypittsburgh.com  
-   Link: <a href="https://positivelypittsburgh.com/the-kecksburg-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/the-kecksburg-ufo-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Positively PittsburghThe Kecksburg UFO IncidentAccording to Discovery UK, the fireball that would become the Kecksburg UFO was seen in at...</p></details>
+   Link:<a href="https://positivelypittsburgh.com/the-kecksburg-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/the-kecksburg-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Positively PittsburghThe Kecksburg UFO IncidentAccording to Discovery UK, the fireball that would become the Kecksburg UFO was seen in at...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tardis.fandom.com  
-   Link: <a href="https://tardis.fandom.com/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://tardis.fandom.com/wiki/Kecksburg_UFO_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO incident | Tardis - Doctor Who Wiki - FandomThe Kecksburg UFO incident took place on 9 December, 1965, in the USA...</p></details>
+   Link:<a href="https://tardis.fandom.com/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://tardis.fandom.com/wiki/Kecksburg_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO incident | Tardis - Doctor Who Wiki - FandomThe Kecksburg UFO incident took place on 9 December, 1965, in the USA...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: Today I learned of the Kecksburg, PA UFO incident where local  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 6, 2017 — I learned of the Kecksburg, PA UFO incident where local witnesses actually saw the unidentified object up close before US...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 6, 2017 — I learned of the Kecksburg, PA UFO incident where local witnesses actually saw the unidentified object up close before US...</p></details>
    Published: June 6, 2017  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: space.com  
    Title: 7589 case finally closed 1965 pennsylvania ufo mystery  
-   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — This saga, now over four decades old, centerson a reported out-of...</p></details>
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — This saga, now over four decades old, centerson a reported out-of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: What Really Came Down In The Woods Near Kecksburg  
-   Link: <a href="https://www.facebook.com/Abovethenormnews/videos/-what-really-came-down-in-the-woods-near-kecksburg-thousands-witnessed-a-blazing/1541462657445303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/videos/-what-really-came-down-in-the-woods-near-kecksburg-thousands-witnessed-a-blazing/1541462657445303/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 10, 2026 — This was not a local event. Thousands of people across North America had witnessed the same object crossing the e...</p></details>
+   Link:<a href="https://www.facebook.com/Abovethenormnews/videos/-what-really-came-down-in-the-woods-near-kecksburg-thousands-witnessed-a-blazing/1541462657445303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/videos/-what-really-came-down-in-the-woods-near-kecksburg-thousands-witnessed-a-blazing/1541462657445303/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 10, 2026 — This was not a local event. Thousands of people across North America had witnessed the same object crossing the e...</p></details>
    Published: June 10, 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: Kecksburg's UFO Acorn: A Pennsylvania [Landmark](&#123;&#123; 'landmark/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-landmarks-/1410030341163016/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-landmarks-/1410030341163016/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 25, 2026 — Many in the region saw the fireball that tore across the sky that night, with some near Kecksburg claiming to have...</p></details>
+   Link:<a href="https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-landmarks-/1410030341163016/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-landmarks-/1410030341163016/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 25, 2026 — Many in the region saw the fireball that tore across the sky that night, with some near Kecksburg claiming to have...</p></details>
    Published: May 25, 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: Today is the 60th Anniversary of Western  
-   Link: <a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 2025 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball wa...</p></details>
+   Link:<a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 2025 — The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball wa...</p></details>
    Published: December 9, 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: What fell from the sky in Kecksburg PA  
-   Link: <a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What fell from the sky in Kecksburg PA December 9, 1965?...&quot;On December 9, 1965, a brilliant fireball was seen streaking across...</p></details>
+   Link:<a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What fell from the sky in Kecksburg PA December 9, 1965?...&quot;On December 9, 1965, a brilliant fireball was seen streaking across...</p></details>
    Published: December 9, 1965  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/484025020082/posts/10174584025095083/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/484025020082/posts/10174584025095083/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hool during the Kecksburg, Pa. incident, and remember it...</p></details>
+   Link:<a href="https://www.facebook.com/groups/484025020082/posts/10174584025095083/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/484025020082/posts/10174584025095083/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hool during the Kecksburg, Pa. incident, and remember it...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: crash site of the 1965 kecksburg ufo  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On December 9th, 1965, Southeast of Pittsburgh a fiery object darted across the sky, and crashed in a wooded ravine on a farm in the vill...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On December 9th, 1965, Southeast of Pittsburgh a fiery object darted across the sky, and crashed in a wooded ravine on a farm in the vill...</p></details>

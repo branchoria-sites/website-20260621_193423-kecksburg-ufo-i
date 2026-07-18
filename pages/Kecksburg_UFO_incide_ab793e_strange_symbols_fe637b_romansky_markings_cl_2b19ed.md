@@ -274,7 +274,7 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_romansk
 
 ## Introduction
 
-The most influential witness behind the [Kecksburg markings]({{ 'markings/' | relative_url }}) story was firefighter James Romansky. Yet a careful reading of his account shows a significant gap between what he claimed to have seen and the popular retelling that the object carried “alien writing”. Romansky did not report translating an inscription, identifying a language, or observing recognisable text. Instead, he described unfamiliar symbols or shapes on a raised band-like section of the object, later comparing them to Egyptian [hieroglyphics]({{ 'hieroglyphics/' | relative_url }}) because that was the closest visual analogy he could find. Over time, that comparison evolved in many retellings into claims of extraterrestrial script, a stronger conclusion than the original testimony supports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/doc/34473106/International-UFO-Reporter-v30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">saw strange symbols that looked like Egyptian hieroglyph &quot;Multitudes of people had some...Read more...</span></span></span>
+The most influential witness behind the [Kecksburg markings]({{ 'markings/' | relative_url }}) story was firefighter James Romansky. Yet a careful reading of his account shows a significant gap between what he claimed to have seen and the popular retelling that the object carried “alien writing”. Romansky did not report translating an inscription, identifying a language, or observing recognisable text. Instead, he described unfamiliar symbols or shapes on a raised band-like section of the object, later comparing them to Egyptian [hieroglyphics]({{ 'hieroglyphics/' | relative_url }}) because that was the closest visual analogy he could find. Over time, that comparison evolved in many retellings into claims of extraterrestrial script, a stronger conclusion than the original testimony supports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/doc/34473106/International-UFO-Reporter-v30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">saw strange symbols that looked like Egyptian hieroglyph &quot;Multitudes of people had some...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_romansky_markings_cl_2b19ed-Illustration-1-dark.svg" | relative_url }}" alt="Romansky Marks illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_romansky_markings_cl_2b19ed-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_romansky_markings_cl_2b19ed-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ Understanding that distinction is important because the markings are often cited
 
 ## What Romansky Said He Saw
 
-Romansky's description emerged through later interviews and investigations rather than from a contemporaneous sketch or official report. According to accounts published by investigator [Stan Gordon]({{ 'stan-gordon/' | relative_url }}) and repeated in later media coverage, Romansky said the object was bronze or gold in colour, acorn-shaped, and partially embedded in the ground. On a raised rear section—sometimes described as a bumper or band—he noticed unusual markings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/doc/34473106/International-UFO-Reporter-v30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">saw strange symbols that looked like Egyptian hieroglyph &quot;Multitudes of people had some...Read more...</span></span></span>
+Romansky's description emerged through later interviews and investigations rather than from a contemporaneous sketch or official report. According to accounts published by investigator [Stan Gordon]({{ 'stan-gordon/' | relative_url }}) and repeated in later media coverage, Romansky said the object was bronze or gold in colour, acorn-shaped, and partially embedded in the ground. On a raised rear section—sometimes described as a bumper or band—he noticed unusual markings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/doc/34473106/International-UFO-Reporter-v30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">saw strange symbols that looked like Egyptian hieroglyph &quot;Multitudes of people had some...Read more...</span></span></span>
 
 The key point is that the markings were described as shapes, not words. Various versions of Romansky's recollections refer to:
 
@@ -296,11 +296,11 @@ The key point is that the markings were described as shapes, not words. Various 
 
 </div>
 
-These were presented as visual motifs that reminded him of ancient hieroglyphics rather than as readable characters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/doc/34473106/International-UFO-Reporter-v30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">saw strange symbols that looked like Egyptian hieroglyph &quot;Multitudes of people had some...Read more...</span></span></span>
+These were presented as visual motifs that reminded him of ancient hieroglyphics rather than as readable characters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/doc/34473106/International-UFO-Reporter-v30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">saw strange symbols that looked like Egyptian hieroglyph &quot;Multitudes of people had some...Read more...</span></span></span>
 
 Even in accounts sympathetic to the UFO interpretation, the wording is generally cautious. Romansky reportedly said the [symbols]({{ 'symbols/' | relative_url }}) "looked like" Egyptian hieroglyphics. That comparison communicates appearance, not identification. A person comparing a logo to Chinese characters, for example, is not claiming to have discovered a Chinese inscription.
 
-Another often-overlooked detail is that Romansky was recalling events years after the incident. Researchers have noted that some of his more detailed descriptions surfaced long after 1965, which makes it difficult to separate original observation from later interpretation and memory reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.calameo.com/books/00058403715f1b45994fc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">International UFO Reporter 2005 v30Firefighter James Romansky saw the flatbed truck speeding down the hill i n a military convoy, past th...</span></span></span>
+Another often-overlooked detail is that Romansky was recalling events years after the incident. Researchers have noted that some of his more detailed descriptions surfaced long after 1965, which makes it difficult to separate original observation from later interpretation and memory reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.calameo.com/books/00058403715f1b45994fc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">International UFO Reporter 2005 v30Firefighter James Romansky saw the flatbed truck speeding down the hill i n a military convoy, past th...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CKK66LtZ1Hs" title="Episode 184 Kecksburg Revisited with Stan Gordon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CKK66LtZ1Hs" target="_blank" rel="noopener noreferrer">Episode 184 Kecksburg Revisited with Stan Gordon</a></p><p class="youtube-embed-meta">Channel: Astonishing Legends &middot; Views: 2.3K &middot; Uploaded: May 2022 &middot; Length: 2 hours 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CKK66LtZ1Hs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CKK66LtZ1Hs">Open on YouTube</a></p></div></div></div>
@@ -311,11 +311,11 @@ The transformation from "unusual markings" to "alien writing" happened gradually
 
 Several factors encouraged that shift.
 
-First, hieroglyphics are commonly associated in popular culture with mysterious or ancient knowledge. Once Romansky used the comparison, later writers and television programmes often shortened the description to "hieroglyphics on the craft". In some retellings, the distinction between resemblance and actual writing effectively disappeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+First, hieroglyphics are commonly associated in popular culture with mysterious or ancient knowledge. Once Romansky used the comparison, later writers and television programmes often shortened the description to "hieroglyphics on the craft". In some retellings, the distinction between resemblance and actual writing effectively disappeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-Second, visual reconstructions reinforced the idea. Television documentaries and dramatisations frequently depicted neat rows of symbols on the object's surface. Such imagery naturally suggests a written language even when the underlying testimony never established that conclusion. The famous Kecksburg "acorn" imagery used in documentaries and local displays further fixed a specific visual interpretation in the public imagination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Second, visual reconstructions reinforced the idea. Television documentaries and dramatisations frequently depicted neat rows of symbols on the object's surface. Such imagery naturally suggests a written language even when the underlying testimony never established that conclusion. The famous Kecksburg "acorn" imagery used in documentaries and local displays further fixed a specific visual interpretation in the public imagination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-Third, the UFO field has a long history of reports involving mysterious symbols on alleged craft. Readers familiar with other cases often interpret any reported markings as a form of script. As a result, the Kecksburg symbols became absorbed into a broader narrative about extraterrestrial communication and technology despite the absence of evidence that the markings conveyed language. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1gb9llo/examples_of_reported_symbols_and_markings_on_ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Interplanetary Phenomenon Unit: Evidence of UFO Investigations?Read more</span><span class="citation-popover-snippet">Examples of reported symbols and markings on UFOs from...October 24, 2024 — r/UFOs - Symbols similar to Sheehan&#x27;s in a photo on th...</span><span class="citation-popover-meta">Published: October 24, 2024</span></span></span>
+Third, the UFO field has a long history of reports involving mysterious symbols on alleged craft. Readers familiar with other cases often interpret any reported markings as a form of script. As a result, the Kecksburg symbols became absorbed into a broader narrative about extraterrestrial communication and technology despite the absence of evidence that the markings conveyed language.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1gb9llo/examples_of_reported_symbols_and_markings_on_ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Interplanetary Phenomenon Unit: Evidence of UFO Investigations?Read more</span><span class="citation-popover-snippet">Examples of reported symbols and markings on UFOs from...October 24, 2024 — r/UFOs - Symbols similar to Sheehan&#x27;s in a photo on th...</span><span class="citation-popover-meta">Published: October 24, 2024</span></span></span>
 
 The result is a common modern claim that the Kecksburg object bore "alien writing", even though the original witness testimony never demonstrated that the markings functioned as writing at all.
 
@@ -327,7 +327,7 @@ Romansky's testimony can reasonably support only a limited set of conclusions.
 
 ### What it can support
 
-If Romansky's recollection is accepted at face value, it supports the claim that he believed he saw unusual markings on part of an object in the woods. It also supports the narrower claim that those markings appeared organised and distinctive enough to attract attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/doc/34473106/International-UFO-Reporter-v30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">saw strange symbols that looked like Egyptian hieroglyph &quot;Multitudes of people had some...Read more...</span></span></span>
+If Romansky's recollection is accepted at face value, it supports the claim that he believed he saw unusual markings on part of an object in the woods. It also supports the narrower claim that those markings appeared organised and distinctive enough to attract attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/doc/34473106/International-UFO-Reporter-v30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">saw strange symbols that looked like Egyptian hieroglyph &quot;Multitudes of people had some...Read more...</span></span></span>
 
 The testimony therefore contributes to the broader Kecksburg mystery by suggesting that at least one witness perceived more than a featureless metallic surface.
 
@@ -341,7 +341,7 @@ The account does not establish:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* That the markings were a language. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/378586116362926/posts/1690615418493316/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Spacecraft Component Lands in Kecksburg, Pennsylvania...Upon this area were unusual markings that Romansky says looked similar t...</span></span></span>
+* That the markings were a language.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/378586116362926/posts/1690615418493316/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Spacecraft Component Lands in Kecksburg, Pennsylvania...Upon this area were unusual markings that Romansky says looked similar t...</span></span></span>
 * That they carried a message.
 * That they originated from an extraterrestrial civilisation.
 * That they matched Egyptian hieroglyphics or any known writing system.
@@ -349,7 +349,7 @@ The account does not establish:
 
 </div>
 
-No authenticated photograph of the symbols has ever surfaced. No physical fragment bearing markings has been produced. No witness created a contemporaneous drawing that researchers could compare against later descriptions. There is therefore no independent means of analysing the symbols themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+No authenticated photograph of the symbols has ever surfaced. No physical fragment bearing markings has been produced. No witness created a contemporaneous drawing that researchers could compare against later descriptions. There is therefore no independent means of analysing the symbols themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 This absence of direct evidence is crucial. A claim of alien writing would normally require something that can be examined, copied, translated, or at least documented. The Kecksburg markings remain entirely dependent on human recollection.
 
@@ -361,201 +361,201 @@ The difference between "strange shapes" and "alien writing" may seem small, but 
 
 Unusual shapes on a metallic object are compatible with many possibilities. They could represent markings, manufacturing features, decorative elements, damage patterns, or simple misperception under difficult viewing conditions. Alien writing, by contrast, implies intentional communication and a non-human origin.
 
-Romansky never supplied evidence for that stronger conclusion. His testimony is best understood as a report of unfamiliar symbols that reminded him of hieroglyphics. The leap from that description to claims of extraterrestrial script occurred later, largely through repetition, interpretation, and popular retellings of the Kecksburg story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/doc/34473106/International-UFO-Reporter-v30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">saw strange symbols that looked like Egyptian hieroglyph &quot;Multitudes of people had some...Read more...</span></span></span>
+Romansky never supplied evidence for that stronger conclusion. His testimony is best understood as a report of unfamiliar symbols that reminded him of hieroglyphics. The leap from that description to claims of extraterrestrial script occurred later, largely through repetition, interpretation, and popular retellings of the Kecksburg story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/doc/34473106/International-UFO-Reporter-v30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">saw strange symbols that looked like Egyptian hieroglyph &quot;Multitudes of people had some...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BXh2zTD9Kug" title="The Kecksburg Incident: What Really Happened Here?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BXh2zTD9Kug" target="_blank" rel="noopener noreferrer">The Kecksburg Incident: What Really Happened Here?</a></p><p class="youtube-embed-meta">Channel: Decoding the Unknown</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BXh2zTD9Kug" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BXh2zTD9Kug">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Romansky Really Describe Alien Writing?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Romansky Really Describe Alien Writing?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hMf3TgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a>
-        </h4>
-        <p class="fr-book-author">By Stan Gordon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hMf3TgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a>
+</h4>
+<p class="fr-book-author">By Stan Gordon</p>
         
-        <p class="fr-book-desc">Offers background on the regional UFO investigations associated with the researchers and witnesses often cited in Kecksburg discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers background on the regional UFO investigations associated with the researchers and witnesses often cited in Kecksburg discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a careful evidence-based framework for evaluating witness claims, useful when assessing reports of unusual symbols and alleged a...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a careful evidence-based framework for evaluating witness claims, useful when assessing reports of unusual symbols and alleged a...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Helps readers compare how witness testimony, symbols, and crash-retrieval narratives evolve in famous UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers compare how witness testimony, symbols, and crash-retrieval narratives evolve in famous UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kecksburg UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kecksburg UFO Incident">The Kecksburg UFO Incident</a>
-        </h4>
-        <p class="fr-book-author">By George Dudding</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kecksburg UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kecksburg UFO Incident">The Kecksburg UFO Incident</a>
+</h4>
+<p class="fr-book-author">By George Dudding</p>
         
-        <p class="fr-book-desc">Focused specifically on the 1965 Kecksburg event that gave rise to claims about hieroglyphic-like symbols.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focused specifically on the 1965 Kecksburg event that gave rise to claims about hieroglyphic-like symbols.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Silent+Invasion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silent Invasion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Silent+Invasion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silent Invasion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien"><img src="{{ '/assets/images/marketplace-covers/f1f1b07bc0a68642baf5.jpg' | relative_url }}" alt="Listing image for USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien"><img src="{{ '/assets/images/marketplace-covers/f1f1b07bc0a68642baf5.jpg' | relative_url }}" alt="Listing image for USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">USCSS Nostromo 180924609 Metal Enamel Pin Badge Brooch Space Vessel Thedus Alien</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien USCSS Nostromo Weyland Yutani Crew Uniform Officer Pins"><img src="{{ '/assets/images/marketplace-covers/34e7d70d238cef745946.jpg' | relative_url }}" alt="Listing image for Alien USCSS Nostromo Weyland Yutani Crew Uniform Officer Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Alien USCSS Nostromo Weyland Yutani Crew Uniform Officer Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien USCSS Nostromo Weyland Yutani Crew Uniform Officer Pins"><img src="{{ '/assets/images/marketplace-covers/34e7d70d238cef745946.jpg' | relative_url }}" alt="Listing image for Alien USCSS Nostromo Weyland Yutani Crew Uniform Officer Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Alien USCSS Nostromo Weyland Yutani Crew Uniform Officer Pins</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS BADGE PIN BADGE ALIEN EGG"><img src="{{ '/assets/images/marketplace-covers/674f10dcaaf78cfeef4a.jpg' | relative_url }}" alt="Listing image for ALIENS BADGE PIN BADGE ALIEN EGG" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">ALIENS BADGE PIN BADGE ALIEN EGG</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS BADGE PIN BADGE ALIEN EGG"><img src="{{ '/assets/images/marketplace-covers/674f10dcaaf78cfeef4a.jpg' | relative_url }}" alt="Listing image for ALIENS BADGE PIN BADGE ALIEN EGG" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">ALIENS BADGE PIN BADGE ALIEN EGG</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="romansky-marks-did-romansky-really-describe-alien-writing-kecksburg-ufo-incide-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ Romansky never supplied evidence for that stronger conclusion. His testimony is 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ Romansky never supplied evidence for that stronger conclusion. His testimony is 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ Romansky never supplied evidence for that stronger conclusion. His testimony is 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ Romansky never supplied evidence for that stronger conclusion. His testimony is 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ Romansky never supplied evidence for that stronger conclusion. His testimony is 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,103 +761,103 @@ Romansky never supplied evidence for that stronger conclusion. His testimony is 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/34473106/International-UFO-Reporter-v30" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/34473106/International-UFO-Reporter-v30</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>saw strange symbols that looked like Egyptian hieroglyph &quot;Multitudes of people had some...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/doc/34473106/International-UFO-Reporter-v30" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/34473106/International-UFO-Reporter-v30</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>saw strange symbols that looked like Egyptian hieroglyph &quot;Multitudes of people had some...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/378586116362926/posts/1690615418493316/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/378586116362926/posts/1690615418493316/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spacecraft Component Lands in Kecksburg, Pennsylvania...Upon this area were unusual markings that Romansky says looked similar t...</p></details>
+   Link:<a href="https://www.facebook.com/groups/378586116362926/posts/1690615418493316/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/378586116362926/posts/1690615418493316/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spacecraft Component Lands in Kecksburg, Pennsylvania...Upon this area were unusual markings that Romansky says looked similar t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: calameo.com  
-   Link: <a href="https://www.calameo.com/books/00058403715f1b45994fc" target="_blank" rel="noopener noreferrer nofollow">https://www.calameo.com/books/00058403715f1b45994fc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO Reporter 2005 v30Firefighter James Romansky saw the [flatbed](&amp;#123;&amp;#123; &#x27;flatbed/&#x27; | relative_url &amp;#125;&amp;#125;) truck speeding down the hill i n a military convoy, past th...</p></details>
+   Link:<a href="https://www.calameo.com/books/00058403715f1b45994fc" target="_blank" rel="noopener noreferrer nofollow">https://www.calameo.com/books/00058403715f1b45994fc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO Reporter 2005 v30Firefighter James Romansky saw the [flatbed](&amp;#123;&amp;#123; &#x27;flatbed/&#x27; | relative_url &amp;#125;&amp;#125;) truck speeding down the hill i n a military convoy, past th...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/39530664/kecksburg2" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/39530664/kecksburg2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BURG”. These breakthroughs occurred after the Sci Fi ChannelRead more...</p></details>
+   Link:<a href="https://www.scribd.com/document/39530664/kecksburg2" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/39530664/kecksburg2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BURG”. These breakthroughs occurred after the Sci Fi ChannelRead more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: The Interplanetary Phenomenon Unit: Evidence of UFO Investigations?Read more  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gb9llo/examples_of_reported_symbols_and_markings_on_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gb9llo/examples_of_reported_symbols_and_markings_on_ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Examples of reported symbols and markings on UFOs from...October 24, 2024 — r/UFOs - Symbols similar to Sheehan&#x27;s in a photo on th...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gb9llo/examples_of_reported_symbols_and_markings_on_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gb9llo/examples_of_reported_symbols_and_markings_on_ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examples of reported symbols and markings on UFOs from...October 24, 2024 — r/UFOs - Symbols similar to Sheehan&#x27;s in a photo on th...</p></details>
    Published: October 24, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireman James Romansky talks witnessing the 1965 crashed UFO at Kecksburg and military cover...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireman James Romansky talks witnessing the 1965 crashed UFO at Kecksburg and military cover...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: 4 the recordpart two of 4 the records exploration of the kecksburg westmoreland  
-   Link: <a href="https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Exploring the Kecksburg UFO mystery1965-Kecksburg UFO Incident: Scientist Says &#x27;Flying Object Was Not A Meteorite&#x27; [http://www.theufochron...&quot;](http://www.theufochron...&quot;)...</p></details>
+   Link:<a href="https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Exploring the Kecksburg UFO mystery1965-Kecksburg UFO Incident: Scientist Says &#x27;Flying Object Was Not A Meteorite&#x27; [http://www.theufochron...&quot;](http://www.theufochron...&quot;)...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/587709908024253/posts/8007862839342219/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/587709908024253/posts/8007862839342219/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Who remembers the UFO sighting at the Kensico reservoir...Who remembers the UFO sighting at the Kensico reservoir around 1970?...</p></details>
+   Link:<a href="https://www.facebook.com/groups/587709908024253/posts/8007862839342219/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/587709908024253/posts/8007862839342219/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Who remembers the UFO sighting at the Kensico reservoir...Who remembers the UFO sighting at the Kensico reservoir around 1970?...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>𝐊𝐞𝐜𝐤𝐬𝐛𝐮𝐫𝐠 One of the most celebrated and mysterious UFO (UFOs...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>𝐊𝐞𝐜𝐤𝐬𝐛𝐮𝐫𝐠 One of the most celebrated and mysterious UFO (UFOs...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/international-ufo-reporter-v30/6915252" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/international-ufo-reporter-v30/6915252</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 1965, highlighting its mystery due to government secrecy and military intervention...</p></details>
+   Link:<a href="https://www.slideshare.net/slideshow/international-ufo-reporter-v30/6915252" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/international-ufo-reporter-v30/6915252</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 1965, highlighting its mystery due to government secrecy and military intervention...</p></details>
    Published: December 9, 1965  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archive.org  
    Title: Full text of "The Mammoth Encyclopedia Of Extraterrestrial  
-   Link: <a href="https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[witnesses](&amp;#123;&amp;#123; &#x27;witnesses/&#x27; | relative_url &amp;#125;&amp;#125;) who reported it as a “zig-zag.” The crew was of course oblivious to this component of the object&#x27;s flight path. &quot;*Dir«c\io* e-f...</p></details>
+   Link:<a href="https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[witnesses](&amp;#123;&amp;#123; &#x27;witnesses/&#x27; | relative_url &amp;#125;&amp;#125;) who reported it as a “zig-zag.” The crew was of course oblivious to this component of the object&#x27;s flight path. &quot;*Dir«c\io* e-f...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: academia.edu  
    Title: The Mammoth Encyclopedia of Extraterrestrial Encounters  
-   Link: <a href="https://www.academia.edu/49358610/The_Mammoth_Encyclopedia_of_Extraterrestrial_Encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/49358610/The_Mammoth_Encyclopedia_of_Extraterrestrial_Encounters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>witnesses who reported it as a “zig-zag.” The crew was of course oblivious to this component of the object&#x27;s flight path. Eyewitness sket...</p></details>
+   Link:<a href="https://www.academia.edu/49358610/The_Mammoth_Encyclopedia_of_Extraterrestrial_Encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/49358610/The_Mammoth_Encyclopedia_of_Extraterrestrial_Encounters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>witnesses who reported it as a “zig-zag.” The crew was of course oblivious to this component of the object&#x27;s flight path. Eyewitness sket...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/acknowledged-a-perspective-on-ufos-aliens-and-crop-circles-0244166447-9780244166441.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/acknowledged-a-perspective-on-ufos-aliens-and-crop-circles-0244166447-9780244166441.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Acknowledged: A Perspective On Ufos, Aliens and Crop...At the back of the [acorn shape](&amp;#123;&amp;#123; &#x27;acorn-shape/&#x27; | relative_url &amp;#125;&amp;#125;) was what witness Jim Romansky calls the...</p></details>
+   Link:<a href="https://dokumen.pub/acknowledged-a-perspective-on-ufos-aliens-and-crop-circles-0244166447-9780244166441.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/acknowledged-a-perspective-on-ufos-aliens-and-crop-circles-0244166447-9780244166441.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acknowledged: A Perspective On Ufos, Aliens and Crop...At the back of the [acorn shape](&amp;#123;&amp;#123; &#x27;acorn-shape/&#x27; | relative_url &amp;#125;&amp;#125;) was what witness Jim Romansky calls the...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Unsolved Mysteries with Robert Stack  
-   Link: <a href="https://www.youtube.com/watch?v=CKK66LtZ1Hs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CKK66LtZ1Hs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Kecksburg Incident: What Really Happened Here?[https://www.youtube.com/watch?v=BXh2zTD9Kug...&quot;](https://www.youtube.com/watch?v=BXh2zTD9Kug...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CKK66LtZ1Hs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CKK66LtZ1Hs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Kecksburg Incident: What Really Happened Here?[https://www.youtube.com/watch?v=BXh2zTD9Kug...&quot;](https://www.youtube.com/watch?v=BXh2zTD9Kug...&quot;)...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theclio.com  
    Title: Kecksburg UFO Incident  
-   Link: <a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ClioAnother conspiracy surrounding [the Kecksburg UFO incident](&amp;#123;&amp;#123; &#x27;the-kecksburg-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;) is that the object that landed was an alien UFO. There are some eye-witness...</p></details>
+   Link:<a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ClioAnother conspiracy surrounding [the Kecksburg UFO incident](&amp;#123;&amp;#123; &#x27;the-kecksburg-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;) is that the object that landed was an alien UFO. There are some eye-witness...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence  
-   Link: <a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries with Robert Stack - Season 3, Episode 1 - Full Episode...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries with Robert Stack - Season 3, Episode 1 - Full Episode...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=BXh2zTD9Kug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BXh2zTD9Kug</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>kecksburg ufo crash (Witness Romansky description of markings clip)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BXh2zTD9Kug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BXh2zTD9Kug</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>kecksburg ufo crash (Witness Romansky description of markings clip)...</p></details>

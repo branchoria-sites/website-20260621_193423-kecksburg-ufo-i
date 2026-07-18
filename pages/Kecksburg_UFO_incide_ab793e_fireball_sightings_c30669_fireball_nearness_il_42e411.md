@@ -280,7 +280,7 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_fire
 
 ## Introduction
 
-One of the most persistent sources of confusion in major fireball events is the conviction that the object came down “just over the next hill”. In cases such as the 1965 fireball associated with the Kecksburg incident, [witnesses]({{ 'witnesses/' | relative_url }}) across a vast region reported that the object appeared low, close and on the verge of landing nearby. Yet bright fireballs are often tens of kilometres high and may be hundreds of kilometres away from individual observers. The apparent contradiction is not usually a sign of dishonesty or poor observation. Instead, it arises from a well-understood perceptual problem: the open sky provides very few reliable distance cues, making it surprisingly easy for people to misjudge where a bright object actually is. Astronomers and meteor researchers repeatedly encounter this effect when reconstructing fireball trajectories from eyewitness reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society+2Popular Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsPhotographic fireball studies have indicated that a fireball must usually still be generating visible...</span></span></span>
+One of the most persistent sources of confusion in major fireball events is the conviction that the object came down “just over the next hill”. In cases such as the 1965 fireball associated with the Kecksburg incident, [witnesses]({{ 'witnesses/' | relative_url }}) across a vast region reported that the object appeared low, close and on the verge of landing nearby. Yet bright fireballs are often tens of kilometres high and may be hundreds of kilometres away from individual observers. The apparent contradiction is not usually a sign of dishonesty or poor observation. Instead, it arises from a well-understood perceptual problem: the open sky provides very few reliable distance cues, making it surprisingly easy for people to misjudge where a bright object actually is. Astronomers and meteor researchers repeatedly encounter this effect when reconstructing fireball trajectories from eyewitness reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsPhotographic fireball studies have indicated that a fireball must usually still be generating visible...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_fireball_nearness_il_42e411-Illustration-1-dark.svg" | relative_url }}" alt="Nearness Illusion illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_fireball_nearness_il_42e411-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_fireball_nearness_il_42e411-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,11 +288,11 @@ One of the most persistent sources of confusion in major fireball events is the 
 
 Human vision estimates distance by comparing an object with familiar reference points. On the ground, roads, buildings, trees and people provide a sense of scale. In the sky, most of those references disappear.
 
-A fireball can be extraordinarily bright, sometimes rivaling or exceeding the brightness of Venus, while still being dozens of kilometres above Earth. Because brightness is often unconsciously associated with nearness, observers may assume that an intensely luminous object must be much closer than it really is. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</span></span></span>
+A fireball can be extraordinarily bright, sometimes rivaling or exceeding the brightness of Venus, while still being dozens of kilometres above Earth. Because brightness is often unconsciously associated with nearness, observers may assume that an intensely luminous object must be much closer than it really is.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</span></span></span>
 
-The problem becomes even greater near the horizon. A fireball seen low in the sky may appear to be descending behind local terrain when it is actually far beyond it. Unlike aircraft, which can often be judged by known sizes and familiar flight behaviour, meteors provide almost no visual information that allows an observer to estimate range accurately. Astronomical organisations therefore rely on reports from many different locations rather than a single witness when calculating a trajectory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popastro.com/meteor/fireball-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[Popular Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-snippet">By internationally agreed definition, any meteor that attains magnitude -3 or more is classed as a fireball.Read more...</span></span></span>
+The problem becomes even greater near the horizon. A fireball seen low in the sky may appear to be descending behind local terrain when it is actually far beyond it. Unlike aircraft, which can often be judged by known sizes and familiar flight behaviour, meteors provide almost no visual information that allows an observer to estimate range accurately. Astronomical organisations therefore rely on reports from many different locations rather than a single witness when calculating a trajectory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popastro.com/meteor/fireball-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[Popular Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-snippet">By internationally agreed definition, any meteor that attains magnitude -3 or more is classed as a fireball.Read more...</span></span></span>
 
-Large fireballs are also visible over immense areas. Modern events routinely generate reports from multiple states or provinces, demonstrating that the same object can appear dramatic and local to hundreds of observers separated by great distances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/stargazing/meteor-showers/watch-a-fireball-burn-a-300-mile-path-above-the-midwest-us-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space+2FOX 29 Philadelphia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The meteor, traveling at an astonishing speed of 56,000 mph (90,123 km/h), first appeared over Tupelo, Mississippi, at 11:26 p.m. EDT bef...</span></span></span>
+Large fireballs are also visible over immense areas. Modern events routinely generate reports from multiple states or provinces, demonstrating that the same object can appear dramatic and local to hundreds of observers separated by great distances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/stargazing/meteor-showers/watch-a-fireball-burn-a-300-mile-path-above-the-midwest-us-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The meteor, traveling at an astonishing speed of 56,000 mph (90,123 km/h), first appeared over Tupelo, Mississippi, at 11:26 p.m. EDT bef...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TuZ-TP0UN30" title="American Meteor Society on rare &#x27;bolide&#x27; fireball seen across Southeast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer">American Meteor Society on rare &#x27;bolide&#x27; fireball seen across Southeast</a></p><p class="youtube-embed-meta">Channel: 11Alive &middot; Views: 55.3K &middot; Uploaded: June 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TuZ-TP0UN30">Open on YouTube</a></p></div></div></div>
@@ -305,9 +305,9 @@ Imagine a bright object descending toward a ridgeline. If it vanishes behind the
 
 This effect is especially powerful during twilight or late afternoon conditions, which were present during the [Kecksburg fireball]({{ 'kecksburg-fireball/' | relative_url }}). A bright object moving against a darkening sky can appear to intersect nearby terrain even when geometry shows otherwise. The observer is effectively projecting a distant event onto a local landscape.
 
-Meteor researchers have long recognised this tendency. Fireballs frequently generate clusters of reports claiming impacts in different locations because witnesses use local [landmarks]({{ 'landmarks/' | relative_url }}) as reference points. Each observer may sincerely identify a different hill, forest or horizon point as the apparent endpoint. Yet when camera records or triangulated observations are examined, the actual trajectory is often much farther away than any individual witness estimated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20180005520/downloads/20180005520.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerFIREBALL NETWORKS AND THE HUNT FOR METEORITESby B Cooke · 2018 — The advent of fast, wide field photographic...</span></span></span>
+Meteor researchers have long recognised this tendency. Fireballs frequently generate clusters of reports claiming impacts in different locations because witnesses use local [landmarks]({{ 'landmarks/' | relative_url }}) as reference points. Each observer may sincerely identify a different hill, forest or horizon point as the apparent endpoint. Yet when camera records or triangulated observations are examined, the actual trajectory is often much farther away than any individual witness estimated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20180005520/downloads/20180005520.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerFIREBALL NETWORKS AND THE HUNT FOR METEORITESby B Cooke · 2018 — The advent of fast, wide field photographic...</span></span></span>
 
-Another factor is the persistence of glowing trails. Fireballs can leave luminous trains that remain visible after the meteor itself has disappeared. These lingering features may drift and distort in upper-atmospheric winds, creating the impression that debris is hanging over a particular location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Fireball FAQs Most trains last only a few seconds, but on rare occasions a train may last up to several minutes</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsMost trains last only a few seconds, but on rare occasions a train may last up to several minutes. A...</span></span></span>
+Another factor is the persistence of glowing trails. Fireballs can leave luminous trains that remain visible after the meteor itself has disappeared. These lingering features may drift and distort in upper-atmospheric winds, creating the impression that debris is hanging over a particular location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Fireball FAQs Most trains last only a few seconds, but on rare occasions a train may last up to several minutes</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsMost trains last only a few seconds, but on rare occasions a train may last up to several minutes. A...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_fireball_nearness_il_42e411-Illustration-2-dark.svg" | relative_url }}" alt="Nearness Illusion illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_fireball_nearness_il_42e411-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_fireball_nearness_il_42e411-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -317,11 +317,11 @@ The strongest evidence for the nearness illusion comes from the pattern of repor
 
 When a genuinely local object crashes, witnesses from different places generally agree on the approximate impact area. With large fireballs, the opposite often happens. People in many widely separated locations each believe the object landed near them.
 
-Modern fireball databases contain numerous examples in which observers from several states report what they think is a nearby impact, even though all are describing the same atmospheric event. Hundreds of reports can be received for a single fireball visible across hundreds of miles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/stargazing/meteor-showers/watch-a-fireball-burn-a-300-mile-path-above-the-midwest-us-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space+2FOX 29 Philadelphia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The meteor, traveling at an astonishing speed of 56,000 mph (90,123 km/h), first appeared over Tupelo, Mississippi, at 11:26 p.m. EDT bef...</span></span></span>
+Modern fireball databases contain numerous examples in which observers from several states report what they think is a nearby impact, even though all are describing the same atmospheric event. Hundreds of reports can be received for a single fireball visible across hundreds of miles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/stargazing/meteor-showers/watch-a-fireball-burn-a-300-mile-path-above-the-midwest-us-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The meteor, traveling at an astonishing speed of 56,000 mph (90,123 km/h), first appeared over Tupelo, Mississippi, at 11:26 p.m. EDT bef...</span></span></span>
 
 This pattern is important when assessing historical cases. In the Kecksburg context, reports of a bright object came from a broad swathe of North America. The fact that many witnesses across that region believed the object was descending nearby is not unusual. It is exactly the outcome expected when a brilliant fireball is viewed from multiple perspectives without precise distance information.
 
-From a geometric standpoint, each observer sees only a two-dimensional projection of a three-dimensional path. Without measurements from multiple locations, there is no reliable way to determine where the object actually ended. This is why professional trajectory reconstructions depend on photographs, radar, instrument records and [triangulation]({{ 'triangulation/' | relative_url }}) rather than on a single observer's estimate of where the object appeared to land. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1090&amp;context=usafresearch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons UNL+2NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">Fireball dynamics and orbit from radar, video, and infrasound...by P Brown · 2011 · Cited by 93 — We have organized th...</span></span></span>
+From a geometric standpoint, each observer sees only a two-dimensional projection of a three-dimensional path. Without measurements from multiple locations, there is no reliable way to determine where the object actually ended. This is why professional trajectory reconstructions depend on photographs, radar, instrument records and [triangulation]({{ 'triangulation/' | relative_url }}) rather than on a single observer's estimate of where the object appeared to land.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1090&amp;context=usafresearch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[unl.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">Fireball dynamics and orbit from radar, video, and infrasound...by P Brown · 2011 · Cited by 93 — We have organized th...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B75xmeeKH0c" title="Meteoroids, Meteorites, Fireballs - What&#x27;s the Difference?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B75xmeeKH0c" target="_blank" rel="noopener noreferrer">Meteoroids, Meteorites, Fireballs - What&#x27;s the Difference?</a></p><p class="youtube-embed-meta">Channel: NASA&#x27;s Marshall Space Flight Center &middot; Views: 4.3K &middot; Uploaded: March 2014 &middot; Length: 4 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B75xmeeKH0c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B75xmeeKH0c">Open on YouTube</a></p></div></div></div>
@@ -333,7 +333,7 @@ From a geometric standpoint, each observer sees only a two-dimensional projectio
 
 The key lesson is that eyewitness certainty about proximity is not necessarily evidence of an actual nearby impact. A witness can accurately describe a bright, low-moving fireball and still be completely mistaken about its distance.
 
-For [regional fireball]({{ 'fireball-map/' | relative_url }}) events, the most reliable indicators are the overall pattern of observations and any instrumentally derived trajectory. In the case of the 1965 fireball, the wide geographic distribution of sightings fits a phenomenon visible across a large area rather than one confined to a single valley or town. The tendency of observers to place the endpoint near their own location is consistent with a common perceptual effect that meteor researchers encounter repeatedly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popastro.com/meteor/fireball-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[Popular Astronomy+2American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">Popular Astronomy</span><span class="citation-popover-snippet">By internationally agreed definition, any meteor that attains magnitude -3 or more is classed as a fireball.Read more...</span></span></span>
+For [regional fireball]({{ 'fireball-map/' | relative_url }}) events, the most reliable indicators are the overall pattern of observations and any instrumentally derived trajectory. In the case of the 1965 fireball, the wide geographic distribution of sightings fits a phenomenon visible across a large area rather than one confined to a single valley or town. The tendency of observers to place the endpoint near their own location is consistent with a common perceptual effect that meteor researchers encounter repeatedly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popastro.com/meteor/fireball-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[popastro.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">Popular Astronomy</span><span class="citation-popover-snippet">By internationally agreed definition, any meteor that attains magnitude -3 or more is classed as a fireball.Read more...</span></span></span>
 
 Understanding this mechanism helps explain why so many sincere witnesses can provide apparently contradictory accounts of where a fireball landed. They may all have observed the same event accurately, while simultaneously misjudging the one detail that the open sky makes hardest to estimate: distance.
 
@@ -341,194 +341,194 @@ Understanding this mechanism helps explain why so many sincere witnesses can pro
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_fireball_nearness_il_42e411-Illustration-3-dark.svg" | relative_url }}" alt="Nearness Illusion illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_fireball_nearness_il_42e411-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_fireball_nearness_il_42e411-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why fireballs seem closer than they are. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why fireballs seem closer than they are. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dG2DkgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dG2DkgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Explains how objects in the night sky are observed and interpreted, helping readers understand why celestial events are often misjudged.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how objects in the night sky are observed and interpreted, helping readers understand why celestial events are often misjudged.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide to Meteors and Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OMgDhc8d7v4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Field Guide to Meteors and Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide to Meteors and Meteorites">Field Guide to Meteors and Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton, Lawrence Chitwood</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide to Meteors and Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OMgDhc8d7v4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Field Guide to Meteors and Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide to Meteors and Meteorites">Field Guide to Meteors and Meteorites</a>
+</h4>
+<p class="fr-book-author">By O. Richard Norton, Lawrence Chitwood</p>
         
-        <p class="fr-book-desc">Directly covers meteors, fireballs, observation methods, trajectories, and meteorite recovery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers meteors, fireballs, observation methods, trajectories, and meteorite recovery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RuTmjwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RuTmjwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Builds practical understanding of observing objects in the sky, including common perception and orientation mistakes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Builds practical understanding of observing objects in the sky, including common perception and orientation mistakes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VPoKEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Meteorites">The Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By Helen Gordon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VPoKEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Meteorites">The Meteorites</a>
+</h4>
+<p class="fr-book-author">By Helen Gordon</p>
         
-        <p class="fr-book-desc">Explores meteorite falls, eyewitness accounts, and the human experience of observing objects from space.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores meteorite falls, eyewitness accounts, and the human experience of observing objects from space.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+to+Meteors+and+Meteorites+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field to Meteors and Meteorites books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+to+Meteors+and+Meteorites+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field to Meteors and Meteorites books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="nearness-illusion-why-fireballs-seem-closer-than-they-are-kecksburg-ufo-incide-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ Understanding this mechanism helps explain why so many sincere witnesses can pro
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ Understanding this mechanism helps explain why so many sincere witnesses can pro
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ Understanding this mechanism helps explain why so many sincere witnesses can pro
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ Understanding this mechanism helps explain why so many sincere witnesses can pro
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ Understanding this mechanism helps explain why so many sincere witnesses can pro
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,155 +734,155 @@ Understanding this mechanism helps explain why so many sincere witnesses can pro
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and bolidesA fireball is an unusually bright meteor that reaches a visual magnitude of -3 or brighter when seen at the observer&#x27;s zenith...</p></details>
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and bolidesA fireball is an unusually bright meteor that reaches a visual magnitude of -3 or brighter when seen at the observer&#x27;s zenith...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20180005520/downloads/20180005520.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20180005520/downloads/20180005520.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerFIREBALL NETWORKS AND THE HUNT FOR METEORITESby B Cooke · 2018 — The advent of fast, wide field photographic...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20180005520/downloads/20180005520.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20180005520/downloads/20180005520.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerFIREBALL NETWORKS AND THE HUNT FOR METEORITESby B Cooke · 2018 — The advent of fast, wide field photographic...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/watch-a-fireball-burn-a-300-mile-path-above-the-midwest-us-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/watch-a-fireball-burn-a-300-mile-path-above-the-midwest-us-video</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The meteor, traveling at an astonishing speed of 56,000 mph (90,123 km/h), first appeared over Tupelo, Mississippi, at 11:26 p.m. EDT bef...</p></details>
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/watch-a-fireball-burn-a-300-mile-path-above-the-midwest-us-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/watch-a-fireball-burn-a-300-mile-path-above-the-midwest-us-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The meteor, traveling at an astonishing speed of 56,000 mph (90,123 km/h), first appeared over Tupelo, Mississippi, at 11:26 p.m. EDT bef...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: fox29.com  
-   Link: <a href="https://www.fox29.com/news/meteor-fireball-streaks-across-sky-over-new-jersey-pennsylvania-new-york" target="_blank" rel="noopener noreferrer nofollow">https://www.fox29.com/news/meteor-fireball-streaks-across-sky-over-new-jersey-pennsylvania-new-york</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 29 PhiladelphiaMeteor fireball streaks across sky over New Jersey...7 Apr 2026 — NASA says the fireball traveled 117 miles before br...</p></details>
+   Link:<a href="https://www.fox29.com/news/meteor-fireball-streaks-across-sky-over-new-jersey-pennsylvania-new-york" target="_blank" rel="noopener noreferrer nofollow">https://www.fox29.com/news/meteor-fireball-streaks-across-sky-over-new-jersey-pennsylvania-new-york</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 29 PhiladelphiaMeteor fireball streaks across sky over New Jersey...7 Apr 2026 — NASA says the fireball traveled 117 miles before br...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/[fireball-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/[fireball-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball sightings are surging across the US27 Mar 2026 — Why are fireball sightings increasing across the US? Experts explain the r...</p></details>
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/[fireball-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/[fireball-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball sightings are surging across the US27 Mar 2026 — Why are fireball sightings increasing across the US? Experts explain the r...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: digitalcommons.unl.edu  
-   Link: <a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1090&amp;context=usafresearch" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1090&amp;context=usafresearch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball dynamics and orbit from radar, video, and infrasound...by P Brown · 2011 · Cited by 93 — We have organized th...</p></details>
+   Link:<a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1090&amp;context=usafresearch" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1090&amp;context=usafresearch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball dynamics and orbit from radar, video, and infrasound...by P Brown · 2011 · Cited by 93 — We have organized th...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/spectacular-fireball-over-europe-sends-meteorite-crashing-through-roof-of-german-home" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/spectacular-fireball-over-europe-sends-meteorite-crashing-through-roof-of-german-home</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spectacular fireball over Europe sends meteorite crashing...9 Mar 2026 — A meteorite has crashed through the roof of a house after thous...</p></details>
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/spectacular-fireball-over-europe-sends-meteorite-crashing-through-roof-of-german-home" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/spectacular-fireball-over-europe-sends-meteorite-crashing-through-roof-of-german-home</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spectacular fireball over Europe sends meteorite crashing...9 Mar 2026 — A meteorite has crashed through the roof of a house after thous...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: space.com  
    Title: rare daytime fireball spotted from orbit as residents report powerful sonic boom  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rare daytime fireball spotted from orbit as residents report...17 Mar 2026 — A rare daytime fireball may have been spotted by an orbitin...</p></details>
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rare daytime fireball spotted from orbit as residents report...17 Mar 2026 — A rare daytime fireball may have been spotted by an orbitin...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=B75xmeeKH0c" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=B75xmeeKH0c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Kecksburg Incident: What Really Happened Here?[http://www.youtube.com/watch?v=BXh2zTD9Kug...&quot;](http://www.youtube.com/watch?v=BXh2zTD9Kug...&quot;)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=B75xmeeKH0c" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=B75xmeeKH0c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Kecksburg Incident: What Really Happened Here?[http://www.youtube.com/watch?v=BXh2zTD9Kug...&quot;](http://www.youtube.com/watch?v=BXh2zTD9Kug...&quot;)...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/faqf/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball FAQsPhotographic fireball studies have indicated that a fireball must usually still be generating visible...</p></details>
+   Link:<a href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/faqf/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball FAQsPhotographic fireball studies have indicated that a fireball must usually still be generating visible...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: popastro.com  
    Title: Popular Astronomy  
-   Link: <a href="https://www.popastro.com/meteor/fireball-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/fireball-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By internationally agreed definition, any meteor that attains magnitude -3 or more is classed as a fireball.Read more...</p></details>
+   Link:<a href="https://www.popastro.com/meteor/fireball-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/fireball-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By internationally agreed definition, any meteor that attains magnitude -3 or more is classed as a fireball.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</p></details>
+   Link:<a href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: amsmeteors.org  
    Title: fireball report  
-   Link: <a href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball LogsEach year since 2005, the American Meteor Society receives hundreds of fireball reports. Browse the a...</p></details>
+   Link:<a href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball LogsEach year since 2005, the American Meteor Society receives hundreds of fireball reports. Browse the a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/ams-q1-2026-fireball-analysis.html" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/ams-q1-2026-fireball-analysis.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Q1 2026: Has Something Changed in the Near-Earth...Mar 25, 2026 — A 1-ton meteoroid broke apart 29 miles above the Houston metro area at...</p></details>
+   Link:<a href="https://amsmeteors.org/ams-q1-2026-fireball-analysis.html" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/ams-q1-2026-fireball-analysis.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Q1 2026: Has Something Changed in the Near-Earth...Mar 25, 2026 — A 1-ton meteoroid broke apart 29 miles above the Houston metro area at...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyReport it: it may be a fireball. Our affiliates observe, monitor, collect data on, study, and report on meteors, m...</p></details>
+   Link:<a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyReport it: it may be a fireball. Our affiliates observe, monitor, collect data on, study, and report on meteors, m...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/fireballs/fireball-or-contrail/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/fireball-or-contrail/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If yes, it is certainly NOT a fireball (...Read more...</p></details>
+   Link:<a href="https://amsmeteors.org/fireballs/fireball-or-contrail/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/fireball-or-contrail/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If yes, it is certainly NOT a fireball (...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TuZ-TP0UN30</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor Society on rare &#x27;bolide&#x27; fireball seen across...AMS Operations Manager Mike Hankey speaks with 11Alive Meteorologist Mel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TuZ-TP0UN30</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor Society on rare &#x27;bolide&#x27; fireball seen across...AMS Operations Manager Mike Hankey speaks with 11Alive Meteorologist Mel...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: education.nationalgeographic.org  
-   Link: <a href="https://education.nationalgeographic.org/resource/meteor/" target="_blank" rel="noopener noreferrer nofollow">https://education.nationalgeographic.org/resource/meteor/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nationalgeographic.orgMeteor19 Oct 2023 — A meteor is a streak of light in the sky caused by a meteoroid crashing through Earth&#x27;s atmosph...</p></details>
+   Link:<a href="https://education.nationalgeographic.org/resource/meteor/" target="_blank" rel="noopener noreferrer nofollow">https://education.nationalgeographic.org/resource/meteor/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nationalgeographic.orgMeteor19 Oct 2023 — A meteor is a streak of light in the sky caused by a meteoroid crashing through Earth&#x27;s atmosph...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MeteorA meteor, known colloquially as a shooting star, is a glowing streak of a small body (usually meteoroid) going through Earth&#x27;s a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MeteorA meteor, known colloquially as a shooting star, is a glowing streak of a small body (usually meteoroid) going through Earth&#x27;s a...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZGEOW7ky_3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZGEOW7ky_3/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MLive | Did you see this Monday night? The American Meteor...Fireball meteors are actually more common than you may think. The large fir...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZGEOW7ky_3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZGEOW7ky_3/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MLive | Did you see this Monday night? The American Meteor...Fireball meteors are actually more common than you may think. The large fir...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dummies.com  
-   Link: <a href="https://www.dummies.com/article/academics-the-arts/science/astronomy/spotting-sporadic-meteors-fireballs-[bolides" target="_blank" rel="noopener noreferrer nofollow">https://www.dummies.com/article/academics-the-arts/science/astronomy/spotting-sporadic-meteors-fireballs-[bolides</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotting Sporadic Meteors, Fireballs, and BolidesLearn the differences between meteroids, meteor showers, fireballs, and bolides, and how...</p></details>
+   Link:<a href="https://www.dummies.com/article/academics-the-arts/science/astronomy/spotting-sporadic-meteors-fireballs-[bolides" target="_blank" rel="noopener noreferrer nofollow">https://www.dummies.com/article/academics-the-arts/science/astronomy/spotting-sporadic-meteors-fireballs-[bolides</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotting Sporadic Meteors, Fireballs, and BolidesLearn the differences between meteroids, meteor showers, fireballs, and bolides, and how...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ukfall.org.uk  
-   Link: <a href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Fireball AllianceThe UK Fireball Alliance (UKFAll) is a collaboration of camera networks that aims to record meteors and fireballs...</p></details>
+   Link:<a href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Fireball AllianceThe UK Fireball Alliance (UKFAll) is a collaboration of camera networks that aims to record meteors and fireballs...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/News12BX/videos/%EF%B8%8F-meteor-sighting-the-american-meteor-society-confirmed-several-reports-of-a-fir/26394857533510152/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News12BX/videos/%EF%B8%8F-meteor-sighting-the-american-meteor-society-confirmed-several-reports-of-a-fir/26394857533510152/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>☄️ METEOR SIGHTING The American Meteor Society...METEOR SIGHTING The American Meteor Society confirmed several reports of a fireball bei...</p></details>
+   Link:<a href="https://www.facebook.com/News12BX/videos/%EF%B8%8F-meteor-sighting-the-american-meteor-society-confirmed-several-reports-of-a-fir/26394857533510152/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News12BX/videos/%EF%B8%8F-meteor-sighting-the-american-meteor-society-confirmed-several-reports-of-a-fir/26394857533510152/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>☄️ METEOR SIGHTING The American Meteor Society...METEOR SIGHTING The American Meteor Society confirmed several reports of a fireball bei...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DW2K_fhAbJT/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW2K_fhAbJT/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>☄️ METEOR SIGHTING The American Meteor Society...METEOR SIGHTING The American Meteor Society confirmed several reports of a fireball bei...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DW2K_fhAbJT/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW2K_fhAbJT/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>☄️ METEOR SIGHTING The American Meteor Society...METEOR SIGHTING The American Meteor Society confirmed several reports of a fireball bei...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nypost.com  
    Title: giant fireball spotted streaking across mid atlantic states maybe missiles  
-   Link: <a href="https://nypost.com/2026/04/07/us-news/giant-fireball-spotted-streaking-across-mid-atlantic-states-maybe-missiles/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/07/us-news/giant-fireball-spotted-streaking-across-mid-atlantic-states-maybe-missiles/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Giant fireball spotted streaking across Mid-Atlantic states7 Apr 2026 — A bright fireball was reportedly seen blazing over several states...</p></details>
+   Link:<a href="https://nypost.com/2026/04/07/us-news/giant-fireball-spotted-streaking-across-mid-atlantic-states-maybe-missiles/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/07/us-news/giant-fireball-spotted-streaking-across-mid-atlantic-states-maybe-missiles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Giant fireball spotted streaking across Mid-Atlantic states7 Apr 2026 — A bright fireball was reportedly seen blazing over several states...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SkyandTelescope/posts/heres-a-quick-guide-to-tell-meteors-from-machines-in-your-wide-field-images-of-t/1399888982175076/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkyandTelescope/posts/heres-a-quick-guide-to-tell-meteors-from-machines-in-your-wide-field-images-of-t/1399888982175076/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>small size and intense brightness might make you think it is a star.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/SkyandTelescope/posts/heres-a-quick-guide-to-tell-meteors-from-machines-in-your-wide-field-images-of-t/1399888982175076/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkyandTelescope/posts/heres-a-quick-guide-to-tell-meteors-from-machines-in-your-wide-field-images-of-t/1399888982175076/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>small size and intense brightness might make you think it is a star.Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C7OKabuP129/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C7OKabuP129/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y to have survived as it looked to have burned up over the Atlantic Ocean...</p></details>
+   Link:<a href="https://www.instagram.com/reel/C7OKabuP129/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C7OKabuP129/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y to have survived as it looked to have burned up over the Atlantic Ocean...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=K6gpOC4F6FY&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K6gpOC4F6FY&amp;vl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BREAKING: Massive Fireball Lights Up Europe — Scientists...On March 8, 2026, a bright fireball streaked across the skies of several Euro...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=K6gpOC4F6FY&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K6gpOC4F6FY&amp;vl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BREAKING: Massive Fireball Lights Up Europe — Scientists...On March 8, 2026, a bright fireball streaked across the skies of several Euro...</p></details>
    Published: March 8, 2026  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
    Title: Any way to validate a large meteor sighting?  
-   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1ot58qw/any_way_to_validate_a_large_meteor_sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1ot58qw/any_way_to_validate_a_large_meteor_sighting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/askastronomyIt&#x27;s very likely that your fireball was indeed visible over a large area but given the time and how remote the location is...</p></details>
+   Link:<a href="https://www.reddit.com/r/askastronomy/comments/1ot58qw/any_way_to_validate_a_large_meteor_sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1ot58qw/any_way_to_validate_a_large_meteor_sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/askastronomyIt&#x27;s very likely that your fireball was indeed visible over a large area but given the time and how remote the location is...</p></details>

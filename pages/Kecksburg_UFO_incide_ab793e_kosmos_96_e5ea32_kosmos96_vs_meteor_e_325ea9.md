@@ -283,7 +283,7 @@ The central question in the Kecksburg debate is not simply whether the object wa
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_kosmos96_vs_meteor_e_325ea9-Illustration-1-dark.svg" | relative_url }}" alt="Theory Match illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_kosmos96_vs_meteor_e_325ea9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_kosmos96_vs_meteor_e_325ea9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Viewed narrowly as an atmospheric event, the meteor explanation fits the available measurements more cleanly. Viewed as an attempt to explain reports of official secrecy, military interest and a possible retrieval, the [Kosmos 96 theory]({{ 'kosmos-96-fc7c69/' | relative_url }}) has attractions that a simple meteor does not. The disagreement exists because the two theories explain different parts of the story with different levels of success. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+Viewed narrowly as an atmospheric event, the meteor explanation fits the available measurements more cleanly. Viewed as an attempt to explain reports of official secrecy, military interest and a possible retrieval, the [Kosmos 96 theory]({{ 'kosmos-96-fc7c69/' | relative_url }}) has attractions that a simple meteor does not. The disagreement exists because the two theories explain different parts of the story with different levels of success.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t98lgd5Hv1c" title="Kecksburg&#x27;s Unsolved Mystery: What Really Fell From The Sky?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t98lgd5Hv1c" target="_blank" rel="noopener noreferrer">Kecksburg&#x27;s Unsolved Mystery: What Really Fell From The Sky?</a></p><p class="youtube-embed-meta">Channel: The Discovery of Mystery &middot; Views: 67 &middot; Uploaded: April 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t98lgd5Hv1c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t98lgd5Hv1c">Open on YouTube</a></p></div></div></div>
@@ -292,11 +292,11 @@ Viewed narrowly as an atmospheric event, the meteor explanation fits the availab
 
 ### Where the Kosmos 96 theory helps
 
-The appeal of the Kosmos 96 hypothesis begins with [timing]({{ 'timing/' | relative_url }}). The Soviet Venus probe failed to leave Earth orbit after its launch in November 1965 and re-entered the atmosphere on 9 December 1965, the same day as the Kecksburg incident. That coincidence immediately suggested a conventional alternative to extraterrestrial explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">Kosmos 96</span></span></span>
+The appeal of the Kosmos 96 hypothesis begins with [timing]({{ 'timing/' | relative_url }}). The Soviet Venus probe failed to leave Earth orbit after its launch in November 1965 and re-entered the atmosphere on 9 December 1965, the same day as the Kecksburg incident. That coincidence immediately suggested a conventional alternative to extraterrestrial explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">Kosmos 96</span></span></span>
 
-More importantly, Kosmos 96 offers a possible reason for unusual government attention. During the Cold War, recovery of Soviet hardware would have been considered valuable intelligence. If a component of a Soviet spacecraft had survived [re-entry]({{ 're-entry/' | relative_url }}), military involvement would not seem extraordinary. This aspect of the theory aligns with witness narratives describing restricted access, military personnel and the removal of an object from the area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsNASA Court-Ordered To Search For UFO DocsOctober 27, 2007 — 27 Oct 2007 — UFO enthusiasts refused to let the matter die and journ...</span><span class="citation-popover-meta">Published: October 27, 2007</span></span></span>
+More importantly, Kosmos 96 offers a possible reason for unusual government attention. During the Cold War, recovery of Soviet hardware would have been considered valuable intelligence. If a component of a Soviet spacecraft had survived [re-entry]({{ 're-entry/' | relative_url }}), military involvement would not seem extraordinary. This aspect of the theory aligns with witness narratives describing restricted access, military personnel and the removal of an object from the area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsNASA Court-Ordered To Search For UFO DocsOctober 27, 2007 — 27 Oct 2007 — UFO enthusiasts refused to let the matter die and journ...</span><span class="citation-popover-meta">Published: October 27, 2007</span></span></span>
 
-The theory also helps explain why some [witnesses]({{ 'witnesses/' | relative_url }}) described something engineered rather than natural. A spacecraft component surviving re-entry would be expected to appear metallic and manufactured, whereas a meteorite would not necessarily resemble the often-reported acorn-shaped object associated with later Kecksburg accounts. Although witness descriptions vary considerably, the spacecraft hypothesis provides a mechanism for such reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">Kosmos 96</span></span></span>
+The theory also helps explain why some [witnesses]({{ 'witnesses/' | relative_url }}) described something engineered rather than natural. A spacecraft component surviving re-entry would be expected to appear metallic and manufactured, whereas a meteorite would not necessarily resemble the often-reported acorn-shaped object associated with later Kecksburg accounts. Although witness descriptions vary considerably, the spacecraft hypothesis provides a mechanism for such reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">Kosmos 96</span></span></span>
 
 In short, Kosmos 96 is strongest when addressing the recovery narrative. It offers a plausible reason for secrecy, a plausible source of advanced-looking debris, and a plausible Cold War motive for rapid government action.
 
@@ -307,13 +307,13 @@ In short, Kosmos 96 is strongest when addressing the recovery narrative. It offe
 
 The meteor explanation gains strength from physical observations collected close to the event itself.
 
-In 1967, astronomers Von Del Chamberlain and David Krause analysed photographs of the fireball and associated records. Their reconstruction indicated a steep atmospheric trajectory more consistent with a natural meteor than with an object returning from Earth orbit. The fireball's path and behaviour matched what astronomers would expect from a large meteoroid entering the atmosphere at high speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+In 1967, astronomers Von Del Chamberlain and David Krause analysed photographs of the fireball and associated records. Their reconstruction indicated a steep atmospheric trajectory more consistent with a natural meteor than with an object returning from Earth orbit. The fireball's path and behaviour matched what astronomers would expect from a large meteoroid entering the atmosphere at high speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
-The trajectory is especially important because orbital debris is constrained by orbital mechanics. A spacecraft re-entering from low Earth orbit generally follows a shallower path than the one calculated for the 9 December fireball. The reconstructed track pointed towards the Lake Erie region rather than towards a controlled descent ending in the woods near Kecksburg. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+The trajectory is especially important because orbital debris is constrained by orbital mechanics. A spacecraft re-entering from low Earth orbit generally follows a shallower path than the one calculated for the 9 December fireball. The reconstructed track pointed towards the Lake Erie region rather than towards a controlled descent ending in the woods near Kecksburg.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
-A second difficulty for the Kosmos 96 theory is timing. Later investigations citing U.S. tracking data concluded that Kosmos 96 likely re-entered many hours before the famous late-afternoon fireball. If those orbital calculations are correct, the Soviet probe simply was not available to produce the observed event over the [Great Lakes]({{ 'great-lakes/' | relative_url }}) and Pennsylvania. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">Kosmos 96</span></span></span>
+A second difficulty for the Kosmos 96 theory is timing. Later investigations citing U.S. tracking data concluded that Kosmos 96 likely re-entered many hours before the famous late-afternoon fireball. If those orbital calculations are correct, the Soviet probe simply was not available to produce the observed event over the [Great Lakes]({{ 'great-lakes/' | relative_url }}) and Pennsylvania.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">Kosmos 96</span></span></span>
 
-The meteor explanation therefore has a significant advantage: it is supported by independent measurements, photographs and trajectory analysis rather than primarily by retrospective witness accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+The meteor explanation therefore has a significant advantage: it is supported by independent measurements, photographs and trajectory analysis rather than primarily by retrospective witness accounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_kosmos96_vs_meteor_e_325ea9-Illustration-2-dark.svg" | relative_url }}" alt="Theory Match illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_kosmos96_vs_meteor_e_325ea9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_kosmos96_vs_meteor_e_325ea9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -321,215 +321,215 @@ The meteor explanation therefore has a significant advantage: it is supported by
 
 A key reason the Kecksburg case remains disputed is that it may involve two different questions.
 
-The first question concerns the bright object seen across a vast area of North America. Scientific analysis generally points towards a meteor. The broad geographic visibility, the reconstructed flight path and the calculated descent angle fit that interpretation well. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+The first question concerns the bright object seen across a vast area of North America. Scientific analysis generally points towards a meteor. The broad geographic visibility, the reconstructed flight path and the calculated descent angle fit that interpretation well.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
-The second question concerns what, if anything, happened near Kecksburg afterwards. Reports of a local impact, military cordons and the transport of an unusual object emerged largely from witness testimony and later investigation. Those claims are harder to verify through physical evidence. Because they concern alleged ground activity rather than the fireball itself, they are not automatically resolved by identifying the sky object as a meteor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsNASA Court-Ordered To Search For UFO DocsOctober 27, 2007 — 27 Oct 2007 — UFO enthusiasts refused to let the matter die and journ...</span><span class="citation-popover-meta">Published: October 27, 2007</span></span></span>
+The second question concerns what, if anything, happened near Kecksburg afterwards. Reports of a local impact, military cordons and the transport of an unusual object emerged largely from witness testimony and later investigation. Those claims are harder to verify through physical evidence. Because they concern alleged ground activity rather than the fireball itself, they are not automatically resolved by identifying the sky object as a meteor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsNASA Court-Ordered To Search For UFO DocsOctober 27, 2007 — 27 Oct 2007 — UFO enthusiasts refused to let the matter die and journ...</span><span class="citation-popover-meta">Published: October 27, 2007</span></span></span>
 
-This separation explains why both theories persist. A meteor may best explain the observed fireball, while Kosmos 96 remains attractive to those seeking an explanation for reports of secrecy and recovery operations. The challenge is that the evidence supporting the meteor interpretation is strongest for the aerial event, whereas the evidence favouring Kosmos 96 is strongest as a narrative framework for the aftermath. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+This separation explains why both theories persist. A meteor may best explain the observed fireball, while Kosmos 96 remains attractive to those seeking an explanation for reports of secrecy and recovery operations. The challenge is that the evidence supporting the meteor interpretation is strongest for the aerial event, whereas the evidence favouring Kosmos 96 is strongest as a narrative framework for the aftermath.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/scy-jB4Tffo" title="What Crashed in Kecksburg Uncovering the 1965 UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=scy-jB4Tffo" target="_blank" rel="noopener noreferrer">What Crashed in Kecksburg Uncovering the 1965 UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Paskvan Podcast &middot; Views: 376 &middot; Uploaded: March 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=scy-jB4Tffo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=scy-jB4Tffo">Open on YouTube</a></p></div></div></div>
 
 ## The Most Likely Match Between Theory and Evidence
 
-When the available evidence is compared directly, the meteor explanation aligns more closely with the measured characteristics of the 9 December 1965 fireball. The trajectory studies, photographic analysis and timing data create substantial difficulties for identifying that fireball as Kosmos 96. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+When the available evidence is compared directly, the meteor explanation aligns more closely with the measured characteristics of the 9 December 1965 fireball. The trajectory studies, photographic analysis and timing data create substantial difficulties for identifying that fireball as Kosmos 96.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
-The Kosmos 96 theory nevertheless remains important because it addresses a different problem: why witnesses believed a recovered object might have attracted official attention. Its greatest strength is not explaining the fireball itself, but providing a conventional explanation for alleged military interest if debris had actually been recovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">Kosmos 96</span></span></span>
+The Kosmos 96 theory nevertheless remains important because it addresses a different problem: why witnesses believed a recovered object might have attracted official attention. Its greatest strength is not explaining the fireball itself, but providing a conventional explanation for alleged military interest if debris had actually been recovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">Kosmos 96</span></span></span>
 
-As a result, the debate is less a contest between two complete explanations than a question of which parts of the Kecksburg story are being examined. The meteor theory fits the observed sky event more convincingly, while Kosmos 96 offers a more natural explanation for the secrecy narrative that grew around the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+As a result, the debate is less a contest between two complete explanations than a question of which parts of the Kecksburg story are being examined. The meteor theory fits the observed sky event more convincingly, while Kosmos 96 offers a more natural explanation for the secrecy narrative that grew around the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_kosmos96_vs_meteor_e_325ea9-Illustration-3-dark.svg" | relative_url }}" alt="Theory Match illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_kosmos96_vs_meteor_e_325ea9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_kosmos96_vs_meteor_e_325ea9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Parts of Kecksburg Can Kosmos 96 Explain?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Parts of Kecksburg Can Kosmos 96 Explain?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides balanced treatment of major UFO cases, government investigations, and evidence debates similar to Kecksburg.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides balanced treatment of major UFO cases, government investigations, and evidence debates similar to Kecksburg.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Explores witness testimony, military involvement, and evidence evaluation—issues central to Kecksburg discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores witness testimony, military involvement, and evidence evaluation—issues central to Kecksburg discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers assess how unexplained sightings, witness reports, and conventional explanations are evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers assess how unexplained sightings, witness reports, and conventional explanations are evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kecksburg UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kecksburg UFO Incident">The Kecksburg UFO Incident</a>
-        </h4>
-        <p class="fr-book-author">By George Dudding</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kecksburg UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kecksburg UFO Incident">The Kecksburg UFO Incident</a>
+</h4>
+<p class="fr-book-author">By George Dudding</p>
         
-        <p class="fr-book-desc">Focuses specifically on the Kecksburg event and competing explanations including spacecraft and conventional interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses specifically on the Kecksburg event and competing explanations including spacecraft and conventional interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed"><img src="https://i.ebayimg.com/images/g/1XgAAOSwCRth3c3h/s-l225.jpg" alt="Listing image for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;"><img src="https://i.ebayimg.com/images/g/vXUAAOSws0FmZ9g7/s-l225.jpg" alt="Listing image for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed"><img src="https://i.ebayimg.com/images/g/-EkAAeSwUARosDVU/s-l225.jpg" alt="Listing image for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="theory-match-which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed"><img src="https://i.ebayimg.com/images/g/hHEAAOSwEiJmNQYz/s-l225.jpg" alt="Listing image for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="which-parts-of-kecksburg-can-kosmos-96-explain-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ As a result, the debate is less a contest between two complete explanations than
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ As a result, the debate is less a contest between two complete explanations than
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ As a result, the debate is less a contest between two complete explanations than
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ As a result, the debate is less a contest between two complete explanations than
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ As a result, the debate is less a contest between two complete explanations than
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,101 +735,101 @@ As a result, the debate is less a contest between two complete explanations than
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kosmos 96  
-   Link: <a href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kosmos_96</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kosmos_96</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incidentThe Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireb...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incidentThe Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireb...</p></details>
    Published: December 9, 1965  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: List of missions to Venus  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_missions_to_Venus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_missions_to_Venus</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of missions to VenusPioneer Venus 2 contained the first spacecraft to land from the United States, the Day Probe. It soft landed...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_missions_to_Venus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_missions_to_Venus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of missions to VenusPioneer Venus 2 contained the first spacecraft to land from the United States, the Day Probe. It soft landed...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: adsabs.harvard.edu  
-   Link: <a href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1967JRASC..61..184C</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</p></details>
+   Link:<a href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1967JRASC..61..184C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS AbsThe Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — Photographs, taken from two locations, of the train...</p></details>
    Published: December 9, 1965  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nasa.gov  
    Title: sp 4524  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/04/sp-4524.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/04/sp-4524.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deep Space Chronicleby AA Siddiqi · Cited by 8 — Results: In December 1965, NASA approved a project to modify the Mariner 4 backup space...</p></details>
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2023/04/sp-4524.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/04/sp-4524.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deep Space Chronicleby AA Siddiqi · Cited by 8 — Results: In December 1965, NASA approved a project to modify the Mariner 4 backup space...</p></details>
    Published: December 1965  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsNASA Court-Ordered To Search For UFO DocsOctober 27, 2007 — 27 Oct 2007 — UFO enthusiasts refused to let the matter die and journ...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsNASA Court-Ordered To Search For UFO DocsOctober 27, 2007 — 27 Oct 2007 — UFO enthusiasts refused to let the matter die and journ...</p></details>
    Published: October 27, 2007  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: positivelypittsburgh.com  
-   Link: <a href="https://positivelypittsburgh.com/[the-kecksburg-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/[the-kecksburg-ufo-incident</a>  
+   Link:<a href="https://positivelypittsburgh.com/[the-kecksburg-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/[the-kecksburg-ufo-incident</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg IncidentChamberlain, Von Del, and Krause, David J. “The Fireball of December 9, 1965—Part I.” Journal of the Royal Astronomical...</p></details>
+   Link:<a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg IncidentChamberlain, Von Del, and Krause, David J. “The Fireball of December 9, 1965—Part I.” Journal of the Royal Astronomical...</p></details>
    Published: December 9, 1965  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: blogs.esa.int  
    Title: reentry prediction soviet era venera venus lander cosmos 482 descent craft  
-   Link: <a href="https://blogs.esa.int/rocketscience/2025/05/07/reentry-prediction-soviet-era-venera-venus-lander-cosmos-482-descent-craft/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.esa.int/rocketscience/2025/05/07/reentry-prediction-soviet-era-venera-venus-lander-cosmos-482-descent-craft/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>prediction Soviet-era Venera Venus lander (Cosmos...7 May 2025 — On 10 May, an uncontrolled reentry will take place of the Cosmos-482 de...</p></details>
+   Link:<a href="https://blogs.esa.int/rocketscience/2025/05/07/reentry-prediction-soviet-era-venera-venus-lander-cosmos-482-descent-craft/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.esa.int/rocketscience/2025/05/07/reentry-prediction-soviet-era-venera-venus-lander-cosmos-482-descent-craft/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>prediction Soviet-era Venera Venus lander (Cosmos...7 May 2025 — On 10 May, an uncontrolled reentry will take place of the Cosmos-482 de...</p></details>
    Published: May 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: modemworld.me  
    Title: space sunday venera and a return 53 years in the waiting  
-   Link: <a href="https://modemworld.me/2025/05/12/space-sunday-venera-and-a-return-53-years-in-the-waiting/" target="_blank" rel="noopener noreferrer nofollow">https://modemworld.me/2025/05/12/space-sunday-venera-and-a-return-53-years-in-the-waiting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Sunday: Venera and a return 53 years in the waiting12 May 2025 — Kosmos 96 (launched on 23rd November 1965, failed to depart...</p></details>
+   Link:<a href="https://modemworld.me/2025/05/12/space-sunday-venera-and-a-return-53-years-in-the-waiting/" target="_blank" rel="noopener noreferrer nofollow">https://modemworld.me/2025/05/12/space-sunday-venera-and-a-return-53-years-in-the-waiting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Sunday: Venera and a return 53 years in the waiting12 May 2025 — Kosmos 96 (launched on 23rd November 1965, failed to depart...</p></details>
    Published: May 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: leonarddavid.com  
    Title: roscosmos report old soviet venus probe reenters  
-   Link: <a href="https://www.leonarddavid.com/roscosmos-report-old-soviet-venus-probe-reenters/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/roscosmos-report-old-soviet-venus-probe-reenters/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Old Soviet Venus Probe Reenters – Updated Reports10 May 2025 — The Kosmos-482 spacecraft, launched in 1972, ceased to exist, deorbiting a...</p></details>
+   Link:<a href="https://www.leonarddavid.com/roscosmos-report-old-soviet-venus-probe-reenters/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/roscosmos-report-old-soviet-venus-probe-reenters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Old Soviet Venus Probe Reenters – Updated Reports10 May 2025 — The Kosmos-482 spacecraft, launched in 1972, ceased to exist, deorbiting a...</p></details>
    Published: May 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: is case finally closed on 1965 ufo mysteryleslie  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is case finally closed on 1965 UFO mystery?--Leslie Keane...Is case finally closed on 1965 UFO mystery?--Leslie Keane sued NASA in 2003...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is case finally closed on 1965 UFO mystery?--Leslie Keane...Is case finally closed on 1965 UFO mystery?--Leslie Keane sued NASA in 2003...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: universetoday.com  
    Title: spot a failed soviet venus probe in earth orbit  
-   Link: <a href="https://www.universetoday.com/articles/spot-a-failed-soviet-venus-probe-in-earth-orbit" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/spot-a-failed-soviet-venus-probe-in-earth-orbit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spot Failed Soviet Venus Probe Kosmos 482 in Earth Orbit19 Mar 2019 — The failed Kosmos-96 mission crashed in Pennsylvania shortly after...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/spot-a-failed-soviet-venus-probe-in-earth-orbit" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/spot-a-failed-soviet-venus-probe-in-earth-orbit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spot Failed Soviet Venus Probe Kosmos 482 in Earth Orbit19 Mar 2019 — The failed Kosmos-96 mission crashed in Pennsylvania shortly after...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mg.co.za  
    Title: 2007 11 11 nasa told to solve ufo crash x file  
-   Link: <a href="https://mg.co.za/news/south-africa/2007-11-11-nasa-told-to-solve-ufo-crash-x-file/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/news/south-africa/2007-11-11-nasa-told-to-solve-ufo-crash-x-file/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mail &amp; GuardianNasa told to solve &#x27;UFO crash&#x27; X-file11 Nov 2007 — For four decades, residents of the tiny Pennsylvania town of Kecksburg...</p></details>
+   Link:<a href="https://mg.co.za/news/south-africa/2007-11-11-nasa-told-to-solve-ufo-crash-x-file/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/news/south-africa/2007-11-11-nasa-told-to-solve-ufo-crash-x-file/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mail &amp; GuardianNasa told to solve &#x27;UFO crash&#x27; X-file11 Nov 2007 — For four decades, residents of the tiny Pennsylvania town of Kecksburg...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RusEmbSriLanka/posts/otd-in-1%E2%83%A39%E2%83%A37%E2%83%A35%E2%83%A3-soviet-unmanned-spacecraft%EF%B8%8F-venera-9-became-the-first-man-made-o/3755430921157250/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RusEmbSriLanka/posts/otd-in-1%E2%83%A39%E2%83%A37%E2%83%A35%E2%83%A3-soviet-unmanned-spacecraft%EF%B8%8F-venera-9-became-the-first-man-made-o/3755430921157250/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>es to enter the atmosphere of another planet (“Venera-4”...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/RusEmbSriLanka/posts/otd-in-1%E2%83%A39%E2%83%A37%E2%83%A35%E2%83%A3-soviet-unmanned-spacecraft%EF%B8%8F-venera-9-became-the-first-man-made-o/3755430921157250/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RusEmbSriLanka/posts/otd-in-1%E2%83%A39%E2%83%A37%E2%83%A35%E2%83%A3-soviet-unmanned-spacecraft%EF%B8%8F-venera-9-became-the-first-man-made-o/3755430921157250/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>es to enter the atmosphere of another planet (“Venera-4”...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Kecksburg UFO Crash  
-   Link: <a href="http://www.youtube.com/watch?v=DUuxA0zmAK0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DUuxA0zmAK0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incident Kosmos 96 vs meteor explanation Kecksburg&#x27;s Unsolved Mystery: What Really Fell From The Sky?...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=DUuxA0zmAK0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DUuxA0zmAK0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incident Kosmos 96 vs meteor explanation Kecksburg&#x27;s Unsolved Mystery: What Really Fell From The Sky?...</p></details>

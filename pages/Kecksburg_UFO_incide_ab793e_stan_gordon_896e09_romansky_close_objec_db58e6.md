@@ -274,13 +274,13 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_romansky_cl
 
 ## Introduction
 
-Jim Romansky’s testimony occupies a special place in the Kecksburg UFO record because it is one of the best-known claims from a witness who said he was not merely observing lights in the sky or military activity from a distance, but was close enough to view the alleged object itself. Within [Stan Gordon]({{ 'stan-gordon/' | relative_url }})’s archive of witness accounts, Romansky became a crucial test case: if his account is reliable, it provides direct evidence that search teams encountered an unusual physical object in the woods. If it is mistaken, embellished, or distorted by memory, then one of the strongest pillars supporting the Kecksburg crash narrative becomes much weaker. As a result, Romansky’s testimony is important not because it settles the mystery, but because it illustrates both the value and the limitations of witness archives in cases where [physical evidence]({{ 'no-object/' | relative_url }}) is absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
+Jim Romansky’s testimony occupies a special place in the Kecksburg UFO record because it is one of the best-known claims from a witness who said he was not merely observing lights in the sky or military activity from a distance, but was close enough to view the alleged object itself. Within [Stan Gordon]({{ 'stan-gordon/' | relative_url }})’s archive of witness accounts, Romansky became a crucial test case: if his account is reliable, it provides direct evidence that search teams encountered an unusual physical object in the woods. If it is mistaken, embellished, or distorted by memory, then one of the strongest pillars supporting the Kecksburg crash narrative becomes much weaker. As a result, Romansky’s testimony is important not because it settles the mystery, but because it illustrates both the value and the limitations of witness archives in cases where [physical evidence]({{ 'no-object/' | relative_url }}) is absent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_romansky_close_objec_db58e6-Illustration-1-dark.svg" | relative_url }}" alt="Romansky illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_romansky_close_objec_db58e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_romansky_close_objec_db58e6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Romansky Said He Saw
 
-James “Jim” Romansky was an 18-year-old volunteer firefighter when he responded to reports of a possible aircraft crash near Kecksburg on 9 December 1965. According to accounts he later gave in interviews, documentaries, and historical retellings, he joined search teams moving through the woods and claimed to have reached the location where an object had come down. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.triblive.com/news/5f059feefd9fc42eb81803986394e162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.triblive.com">[TribLIVE Community+2Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.triblive.com</span><span class="citation-popover-title">Trib LIVE Community UFO mystery turns 50 in Mt</span><span class="citation-popover-snippet">Pleasant Township village2 Dec 2015 — Jim Romansky waited 20 years before telling anyone that he was face-to-face with a UFO that crashed...</span></span></span>
+James “Jim” Romansky was an 18-year-old volunteer firefighter when he responded to reports of a possible aircraft crash near Kecksburg on 9 December 1965. According to accounts he later gave in interviews, documentaries, and historical retellings, he joined search teams moving through the woods and claimed to have reached the location where an object had come down.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.triblive.com/news/5f059feefd9fc42eb81803986394e162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.triblive.com">[triblive.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.triblive.com</span><span class="citation-popover-title">Trib LIVE Community UFO mystery turns 50 in Mt</span><span class="citation-popover-snippet">Pleasant Township village2 Dec 2015 — Jim Romansky waited 20 years before telling anyone that he was face-to-face with a UFO that crashed...</span></span></span>
 
 Romansky consistently described a large metallic object that appeared partly embedded in the ground. His description became one of the most frequently repeated images associated with Kecksburg:
 
@@ -289,18 +289,18 @@ Romansky consistently described a large metallic object that appeared partly emb
 * Several feet in diameter.
 * Burnt, scorched, or bronze-orange in appearance.
 * Lacking wings, propellers, or visible aircraft features.
-* Bearing unusual [markings]({{ 'markings/' | relative_url }}) that he compared to ancient [hieroglyphics]({{ 'hieroglyphics/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries+2Rebellion Road]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
+* Bearing unusual [markings]({{ 'markings/' | relative_url }}) that he compared to ancient [hieroglyphics]({{ 'hieroglyphics/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[unsolved.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
 
-One reason researchers continue to discuss Romansky is that his description remained relatively stable over many years. In later interviews he still referred to the object as resembling a freshly fallen acorn and maintained that he saw markings unlike anything he recognised. He also claimed that civilians and firefighters were ordered away after unidentified officials arrived and assumed control of the scene. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries+2TribLIVE Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
+One reason researchers continue to discuss Romansky is that his description remained relatively stable over many years. In later interviews he still referred to the object as resembling a freshly fallen acorn and maintained that he saw markings unlike anything he recognised. He also claimed that civilians and firefighters were ordered away after unidentified officials arrived and assumed control of the scene.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[unsolved.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
 
-Just as important as the object itself was what Romansky said happened afterwards. He recalled seeing a [military presence]({{ 'military-claims/' | relative_url }}) and later observing a covered object being transported on a [flatbed]({{ 'flatbed/' | relative_url }}) truck. That sequence helped shape the enduring belief among many Kecksburg proponents that a recovery operation took place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
+Just as important as the object itself was what Romansky said happened afterwards. He recalled seeing a [military presence]({{ 'military-claims/' | relative_url }}) and later observing a covered object being transported on a [flatbed]({{ 'flatbed/' | relative_url }}) truck. That sequence helped shape the enduring belief among many Kecksburg proponents that a recovery operation took place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3kbARV7FBrU" title="Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer">Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode</a></p><p class="youtube-embed-meta">Channel: Unsolved Mysteries - Full Episodes &middot; Views: 786.9K &middot; Uploaded: March 2019 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3kbARV7FBrU">Open on YouTube</a></p></div></div></div>
 
 ## How Gordon Used the Account
 
-Stan Gordon’s long-running witness archive depended heavily on preserving testimony from individuals who claimed direct involvement. Romansky fit that category better than most. Rather than being a distant observer of the fireball, he was presented as a participant in the search effort who allegedly reached the recovery area before it was secured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.triblive.com/news/5f059feefd9fc42eb81803986394e162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.triblive.com">[TribLIVE Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.triblive.com</span><span class="citation-popover-title">Trib LIVE Community UFO mystery turns 50 in Mt</span><span class="citation-popover-snippet">Pleasant Township village2 Dec 2015 — Jim Romansky waited 20 years before telling anyone that he was face-to-face with a UFO that crashed...</span></span></span>
+Stan Gordon’s long-running witness archive depended heavily on preserving testimony from individuals who claimed direct involvement. Romansky fit that category better than most. Rather than being a distant observer of the fireball, he was presented as a participant in the search effort who allegedly reached the recovery area before it was secured.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.triblive.com/news/5f059feefd9fc42eb81803986394e162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.triblive.com">[TribLIVE Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.triblive.com</span><span class="citation-popover-title">Trib LIVE Community UFO mystery turns 50 in Mt</span><span class="citation-popover-snippet">Pleasant Township village2 Dec 2015 — Jim Romansky waited 20 years before telling anyone that he was face-to-face with a UFO that crashed...</span></span></span>
 
 For Gordon, Romansky’s value was not simply that he described an unusual object. The testimony connected several separate themes found elsewhere in the archive:
 
@@ -310,23 +310,23 @@ For Gordon, Romansky’s value was not simply that he described an unusual objec
 * Reports of a crash site in the woods.
 * Claims that local responders reached the area first.
 * Accounts of military intervention.
-* Stories of an object being removed from Kecksburg. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
+* Stories of an object being removed from Kecksburg.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
 
 </div>
 
-Because those themes appeared in multiple witness narratives, Gordon treated Romansky’s account as part of a broader pattern rather than an isolated statement. The archive therefore used his testimony as corroborative evidence alongside reports from other firefighters, residents, and observers who described unusual activity that evening. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
+Because those themes appeared in multiple witness narratives, Gordon treated Romansky’s account as part of a broader pattern rather than an isolated statement. The archive therefore used his testimony as corroborative evidence alongside reports from other firefighters, residents, and observers who described unusual activity that evening.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
 
-At the same time, Romansky became one of the archive’s most publicly recognisable [witnesses]({{ 'witnesses/' | relative_url }}). His appearances in television programmes, interviews, and anniversary coverage gave a human face to a case otherwise dominated by competing theories about meteors, satellites, and military secrecy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
+At the same time, Romansky became one of the archive’s most publicly recognisable [witnesses]({{ 'witnesses/' | relative_url }}). His appearances in television programmes, interviews, and anniversary coverage gave a human face to a case otherwise dominated by competing theories about meteors, satellites, and military secrecy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_romansky_close_objec_db58e6-Illustration-2-dark.svg" | relative_url }}" alt="Romansky illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_romansky_close_objec_db58e6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_romansky_close_objec_db58e6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why His Account Became a Key Archive Test
 
-Witness archives are strongest when independent testimony converges on specific details. Romansky’s account is often cited because some of its core features resemble claims made by other Kecksburg witnesses, particularly the acorn-like shape and the presence of unusual markings. Supporters argue that such overlap increases the credibility of the reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rebellionroad.substack.com/p/the-kecksburg-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rebellionroad.substack.com">[Rebellion Road]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rebellionroad.substack.com</span><span class="citation-popover-title">Rebellion Road The Kecksburg Crash</span><span class="citation-popover-snippet">Rebellion RoadThe Kecksburg Crash - Brady Crytzer&#x27;s Rebellion RoadClose: One of the earliest eyewitnesses on site was Jim Romansky, a vol...</span></span></span>
+Witness archives are strongest when independent testimony converges on specific details. Romansky’s account is often cited because some of its core features resemble claims made by other Kecksburg witnesses, particularly the acorn-like shape and the presence of unusual markings. Supporters argue that such overlap increases the credibility of the reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rebellionroad.substack.com/p/the-kecksburg-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rebellionroad.substack.com">[Rebellion Road]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rebellionroad.substack.com</span><span class="citation-popover-title">Rebellion Road The Kecksburg Crash</span><span class="citation-popover-snippet">Rebellion RoadThe Kecksburg Crash - Brady Crytzer&#x27;s Rebellion RoadClose: One of the earliest eyewitnesses on site was Jim Romansky, a vol...</span></span></span>
 
-Yet Romansky’s testimony also highlights a recurring problem in historical UFO investigations: many of the most detailed accounts were recorded or publicised years after the event itself. By the time Kecksburg became a nationally known UFO case, memories had already been shaped by discussion, media coverage, documentaries, and community folklore. Historians and sceptical investigators therefore view even sincere testimony with caution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.triblive.com/news/5f059feefd9fc42eb81803986394e162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.triblive.com">[TribLIVE Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.triblive.com</span><span class="citation-popover-title">Trib LIVE Community UFO mystery turns 50 in Mt</span><span class="citation-popover-snippet">Pleasant Township village2 Dec 2015 — Jim Romansky waited 20 years before telling anyone that he was face-to-face with a UFO that crashed...</span></span></span>
+Yet Romansky’s testimony also highlights a recurring problem in historical UFO investigations: many of the most detailed accounts were recorded or publicised years after the event itself. By the time Kecksburg became a nationally known UFO case, memories had already been shaped by discussion, media coverage, documentaries, and community folklore. Historians and sceptical investigators therefore view even sincere testimony with caution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.triblive.com/news/5f059feefd9fc42eb81803986394e162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.triblive.com">[TribLIVE Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.triblive.com</span><span class="citation-popover-title">Trib LIVE Community UFO mystery turns 50 in Mt</span><span class="citation-popover-snippet">Pleasant Township village2 Dec 2015 — Jim Romansky waited 20 years before telling anyone that he was face-to-face with a UFO that crashed...</span></span></span>
 
-The result is that Romansky’s statement serves two purposes simultaneously. For proponents, it is among the strongest eyewitness descriptions of a recovered object. For critics, it is an example of how a vivid recollection can become central to a mystery despite the absence of supporting physical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
+The result is that Romansky’s statement serves two purposes simultaneously. For proponents, it is among the strongest eyewitness descriptions of a recovered object. For critics, it is an example of how a vivid recollection can become central to a mystery despite the absence of supporting physical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_romansky_close_objec_db58e6-Illustration-3-dark.svg" | relative_url }}" alt="Romansky illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_romansky_close_objec_db58e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_romansky_close_objec_db58e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -334,7 +334,7 @@ The result is that Romansky’s statement serves two purposes simultaneously. Fo
 
 Romansky’s account can establish only a limited set of conclusions with confidence.
 
-What it can support is the claim that at least one firefighter consistently maintained that he encountered an unusual object during the Kecksburg search. His testimony also contributes evidence that local responders believed something significant had occurred and that authorities exercised control over access to the area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
+What it can support is the claim that at least one firefighter consistently maintained that he encountered an unusual object during the Kecksburg search. His testimony also contributes evidence that local responders believed something significant had occurred and that authorities exercised control over access to the area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</span></span></span>
 
 What it cannot prove is equally important:
 
@@ -344,212 +344,212 @@ What it cannot prove is equally important:
 * It cannot independently verify the object's origin.
 * It cannot demonstrate that the object was extraterrestrial.
 * It cannot establish that military personnel recovered a non-human craft.
-* It cannot resolve whether the witness observed an actual recovered object, debris, a misidentified aerospace item, or something reconstructed through later memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+* It cannot resolve whether the witness observed an actual recovered object, debris, a misidentified aerospace item, or something reconstructed through later memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 </div>
 
-No publicly available photographs, recovered materials, engineering analyses, or official records have emerged that conclusively confirm Romansky’s description. Consequently, the testimony remains an eyewitness account rather than physical proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+No publicly available photographs, recovered materials, engineering analyses, or official records have emerged that conclusively confirm Romansky’s description. Consequently, the testimony remains an eyewitness account rather than physical proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lsHWrkQWiQs" title="Real UFO? The &quot;Space Acorn&quot; of Kecksburg Pennsylvania" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer">Real UFO? The &quot;Space Acorn&quot; of Kecksburg Pennsylvania</a></p><p class="youtube-embed-meta">Channel: Ray Out There &middot; Views: 1.9K &middot; Uploaded: May 2023 &middot; Length: 4 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lsHWrkQWiQs">Open on YouTube</a></p></div></div></div>
 
 ## Why Romansky's Account Still Matters
 
-Among the many witnesses associated with Kecksburg, Jim Romansky remains significant because his story sits at the intersection of observation, memory, and archival preservation. Without Stan Gordon’s efforts to collect and retain such accounts, much of the local testimony would likely have disappeared. Yet the very dependence on testimony reveals the limits of the archive. The Kecksburg mystery continues not because Romansky proved what landed in the woods, but because his account is detailed enough to keep the question open while remaining impossible to verify decisively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.triblive.com/news/5f059feefd9fc42eb81803986394e162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.triblive.com">[TribLIVE Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.triblive.com</span><span class="citation-popover-title">Trib LIVE Community UFO mystery turns 50 in Mt</span><span class="citation-popover-snippet">Pleasant Township village2 Dec 2015 — Jim Romansky waited 20 years before telling anyone that he was face-to-face with a UFO that crashed...</span></span></span>
+Among the many witnesses associated with Kecksburg, Jim Romansky remains significant because his story sits at the intersection of observation, memory, and archival preservation. Without Stan Gordon’s efforts to collect and retain such accounts, much of the local testimony would likely have disappeared. Yet the very dependence on testimony reveals the limits of the archive. The Kecksburg mystery continues not because Romansky proved what landed in the woods, but because his account is detailed enough to keep the question open while remaining impossible to verify decisively.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.triblive.com/news/5f059feefd9fc42eb81803986394e162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.triblive.com">[TribLIVE Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.triblive.com</span><span class="citation-popover-title">Trib LIVE Community UFO mystery turns 50 in Mt</span><span class="citation-popover-snippet">Pleasant Township village2 Dec 2015 — Jim Romansky waited 20 years before telling anyone that he was face-to-face with a UFO that crashed...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tU7WSHZye5w" title="Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer">Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 68.0K &middot; Uploaded: March 2025 &middot; Length: 1 hour 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tU7WSHZye5w">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Romansky&#x27;s Account Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Romansky&#x27;s Account Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Close-encounter witness testimony is central to both the book and the Romansky discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Close-encounter witness testimony is central to both the book and the Romansky discussion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores how testimony is weighed when physical evidence is limited.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how testimony is weighed when physical evidence is limited.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hMf3TgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a>
-        </h4>
-        <p class="fr-book-author">By Stan Gordon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hMf3TgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a>
+</h4>
+<p class="fr-book-author">By Stan Gordon</p>
         
-        <p class="fr-book-desc">Offers regional investigative material closely connected to Kecksburg-era research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers regional investigative material closely connected to Kecksburg-era research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qA3DrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides context for evaluating extraordinary witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating extraordinary witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Silent+Invasion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silent Invasion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Silent+Invasion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silent Invasion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;"><img src="{{ '/assets/images/marketplace-covers/bb1ce154941236052aff.jpg' | relative_url }}" alt="Listing image for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;"><img src="{{ '/assets/images/marketplace-covers/bb1ce154941236052aff.jpg' | relative_url }}" alt="Listing image for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed"><img src="{{ '/assets/images/marketplace-covers/e4340afcb137f2bf938a.jpg' | relative_url }}" alt="Listing image for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed"><img src="{{ '/assets/images/marketplace-covers/e4340afcb137f2bf938a.jpg' | relative_url }}" alt="Listing image for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed"><img src="{{ '/assets/images/marketplace-covers/2d28adb2b053d08362c1.jpg' | relative_url }}" alt="Listing image for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed"><img src="{{ '/assets/images/marketplace-covers/2d28adb2b053d08362c1.jpg' | relative_url }}" alt="Listing image for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/fd6cb10c53a539320230.jpg' | relative_url }}" alt="Listing image for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/fd6cb10c53a539320230.jpg' | relative_url }}" alt="Listing image for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="romansky-why-romansky-s-account-still-matters-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ Among the many witnesses associated with Kecksburg, Jim Romansky remains signifi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ Among the many witnesses associated with Kecksburg, Jim Romansky remains signifi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ Among the many witnesses associated with Kecksburg, Jim Romansky remains signifi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ Among the many witnesses associated with Kecksburg, Jim Romansky remains signifi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ Among the many witnesses associated with Kecksburg, Jim Romansky remains signifi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,87 +755,87 @@ Among the many witnesses associated with Kecksburg, Jim Romansky remains signifi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: unsolved.com  
    Title: Mysteries Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</p></details>
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO - Unsolved MysteriesVolunteer fireman, James Romansky, was with a search team that actually found the cra...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: community.triblive.com  
    Title: Trib LIVE Community UFO mystery turns 50 in Mt  
-   Link: <a href="https://community.triblive.com/news/5f059feefd9fc42eb81803986394e162" target="_blank" rel="noopener noreferrer nofollow">https://community.triblive.com/news/5f059feefd9fc42eb81803986394e162</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pleasant Township village2 Dec 2015 — Jim Romansky waited 20 years before telling anyone that he was face-to-face with a UFO that crashed...</p></details>
+   Link:<a href="https://community.triblive.com/news/5f059feefd9fc42eb81803986394e162" target="_blank" rel="noopener noreferrer nofollow">https://community.triblive.com/news/5f059feefd9fc42eb81803986394e162</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pleasant Township village2 Dec 2015 — Jim Romansky waited 20 years before telling anyone that he was face-to-face with a UFO that crashed...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: rebellionroad.substack.com  
    Title: Rebellion Road The Kecksburg Crash  
-   Link: <a href="https://rebellionroad.substack.com/p/the-kecksburg-crash" target="_blank" rel="noopener noreferrer nofollow">https://rebellionroad.substack.com/p/the-kecksburg-crash</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rebellion RoadThe Kecksburg Crash - Brady Crytzer&#x27;s Rebellion RoadClose: One of the earliest eyewitnesses on site was Jim Romansky, a vol...</p></details>
+   Link:<a href="https://rebellionroad.substack.com/p/the-kecksburg-crash" target="_blank" rel="noopener noreferrer nofollow">https://rebellionroad.substack.com/p/the-kecksburg-crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rebellion RoadThe Kecksburg Crash - Brady Crytzer&#x27;s Rebellion RoadClose: One of the earliest eyewitnesses on site was Jim Romansky, a vol...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Unsolved Mysteries Kecksburg UFO | Unsolved Mysteries Wiki  
-   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO | Unsolved Mysteries Wiki - FandomJames Romansky, a volunteer fireman, was part of the search team who lo...</p></details>
+   Link:<a href="https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO | Unsolved Mysteries Wiki - FandomJames Romansky, a volunteer fireman, was part of the search team who lo...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pabook.libraries.psu.edu  
-   Link: <a href="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident" target="_blank" rel="noopener noreferrer nofollow">https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>from Space: The Kecksburg IncidentJames Romansky saw it too. According to his account, he was part of a group... was later seen leaving...</p></details>
+   Link:<a href="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident" target="_blank" rel="noopener noreferrer nofollow">https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>from Space: The Kecksburg IncidentJames Romansky saw it too. According to his account, he was part of a group... was later seen leaving...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: in 1965 a mysterious [acorn shape](&#123;&#123; 'acorn-shape/' | relative_url &#125;&#125;) object crash landed just down the road in kecks  
-   Link: <a href="https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-acorn-shape-object-crash-landed-just-down-the-road-in-kecks/974564784944605/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-acorn-shape-object-crash-landed-just-down-the-road-in-kecks/974564784944605/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stan Gordon discusses Kecksburg UFO incidentFireman James Romansky talks witnessing the 1965 crashed UFO at Kecksburg... By one account...</p></details>
+   Link:<a href="https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-acorn-shape-object-crash-landed-just-down-the-road-in-kecks/974564784944605/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-acorn-shape-object-crash-landed-just-down-the-road-in-kecks/974564784944605/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stan Gordon discusses Kecksburg UFO incidentFireman James Romansky talks witnessing the 1965 crashed UFO at Kecksburg... By one account...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYVIcS8oKZZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYVIcS8oKZZ/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Witnesses believed it crashed nearby and the timeline begins around dusk. English Transcript. OCR.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYVIcS8oKZZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYVIcS8oKZZ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Witnesses believed it crashed nearby and the timeline begins around dusk. English Transcript. OCR.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the unidentified object up close before US military officials were able to...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the unidentified object up close before US military officials were able to...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: fireman james romansky talks witnessing the 1965  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/115wxge/fireman_james_romansky_talks_witnessing_the_1965/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/115wxge/fireman_james_romansky_talks_witnessing_the_1965/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The video is an interview with volunteer firefighter James Romansky who attended the scene of the crash site, often referred to as Pennsy...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/115wxge/fireman_james_romansky_talks_witnessing_the_1965/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/115wxge/fireman_james_romansky_talks_witnessing_the_1965/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The video is an interview with volunteer firefighter James Romansky who attended the scene of the crash site, often referred to as Pennsy...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A few have alleged that they actually saw the “Kecksburg...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A few have alleged that they actually saw the “Kecksburg...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/484025020082/posts/10174584025095083/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/484025020082/posts/10174584025095083/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hool during the Kecksburg, Pa. incident, and remember it...</p></details>
+   Link:<a href="https://www.facebook.com/groups/484025020082/posts/10174584025095083/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/484025020082/posts/10174584025095083/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hool during the Kecksburg, Pa. incident, and remember it...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3kbARV7FBrU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3kbARV7FBrU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel  
-   Link: <a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lg1m_PvR55g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lg1m_PvR55g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Real UFO? The "Space Acorn" of Kecksburg Pennsylvania  
-   Link: <a href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lsHWrkQWiQs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Other Roswell: the Kecksburg UFO | Conspiracy (S1, E13) | Full Episode | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lsHWrkQWiQs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Other Roswell: the Kecksburg UFO | Conspiracy (S1, E13) | Full Episode | History...</p></details>

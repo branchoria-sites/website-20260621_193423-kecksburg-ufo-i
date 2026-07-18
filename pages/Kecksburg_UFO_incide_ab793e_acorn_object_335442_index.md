@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e-acorn/
 description: Focused pages that expand on Space Acorn.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_acorn_object_335442
 parent_title: Space Acorn
@@ -16,7 +16,7 @@ parent_permalink: /space-acorn/
 
 # Explore Topics in Space Acorn
 
-The following pages expand on the main **[Space Acorn]({{ '/space-acorn/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Space Acorn]({{ '/space-acorn/' | relative_url }})** page and cover its key branches in.
 
 - [Shape]({{ '/shape/' | relative_url }})
 - [Flatbed]({{ '/flatbed/' | relative_url }})

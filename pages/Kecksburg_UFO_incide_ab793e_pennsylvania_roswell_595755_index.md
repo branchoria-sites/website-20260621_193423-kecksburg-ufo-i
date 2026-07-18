@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e/
 description: Focused pages that expand on PA Roswell.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_pennsylvania_roswell_595755
 parent_title: PA Roswell
@@ -16,7 +16,7 @@ parent_permalink: /pa-roswell/
 
 # Explore Topics in PA Roswell
 
-The following pages expand on the main **[PA Roswell]({{ '/pa-roswell/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[PA Roswell]({{ '/pa-roswell/' | relative_url }})** page and cover its key branches in.
 
 - [Landmarks]({{ '/landmarks/' | relative_url }})
 - [Media Retellings]({{ '/media-retellings/' | relative_url }})

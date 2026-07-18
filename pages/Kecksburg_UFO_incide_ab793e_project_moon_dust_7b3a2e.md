@@ -451,15 +451,15 @@ Project Moon Dust matters to Kecksburg because it proves a narrow but important 
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e-overview.webp" | relative_url }}" alt="Overview image for Moon Dust" loading="eager" decoding="sync" fetchpriority="high">
-The best use of Moon Dust in the Kecksburg debate is contextual, not conclusive. Declassified State Department material shows US concern with recovered space fragments, foreign ownership, intelligence value, diplomatic handling, and public messaging. NASA-related “[fragology]({{ 'fragology/' | relative_url }})” records show a parallel civilian-technical interest in identifying recovered space-object fragments. Together, these records explain why an unusual fallen object in 1965 could have drawn official attention — while also showing why that context must not be mistaken for proof that Kecksburg was a documented Moon Dust recovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org+2The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
+The best use of Moon Dust in the Kecksburg debate is contextual, not conclusive. Declassified State Department material shows US concern with recovered space fragments, foreign ownership, intelligence value, diplomatic handling, and public messaging. NASA-related “[fragology]({{ 'fragology/' | relative_url }})” records show a parallel civilian-technical interest in identifying recovered space-object fragments. Together, these records explain why an unusual fallen object in 1965 could have drawn official attention — while also showing why that context must not be mistaken for proof that Kecksburg was a documented Moon Dust recovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
 
 ## What Moon Dust Was Trying to Recover
 
-“Project Moon Dust” is the common public name for a US Air Force-linked Cold War recovery effort concerned with foreign space debris and other unusual fallen objects. A 2024 discussion by space journalist Leonard David notes a useful correction from a source familiar with the material: in some official usage it was apparently just “Moon Dust”, not necessarily “Project Moon Dust”. The distinction is minor for most readers, but it matters because the surviving paper trail is fragmentary and terminology varies across later FOIA releases, secondary writing, and UFO literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leonarddavid.com/secretive-project-moon-dust-details-revealed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[leonarddavid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">Secretive Moon Dust Details Revealed</span><span class="citation-popover-snippet">Secretive Moon Dust Details Revealed</span></span></span>
+“Project Moon Dust” is the common public name for a US Air Force-linked Cold War recovery effort concerned with foreign space debris and other unusual fallen objects. A 2024 discussion by space journalist Leonard David notes a useful correction from a source familiar with the material: in some official usage it was apparently just “Moon Dust”, not necessarily “Project Moon Dust”. The distinction is minor for most readers, but it matters because the surviving paper trail is fragmentary and terminology varies across later FOIA releases, secondary writing, and UFO literature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leonarddavid.com/secretive-project-moon-dust-details-revealed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[leonarddavid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">Secretive Moon Dust Details Revealed</span><span class="citation-popover-snippet">Secretive Moon Dust Details Revealed</span></span></span>
 
-The practical mission was not mysterious in its basic outline. US agencies wanted to locate, recover, examine, and identify hardware that had survived [re-entry]({{ 're-entry/' | relative_url }}), especially foreign space hardware. During the 1960s and early 1970s, that usually meant Soviet satellites, rocket stages, tanks, casings, or fragments that fell in the United States or in countries friendly enough to co-operate with US diplomats, military attachés, NASA specialists, or intelligence-linked technical teams. Declassified State Department communications describe “Recovery of Deorbited Space Debris (Moon Dust), 1967–1972” and include cases involving Nepal, Mexico, New Zealand, the United Kingdom, and Soviet Cosmos satellite fragments recovered in the American Midwest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org+3governmentattic.org+3governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
+The practical mission was not mysterious in its basic outline. US agencies wanted to locate, recover, examine, and identify hardware that had survived [re-entry]({{ 're-entry/' | relative_url }}), especially foreign space hardware. During the 1960s and early 1970s, that usually meant Soviet satellites, rocket stages, tanks, casings, or fragments that fell in the United States or in countries friendly enough to co-operate with US diplomats, military attachés, NASA specialists, or intelligence-linked technical teams. Declassified State Department communications describe “Recovery of Deorbited Space Debris (Moon Dust), 1967–1972” and include cases involving Nepal, Mexico, New Zealand, the United Kingdom, and Soviet Cosmos satellite fragments recovered in the American Midwest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
 
-That scope is why Moon Dust appears in Kecksburg discussions. Kecksburg involved a dramatic fireball, reports of something landing, claims of official search activity, and later allegations that a large object was removed. If any physical object had been recovered there, it would have fallen into the same broad category that Moon Dust and related “fragology” work cared about: not “UFO” as a pop-culture label, but unidentified or foreign-origin material that might reveal useful technical information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">the vault files the 1965 kecksburg pennsylvania crash</span></span></span>
+That scope is why Moon Dust appears in Kecksburg discussions. Kecksburg involved a dramatic fireball, reports of something landing, claims of official search activity, and later allegations that a large object was removed. If any physical object had been recovered there, it would have fallen into the same broad category that Moon Dust and related “fragology” work cared about: not “UFO” as a pop-culture label, but unidentified or foreign-origin material that might reveal useful technical information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">the vault files the 1965 kecksburg pennsylvania crash</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e-Illustration-1-dark.svg" | relative_url }}" alt="Moon Dust illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -467,38 +467,38 @@ That scope is why Moon Dust appears in Kecksburg discussions. Kecksburg involved
 
 Space debris was not just rubbish. In the Cold War, a fragment of a satellite, probe, or rocket could be a rare physical sample of another country’s engineering. Even damaged, burnt, or incomplete pieces could reveal alloys, manufacturing methods, [heat-shield]({{ 'heat-shield/' | relative_url }}) behaviour, fasteners, electronics packaging, fuel-system design, insulation, [markings]({{ 'markings/' | relative_url }}), or structural choices. That is why official documents did not treat every recovered fragment as a curiosity for museums; some were handled as material of technical and diplomatic value.
 
-The State Department’s 1972 handling of fragments from Soviet [Cosmos 316]({{ 'cosmos-316/' | relative_url }}) makes this clear. Six fragments were recovered after the satellite broke up and fell across the US Midwest on 28 August 1970. The US notified the UN Secretary-General and the Soviet Embassy, offered opportunities for Soviet representatives to inspect and claim the fragments, and later considered how and when to put them on public display. The same memorandum noted that the largest fragment was roughly four feet by four feet and weighed 640 pounds — large enough to make clear that re-entering space hardware could survive in substantial pieces, not merely as specks or ash. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
+The State Department’s 1972 handling of fragments from Soviet [Cosmos 316]({{ 'cosmos-316/' | relative_url }}) makes this clear. Six fragments were recovered after the satellite broke up and fell across the US Midwest on 28 August 1970. The US notified the UN Secretary-General and the Soviet Embassy, offered opportunities for Soviet representatives to inspect and claim the fragments, and later considered how and when to put them on public display. The same memorandum noted that the largest fragment was roughly four feet by four feet and weighed 640 pounds — large enough to make clear that re-entering space hardware could survive in substantial pieces, not merely as specks or ash.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
 
-The same file explains how such fragments could be identified. Officials referred to examination of manufacturers’ markings and numbers, bolts, threads, component configuration, design, alloys, and time-and-trajectory evidence. They also acknowledged that not all identification techniques could be publicly revealed for security reasons. For Kecksburg, this is a key contextual point: a recovered object did not need to be alien, intact, or spectacular to become sensitive. If it was suspected foreign space hardware, it could interest military, intelligence, diplomatic, and NASA-linked technical personnel at the same time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
+The same file explains how such fragments could be identified. Officials referred to examination of manufacturers’ markings and numbers, bolts, threads, component configuration, design, alloys, and time-and-trajectory evidence. They also acknowledged that not all identification techniques could be publicly revealed for security reasons. For Kecksburg, this is a key contextual point: a recovered object did not need to be alien, intact, or spectacular to become sensitive. If it was suspected foreign space hardware, it could interest military, intelligence, diplomatic, and NASA-linked technical personnel at the same time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
 
 ## How Recovery Worked in Practice
 
 Moon Dust-style work sat between several worlds: field reporting, diplomacy, military logistics, technical analysis, and [space law]({{ 'space-law/' | relative_url }}). It was not simply a team rushing into woods with a tarpaulin. The available documents show embassies receiving reports, host governments deciding whether to co-operate, NASA specialists being arranged for examinations, military or defence channels moving samples, and Washington officials weighing how much to say publicly.
 
-The Mexico material is a good example. In 1967, US diplomatic cables discussed a possible space object reported in Chiapas and a separate suspected fragment in Mexico. The records mention a NASA official, Leo Abernethy, travelling to examine a suspected fragment, and Mexican officials arranging custody and examination. This was ordinary bureaucratic work, but it was also time-sensitive and politically delicate: the object moved between local, state, national, consular, and technical hands. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
+The Mexico material is a good example. In 1967, US diplomatic cables discussed a possible space object reported in Chiapas and a separate suspected fragment in Mexico. The records mention a NASA official, Leo Abernethy, travelling to examine a suspected fragment, and Mexican officials arranging custody and examination. This was ordinary bureaucratic work, but it was also time-sensitive and politically delicate: the object moved between local, state, national, consular, and technical hands.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
 
-The New Zealand case shows why “debris recovery” could become more than housekeeping. A 1972 Moon Dust cable said extensive laboratory study of space-object samples had begun, that a classified report was expected in about six months, and that the objects were of greater interest than originally estimated. That phrasing is important. It shows that recovered fragments could grow in significance after examination, and that the results could be classified even when the fact of a recovery was not necessarily secret. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
+The New Zealand case shows why “debris recovery” could become more than housekeeping. A 1972 Moon Dust cable said extensive laboratory study of space-object samples had begun, that a classified report was expected in about six months, and that the objects were of greater interest than originally estimated. That phrasing is important. It shows that recovered fragments could grow in significance after examination, and that the results could be classified even when the fact of a recovery was not necessarily secret.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
 
-Nepal adds the international-law layer. The State Department file includes communications about metallic pieces discovered in Nepalese territory believed to be parts of an object launched into space, and later references a “Moon Dust/Space Fragments: Nepal” message about returning a restored fragment. These were not only technical objects; they were also legally and diplomatically awkward objects, because ownership and return obligations depended on whether a launching state could be identified and whether it chose to claim the material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
+Nepal adds the international-law layer. The State Department file includes communications about metallic pieces discovered in Nepalese territory believed to be parts of an object launched into space, and later references a “Moon Dust/Space Fragments: Nepal” message about returning a restored fragment. These were not only technical objects; they were also legally and diplomatically awkward objects, because ownership and return obligations depended on whether a launching state could be identified and whether it chose to claim the material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uKAT4yK_AyY" title="UFOs Revisited: Project Moon Dust | Episode 8 | The Secret UFO Retrieval Program" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uKAT4yK_AyY" target="_blank" rel="noopener noreferrer">UFOs Revisited: Project Moon Dust | Episode 8 | The Secret UFO Retrieval Program</a></p><p class="youtube-embed-meta">Channel: Free4All &middot; Views: 1.1K &middot; Uploaded: October 2025 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uKAT4yK_AyY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uKAT4yK_AyY">Open on YouTube</a></p></div></div></div>
 
 ## Why Space Law Made Debris Politically Sensitive
 
-By the late 1960s, fallen space hardware was covered by an emerging international legal framework. The 1967 Outer Space Treaty states that ownership of space objects and their component parts is not affected by their return to Earth. The 1968 Rescue Agreement further provides that states should assist in recovering space objects that return outside the launching state’s territory and return or hold them at the disposal of the launching authority upon request. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/outerspacetreaty.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unoosa.org">[UNOOSA+2UNOOSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unoosa.org</span><span class="citation-popover-snippet">Open source on unoosa.org.</span></span></span>
+By the late 1960s, fallen space hardware was covered by an emerging international legal framework. The 1967 Outer Space Treaty states that ownership of space objects and their component parts is not affected by their return to Earth. The 1968 Rescue Agreement further provides that states should assist in recovering space objects that return outside the launching state’s territory and return or hold them at the disposal of the launching authority upon request.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/outerspacetreaty.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unoosa.org">[UNOOSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unoosa.org</span><span class="citation-popover-snippet">Open source on unoosa.org.</span></span></span>
 
-That legal setting helps explain the cautious tone of the Cosmos 316 documents. US officials wanted to show that “national means” were adequate for identifying space objects, but they also did not want to reveal sensitive identification techniques or provoke unnecessary controversy at the United Nations. The State Department memo proposed displaying the fragments at the Smithsonian’s National Air and Space Museum and the Air Force Museum at Wright-Patterson Air Force Base, while retaining legal custody rights and controlling the exact display wording. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
+That legal setting helps explain the cautious tone of the Cosmos 316 documents. US officials wanted to show that “national means” were adequate for identifying space objects, but they also did not want to reveal sensitive identification techniques or provoke unnecessary controversy at the United Nations. The State Department memo proposed displaying the fragments at the Smithsonian’s National Air and Space Museum and the Air Force Museum at Wright-Patterson Air Force Base, while retaining legal custody rights and controlling the exact display wording.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
 
-For Kecksburg, the lesson is not that all secrecy implies a cover-up. It is that space debris could be sensitive for ordinary state reasons: intelligence exploitation, treaty obligations, public messaging, relations with the Soviet Union, and legal uncertainty over ownership. A recovered fragment could therefore generate secrecy even if it was exactly what officials said many UFO reports were not: mundane space hardware rather than an extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
+For Kecksburg, the lesson is not that all secrecy implies a cover-up. It is that space debris could be sensitive for ordinary state reasons: intelligence exploitation, treaty obligations, public messaging, relations with the Soviet Union, and legal uncertainty over ownership. A recovered fragment could therefore generate secrecy even if it was exactly what officials said many UFO reports were not: mundane space hardware rather than an extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
 
 ## Where NASA “Fragology” Fits
 
-Kecksburg debates often mention NASA because of the later fight over missing records. NASA was not the Air Force’s UFO-investigation office, but it had relevant technical expertise. The term “fragology” has been used for NASA files concerning recovery and analysis of space-object fragments, including attempts to determine national ownership and vehicle origin. The Black Vault’s summary of the released NASA-related material describes the [fragology files]({{ 'fragology-files/' | relative_url }}) as reports on space-object recovery and fragment analysis, covering roughly the period in which Kecksburg occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">the vault files the 1965 kecksburg pennsylvania crash</span></span></span>
+Kecksburg debates often mention NASA because of the later fight over missing records. NASA was not the Air Force’s UFO-investigation office, but it had relevant technical expertise. The term “fragology” has been used for NASA files concerning recovery and analysis of space-object fragments, including attempts to determine national ownership and vehicle origin. The Black Vault’s summary of the released NASA-related material describes the [fragology files]({{ 'fragology-files/' | relative_url }}) as reports on space-object recovery and fragment analysis, covering roughly the period in which Kecksburg occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">the vault files the 1965 kecksburg pennsylvania crash</span></span></span>
 
-This matters because Kecksburg occurred in December 1965, inside the approximate period associated with those records. If recovered fragments from the Kecksburg area were ever examined as possible space debris, NASA expertise would not have been surprising. That is different from saying NASA proved a satellite landed at Kecksburg. The available public record is more frustrating: NASA reportedly acknowledged in the 2000s that experts had examined metallic fragments from the area and concluded they were from a Soviet satellite, but the supporting records were missing or destroyed, leaving the claim difficult to verify. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">the vault files the 1965 kecksburg pennsylvania crash</span></span></span>
+This matters because Kecksburg occurred in December 1965, inside the approximate period associated with those records. If recovered fragments from the Kecksburg area were ever examined as possible space debris, NASA expertise would not have been surprising. That is different from saying NASA proved a satellite landed at Kecksburg. The available public record is more frustrating: NASA reportedly acknowledged in the 2000s that experts had examined metallic fragments from the area and concluded they were from a Soviet satellite, but the supporting records were missing or destroyed, leaving the claim difficult to verify.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">the vault files the 1965 kecksburg pennsylvania crash</span></span></span>
 
-The 2003–2007 FOIA lawsuit brought by journalist Leslie Kean sharpened this issue. Reporting by the Reporters Committee for Freedom of the Press stated that after years of dispute, NASA agreed to conduct a more extensive search for records relating to the alleged 1965 Kecksburg landing and pay about $50,000 in attorney’s fees and costs. Space.com later reported that the resulting search produced no “smoking gun”, but did raise unresolved questions about missing or destroyed files and the role of Moon Dust-style space-object recovery work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Reporters Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-snippet">Open source on rcfp.org.</span></span></span>
+The 2003–2007 FOIA lawsuit brought by journalist Leslie Kean sharpened this issue. Reporting by the Reporters Committee for Freedom of the Press stated that after years of dispute, NASA agreed to conduct a more extensive search for records relating to the alleged 1965 Kecksburg landing and pay about $50,000 in attorney’s fees and costs. Space.com later reported that the resulting search produced no “smoking gun”, but did raise unresolved questions about missing or destroyed files and the role of Moon Dust-style space-object recovery work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Reporters Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-snippet">Open source on rcfp.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e-Illustration-2-dark.svg" | relative_url }}" alt="Moon Dust illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -506,29 +506,29 @@ The 2003–2007 FOIA lawsuit brought by journalist Leslie Kean sharpened this is
 
 Moon Dust changes the Kecksburg discussion in three useful ways.
 
-First, it makes official interest plausible. A large, unusual, possibly artificial object falling from the sky in 1965 would have landed in the middle of the space race, not in a neutral technological environment. If [witnesses]({{ 'witnesses/' | relative_url }}) or local authorities reported a crash-like event, officials would have had reasons to investigate that did not require belief in aliens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">7589 case finally closed 1965 pennsylvania ufo mystery</span><span class="citation-popover-snippet">7589 case finally closed 1965 pennsylvania ufo mystery</span></span></span>
+First, it makes official interest plausible. A large, unusual, possibly artificial object falling from the sky in 1965 would have landed in the middle of the space race, not in a neutral technological environment. If [witnesses]({{ 'witnesses/' | relative_url }}) or local authorities reported a crash-like event, officials would have had reasons to investigate that did not require belief in aliens.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">7589 case finally closed 1965 pennsylvania ufo mystery</span><span class="citation-popover-snippet">7589 case finally closed 1965 pennsylvania ufo mystery</span></span></span>
 
-Second, it shows that secrecy could have ordinary causes. Intelligence value, foreign ownership, treaty obligations, and Cold War diplomacy could all justify controlled handling of fallen hardware. The Cosmos 316 files show officials delaying public treatment of recovered fragments, planning careful wording, and worrying about UN discussions, even though the material was ultimately destined for public display. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
+Second, it shows that secrecy could have ordinary causes. Intelligence value, foreign ownership, treaty obligations, and Cold War diplomacy could all justify controlled handling of fallen hardware. The Cosmos 316 files show officials delaying public treatment of recovered fragments, planning careful wording, and worrying about UN discussions, even though the material was ultimately destined for public display.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
 
-Third, it gives a concrete alternative to the false choice between “meteor” and “alien craft”. The Kecksburg fireball may still be best explained as a meteor-like bolide in the sky, and no verified object from Kecksburg has been produced. But the wider recovery context shows why some researchers focus on space debris, foreign hardware, or classified domestic technology rather than treating extraterrestrial visitation as the only non-meteor option. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">7589 case finally closed 1965 pennsylvania ufo mystery</span><span class="citation-popover-snippet">7589 case finally closed 1965 pennsylvania ufo mystery</span></span></span>
+Third, it gives a concrete alternative to the false choice between “meteor” and “alien craft”. The Kecksburg fireball may still be best explained as a meteor-like bolide in the sky, and no verified object from Kecksburg has been produced. But the wider recovery context shows why some researchers focus on space debris, foreign hardware, or classified domestic technology rather than treating extraterrestrial visitation as the only non-meteor option.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">7589 case finally closed 1965 pennsylvania ufo mystery</span><span class="citation-popover-snippet">7589 case finally closed 1965 pennsylvania ufo mystery</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/odUSnDgU-oo" title="The Mysterious Roswell UFO Incident of 1947" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer">The Mysterious Roswell UFO Incident of 1947</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 317.2K &middot; Uploaded: January 2012 &middot; Length: 1 minute 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=odUSnDgU-oo">Open on YouTube</a></p></div></div></div>
 
 ## What Moon Dust Does Not Prove
 
-The strongest caution is simple: Moon Dust’s existence does not prove Moon Dust recovered anything at Kecksburg. The known documents establish that US agencies recovered and analysed fallen space hardware in other cases, and that NASA-related records on fragment analysis are relevant to the Kecksburg paper trail. They do not provide a verified chain of custody for an object from Kecksburg, a laboratory report identifying such an object, or a surviving official inventory showing that a Kecksburg artefact entered Moon Dust or any related programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">the vault files the 1965 kecksburg pennsylvania crash</span></span></span>
+The strongest caution is simple: Moon Dust’s existence does not prove Moon Dust recovered anything at Kecksburg. The known documents establish that US agencies recovered and analysed fallen space hardware in other cases, and that NASA-related records on fragment analysis are relevant to the Kecksburg paper trail. They do not provide a verified chain of custody for an object from Kecksburg, a laboratory report identifying such an object, or a surviving official inventory showing that a Kecksburg artefact entered Moon Dust or any related programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">the vault files the 1965 kecksburg pennsylvania crash</span></span></span>
 
-Nor does Moon Dust overturn the meteor explanation for the broad regional event. The Kecksburg incident began with a widely seen fireball over parts of the United States and Canada. A recovery programme can explain why officials might investigate reported debris, but it cannot by itself establish that debris actually landed in the Pennsylvania woods. That distinction is essential: a real programme plus a real fireball does not automatically equal a recovered spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">7589 case finally closed 1965 pennsylvania ufo mystery</span><span class="citation-popover-snippet">7589 case finally closed 1965 pennsylvania ufo mystery</span></span></span>
+Nor does Moon Dust overturn the meteor explanation for the broad regional event. The Kecksburg incident began with a widely seen fireball over parts of the United States and Canada. A recovery programme can explain why officials might investigate reported debris, but it cannot by itself establish that debris actually landed in the Pennsylvania woods. That distinction is essential: a real programme plus a real fireball does not automatically equal a recovered spacecraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">7589 case finally closed 1965 pennsylvania ufo mystery</span><span class="citation-popover-snippet">7589 case finally closed 1965 pennsylvania ufo mystery</span></span></span>
 
-It also does not erase the difference between UFO investigation and space-debris exploitation. The Air Force’s Project Blue Book records are a separate public archive of UFO reports, and the official Air Force position after Blue Book’s closure was that it had found no evidence that unidentified sightings represented extraterrestrial vehicles or technology beyond known science. Moon Dust belongs more precisely to the recovery-and-analysis context: what governments do when physical material may have fallen, not what they conclude about every unexplained light in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+It also does not erase the difference between UFO investigation and space-debris exploitation. The Air Force’s Project Blue Book records are a separate public archive of UFO reports, and the official Air Force position after Blue Book’s closure was that it had found no evidence that unidentified sightings represented extraterrestrial vehicles or technology beyond known science. Moon Dust belongs more precisely to the recovery-and-analysis context: what governments do when physical material may have fallen, not what they conclude about every unexplained light in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ac3hYt3k-Eo" title="The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer">The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 149.6K &middot; Uploaded: July 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ac3hYt3k-Eo">Open on YouTube</a></p></div></div></div>
 
 ## The Best Reading for Kecksburg
 
-The careful conclusion is that Moon Dust is a context amplifier, not a solution. It makes the Kecksburg recovery claims more historically intelligible because US agencies really did care about fallen space objects, sometimes handled them quietly, and sometimes treated them as technically valuable. It also explains why later researchers searched NASA and State Department records rather than relying only on local testimony or UFO folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org+2The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
+The careful conclusion is that Moon Dust is a context amplifier, not a solution. It makes the Kecksburg recovery claims more historically intelligible because US agencies really did care about fallen space objects, sometimes handled them quietly, and sometimes treated them as technically valuable. It also explains why later researchers searched NASA and State Department records rather than relying only on local testimony or UFO folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">ProjMoondust1967 1972</span></span></span>
 
 At the same time, Moon Dust narrows rather than expands what can responsibly be claimed. It supports the idea that a suspected space-debris incident in 1965 could have attracted military or NASA-linked attention. It does not supply the missing Kecksburg object, does not identify the alleged acorn-shaped craft, and does not prove an extraterrestrial recovery. The most defensible role of Moon Dust in the Kecksburg story is therefore comparative: it shows what the US government was capable of doing with unusual fallen hardware during the space age, while leaving the specific Kecksburg recovery claim unresolved.
 
@@ -536,194 +536,194 @@ At the same time, Moon Dust narrows rather than expands what can responsibly be 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e-Illustration-3-dark.svg" | relative_url }}" alt="Moon Dust illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Moon Dust Matters to Kecksburg. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Moon Dust Matters to Kecksburg. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+NASA+Conspiracies+by+Nick+Redfern&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The NASA Conspiracies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rd1EDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The NASA Conspiracies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+NASA+Conspiracies+by+Nick+Redfern&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The NASA Conspiracies">The NASA Conspiracies</a>
-        </h4>
-        <p class="fr-book-author">By Nick Redfern</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+NASA+Conspiracies+by+Nick+Redfern&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The NASA Conspiracies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rd1EDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The NASA Conspiracies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+NASA+Conspiracies+by+Nick+Redfern&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The NASA Conspiracies">The NASA Conspiracies</a>
+</h4>
+<p class="fr-book-author">By Nick Redfern</p>
         
-        <p class="fr-book-desc">Explores space-age secrecy themes that overlap with Moon Dust discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+NASA+Conspiracies+by+Nick+Redfern&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores space-age secrecy themes that overlap with Moon Dust discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+NASA+Conspiracies+by+Nick+Redfern&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explains Cold War recovery, intelligence, and secrecy culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains Cold War recovery, intelligence, and secrecy culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Zgw35KTLOVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
-        </h4>
-        <p class="fr-book-author">By Richard Dolan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Zgw35KTLOVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
+</h4>
+<p class="fr-book-author">By Richard Dolan</p>
         
-        <p class="fr-book-desc">Places Moon Dust-era programs within broader national-security concerns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Moon Dust-era programs within broader national-security concerns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=NASA+Conspiracies+Nick+Redfern&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NASA Conspiracies on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NASA+Conspiracies+Nick+Redfern&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NASA Conspiracies">NASA Conspiracies</a>
-        </h4>
-        <p class="fr-book-author">By Nick Redfern</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=NASA+Conspiracies+Nick+Redfern&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NASA Conspiracies on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NASA+Conspiracies+Nick+Redfern&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NASA Conspiracies">NASA Conspiracies</a>
+</h4>
+<p class="fr-book-author">By Nick Redfern</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: United states, national aeronautics and space administration, Unidentified flying objects, Conspiracy the...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NASA+Conspiracies+Nick+Redfern&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: United states, national aeronautics and space administration, Unidentified flying objects, Conspiracy the...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NASA+Conspiracies+Nick+Redfern&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+NASA+Conspiracies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The NASA Conspiracies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and the National Security State</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+NASA+Conspiracies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The NASA Conspiracies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and the National Security State</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;"><img src="{{ '/assets/images/marketplace-covers/bb1ce154941236052aff.jpg' | relative_url }}" alt="Listing image for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;"><img src="{{ '/assets/images/marketplace-covers/bb1ce154941236052aff.jpg' | relative_url }}" alt="Listing image for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed"><img src="{{ '/assets/images/marketplace-covers/e4340afcb137f2bf938a.jpg' | relative_url }}" alt="Listing image for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed"><img src="{{ '/assets/images/marketplace-covers/e4340afcb137f2bf938a.jpg' | relative_url }}" alt="Listing image for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed"><img src="{{ '/assets/images/marketplace-covers/2d28adb2b053d08362c1.jpg' | relative_url }}" alt="Listing image for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed"><img src="{{ '/assets/images/marketplace-covers/2d28adb2b053d08362c1.jpg' | relative_url }}" alt="Listing image for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/fd6cb10c53a539320230.jpg' | relative_url }}" alt="Listing image for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/fd6cb10c53a539320230.jpg' | relative_url }}" alt="Listing image for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="moon-dust-why-moon-dust-matters-to-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -739,7 +739,7 @@ At the same time, Moon Dust narrows rather than expands what can responsibly be 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -759,7 +759,7 @@ At the same time, Moon Dust narrows rather than expands what can responsibly be 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -791,7 +791,7 @@ At the same time, Moon Dust narrows rather than expands what can responsibly be 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -843,7 +843,7 @@ At the same time, Moon Dust narrows rather than expands what can responsibly be 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -888,7 +888,7 @@ At the same time, Moon Dust narrows rather than expands what can responsibly be 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -929,149 +929,149 @@ At the same time, Moon Dust narrows rather than expands what can responsibly be 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: governmentattic.org  
    Title: ProjMoondust1967 1972  
-   Link: <a href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf</a>  
+   Link:<a href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: space.com  
    Title: 7589 case finally closed 1965 pennsylvania ufo mystery  
-   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: leonarddavid.com  
    Title: Secretive Moon Dust Details Revealed  
-   Link: <a href="https://www.leonarddavid.com/secretive-project-moon-dust-details-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/secretive-project-moon-dust-details-revealed/</a>  
+   Link:<a href="https://www.leonarddavid.com/secretive-project-moon-dust-details-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/secretive-project-moon-dust-details-revealed/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: unoosa.org  
-   Link: <a href="https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/outerspacetreaty.html" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/outerspacetreaty.html</a>  
+   Link:<a href="https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/outerspacetreaty.html" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/outerspacetreaty.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: unoosa.org  
-   Link: <a href="https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/rescueagreement.html" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/rescueagreement.html</a>  
+   Link:<a href="https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/rescueagreement.html" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/rescueagreement.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: unoosa.org  
-   Link: <a href="https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html</a>  
+   Link:<a href="https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: unoosa.org  
-   Link: <a href="https://www.unoosa.org/oosa/en/SpaceLaw/rescue.html" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/oosa/en/SpaceLaw/rescue.html</a>  
+   Link:<a href="https://www.unoosa.org/oosa/en/SpaceLaw/rescue.html" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/oosa/en/SpaceLaw/rescue.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: history.state.gov  
-   Link: <a href="https://history.state.gov/historicaldocuments/frus1961-63v25/d362" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1961-63v25/d362</a>  
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1961-63v25/d362" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1961-63v25/d362</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: 2009-2017.state.gov  
-   Link: <a href="https://2009-2017.state.gov/t/isn/5181.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/t/isn/5181.htm</a>  
+   Link:<a href="https://2009-2017.state.gov/t/isn/5181.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/t/isn/5181.htm</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Project Moon Dust | Episode 8 | The Secret UFO Retrieval Program  
-   Link: <a href="https://www.youtube.com/watch?v=uKAT4yK_AyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uKAT4yK_AyY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 The Kecksburg Incident: What Really Happened Here?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uKAT4yK_AyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uKAT4yK_AyY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 The Kecksburg Incident: What Really Happened Here?...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theblackvault.com  
    Title: the vault files the 1965 kecksburg pennsylvania crash  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/</a>  
+   Link:<a href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: documents2.theblackvault.com  
    Title: The Black Vault  
-   Link: <a href="https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: rcfp.org  
-   Link: <a href="https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/</a>  
+   Link:<a href="https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Project Moon Dust  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Moon_Dust" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Moon_Dust</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Moon_Dust" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Moon_Dust</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: Project Moon Dust  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11db49s/project_moon_dust_the_covert_crash_retrieval/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11db49s/project_moon_dust_the_covert_crash_retrieval/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11db49s/project_moon_dust_the_covert_crash_retrieval/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11db49s/project_moon_dust_the_covert_crash_retrieval/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
    Title: Project Moon Dust  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/19ewxw0/project_moon_dust_a_dive_into_records_of_a_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/19ewxw0/project_moon_dust_a_dive_into_records_of_a_ufo/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/19ewxw0/project_moon_dust_a_dive_into_records_of_a_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/19ewxw0/project_moon_dust_a_dive_into_records_of_a_ufo/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2025-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2025-1-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2025-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2025-1-1.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c3d31e5274a1b004226b7/Treaty_Principles_Activities_Outer_Space.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c3d31e5274a1b004226b7/Treaty_Principles_Activities_Outer_Space.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c3d31e5274a1b004226b7/Treaty_Principles_Activities_Outer_Space.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c3d31e5274a1b004226b7/Treaty_Principles_Activities_Outer_Space.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: thedebrief.org  
    Title: project moon dust  
-   Link: <a href="https://thedebrief.org/project-moon-dust/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/project-moon-dust/</a>  
+   Link:<a href="https://thedebrief.org/project-moon-dust/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/project-moon-dust/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
+   Link:<a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sppl.umd.edu  
    Title: space debris  
-   Link: <a href="https://sppl.umd.edu/projects/space-debris/" target="_blank" rel="noopener noreferrer nofollow">https://sppl.umd.edu/projects/space-debris/</a>  
+   Link:<a href="https://sppl.umd.edu/projects/space-debris/" target="_blank" rel="noopener noreferrer nofollow">https://sppl.umd.edu/projects/space-debris/</a>  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=odUSnDgU-oo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=odUSnDgU-oo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ac3hYt3k-Eo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ac3hYt3k-Eo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: The Kecksburg Incident: What Really Happened Here?  
-   Link: <a href="https://www.youtube.com/watch?v=BXh2zTD9Kug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BXh2zTD9Kug</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 America&#x27;s Other Roswell: the Kecksburg UFO | Conspiracy (S1, E13) | Full Episode | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BXh2zTD9Kug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BXh2zTD9Kug</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 America&#x27;s Other Roswell: the Kecksburg UFO | Conspiracy (S1, E13) | Full Episode | History...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/library/abbottabad-compound/4A/4A92FD2FB4DAE3F773DB0B7742CF0F65_Coleman.-.CONSPIRATORS.HIERARCHY.-.THE.STORY.OF.THE.COMMITTEE.OF.300.R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/4A/4A92FD2FB4DAE3F773DB0B7742CF0F65_Coleman.-.CONSPIRATORS.HIERARCHY.-.THE.STORY.OF.THE.COMMITTEE.OF.300.R.pdf</a>  
+   Link:<a href="https://www.cia.gov/library/abbottabad-compound/4A/4A92FD2FB4DAE3F773DB0B7742CF0F65_Coleman.-.CONSPIRATORS.HIERARCHY.-.THE.STORY.OF.THE.COMMITTEE.OF.300.R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/4A/4A92FD2FB4DAE3F773DB0B7742CF0F65_Coleman.-.CONSPIRATORS.HIERARCHY.-.THE.STORY.OF.THE.COMMITTEE.OF.300.R.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/library/abbottabad-compound/FC/FC2F5371043C48FDD95AEDE7B8A49624_Springmeier.-.Bloodlines.of.the.Illuminati.R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/FC/FC2F5371043C48FDD95AEDE7B8A49624_Springmeier.-.Bloodlines.of.the.Illuminati.R.pdf</a>  
+   Link:<a href="https://www.cia.gov/library/abbottabad-compound/FC/FC2F5371043C48FDD95AEDE7B8A49624_Springmeier.-.Bloodlines.of.the.Illuminati.R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/FC/FC2F5371043C48FDD95AEDE7B8A49624_Springmeier.-.Bloodlines.of.the.Illuminati.R.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/library/abbottabad-compound/F6/F693879994199D612C64EE9A4666E8EE_Crossing_The_Rubicon_Part_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/F6/F693879994199D612C64EE9A4666E8EE_Crossing_The_Rubicon_Part_1.pdf</a>  
+   Link:<a href="https://www.cia.gov/library/abbottabad-compound/F6/F693879994199D612C64EE9A4666E8EE_Crossing_The_Rubicon_Part_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/F6/F693879994199D612C64EE9A4666E8EE_Crossing_The_Rubicon_Part_1.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/library/abbottabad-compound/3F/3FF4DC9233E6C8EF4A05FCDF054A7344_foreign_policy_-_mar-apr-08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/3F/3FF4DC9233E6C8EF4A05FCDF054A7344_foreign_policy_-_mar-apr-08.pdf</a>  
+   Link:<a href="https://www.cia.gov/library/abbottabad-compound/3F/3FF4DC9233E6C8EF4A05FCDF054A7344_foreign_policy_-_mar-apr-08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/3F/3FF4DC9233E6C8EF4A05FCDF054A7344_foreign_policy_-_mar-apr-08.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/library/abbottabad-compound/13/130AEF1531746AAD6AC03EF59F91E1A1_Killing_Hope_Blum_William.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/13/130AEF1531746AAD6AC03EF59F91E1A1_Killing_Hope_Blum_William.pdf</a>  
+   Link:<a href="https://www.cia.gov/library/abbottabad-compound/13/130AEF1531746AAD6AC03EF59F91E1A1_Killing_Hope_Blum_William.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/13/130AEF1531746AAD6AC03EF59F91E1A1_Killing_Hope_Blum_William.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/library/abbottabad-compound/FC/FC8AEB056C2C32F10AFC327BA91F4A45_The_Bohemian_Grove_and_Other_Retreats.rtf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/FC/FC8AEB056C2C32F10AFC327BA91F4A45_The_Bohemian_Grove_and_Other_Retreats.rtf.pdf</a>  
+   Link:<a href="https://www.cia.gov/library/abbottabad-compound/FC/FC8AEB056C2C32F10AFC327BA91F4A45_The_Bohemian_Grove_and_Other_Retreats.rtf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/FC/FC8AEB056C2C32F10AFC327BA91F4A45_The_Bohemian_Grove_and_Other_Retreats.rtf.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/library/abbottabad-compound/B6/B6F34679EE907C8E686332BC86EAE89B_doctrine03_US.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/B6/B6F34679EE907C8E686332BC86EAE89B_doctrine03_US.pdf</a>  
+   Link:<a href="https://www.cia.gov/library/abbottabad-compound/B6/B6F34679EE907C8E686332BC86EAE89B_doctrine03_US.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/B6/B6F34679EE907C8E686332BC86EAE89B_doctrine03_US.pdf</a>  

@@ -447,19 +447,19 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_unsolved_mysteries_i_e933ac-ov
 
 ## Introduction
 
-Television did not create [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}), but it helped fix its most memorable image: the brown, acorn-shaped craft now known locally as the “Space Acorn”. Before the case reached a mass television audience, Kecksburg was mainly a contested 1965 fireball-and-recovery story, built from regional sky reports, local witness claims and allegations of military removal. After *Unsolved Mysteries* dramatised it in 1990, the case had a single, portable visual symbol: a life-size acorn-like object with strange markings, later left in the village and turned into a roadside [landmark]({{ 'landmark/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tv.apple.com/ch/episode/folge-1/umc.cmc.2ttxl61uhiy37c4ceprqryq6e?showId=umc.cmc.3c0dqpaj5sy1xvv1rovn8lx6p" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tv.apple.com">[Apple TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tv.apple.com</span><span class="citation-popover-title">TV‎Folge 1</span><span class="citation-popover-snippet">TV‎Folge 1</span></span></span>
+Television did not create [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}), but it helped fix its most memorable image: the brown, acorn-shaped craft now known locally as the “Space Acorn”. Before the case reached a mass television audience, Kecksburg was mainly a contested 1965 fireball-and-recovery story, built from regional sky reports, local witness claims and allegations of military removal. After *Unsolved Mysteries* dramatised it in 1990, the case had a single, portable visual symbol: a life-size acorn-like object with strange markings, later left in the village and turned into a roadside [landmark]({{ 'landmark/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tv.apple.com/ch/episode/folge-1/umc.cmc.2ttxl61uhiy37c4ceprqryq6e?showId=umc.cmc.3c0dqpaj5sy1xvv1rovn8lx6p" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tv.apple.com">[Apple TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tv.apple.com</span><span class="citation-popover-title">TV‎Folge 1</span><span class="citation-popover-snippet">TV‎Folge 1</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_unsolved_mysteries_i_e933ac-overview.webp" | relative_url }}" alt="Overview image for TV Image" loading="eager" decoding="sync" fetchpriority="high">
-That change matters because it shows how a UFO case can be reshaped by media form. A television reconstruction had to turn scattered testimony into scenes, props and memorable images. The resulting object did more than illustrate the story; it became part of the story. Visitors could photograph it, local organisers could build events around it, and later retellings could use the acorn as shorthand for the whole Kecksburg mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura Space Acorn in Kecksburg</span><span class="citation-popover-snippet">Atlas Obscura Space Acorn in Kecksburg</span></span></span>
+That change matters because it shows how a UFO case can be reshaped by media form. A television reconstruction had to turn scattered testimony into scenes, props and memorable images. The resulting object did more than illustrate the story; it became part of the story. Visitors could photograph it, local organisers could build events around it, and later retellings could use the acorn as shorthand for the whole Kecksburg mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura Space Acorn in Kecksburg</span><span class="citation-popover-snippet">Atlas Obscura Space Acorn in Kecksburg</span></span></span>
 
 ## How the televised reconstruction gave the case a shape
 
-The Kecksburg story already had visual ingredients before television arrived: a bright fireball, woods near a small Pennsylvania village, police and military activity, and later witness descriptions of a metallic object. What *Unsolved Mysteries* did was compress those ingredients into a dramatic reconstruction that viewers could remember as a scene. Streaming and listings for the Robert Stack-era episode identify the Kecksburg segment as part of the programme’s early 1990s run, with Apple TV listing a Season 3 episode broadcast on 18 September 1990 and describing “Kecksburg UFO” as a two-part segment within the episode. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tv.apple.com/ch/episode/folge-1/umc.cmc.2ttxl61uhiy37c4ceprqryq6e?showId=umc.cmc.3c0dqpaj5sy1xvv1rovn8lx6p" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tv.apple.com">[Apple TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tv.apple.com</span><span class="citation-popover-title">TV‎Folge 1</span><span class="citation-popover-snippet">TV‎Folge 1</span></span></span>
+The Kecksburg story already had visual ingredients before television arrived: a bright fireball, woods near a small Pennsylvania village, police and military activity, and later witness descriptions of a metallic object. What *Unsolved Mysteries* did was compress those ingredients into a dramatic reconstruction that viewers could remember as a scene. Streaming and listings for the Robert Stack-era episode identify the Kecksburg segment as part of the programme’s early 1990s run, with Apple TV listing a Season 3 episode broadcast on 18 September 1990 and describing “Kecksburg UFO” as a two-part segment within the episode.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tv.apple.com/ch/episode/folge-1/umc.cmc.2ttxl61uhiy37c4ceprqryq6e?showId=umc.cmc.3c0dqpaj5sy1xvv1rovn8lx6p" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tv.apple.com">[Apple TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tv.apple.com</span><span class="citation-popover-title">TV‎Folge 1</span><span class="citation-popover-snippet">TV‎Folge 1</span></span></span>
 
-The key visual came from witness language repeated in the programme’s own case summary. Volunteer fireman James Romansky is quoted describing a large object, several feet wide and roughly eight to twelve feet long, “exactly like a fresh acorn”, with no wings, motors, propellers or obvious aircraft identification. He also described markings on a lower band that he compared to ancient Egyptian [hieroglyphics]({{ 'hieroglyphics/' | relative_url }}). Those details — [acorn shape]({{ 'acorn-shape/' | relative_url }}), metallic body, size, markings, lack of aircraft features — gave the television producers enough to build a prop that looked distinct from the usual flying saucer image. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Mysteries Kecksburg UFO</span></span></span>
+The key visual came from witness language repeated in the programme’s own case summary. Volunteer fireman James Romansky is quoted describing a large object, several feet wide and roughly eight to twelve feet long, “exactly like a fresh acorn”, with no wings, motors, propellers or obvious aircraft identification. He also described markings on a lower band that he compared to ancient Egyptian [hieroglyphics]({{ 'hieroglyphics/' | relative_url }}). Those details — [acorn shape]({{ 'acorn-shape/' | relative_url }}), metallic body, size, markings, lack of aircraft features — gave the television producers enough to build a prop that looked distinct from the usual flying saucer image.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Mysteries Kecksburg UFO</span></span></span>
 
-The result was not neutral documentation. It was a production choice made for television: an object had to be seen on screen, not merely discussed. Roadside America, which visited the Kecksburg attraction, describes the programme’s crew building a life-size [replica]({{ 'replica/' | relative_url }}) before inexpensive computer-generated effects were common, after reviewing “sketchy first-hand accounts”. That line captures the tension at the centre of the Space Acorn image: it was based on witness claims, but it was also an interpretive object designed for a dramatised reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America.com Space Acorn</span><span class="citation-popover-snippet">Roadside America.com Space Acorn</span></span></span>
+The result was not neutral documentation. It was a production choice made for television: an object had to be seen on screen, not merely discussed. Roadside America, which visited the Kecksburg attraction, describes the programme’s crew building a life-size [replica]({{ 'replica/' | relative_url }}) before inexpensive computer-generated effects were common, after reviewing “sketchy first-hand accounts”. That line captures the tension at the centre of the Space Acorn image: it was based on witness claims, but it was also an interpretive object designed for a dramatised reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America.com Space Acorn</span><span class="citation-popover-snippet">Roadside America.com Space Acorn</span></span></span>
 
 This matters for how the incident is remembered. A regional fireball can be abstract, especially when scientific reconstructions place the main astronomical event over a broad area rather than at one small village. A physical acorn, by contrast, is concrete. It gives the public a silhouette, a colour, a scale and a surface pattern. Once that image entered circulation, Kecksburg was no longer only a question about whether anything came down; it was a story about whether *that* object had come down.
 
@@ -467,13 +467,13 @@ This matters for how the incident is remembered. A regional fireball can be abst
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_unsolved_mysteries_i_e933ac-Illustration-1-dark.svg" | relative_url }}" alt="TV Image illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_unsolved_mysteries_i_e933ac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_unsolved_mysteries_i_e933ac-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The acorn prop became a local monument, not just a TV leftover
 
-After filming, the prop did not disappear into a studio warehouse. It stayed in Kecksburg. Roadside America reports that the object was left behind by the *Unsolved Mysteries* crew, bolted to the roof of the town’s truck barn, later repaired, repainted and mounted on a visible hillside with lights. Atlas Obscura similarly describes the replica as a life-size object built for the show, left in town and eventually placed on an elevated platform as a visitor draw. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America.com Space Acorn</span><span class="citation-popover-snippet">Roadside America.com Space Acorn</span></span></span>
+After filming, the prop did not disappear into a studio warehouse. It stayed in Kecksburg. Roadside America reports that the object was left behind by the *Unsolved Mysteries* crew, bolted to the roof of the town’s truck barn, later repaired, repainted and mounted on a visible hillside with lights. Atlas Obscura similarly describes the replica as a life-size object built for the show, left in town and eventually placed on an elevated platform as a visitor draw.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America.com Space Acorn</span><span class="citation-popover-snippet">Roadside America.com Space Acorn</span></span></span>
 
 That journey turned a dramatisation prop into a civic symbol. The object began as a tool for television storytelling: it helped viewers picture what witnesses claimed to have seen. Once installed locally, it became a landmark that people could travel to, stand beneath and photograph. The village’s relationship with the case therefore moved from oral memory and contested testimony into a more conventional roadside-attraction economy.
 
-The shift is visible in the small details around the monument. Roadside America describes a UFO Store across from the Space Acorn, selling shirts, documentary DVDs and replica “Meteor Road” signs. Atlas Obscura also notes the shop, T-shirts and local souvenirs associated with the attraction. These details show how the image migrated from screen to place to merchandise: the acorn became the logo through which Kecksburg could present its mystery to outsiders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America.com Space Acorn</span><span class="citation-popover-snippet">Roadside America.com Space Acorn</span></span></span>
+The shift is visible in the small details around the monument. Roadside America describes a UFO Store across from the Space Acorn, selling shirts, documentary DVDs and replica “Meteor Road” signs. Atlas Obscura also notes the shop, T-shirts and local souvenirs associated with the attraction. These details show how the image migrated from screen to place to merchandise: the acorn became the logo through which Kecksburg could present its mystery to outsiders.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America.com Space Acorn</span><span class="citation-popover-snippet">Roadside America.com Space Acorn</span></span></span>
 
-The prop also changed the tone of local engagement. Roadside America quotes fire department figure Ron Struble presenting the attraction pragmatically, as a way to raise money while still trying to avoid turning the village into a caricature of UFO tourism. That ambivalence is important. The Space Acorn is playful and useful, but it also sits on top of a story that some witnesses and researchers treat as serious and unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America.com Space Acorn</span><span class="citation-popover-snippet">Roadside America.com Space Acorn</span></span></span>
+The prop also changed the tone of local engagement. Roadside America quotes fire department figure Ron Struble presenting the attraction pragmatically, as a way to raise money while still trying to avoid turning the village into a caricature of UFO tourism. That ambivalence is important. The Space Acorn is playful and useful, but it also sits on top of a story that some witnesses and researchers treat as serious and unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America.com Space Acorn</span><span class="citation-popover-snippet">Roadside America.com Space Acorn</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lsHWrkQWiQs" title="Real UFO? The &quot;Space Acorn&quot; of Kecksburg Pennsylvania" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer">Real UFO? The &quot;Space Acorn&quot; of Kecksburg Pennsylvania</a></p><p class="youtube-embed-meta">Channel: Ray Out There &middot; Views: 1.9K &middot; Uploaded: May 2023 &middot; Length: 4 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lsHWrkQWiQs">Open on YouTube</a></p></div></div></div>
@@ -482,17 +482,17 @@ The prop also changed the tone of local engagement. Roadside America quotes fire
 
 The Space Acorn is memorable partly because it solves a storytelling problem. The strongest established part of the Kecksburg incident is the large 9 December 1965 fireball seen across a wide region. The disputed part is the local claim that an object landed near Kecksburg and was removed under official control. The acorn image bridges those two levels: it gives the broad sky event a local object and gives the local recovery story a [shape]({{ 'shape/' | relative_url }}).
 
-Yet the image should not be mistaken for independent proof. The prop was made decades after the 1965 event. It was based on accounts, especially the acorn-and-markings description, but it was not itself a recovered object, a photographed artefact from 1965 or a physical remnant with a chain of custody. Space.com’s later review of the NASA lawsuit and Kecksburg investigations even uses an image caption identifying the displayed object as a mock-up made for *Unsolved Mysteries* in 1990, not as the alleged recovered object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">7589 case finally closed 1965 pennsylvania ufo mystery</span><span class="citation-popover-snippet">7589 case finally closed 1965 pennsylvania ufo mystery</span></span></span>
+Yet the image should not be mistaken for independent proof. The prop was made decades after the 1965 event. It was based on accounts, especially the acorn-and-markings description, but it was not itself a recovered object, a photographed artefact from 1965 or a physical remnant with a chain of custody. Space.com’s later review of the NASA lawsuit and Kecksburg investigations even uses an image caption identifying the displayed object as a mock-up made for *Unsolved Mysteries* in 1990, not as the alleged recovered object itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">7589 case finally closed 1965 pennsylvania ufo mystery</span><span class="citation-popover-snippet">7589 case finally closed 1965 pennsylvania ufo mystery</span></span></span>
 
 The distinction is crucial. A viewer or visitor may encounter the Space Acorn as the visual centre of the case and unconsciously treat it as if it preserves the original object’s exact appearance. But several layers separate the monument from the alleged event:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* **Witness description:** Romansky and others described an acorn-like object, markings and a size comparable to a small vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Mysteries Kecksburg UFO</span></span></span>
-* **Television interpretation:** producers converted those descriptions into a usable life-size prop for a dramatic reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America.com Space Acorn</span><span class="citation-popover-snippet">Roadside America.com Space Acorn</span></span></span>
-* **Local display:** the prop was left behind, mounted, repaired and repainted, acquiring its own public identity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America.com Space Acorn</span><span class="citation-popover-snippet">Roadside America.com Space Acorn</span></span></span>
-* **Tourist shorthand:** later articles and visitors often refer to the Space Acorn as the emblem of the whole Kecksburg incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura Space Acorn in Kecksburg</span><span class="citation-popover-snippet">Atlas Obscura Space Acorn in Kecksburg</span></span></span>
+* **Witness description:** Romansky and others described an acorn-like object, markings and a size comparable to a small vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Mysteries Kecksburg UFO</span></span></span>
+* **Television interpretation:** producers converted those descriptions into a usable life-size prop for a dramatic reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America.com Space Acorn</span><span class="citation-popover-snippet">Roadside America.com Space Acorn</span></span></span>
+* **Local display:** the prop was left behind, mounted, repaired and repainted, acquiring its own public identity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America.com Space Acorn</span><span class="citation-popover-snippet">Roadside America.com Space Acorn</span></span></span>
+* **Tourist shorthand:** later articles and visitors often refer to the Space Acorn as the emblem of the whole Kecksburg incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura Space Acorn in Kecksburg</span><span class="citation-popover-snippet">Atlas Obscura Space Acorn in Kecksburg</span></span></span>
 
 </div>
 
@@ -502,11 +502,11 @@ That chain does not prove the object was invented by television. It does show th
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_unsolved_mysteries_i_e933ac-Illustration-2-dark.svg" | relative_url }}" alt="TV Image illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_unsolved_mysteries_i_e933ac-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_unsolved_mysteries_i_e933ac-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How media memory changed the Kecksburg story
 
-The Kecksburg case is a useful example of a broader memory problem: later retellings can become entangled with what people think they remember about an original event. Research on the misinformation effect describes how post-event information can alter recollection, especially when people encounter leading details, repeated narratives or social discussion after the event. Nature’s topic summary explains that memory is reconstructive and can integrate perception, inference and external input; it also identifies source monitoring as the process of separating what one personally perceived from what one later heard or saw. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+The Kecksburg case is a useful example of a broader memory problem: later retellings can become entangled with what people think they remember about an original event. Research on the misinformation effect describes how post-event information can alter recollection, especially when people encounter leading details, repeated narratives or social discussion after the event. Nature’s topic summary explains that memory is reconstructive and can integrate perception, inference and external input; it also identifies source monitoring as the process of separating what one personally perceived from what one later heard or saw.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
 That framework does not mean Kecksburg witnesses were lying, nor does it settle what happened in 1965. It does help explain why the televised acorn image became so influential. Once a vivid reconstruction exists, it can function as a reference image for everyone: original witnesses, later witnesses, researchers, journalists, tourists and sceptics. People may still disagree about the explanation, but they increasingly disagree around the same picture.
 
-This effect is especially strong in a case with little publicly verified physical evidence. The Space Acorn gives the story a visual stability that the documentary record does not provide. NASA-related searches and Freedom of Information Act efforts produced debate, missing-record claims and unresolved contradictions, but not a recovered object that could displace the television image. Space.com’s account of the NASA lawsuit reported “no smoking gun” documents, while also noting that investigators and believers continued to see the case as unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">7589 case finally closed 1965 pennsylvania ufo mystery</span><span class="citation-popover-snippet">7589 case finally closed 1965 pennsylvania ufo mystery</span></span></span>
+This effect is especially strong in a case with little publicly verified physical evidence. The Space Acorn gives the story a visual stability that the documentary record does not provide. NASA-related searches and Freedom of Information Act efforts produced debate, missing-record claims and unresolved contradictions, but not a recovered object that could displace the television image. Space.com’s account of the NASA lawsuit reported “no smoking gun” documents, while also noting that investigators and believers continued to see the case as unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">7589 case finally closed 1965 pennsylvania ufo mystery</span><span class="citation-popover-snippet">7589 case finally closed 1965 pennsylvania ufo mystery</span></span></span>
 
 The television prop therefore filled an evidentiary vacuum with a symbol. For believers, it can represent what they think was taken away. For sceptics, it can represent how folklore hardens into iconography. For the town, it can represent local distinctiveness without requiring every visitor to accept the most dramatic version of the case.
 
@@ -517,9 +517,9 @@ The television prop therefore filled an evidentiary vacuum with a symbol. For be
 
 The Space Acorn endures because it is specific. “UFO” is a broad category, and many UFO images blur together: discs, lights, triangles, cigar shapes. Kecksburg’s acorn is unusual enough to be instantly recognisable. Its form also connects the story to the local landscape: a supposed object from space is described through a familiar woodland image. That makes it both strange and domestic, cosmic and rural.
 
-It also works because it compresses several competing explanations into one object. To some readers, the acorn shape suggests an exotic craft. To others, it resembles early space capsules or re-entry vehicles. Roadside America quotes UFO investigator [Stan Gordon]({{ 'stan-gordon/' | relative_url }}) criticising details of the local prop while saying it looked close and resembled early spaceflight capsules. That ambiguity helps the image survive: it can support alien, secret military and space-debris readings without committing itself fully to any one explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America.com Space Acorn</span><span class="citation-popover-snippet">Roadside America.com Space Acorn</span></span></span>
+It also works because it compresses several competing explanations into one object. To some readers, the acorn shape suggests an exotic craft. To others, it resembles early space capsules or re-entry vehicles. Roadside America quotes UFO investigator [Stan Gordon]({{ 'stan-gordon/' | relative_url }}) criticising details of the local prop while saying it looked close and resembled early spaceflight capsules. That ambiguity helps the image survive: it can support alien, secret military and space-debris readings without committing itself fully to any one explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America.com Space Acorn</span><span class="citation-popover-snippet">Roadside America.com Space Acorn</span></span></span>
 
-The monument also gives Kecksburg something Roswell-like without simply copying Roswell. The village can mark its place in UFO culture through a distinctive object, a fire department display and local events rather than a vast commercial district. Atlas Obscura frames the Space Acorn as a continuing attraction for visitors to the small town, while Roadside America describes the gradual incorporation of the object into Old Fashion Days and local UFO-themed activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura Space Acorn in Kecksburg</span><span class="citation-popover-snippet">Atlas Obscura Space Acorn in Kecksburg</span></span></span>
+The monument also gives Kecksburg something Roswell-like without simply copying Roswell. The village can mark its place in UFO culture through a distinctive object, a fire department display and local events rather than a vast commercial district. Atlas Obscura frames the Space Acorn as a continuing attraction for visitors to the small town, while Roadside America describes the gradual incorporation of the object into Old Fashion Days and local UFO-themed activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura Space Acorn in Kecksburg</span><span class="citation-popover-snippet">Atlas Obscura Space Acorn in Kecksburg</span></span></span>
 
 That is the real mechanism by which television remade the Kecksburg story. It did not merely broadcast claims; it gave the case a durable physical interface. The Space Acorn is where witness memory, television reconstruction, local fundraising, roadside tourism and UFO mythology meet.
 
@@ -529,7 +529,7 @@ That is the real mechanism by which television remade the Kecksburg story. It di
 
 The *Unsolved Mysteries* acorn clarifies why Kecksburg remains memorable. A mystery needs a hook, and the acorn supplies one. It turns a complex file of fireball reports, local testimony, official denials, later lawsuits and competing theories into a single silhouette. For public storytelling, that is powerful.
 
-But it can also obscure the case’s weaker points. The existence of a large public acorn can make the alleged 1965 object feel more materially established than it is. Visitors see a thing and may mentally back-project it into the woods on the night of 9 December 1965. In reality, the displayed object is a 1990 television reconstruction, and the original claim still depends on human testimony, later retellings and disputed documentation rather than a verified artefact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">7589 case finally closed 1965 pennsylvania ufo mystery</span><span class="citation-popover-snippet">7589 case finally closed 1965 pennsylvania ufo mystery</span></span></span>
+But it can also obscure the case’s weaker points. The existence of a large public acorn can make the alleged 1965 object feel more materially established than it is. Visitors see a thing and may mentally back-project it into the woods on the night of 9 December 1965. In reality, the displayed object is a 1990 television reconstruction, and the original claim still depends on human testimony, later retellings and disputed documentation rather than a verified artefact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">7589 case finally closed 1965 pennsylvania ufo mystery</span><span class="citation-popover-snippet">7589 case finally closed 1965 pennsylvania ufo mystery</span></span></span>
 
 The best way to read the Space Acorn is therefore double-layered. As evidence of the crash-recovery claim, it is weak: a prop cannot prove the object it depicts. As evidence of how Kecksburg entered public memory, it is central. It shows how a television programme could turn a local UFO story into a visible, visitable and marketable image — one that now shapes how many people imagine the incident before they ever encounter the underlying arguments.
 
@@ -538,194 +538,194 @@ The best way to read the Space Acorn is therefore double-layered. As evidence of
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Television Remade the Kecksburg Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Television Remade the Kecksburg Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides wider UFO context for readers interested in how famous cases are presented and debated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider UFO context for readers interested in how famous cases are presented and debated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hMf3TgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a>
-        </h4>
-        <p class="fr-book-author">By Stan Gordon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hMf3TgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a>
+</h4>
+<p class="fr-book-author">By Stan Gordon</p>
         
-        <p class="fr-book-desc">Written by the leading investigator connected with Pennsylvania UFO reports and the Kecksburg story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Written by the leading investigator connected with Pennsylvania UFO reports and the Kecksburg story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers place celebrated cases such as Kecksburg within broader UFO reporting traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers place celebrated cases such as Kecksburg within broader UFO reporting traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
-        </h4>
-        <p class="fr-book-author">By Colin Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Unsolved Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W8haAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Unsolved Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Unsolved Mysteries">The Mammoth Encyclopedia of Unsolved Mysteries</a>
+</h4>
+<p class="fr-book-author">By Colin Wilson</p>
         
-        <p class="fr-book-desc">Fits readers drawn to Kecksburg through television mystery programming and unsolved-case culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits readers drawn to Kecksburg through television mystery programming and unsolved-case culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Unsolved+Mysteries+by+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Silent+Invasion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silent Invasion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Silent+Invasion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silent Invasion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="https://i.ebayimg.com/images/g/soMAAeSwza9qGsr-/s-l225.jpg" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="https://i.ebayimg.com/images/g/N0sAAeSwB9Zp28nM/s-l225.jpg" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO, Derringer 1970&#x27;S poster flyer 18x24 Rock memorabilia Reprint"><img src="https://i.ebayimg.com/images/g/faoAAOSwbVVf2c3u/s-l225.jpg" alt="Listing image for UFO, Derringer 1970&#x27;S poster flyer 18x24 Rock memorabilia Reprint" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer">UFO, Derringer 1970&#x27;S poster flyer 18x24 Rock memorabilia Reprint</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="tv-image-how-television-remade-the-kecksburg-story-kecksburg-ufo-incide-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STAMPEDE - COLLECTION OF ORIGINAL 1980&#x27;s MAGAZINE MEMORABILIA (UFO / PHIL LYNOTT"><img src="https://i.ebayimg.com/images/g/6JUAAOSwfeFh5a77/s-l225.jpg" alt="Listing image for STAMPEDE - COLLECTION OF ORIGINAL 1980&#x27;s MAGAZINE MEMORABILIA (UFO / PHIL LYNOTT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer">STAMPEDE - COLLECTION OF ORIGINAL 1980&#x27;s MAGAZINE MEMORABILIA (UFO / PHIL LYNOTT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-remade-the-kecksburg-story-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -741,7 +741,7 @@ The best way to read the Space Acorn is therefore double-layered. As evidence of
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -761,7 +761,7 @@ The best way to read the Space Acorn is therefore double-layered. As evidence of
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -793,7 +793,7 @@ The best way to read the Space Acorn is therefore double-layered. As evidence of
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -845,7 +845,7 @@ The best way to read the Space Acorn is therefore double-layered. As evidence of
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -890,7 +890,7 @@ The best way to read the Space Acorn is therefore double-layered. As evidence of
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -931,154 +931,154 @@ The best way to read the Space Acorn is therefore double-layered. As evidence of
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: tv.apple.com  
    Title: TV‎Folge 1  
-   Link: <a href="https://tv.apple.com/ch/episode/folge-1/umc.cmc.2ttxl61uhiy37c4ceprqryq6e?showId=umc.cmc.3c0dqpaj5sy1xvv1rovn8lx6p" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/ch/episode/folge-1/umc.cmc.2ttxl61uhiy37c4ceprqryq6e?showId=umc.cmc.3c0dqpaj5sy1xvv1rovn8lx6p</a>  
+   Link:<a href="https://tv.apple.com/ch/episode/folge-1/umc.cmc.2ttxl61uhiy37c4ceprqryq6e?showId=umc.cmc.3c0dqpaj5sy1xvv1rovn8lx6p" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/ch/episode/folge-1/umc.cmc.2ttxl61uhiy37c4ceprqryq6e?showId=umc.cmc.3c0dqpaj5sy1xvv1rovn8lx6p</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: roadsideamerica.com  
    Title: Roadside America.com Space Acorn  
-   Link: <a href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideamerica.com/story/16860</a>  
+   Link:<a href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideamerica.com/story/16860</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: space.com  
    Title: 7589 case finally closed 1965 pennsylvania ufo mystery  
-   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: unsolved.com  
    Title: Mysteries Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory</a>  
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tv.apple.com  
-   Link: <a href="https://tv.apple.com/gb/show/unsolved-mysteries-kecksburg-ufo/umc.cmc.1s77o7jsz78mhhaafwvwmwiqe" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/gb/show/unsolved-mysteries-kecksburg-ufo/umc.cmc.1s77o7jsz78mhhaafwvwmwiqe</a>  
+   Link:<a href="https://tv.apple.com/gb/show/unsolved-mysteries-kecksburg-ufo/umc.cmc.1s77o7jsz78mhhaafwvwmwiqe" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/gb/show/unsolved-mysteries-kecksburg-ufo/umc.cmc.1s77o7jsz78mhhaafwvwmwiqe</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tv.apple.com  
-   Link: <a href="https://tv.apple.com/gb/episode/kecksburg-ufo/umc.cmc.3i4akj0zo6flkhrfvgvdrzfvw" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/gb/episode/kecksburg-ufo/umc.cmc.3i4akj0zo6flkhrfvgvdrzfvw</a>  
+   Link:<a href="https://tv.apple.com/gb/episode/kecksburg-ufo/umc.cmc.3i4akj0zo6flkhrfvgvdrzfvw" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/gb/episode/kecksburg-ufo/umc.cmc.3i4akj0zo6flkhrfvgvdrzfvw</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Real UFO? The "Space Acorn" of Kecksburg Pennsylvania  
-   Link: <a href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lsHWrkQWiQs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO - Aliens in Pennsylvania?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lsHWrkQWiQs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO - Aliens in Pennsylvania?...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Kecksburg UFO  
-   Link: <a href="https://www.youtube.com/watch?v=vnau2WjDhds" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vnau2WjDhds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vnau2WjDhds" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vnau2WjDhds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: atlasobscura.com  
    Title: Atlas Obscura Space Acorn in Kecksburg  
-   Link: <a href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/space-acorn</a>  
+   Link:<a href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/space-acorn</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: rottentomatoes.com  
-   Link: <a href="https://www.rottentomatoes.com/tv/unsolved_mysteries/s03/e22" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/unsolved_mysteries/s03/e22</a>  
+   Link:<a href="https://www.rottentomatoes.com/tv/unsolved_mysteries/s03/e22" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/unsolved_mysteries/s03/e22</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Unsolved Mysteries with Robert Stack  
-   Link: <a href="https://www.youtube.com/watch?v=U2dlW6hUnuk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U2dlW6hUnuk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=U2dlW6hUnuk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U2dlW6hUnuk</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Unsolved Mysteries with Robert Stack  
-   Link: <a href="https://www.youtube.com/watch?v=rX1fVl1PVM0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rX1fVl1PVM0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=rX1fVl1PVM0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rX1fVl1PVM0</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: primevideo.com  
-   Link: <a href="https://www.primevideo.com/-/fr/detail/0H7IL20ENWEVKJO6H9Z53A60N0" target="_blank" rel="noopener noreferrer nofollow">https://www.primevideo.com/-/fr/detail/0H7IL20ENWEVKJO6H9Z53A60N0</a>  
+   Link:<a href="https://www.primevideo.com/-/fr/detail/0H7IL20ENWEVKJO6H9Z53A60N0" target="_blank" rel="noopener noreferrer nofollow">https://www.primevideo.com/-/fr/detail/0H7IL20ENWEVKJO6H9Z53A60N0</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: amazon.de  
    Title: Unsolved Mysteries  
-   Link: <a href="https://www.amazon.de/-/en/Unsolved-Mysteries-Ufos/dp/B0002UB26O?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/-/en/Unsolved-Mysteries-Ufos/dp/B0002UB26O?tag=searcht-20</a>  
+   Link:<a href="https://www.amazon.de/-/en/Unsolved-Mysteries-Ufos/dp/B0002UB26O?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/-/en/Unsolved-Mysteries-Ufos/dp/B0002UB26O?tag=searcht-20</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: onlyinyourstate.com  
    Title: space acorn near pgh  
-   Link: <a href="https://www.onlyinyourstate.com/experiences/pennsylvania/space-acorn-near-pgh" target="_blank" rel="noopener noreferrer nofollow">https://www.onlyinyourstate.com/experiences/pennsylvania/space-acorn-near-pgh</a>  
+   Link:<a href="https://www.onlyinyourstate.com/experiences/pennsylvania/space-acorn-near-pgh" target="_blank" rel="noopener noreferrer nofollow">https://www.onlyinyourstate.com/experiences/pennsylvania/space-acorn-near-pgh</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: neighborhoodarchive.com  
    Title: Unsolved Mysteries  
-   Link: <a href="https://www.neighborhoodarchive.com/misc/unsolved_mysteries/" target="_blank" rel="noopener noreferrer nofollow">https://www.neighborhoodarchive.com/misc/unsolved_mysteries/</a>  
+   Link:<a href="https://www.neighborhoodarchive.com/misc/unsolved_mysteries/" target="_blank" rel="noopener noreferrer nofollow">https://www.neighborhoodarchive.com/misc/unsolved_mysteries/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Kecksburg UFO  
-   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO</a>  
+   Link:<a href="https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theclio.com  
    Title: Kecksburg UFO Incident  
-   Link: <a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
+   Link:<a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: prisma.de  
    Title: Unsolved Mysteries Original Robert Stack Folgen s W10w ROpx  
-   Link: <a href="https://www.prisma.de/streaming/Unsolved-Mysteries-Original-Robert-Stack-Folgen-sW10wROpx" target="_blank" rel="noopener noreferrer nofollow">https://www.prisma.de/streaming/Unsolved-Mysteries-Original-Robert-Stack-Folgen-sW10wROpx</a>  
+   Link:<a href="https://www.prisma.de/streaming/Unsolved-Mysteries-Original-Robert-Stack-Folgen-sW10wROpx" target="_blank" rel="noopener noreferrer nofollow">https://www.prisma.de/streaming/Unsolved-Mysteries-Original-Robert-Stack-Folgen-sW10wROpx</a>  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence  
-   Link: <a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Strange Cases From Unsolved Mysteries That Are Still Unexplained  
-   Link: <a href="https://www.youtube.com/watch?v=vSHZataJDlc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vSHZataJDlc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Real UFO? The &quot;Space Acorn&quot; of Kecksburg Pennsylvania...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vSHZataJDlc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vSHZataJDlc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Real UFO? The &quot;Space Acorn&quot; of Kecksburg Pennsylvania...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/401663351_News_as_a_form_of_post-event_information_the_effect_of_online_media_type_and_source_credibility_on_eyewitness_memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401663351_News_as_a_form_of_post-event_information_the_effect_of_online_media_type_and_source_credibility_on_eyewitness_memory</a>  
+   Link:<a href="https://www.researchgate.net/publication/401663351_News_as_a_form_of_post-event_information_the_effect_of_online_media_type_and_source_credibility_on_eyewitness_memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401663351_News_as_a_form_of_post-event_information_the_effect_of_online_media_type_and_source_credibility_on_eyewitness_memory</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: podscripts.co  
-   Link: <a href="https://podscripts.co/podcasts/somewhere-in-the-skies/bonus-the-kecksburg-ufo-incident-w-rob-kristoffersen" target="_blank" rel="noopener noreferrer nofollow">https://podscripts.co/podcasts/somewhere-in-the-skies/bonus-the-kecksburg-ufo-incident-w-rob-kristoffersen</a>  
+   Link:<a href="https://podscripts.co/podcasts/somewhere-in-the-skies/bonus-the-kecksburg-ufo-incident-w-rob-kristoffersen" target="_blank" rel="noopener noreferrer nofollow">https://podscripts.co/podcasts/somewhere-in-the-skies/bonus-the-kecksburg-ufo-incident-w-rob-kristoffersen</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cntraveler.com  
-   Link: <a href="https://www.cntraveler.com/stories/2012-06-29/[ufo-festival" target="_blank" rel="noopener noreferrer nofollow">https://www.cntraveler.com/stories/2012-06-29/[ufo-festival</a>  
+   Link:<a href="https://www.cntraveler.com/stories/2012-06-29/[ufo-festival" target="_blank" rel="noopener noreferrer nofollow">https://www.cntraveler.com/stories/2012-06-29/[ufo-festival</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: mindtrip.ai  
-   Link: <a href="https://mindtrip.ai/attraction/mammoth-pennsylvania/kecksburg-space-acorn/at-572Evsw8" target="_blank" rel="noopener noreferrer nofollow">https://mindtrip.ai/attraction/mammoth-pennsylvania/kecksburg-space-acorn/at-572Evsw8</a>  
+   Link:<a href="https://mindtrip.ai/attraction/mammoth-pennsylvania/kecksburg-space-acorn/at-572Evsw8" target="_blank" rel="noopener noreferrer nofollow">https://mindtrip.ai/attraction/mammoth-pennsylvania/kecksburg-space-acorn/at-572Evsw8</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1pj31iw/kecksburg_ufo_at_60_still_the_acorn_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1pj31iw/kecksburg_ufo_at_60_still_the_acorn_the/</a>  
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1pj31iw/kecksburg_ufo_at_60_still_the_acorn_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1pj31iw/kecksburg_ufo_at_60_still_the_acorn_the/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-landmarks-/1410030341163016/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-landmarks-/1410030341163016/</a>  
+   Link:<a href="https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-landmarks-/1410030341163016/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-landmarks-/1410030341163016/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
+   Link:<a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Robert-Belli/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory/links/556f158d08aeab7772282b35/Misinformation-Effects-and-the-Suggestibility-of-Eyewitness-Memory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Robert-Belli/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory/links/556f158d08aeab7772282b35/Misinformation-Effects-and-the-Suggestibility-of-Eyewitness-Memory.pdf</a>  
+   Link:<a href="https://www.researchgate.net/profile/Robert-Belli/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory/links/556f158d08aeab7772282b35/Misinformation-Effects-and-the-Suggestibility-of-Eyewitness-Memory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Robert-Belli/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory/links/556f158d08aeab7772282b35/Misinformation-Effects-and-the-Suggestibility-of-Eyewitness-Memory.pdf</a>  

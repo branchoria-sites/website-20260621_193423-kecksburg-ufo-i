@@ -280,13 +280,13 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_classif
 
 ## Introduction
 
-One of the most debated explanations for the alleged “[hieroglyphics]({{ 'hieroglyphics/' | relative_url }})” on the Kecksburg object is that witnesses were not seeing an exotic inscription at all, but ordinary markings on military or aerospace hardware. In this interpretation, the reported symbols were the result of a secret or little-known re-entry vehicle, missile component, or space-related object carrying technical markings that appeared unfamiliar when glimpsed briefly under poor conditions. The idea is significant because it offers a mechanism for how sincere witnesses could report [strange symbols]({{ 'symbols/' | relative_url }}) without requiring an extraterrestrial origin. At the same time, it remains a hypothesis rather than a demonstrated solution, because no verified piece of recovered hardware from Kecksburg has ever been produced for comparison. National Air and Space Museum+2Unsolved Mysteries <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/collection-objects/missile-reentry-vehicle-mark-2/nasm_A19751430000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[airandspace.si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMissile, Reentry Vehicle, Mark 2This is an unflown Mark 2 reentry vehicle (RV) that carried the nuclear warh...</span></span></span>
+One of the most debated explanations for the alleged “[hieroglyphics]({{ 'hieroglyphics/' | relative_url }})” on the Kecksburg object is that witnesses were not seeing an exotic inscription at all, but ordinary markings on military or aerospace hardware. In this interpretation, the reported symbols were the result of a secret or little-known re-entry vehicle, missile component, or space-related object carrying technical markings that appeared unfamiliar when glimpsed briefly under poor conditions. The idea is significant because it offers a mechanism for how sincere witnesses could report [strange symbols]({{ 'symbols/' | relative_url }}) without requiring an extraterrestrial origin. At the same time, it remains a hypothesis rather than a demonstrated solution, because no verified piece of recovered hardware from Kecksburg has ever been produced for comparison. National Air and Space Museum+2Unsolved Mysteries<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/collection-objects/missile-reentry-vehicle-mark-2/nasm_A19751430000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[airandspace.si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMissile, Reentry Vehicle, Mark 2This is an unflown Mark 2 reentry vehicle (RV) that carried the nuclear warh...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_classified_hardware_254281-Illustration-1-dark.svg" | relative_url }}" alt="Hardware Marks illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_classified_hardware_254281-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_classified_hardware_254281-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Could Secret Hardware Explain the Symbols?
 
-The hardware-marking theory emerged largely because some researchers proposed that the Kecksburg object may have been a classified military or space-related vehicle rather than an unknown craft. Various candidates have been suggested over the decades, including [re-entry]({{ 're-entry/' | relative_url }}) vehicles and other Cold War aerospace systems. One of the most frequently discussed examples is the General Electric Mark 2 re-entry vehicle, a blunt-cone design used in early American missile programmes. The Mark 2 was a real, documented piece of Cold War technology with a [shape]({{ 'shape/' | relative_url }}) that some observers consider broadly comparable to descriptions of the Kecksburg object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/collection-objects/missile-reentry-vehicle-mark-2/nasm_A19751430000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMissile, Reentry Vehicle, Mark 2This is an unflown Mark 2 reentry vehicle (RV) that carried the nuclear warh...</span></span></span>
+The hardware-marking theory emerged largely because some researchers proposed that the Kecksburg object may have been a classified military or space-related vehicle rather than an unknown craft. Various candidates have been suggested over the decades, including [re-entry]({{ 're-entry/' | relative_url }}) vehicles and other Cold War aerospace systems. One of the most frequently discussed examples is the General Electric Mark 2 re-entry vehicle, a blunt-cone design used in early American missile programmes. The Mark 2 was a real, documented piece of Cold War technology with a [shape]({{ 'shape/' | relative_url }}) that some observers consider broadly comparable to descriptions of the Kecksburg object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/collection-objects/missile-reentry-vehicle-mark-2/nasm_A19751430000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMissile, Reentry Vehicle, Mark 2This is an unflown Mark 2 reentry vehicle (RV) that carried the nuclear warh...</span></span></span>
 
 If a witness encountered unfamiliar aerospace hardware in 1965, several ordinary features could potentially be remembered later as unusual symbols:
 
@@ -304,16 +304,16 @@ These features are common on aerospace equipment but may appear cryptic to someo
 
 ### Ordinary markings on aerospace hardware
 
-Cold War aerospace systems often carried technical markings intended for engineers, maintenance crews, or military personnel rather than the general public. Re-entry vehicles, missile components, and test hardware were specialised equipment. Their labels could include stencilled text, abbreviated identifiers, geometric reference marks, inspection symbols, and manufacturing codes. A civilian unexpectedly encountering such hardware in woodland conditions would have little reason to recognise its purpose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/collection-objects/missile-reentry-vehicle-mark-2/nasm_A19751430000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMissile, Reentry Vehicle, Mark 2This is an unflown Mark 2 reentry vehicle (RV) that carried the nuclear warh...</span></span></span>
+Cold War aerospace systems often carried technical markings intended for engineers, maintenance crews, or military personnel rather than the general public. Re-entry vehicles, missile components, and test hardware were specialised equipment. Their labels could include stencilled text, abbreviated identifiers, geometric reference marks, inspection symbols, and manufacturing codes. A civilian unexpectedly encountering such hardware in woodland conditions would have little reason to recognise its purpose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/collection-objects/missile-reentry-vehicle-mark-2/nasm_A19751430000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMissile, Reentry Vehicle, Mark 2This is an unflown Mark 2 reentry vehicle (RV) that carried the nuclear warh...</span></span></span>
 
-Importantly, witness descriptions from Kecksburg did not converge on a single readable inscription. Later accounts frequently referred to circles, stars, zig-zag patterns, or markings that merely resembled hieroglyphics. Such descriptions are compatible with an observer recognising that marks existed while remaining uncertain about their meaning. The reported symbols were generally remembered as visual impressions rather than as copied characters or identifiable words. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThousands see a UFO in the sky above Kecksburg, Pennsylvania. A ball of light streaki...</span></span></span>
+Importantly, witness descriptions from Kecksburg did not converge on a single readable inscription. Later accounts frequently referred to circles, stars, zig-zag patterns, or markings that merely resembled hieroglyphics. Such descriptions are compatible with an observer recognising that marks existed while remaining uncertain about their meaning. The reported symbols were generally remembered as visual impressions rather than as copied characters or identifiable words.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThousands see a UFO in the sky above Kecksburg, Pennsylvania. A ball of light streaki...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vROJdm_xGAQ" title="60-year mystery: Questions surrounding Kecksburg UFO incident in Pennsylvania" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vROJdm_xGAQ" target="_blank" rel="noopener noreferrer">60-year mystery: Questions surrounding Kecksburg UFO incident in Pennsylvania</a></p><p class="youtube-embed-meta">Channel: WTAE-TV Pittsburgh</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vROJdm_xGAQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vROJdm_xGAQ">Open on YouTube</a></p></div></div></div>
 
 ## How Poor Conditions Can Change Interpretation
 
-The symbol reports are inseparable from the circumstances under which the object was allegedly observed. [Witnesses]({{ 'witnesses/' | relative_url }}) described a wooded ravine, fading daylight, limited access, and a brief viewing opportunity before authorities restricted the area. Under such conditions, perception becomes highly vulnerable to ambiguity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThousands see a UFO in the sky above Kecksburg, Pennsylvania. A ball of light streaki...</span></span></span>
+The symbol reports are inseparable from the circumstances under which the object was allegedly observed. [Witnesses]({{ 'witnesses/' | relative_url }}) described a wooded ravine, fading daylight, limited access, and a brief viewing opportunity before authorities restricted the area. Under such conditions, perception becomes highly vulnerable to ambiguity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThousands see a UFO in the sky above Kecksburg, Pennsylvania. A ball of light streaki...</span></span></span>
 
 Several factors could influence interpretation:
 
@@ -321,7 +321,7 @@ Several factors could influence interpretation:
 
 **Lighting.** Dusk, shadows, and artificial illumination can exaggerate contrasts and make ordinary surface features appear more elaborate.
 
-**Surface damage.** If a re-entry vehicle had experienced heating, scorching, soot accumulation, or ablation effects, irregular patterns could form across the exterior. Aerospace engineers expect re-entry systems to show significant thermal effects, and these effects can alter the appearance of seams, coatings, and markings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/16g4qb1/kecksburg_ufo_december_9_1965_was_most_likely_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Kecksburg UFO December 9, 1965 was most likely a...September 11, 2023 — The GE Mark 2 Reentry vehicle is no longer cutting edge te...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+**Surface damage.** If a re-entry vehicle had experienced heating, scorching, soot accumulation, or ablation effects, irregular patterns could form across the exterior. Aerospace engineers expect re-entry systems to show significant thermal effects, and these effects can alter the appearance of seams, coatings, and markings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/16g4qb1/kecksburg_ufo_december_9_1965_was_most_likely_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Kecksburg UFO December 9, 1965 was most likely a...September 11, 2023 — The GE Mark 2 Reentry vehicle is no longer cutting edge te...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
 **Memory reconstruction.** Witnesses often interpret unfamiliar visual information after the fact. A person who initially remembers “strange marks” may later compare them with known scripts, symbols, or images encountered in books, television programmes, or discussions.
 
@@ -331,15 +331,15 @@ This does not imply dishonesty. Historical studies of eyewitness testimony repea
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_classified_hardware_254281-Illustration-2-dark.svg" | relative_url }}" alt="Hardware Marks illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_classified_hardware_254281-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_classified_hardware_254281-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### A Cold War comparison
 
-The Cold War context is important because advanced aerospace hardware was often secret even when it was entirely terrestrial. Technologies that seem recognisable today could appear extraordinary to civilians in 1965. A compact re-entry vehicle, especially one damaged by atmospheric passage and seen only briefly, might not resemble conventional aircraft or rockets familiar to local residents. Some later commentators have argued that unfamiliar technical markings, perhaps even markings in a foreign language if Soviet hardware were involved, could have contributed to reports of mysterious symbols. However, this remains speculative because no recovered object has been publicly examined and matched to witness descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/16g4qb1/kecksburg_ufo_december_9_1965_was_most_likely_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2Pittsburgh Post-Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Kecksburg UFO December 9, 1965 was most likely a...September 11, 2023 — The GE Mark 2 Reentry vehicle is no longer cutting edge te...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+The Cold War context is important because advanced aerospace hardware was often secret even when it was entirely terrestrial. Technologies that seem recognisable today could appear extraordinary to civilians in 1965. A compact re-entry vehicle, especially one damaged by atmospheric passage and seen only briefly, might not resemble conventional aircraft or rockets familiar to local residents. Some later commentators have argued that unfamiliar technical markings, perhaps even markings in a foreign language if Soviet hardware were involved, could have contributed to reports of mysterious symbols. However, this remains speculative because no recovered object has been publicly examined and matched to witness descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/16g4qb1/kecksburg_ufo_december_9_1965_was_most_likely_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Kecksburg UFO December 9, 1965 was most likely a...September 11, 2023 — The GE Mark 2 Reentry vehicle is no longer cutting edge te...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_classified_hardware_254281-Illustration-3-dark.svg" | relative_url }}" alt="Hardware Marks illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_classified_hardware_254281-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_strange_symbols_fe637b_classified_hardware_254281-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Theory Still Needs Evidence
 
-The hardware-marking explanation is plausible because it relies on known mechanisms rather than unknown ones. Aerospace hardware does carry unusual markings. Witnesses can misinterpret unfamiliar technical features. Poor viewing conditions can amplify ambiguity. Taken together, these factors provide a reasonable pathway from ordinary markings to reports of strange symbols. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/collection-objects/missile-reentry-vehicle-mark-2/nasm_A19751430000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMissile, Reentry Vehicle, Mark 2This is an unflown Mark 2 reentry vehicle (RV) that carried the nuclear warh...</span></span></span>
+The hardware-marking explanation is plausible because it relies on known mechanisms rather than unknown ones. Aerospace hardware does carry unusual markings. Witnesses can misinterpret unfamiliar technical features. Poor viewing conditions can amplify ambiguity. Taken together, these factors provide a reasonable pathway from ordinary markings to reports of strange symbols.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/collection-objects/missile-reentry-vehicle-mark-2/nasm_A19751430000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumMissile, Reentry Vehicle, Mark 2This is an unflown Mark 2 reentry vehicle (RV) that carried the nuclear warh...</span></span></span>
 
-However, plausibility is not proof. The central weakness of the theory is the absence of a verified object. No authenticated photographs of the alleged markings have emerged. No preserved component has been matched to witness descriptions. No official document has conclusively identified a specific piece of hardware and demonstrated that its markings correspond to what witnesses reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Kecksburg UFO incidentThe Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+However, plausibility is not proof. The central weakness of the theory is the absence of a verified object. No authenticated photographs of the alleged markings have emerged. No preserved component has been matched to witness descriptions. No official document has conclusively identified a specific piece of hardware and demonstrated that its markings correspond to what witnesses reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Kecksburg UFO incidentThe Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
 The result is an evidential gap. The theory successfully explains how ordinary hardware could be mistaken for something mysterious, but it does not demonstrate that this is what happened at Kecksburg. The symbol reports therefore remain an interpretive question rather than a solved one. Within the broader debate over strange inscriptions, the hardware-marking hypothesis is best understood as a mechanism of misidentification: a historically grounded possibility that reduces the need for exotic explanations, yet still awaits direct corroboration from [physical evidence]({{ 'no-object/' | relative_url }}).
 
@@ -348,194 +348,194 @@ The result is an evidential gap. The theory successfully explains how ordinary h
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could Secret Hardware Explain the Symbols?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could Secret Hardware Explain the Symbols?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Directly supports the article&#x27;s classified-hardware and government-program context by examining official responses to UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports the article&#x27;s classified-hardware and government-program context by examining official responses to UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores witness interpretation, misidentifications, and investigative methods relevant to claims about strange symbols and unusual craft.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores witness interpretation, misidentifications, and investigative methods relevant to claims about strange symbols and unusual craft.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hMf3TgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a>
-        </h4>
-        <p class="fr-book-author">By Stan Gordon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silent Invasion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hMf3TgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Silent Invasion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silent Invasion">Silent Invasion</a>
+</h4>
+<p class="fr-book-author">By Stan Gordon</p>
         
-        <p class="fr-book-desc">Offers local historical context and eyewitness-report analysis from the same region as the Kecksburg incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers local historical context and eyewitness-report analysis from the same region as the Kecksburg incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Silent+Invasion+by+Stan+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Provides a useful comparison case involving alleged recovered hardware, military secrecy, and disputed physical evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a useful comparison case involving alleged recovered hardware, military secrecy, and disputed physical evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Silent+Invasion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silent Invasion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Silent+Invasion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silent Invasion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kecksburg+ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-secret-hardware-explain-the-symbols-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kecksburg ufo model" data-ebay-reference="could-secret-hardware-explain-the-symbols-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Kecksburg UFO 10” Shoulder Mount Base 7.5” Unique Alien"><img src="https://i.ebayimg.com/images/g/PK8AAeSwtmNoOPRh/s-l225.jpg" alt="Listing image for Roswell Kecksburg UFO 10” Shoulder Mount Base 7.5” Unique Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kecksburg+ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-secret-hardware-explain-the-symbols-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kecksburg ufo model" data-ebay-reference="could-secret-hardware-explain-the-symbols-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Roswell Kecksburg UFO 10” Shoulder Mount Base 7.5” Unique Alien</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kecksburg+ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-secret-hardware-explain-the-symbols-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kecksburg ufo model" data-ebay-reference="could-secret-hardware-explain-the-symbols-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kecksburg ufo model">Search<span data-ebay-domain-label>eBay.co.uk</span>: kecksburg ufo model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kecksburg+ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-secret-hardware-explain-the-symbols-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kecksburg ufo model" data-ebay-reference="could-secret-hardware-explain-the-symbols-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kecksburg+ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-secret-hardware-explain-the-symbols-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kecksburg ufo model" data-ebay-reference="could-secret-hardware-explain-the-symbols-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lot of 3 UFO Diaries: Area 51, Roswell, Kecksburg, Bermuda Triangle (VHS,1996)"><img src="https://i.ebayimg.com/images/g/eQgAAOSwCGZj~tPq/s-l225.jpg" alt="Listing image for Lot of 3 UFO Diaries: Area 51, Roswell, Kecksburg, Bermuda Triangle (VHS,1996)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kecksburg+ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-secret-hardware-explain-the-symbols-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kecksburg ufo model" data-ebay-reference="could-secret-hardware-explain-the-symbols-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Lot of 3 UFO Diaries: Area 51, Roswell, Kecksburg, Bermuda Triangle (VHS,1996)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kecksburg+ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-secret-hardware-explain-the-symbols-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kecksburg ufo model" data-ebay-reference="could-secret-hardware-explain-the-symbols-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kecksburg ufo model">Search<span data-ebay-domain-label>eBay.co.uk</span>: kecksburg ufo model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kecksburg+ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-secret-hardware-explain-the-symbols-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kecksburg ufo model" data-ebay-reference="could-secret-hardware-explain-the-symbols-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kecksburg+ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-secret-hardware-explain-the-symbols-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kecksburg ufo model" data-ebay-reference="could-secret-hardware-explain-the-symbols-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Diaries VHS 1996 3 Tape Set Pyramids Roswell Kecksburg Area 51 Aliens SEALED"><img src="https://i.ebayimg.com/images/g/2-IAAOSw5bVmCDPT/s-l225.jpg" alt="Listing image for UFO Diaries VHS 1996 3 Tape Set Pyramids Roswell Kecksburg Area 51 Aliens SEALED" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kecksburg+ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-secret-hardware-explain-the-symbols-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kecksburg ufo model" data-ebay-reference="could-secret-hardware-explain-the-symbols-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Diaries VHS 1996 3 Tape Set Pyramids Roswell Kecksburg Area 51 Aliens SEALED</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kecksburg+ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-secret-hardware-explain-the-symbols-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kecksburg ufo model" data-ebay-reference="could-secret-hardware-explain-the-symbols-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kecksburg ufo model">Search<span data-ebay-domain-label>eBay.co.uk</span>: kecksburg ufo model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kecksburg+ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-secret-hardware-explain-the-symbols-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kecksburg ufo model" data-ebay-reference="could-secret-hardware-explain-the-symbols-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="hardware-marks-could-secret-hardware-explain-the-symbols-kecksburg-ufo-incide-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kecksburg+ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-secret-hardware-explain-the-symbols-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kecksburg ufo model" data-ebay-reference="could-secret-hardware-explain-the-symbols-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed"><img src="https://i.ebayimg.com/images/g/hHEAAOSwEiJmNQYz/s-l225.jpg" alt="Listing image for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kecksburg+ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-secret-hardware-explain-the-symbols-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kecksburg ufo model" data-ebay-reference="could-secret-hardware-explain-the-symbols-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kecksburg+ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-secret-hardware-explain-the-symbols-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kecksburg ufo model" data-ebay-reference="could-secret-hardware-explain-the-symbols-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kecksburg ufo model">Search<span data-ebay-domain-label>eBay.co.uk</span>: kecksburg ufo model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kecksburg+ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-secret-hardware-explain-the-symbols-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kecksburg ufo model" data-ebay-reference="could-secret-hardware-explain-the-symbols-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=kecksburg+ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-secret-hardware-explain-the-symbols-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kecksburg ufo model" data-ebay-reference="could-secret-hardware-explain-the-symbols-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -551,7 +551,7 @@ The result is an evidential gap. The theory successfully explains how ordinary h
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -571,7 +571,7 @@ The result is an evidential gap. The theory successfully explains how ordinary h
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -603,7 +603,7 @@ The result is an evidential gap. The theory successfully explains how ordinary h
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -655,7 +655,7 @@ The result is an evidential gap. The theory successfully explains how ordinary h
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -700,7 +700,7 @@ The result is an evidential gap. The theory successfully explains how ordinary h
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -741,91 +741,91 @@ The result is an evidential gap. The theory successfully explains how ordinary h
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: unsolved.com  
    Title: Mysteries Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThousands see a UFO in the sky above Kecksburg, Pennsylvania. A ball of light streaki...</p></details>
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThousands see a UFO in the sky above Kecksburg, Pennsylvania. A ball of light streaki...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: post-gazette.com  
-   Link: <a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — Mystery cloaked the strange object that fell f...</p></details>
+   Link:<a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — Mystery cloaked the strange object that fell f...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16g4qb1/kecksburg_ufo_december_9_1965_was_most_likely_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16g4qb1/kecksburg_ufo_december_9_1965_was_most_likely_a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO December 9, 1965 was most likely a...September 11, 2023 — The GE Mark 2 Reentry vehicle is no longer cutting edge te...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16g4qb1/kecksburg_ufo_december_9_1965_was_most_likely_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16g4qb1/kecksburg_ufo_december_9_1965_was_most_likely_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO December 9, 1965 was most likely a...September 11, 2023 — The GE Mark 2 Reentry vehicle is no longer cutting edge te...</p></details>
    Published: December 9, 1965  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incidentThe Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incidentThe Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball...</p></details>
    Published: December 9, 1965  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>object up close. Apollo re-entry capsule. The &quot;hieroglyphs&quot; or...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>object up close. Apollo re-entry capsule. The &quot;hieroglyphs&quot; or...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: airandspace.si.edu  
-   Link: <a href="https://airandspace.si.edu/collection-objects/missile-reentry-vehicle-mark-2/nasm_A19751430000" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/collection-objects/missile-reentry-vehicle-mark-2/nasm_A19751430000</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space MuseumMissile, Reentry Vehicle, Mark 2This is an unflown Mark 2 reentry vehicle (RV) that carried the nuclear warh...</p></details>
+   Link:<a href="https://airandspace.si.edu/collection-objects/missile-reentry-vehicle-mark-2/nasm_A19751430000" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/collection-objects/missile-reentry-vehicle-mark-2/nasm_A19751430000</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space MuseumMissile, Reentry Vehicle, Mark 2This is an unflown Mark 2 reentry vehicle (RV) that carried the nuclear warh...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Kecksburg UFO mysteryWitnesses described it as acorn-shaped, smooth and seamless, unlike any known aircraft. Around its low...</p></details>
+   Link:<a href="https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtae4/posts/4-the-recordpart-two-of-4-the-records-exploration-of-the-kecksburg-westmoreland-/1305794384920703/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Kecksburg UFO mysteryWitnesses described it as acorn-shaped, smooth and seamless, unlike any known aircraft. Around its low...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s mysterious UFO landing 60 years agoSixty years ago, a December day changed the course of history for Kecksburg, a small commu...</p></details>
+   Link:<a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s mysterious UFO landing 60 years agoSixty years ago, a December day changed the course of history for Kecksburg, a small commu...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aiaa.org  
-   Link: <a href="https://aiaa.org/wp-content/uploads/2026/03/GE-ReEntry-Systems-Historic-Aerospace-Site-AIAAHistory-TC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2026/03/GE-ReEntry-Systems-Historic-Aerospace-Site-AIAAHistory-TC.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Historic Aerospace SiteThe reentry vehicle was desig- nated the Mk 2. The subsequent award to. GE was based on GE&#x27;s very important work o...</p></details>
+   Link:<a href="https://aiaa.org/wp-content/uploads/2026/03/GE-ReEntry-Systems-Historic-Aerospace-Site-AIAAHistory-TC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2026/03/GE-ReEntry-Systems-Historic-Aerospace-Site-AIAAHistory-TC.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historic Aerospace SiteThe reentry vehicle was desig- nated the Mk 2. The subsequent award to. GE was based on GE&#x27;s very important work o...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Prototype-version-of-the-Mk-2-reentry-vehicle-RV_fig1_265228332" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Prototype-version-of-the-Mk-2-reentry-vehicle-RV_fig1_265228332</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was a flattened cone on its leading edge. It spent a lot of time in the upper atmosphere, trailing a stream of ionized gas...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Prototype-version-of-the-Mk-2-reentry-vehicle-RV_fig1_265228332" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Prototype-version-of-the-Mk-2-reentry-vehicle-RV_fig1_265228332</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was a flattened cone on its leading edge. It spent a lot of time in the upper atmosphere, trailing a stream of ionized gas...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: kindamtellerrand.de  
    Title: kecksburg ufo landeplatz in den waeldern pennsylvanias  
-   Link: <a href="https://kindamtellerrand.de/kecksburg-ufo-landeplatz-in-den-waeldern-pennsylvanias/" target="_blank" rel="noopener noreferrer nofollow">https://kindamtellerrand.de/kecksburg-ufo-landeplatz-in-den-waeldern-pennsylvanias/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dezember 1965 ging nahe beim Städtchen Kecksburg in den Wäldern Pennsylvanias, etwa 65 Kilometer südöstlich von Pittsburgh, ein UFO zu...</p></details>
+   Link:<a href="https://kindamtellerrand.de/kecksburg-ufo-landeplatz-in-den-waeldern-pennsylvanias/" target="_blank" rel="noopener noreferrer nofollow">https://kindamtellerrand.de/kecksburg-ufo-landeplatz-in-den-waeldern-pennsylvanias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dezember 1965 ging nahe beim Städtchen Kecksburg in den Wäldern Pennsylvanias, etwa 65 Kilometer südöstlich von Pittsburgh, ein UFO zu...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NorwinPublicLibrary/posts/7215ee9c/1367106712128508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NorwinPublicLibrary/posts/7215ee9c/1367106712128508/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ons. -like markings remained a mystery. was a General Electric...</p></details>
+   Link:<a href="https://www.facebook.com/NorwinPublicLibrary/posts/7215ee9c/1367106712128508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NorwinPublicLibrary/posts/7215ee9c/1367106712128508/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ons. -like markings remained a mystery. was a General Electric...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa told to solve &#x27;UFO crash&#x27; X-File | World news11 Nov 2007 — For four decades, residents of the tiny Pennsylvania town of Kecksburg ha...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa told to solve &#x27;UFO crash&#x27; X-File | World news11 Nov 2007 — For four decades, residents of the tiny Pennsylvania town of Kecksburg ha...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel  
-   Link: <a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lg1m_PvR55g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lg1m_PvR55g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel  
-   Link: <a href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CVIKnA8cWak</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CVIKnA8cWak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theclio.com  
    Title: Kecksburg UFO Incident  
-   Link: <a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ClioMany eye-witness testimony described the object as being metallic and acorn-shaped with odd hieroglyphics written on it...</p></details>
+   Link:<a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ClioMany eye-witness testimony described the object as being metallic and acorn-shaped with odd hieroglyphics written on it...</p></details>

@@ -280,13 +280,13 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_moon_d
 
 ## Introduction
 
-Project Moon Dust is one of the strongest documented examples of how the United States treated fallen space hardware as an intelligence and diplomatic matter during the Cold War. Rather than focusing on unidentified flying objects, the programme concentrated on locating, securing, identifying and, when possible, recovering fragments of spacecraft and rocket hardware that had fallen back to Earth. Declassified records show that officials regarded such debris as technically valuable, legally sensitive and potentially important for understanding foreign space capabilities. Those records matter in discussions of the Kecksburg incident because they demonstrate that rapid government interest in an unidentified fallen object was not unusual in itself. The existence of recovery programmes does not prove what happened at Kecksburg, but it establishes that the recovery of unexplained aerospace debris was a real and organised government activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Recovery programmes were real.">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Recovery programmes were real.</span><span class="citation-popover-snippet">Open source on governmentattic.org.</span></span></span>
+Project Moon Dust is one of the strongest documented examples of how the United States treated fallen space hardware as an intelligence and diplomatic matter during the Cold War. Rather than focusing on unidentified flying objects, the programme concentrated on locating, securing, identifying and, when possible, recovering fragments of spacecraft and rocket hardware that had fallen back to Earth. Declassified records show that officials regarded such debris as technically valuable, legally sensitive and potentially important for understanding foreign space capabilities. Those records matter in discussions of the Kecksburg incident because they demonstrate that rapid government interest in an unidentified fallen object was not unusual in itself. The existence of recovery programmes does not prove what happened at Kecksburg, but it establishes that the recovery of unexplained aerospace debris was a real and organised government activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Recovery programmes were real.">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Recovery programmes were real.</span><span class="citation-popover-snippet">Open source on governmentattic.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_moon_dust_records_fe37e4-Illustration-1-dark.svg" | relative_url }}" alt="Moon Dust illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_moon_dust_records_fe37e4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_moon_dust_records_fe37e4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Project Moon Dust Was Meant to Recover
 
-Project Moon Dust emerged during the early space age, when both superpowers were launching satellites, probes and military-related space systems at an accelerating pace. The programme's purpose was to locate and recover space objects or fragments that survived atmospheric [re-entry]({{ 're-entry/' | relative_url }}), especially when they might reveal information about foreign technology. Contemporary descriptions link the project to efforts to exploit Soviet hardware that unexpectedly became available outside Soviet control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Moon_Dust" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Project Moon Dust</span><span class="citation-popover-snippet">Project Moon Dust</span></span></span>
+Project Moon Dust emerged during the early space age, when both superpowers were launching satellites, probes and military-related space systems at an accelerating pace. The programme's purpose was to locate and recover space objects or fragments that survived atmospheric [re-entry]({{ 're-entry/' | relative_url }}), especially when they might reveal information about foreign technology. Contemporary descriptions link the project to efforts to exploit Soviet hardware that unexpectedly became available outside Soviet control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Moon_Dust" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Project Moon Dust</span><span class="citation-popover-snippet">Project Moon Dust</span></span></span>
 
 The programme's significance becomes clearer when viewed through the realities of the 1960s. A recovered fragment could potentially reveal:
 
@@ -296,9 +296,9 @@ The programme's significance becomes clearer when viewed through the realities o
 * Identification [markings]({{ 'markings/' | relative_url }}) linking debris to a specific launch.
 * Evidence about the capabilities of foreign space programmes.
 
-In other words, a recovered object was not merely scrap metal. It could function as an intelligence source. This explains why military and diplomatic channels sometimes reacted quickly when reports of unusual debris appeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Moon_Dust" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Project Moon Dust</span><span class="citation-popover-snippet">Project Moon Dust</span></span></span>
+In other words, a recovered object was not merely scrap metal. It could function as an intelligence source. This explains why military and diplomatic channels sometimes reacted quickly when reports of unusual debris appeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Moon_Dust" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Project Moon Dust</span><span class="citation-popover-snippet">Project Moon Dust</span></span></span>
 
-The declassified State Department collection covering 1967–1972 shows officials discussing reports of recovered objects in multiple countries, exchanging descriptions, photographs and assessments while attempting to determine origin and ownership. The records reveal a systematic process rather than isolated curiosity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Recovery programmes were real.">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Recovery programmes were real.</span><span class="citation-popover-snippet">Open source on governmentattic.org.</span></span></span>
+The declassified State Department collection covering 1967–1972 shows officials discussing reports of recovered objects in multiple countries, exchanging descriptions, photographs and assessments while attempting to determine origin and ownership. The records reveal a systematic process rather than isolated curiosity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Recovery programmes were real.">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Recovery programmes were real.</span><span class="citation-popover-snippet">Open source on governmentattic.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uKAT4yK_AyY" title="UFOs Revisited: Project Moon Dust | Episode 8 | The Secret UFO Retrieval Program" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uKAT4yK_AyY" target="_blank" rel="noopener noreferrer">UFOs Revisited: Project Moon Dust | Episode 8 | The Secret UFO Retrieval Program</a></p><p class="youtube-embed-meta">Channel: Free4All &middot; Views: 1.1K &middot; Uploaded: October 2025 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uKAT4yK_AyY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uKAT4yK_AyY">Open on YouTube</a></p></div></div></div>
@@ -309,23 +309,23 @@ One of the most revealing aspects of the Moon Dust records is the extent to whic
 
 ### Determining Ownership
 
-[Space law]({{ 'space-law/' | relative_url }}) was still developing during the late 1960s. The 1967 Outer Space Treaty established that launching states retained rights and responsibilities connected to their space objects even after re-entry. As a result, recovered debris could trigger international discussions over custody, examination and return. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/introouterspacetreaty.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unoosa.org">[UNOOSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unoosa.org</span><span class="citation-popover-snippet">The Outer Space TreatyTreaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including...</span></span></span>
+[Space law]({{ 'space-law/' | relative_url }}) was still developing during the late 1960s. The 1967 Outer Space Treaty established that launching states retained rights and responsibilities connected to their space objects even after re-entry. As a result, recovered debris could trigger international discussions over custody, examination and return.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/introouterspacetreaty.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unoosa.org">[UNOOSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unoosa.org</span><span class="citation-popover-snippet">The Outer Space TreatyTreaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including...</span></span></span>
 
-The Moon Dust files contain exchanges in which officials sought to identify whether fragments were Soviet, American or of uncertain origin. In some cases, governments provided descriptions to Soviet representatives and invited them to determine whether the material belonged to the USSR. Questions of ownership were therefore not merely technical; they carried diplomatic implications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Recovery programmes were real.">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Recovery programmes were real.</span><span class="citation-popover-snippet">Open source on governmentattic.org.</span></span></span>
+The Moon Dust files contain exchanges in which officials sought to identify whether fragments were Soviet, American or of uncertain origin. In some cases, governments provided descriptions to Soviet representatives and invited them to determine whether the material belonged to the USSR. Questions of ownership were therefore not merely technical; they carried diplomatic implications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Recovery programmes were real.">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Recovery programmes were real.</span><span class="citation-popover-snippet">Open source on governmentattic.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_moon_dust_records_fe37e4-Illustration-2-dark.svg" | relative_url }}" alt="Moon Dust illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_moon_dust_records_fe37e4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_moon_dust_records_fe37e4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Recovery Before Public Attention
 
-The documents show a recurring pattern. Local authorities or foreign officials reported an object. Diplomatic posts gathered information. Technical experts attempted identification. If the material appeared significant, arrangements could be made for examination, transport or return. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Recovery programmes were real.">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Recovery programmes were real.</span><span class="citation-popover-snippet">Open source on governmentattic.org.</span></span></span>
+The documents show a recurring pattern. Local authorities or foreign officials reported an object. Diplomatic posts gathered information. Technical experts attempted identification. If the material appeared significant, arrangements could be made for examination, transport or return.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Recovery programmes were real.">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Recovery programmes were real.</span><span class="citation-popover-snippet">Open source on governmentattic.org.</span></span></span>
 
 This process helps explain why Cold War governments often preferred controlled handling rather than public discussion. Before the object's origin was known, officials had incentives to minimise speculation while preserving access to potentially valuable hardware.
 
 ### Real Examples of Debris Disputes
 
-The broader historical record confirms that such disputes occurred. National Archives material describes a case in Saudi Arabia in 1967 involving a spherical object believed to be space hardware. American officials sought access to the object for analysis and eventually became involved in diplomatic efforts concerning its return. The episode illustrates how seriously governments treated recovered aerospace fragments, even when their origin had not yet been conclusively established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2022/08/09/give-us-back-our-junk-space-debris-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">give us back our junk space debris 1968</span><span class="citation-popover-snippet">The Text MessageGive Us Back Our Junk: Space Debris, 1968 - The Text MessageAugust 9, 2022 — 9 Aug 2022 — When space debris identified as...</span><span class="citation-popover-meta">Published: August 9, 2022</span></span></span>
+The broader historical record confirms that such disputes occurred. National Archives material describes a case in Saudi Arabia in 1967 involving a spherical object believed to be space hardware. American officials sought access to the object for analysis and eventually became involved in diplomatic efforts concerning its return. The episode illustrates how seriously governments treated recovered aerospace fragments, even when their origin had not yet been conclusively established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2022/08/09/give-us-back-our-junk-space-debris-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">give us back our junk space debris 1968</span><span class="citation-popover-snippet">The Text MessageGive Us Back Our Junk: Space Debris, 1968 - The Text MessageAugust 9, 2022 — 9 Aug 2022 — When space debris identified as...</span><span class="citation-popover-meta">Published: August 9, 2022</span></span></span>
 
-The United Nations later developed formal reporting mechanisms for discovered space objects, reflecting the fact that recoveries were sufficiently common to require international procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unoosa.org">[UNOOSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unoosa.org</span><span class="citation-popover-snippet">List of Reported Space Objects Discovered by Member States. In compliance with article 8 of the...Read more...</span></span></span>
+The United Nations later developed formal reporting mechanisms for discovered space objects, reflecting the fact that recoveries were sufficiently common to require international procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unoosa.org">[UNOOSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unoosa.org</span><span class="citation-popover-snippet">List of Reported Space Objects Discovered by Member States. In compliance with article 8 of the...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QiZxd61igSw" title="Project Moondust : The Most Secret Operation in US History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QiZxd61igSw" target="_blank" rel="noopener noreferrer">Project Moondust : The Most Secret Operation in US History</a></p><p class="youtube-embed-meta">Channel: Consciousness &middot; Views: 898 &middot; Uploaded: April 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QiZxd61igSw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QiZxd61igSw">Open on YouTube</a></p></div></div></div>
@@ -334,7 +334,7 @@ The United Nations later developed formal reporting mechanisms for discovered sp
 
 The most important contribution of the Moon Dust documents is that they move the discussion from rumour to documented practice.
 
-The records do not describe a secret hunt for extraterrestrial craft. Instead, they show officials dealing with identifiable problems created by the Space Race: rocket tanks, spacecraft fragments, unidentified re-entry debris and ownership disputes. Reports originated from locations including Asia and Latin America, where unexpected debris falls could place potentially valuable technology in the hands of third countries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Recovery programmes were real.">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Recovery programmes were real.</span><span class="citation-popover-snippet">Open source on governmentattic.org.</span></span></span>
+The records do not describe a secret hunt for extraterrestrial craft. Instead, they show officials dealing with identifiable problems created by the Space Race: rocket tanks, spacecraft fragments, unidentified re-entry debris and ownership disputes. Reports originated from locations including Asia and Latin America, where unexpected debris falls could place potentially valuable technology in the hands of third countries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Recovery programmes were real.">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Recovery programmes were real.</span><span class="citation-popover-snippet">Open source on governmentattic.org.</span></span></span>
 
 Several themes recur throughout the files:
 
@@ -344,11 +344,11 @@ Several themes recur throughout the files:
 * Uncertainty was common at first contact; many objects were initially unidentified.
 * Technical assessment often required photographs, measurements or physical inspection.
 * Diplomatic communication could continue for months while origin was investigated.
-* Recovery and examination were considered legitimate national-security activities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Recovery programmes were real.">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Recovery programmes were real.</span><span class="citation-popover-snippet">Open source on governmentattic.org.</span></span></span>
+* Recovery and examination were considered legitimate national-security activities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Recovery programmes were real.">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Recovery programmes were real.</span><span class="citation-popover-snippet">Open source on governmentattic.org.</span></span></span>
 
 </div>
 
-This is significant because modern discussions of Cold War debris incidents sometimes assume that rapid military interest automatically implies something extraordinary. The Moon Dust records show that military and diplomatic involvement was often a routine response to potentially identifiable aerospace hardware. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Recovery programmes were real.">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Recovery programmes were real.</span><span class="citation-popover-snippet">Open source on governmentattic.org.</span></span></span>
+This is significant because modern discussions of Cold War debris incidents sometimes assume that rapid military interest automatically implies something extraordinary. The Moon Dust records show that military and diplomatic involvement was often a routine response to potentially identifiable aerospace hardware.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Recovery programmes were real.">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Recovery programmes were real.</span><span class="citation-popover-snippet">Open source on governmentattic.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_moon_dust_records_fe37e4-Illustration-3-dark.svg" | relative_url }}" alt="Moon Dust illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_moon_dust_records_fe37e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3_moon_dust_records_fe37e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -356,7 +356,7 @@ This is significant because modern discussions of Cold War debris incidents some
 
 The value of Moon Dust for understanding Kecksburg lies less in direct evidence and more in historical context.
 
-No publicly released Moon Dust document has demonstrated that the Kecksburg object was recovered under the programme. The available records mainly cover years after the December 1965 incident and do not provide a documented chain connecting Moon Dust personnel to the Pennsylvania site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Recovery programmes were real.">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Recovery programmes were real.</span><span class="citation-popover-snippet">Open source on governmentattic.org.</span></span></span>
+No publicly released Moon Dust document has demonstrated that the Kecksburg object was recovered under the programme. The available records mainly cover years after the December 1965 incident and do not provide a documented chain connecting Moon Dust personnel to the Pennsylvania site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Recovery programmes were real.">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Recovery programmes were real.</span><span class="citation-popover-snippet">Open source on governmentattic.org.</span></span></span>
 
 However, the files do establish several points relevant to later claims:
 
@@ -368,162 +368,194 @@ However, the files do establish several points relevant to later claims:
 3. **Foreign hardware was valuable.** Soviet or otherwise unidentified objects could justify rapid official action. [Wikipedia](https://en.wikipedia.org/wiki/Project_Moon_Dust)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Moon Dust Reveals About Fallen Debris. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Moon Dust Reveals About Fallen Debris. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Offers useful background for understanding why recovered aerospace materials were treated as sensitive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers useful background for understanding why recovered aerospace materials were treated as sensitive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Right Stuff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiSXWxWkx_oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Right Stuff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Right Stuff">The Right Stuff</a>
-        </h4>
-        <p class="fr-book-author">By Tom Wolfe</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Places debris recovery and aerospace competition within the broader early-space-age context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Right Stuff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiSXWxWkx_oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Right Stuff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Right Stuff">The Right Stuff</a>
+</h4>
+<p class="fr-book-author">By Tom Wolfe</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Places debris recovery and aerospace competition within the broader early-space-age context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cold War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dZ-MEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cold War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold War">The Cold War</a>
-        </h4>
-        <p class="fr-book-author">By John Lewis Gaddis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cold War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dZ-MEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cold War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold War">The Cold War</a>
+</h4>
+<p class="fr-book-author">By John Lewis Gaddis</p>
         
-        <p class="fr-book-desc">Explains why foreign hardware and space technology had intelligence value.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why foreign hardware and space technology had intelligence value.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Challenge+to+Apollo+by+Asif+A.+Siddiqi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Challenge to Apollo on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5pQ9AQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Challenge to Apollo" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Challenge+to+Apollo+by+Asif+A.+Siddiqi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Challenge to Apollo">Challenge to Apollo</a>
-        </h4>
-        <p class="fr-book-author">By Asif A. Siddiqi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Challenge+to+Apollo+by+Asif+A.+Siddiqi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Challenge to Apollo on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5pQ9AQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Challenge to Apollo" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Challenge+to+Apollo+by+Asif+A.+Siddiqi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Challenge to Apollo">Challenge to Apollo</a>
+</h4>
+<p class="fr-book-author">By Asif A. Siddiqi</p>
         
-        <p class="fr-book-desc">Directly addresses Soviet space technology that programs like Moon Dust sought to understand.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Challenge+to+Apollo+by+Asif+A.+Siddiqi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses Soviet space technology that programs like Moon Dust sought to understand.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Challenge+to+Apollo+by+Asif+A.+Siddiqi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Right+Stuff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Right Stuff</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cold+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cold War</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Right+Stuff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Right Stuff</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cold+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cold War</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-13e495-what-moon-dust-reveals-about-fallen-debris-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moon-dust-13e495-what-moon-dust-reveals-about-fallen-debris-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-13e495-what-moon-dust-reveals-about-fallen-debris-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moon-dust-13e495-what-moon-dust-reveals-about-fallen-debris-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-13e495-what-moon-dust-reveals-about-fallen-debris-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moon-dust-13e495-what-moon-dust-reveals-about-fallen-debris-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-13e495-what-moon-dust-reveals-about-fallen-debris-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moon-dust-13e495-what-moon-dust-reveals-about-fallen-debris-kecksburg-ufo-incide-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+recovery+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO recovery patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -lp" data-ebay-reference="what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO RECOVERY TEAM ROSWELL NM HAT PATCH CAP AREA 52 ALIEN WING PIN UP NASA SPACE"><img src="https://i.ebayimg.com/images/g/p0UAAOSw6HtoUQOR/s-l225.jpg" alt="Listing image for UFO RECOVERY TEAM ROSWELL NM HAT PATCH CAP AREA 52 ALIEN WING PIN UP NASA SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+recovery+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO recovery patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -lp" data-ebay-reference="what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu" target="_blank" rel="sponsored noopener noreferrer">UFO RECOVERY TEAM ROSWELL NM HAT PATCH CAP AREA 52 ALIEN WING PIN UP NASA SPACE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+recovery+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO recovery patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -lp" data-ebay-reference="what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO recovery patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO recovery patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+recovery+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO recovery patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -lp" data-ebay-reference="what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-13e495-what-moon-dust-reveals-about-fallen-debris-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moon-dust-13e495-what-moon-dust-reveals-about-fallen-debris-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-13e495-what-moon-dust-reveals-about-fallen-debris-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moon-dust-13e495-what-moon-dust-reveals-about-fallen-debris-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-13e495-what-moon-dust-reveals-about-fallen-debris-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moon-dust-13e495-what-moon-dust-reveals-about-fallen-debris-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-13e495-what-moon-dust-reveals-about-fallen-debris-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moon-dust-13e495-what-moon-dust-reveals-about-fallen-debris-kecksburg-ufo-incide-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-dust-13e495-what-moon-dust-reveals-about-fallen-debris-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moon-dust-13e495-what-moon-dust-reveals-about-fallen-debris-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+recovery+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO recovery patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -lp" data-ebay-reference="what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BANANAS MAGAZINE #23 1978 Project UFO, Queen, Bee Gees, Silly Dog Poster"><img src="https://i.ebayimg.com/images/g/qjgAAOSwqehoL10-/s-l225.jpg" alt="Listing image for BANANAS MAGAZINE #23 1978 Project UFO, Queen, Bee Gees, Silly Dog Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+recovery+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO recovery patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -lp" data-ebay-reference="what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu" target="_blank" rel="sponsored noopener noreferrer">BANANAS MAGAZINE #23 1978 Project UFO, Queen, Bee Gees, Silly Dog Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+recovery+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO recovery patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -lp" data-ebay-reference="what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO recovery patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO recovery patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+recovery+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO recovery patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -lp" data-ebay-reference="what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+recovery+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO recovery patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -lp" data-ebay-reference="what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Advertising Patch Logo Emblem Sew Green Alien Face UFO Outer Space"><img src="https://i.ebayimg.com/images/g/GXkAAeSwLDppz8ZR/s-l225.jpg" alt="Listing image for Vintage Advertising Patch Logo Emblem Sew Green Alien Face UFO Outer Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+recovery+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO recovery patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -lp" data-ebay-reference="what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu" target="_blank" rel="sponsored noopener noreferrer">Vintage Advertising Patch Logo Emblem Sew Green Alien Face UFO Outer Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+recovery+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO recovery patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -lp" data-ebay-reference="what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO recovery patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO recovery patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+recovery+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO recovery patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -lp" data-ebay-reference="what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+recovery+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO recovery patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -lp" data-ebay-reference="what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO RECOVERY TEAM ROSWELL NM HAT PATCH CAP AREA 52 ALIEN NASA SPACE GIFT WOW"><img src="https://i.ebayimg.com/images/g/89oAAOSw88Zistek/s-l225.jpg" alt="Listing image for UFO RECOVERY TEAM ROSWELL NM HAT PATCH CAP AREA 52 ALIEN NASA SPACE GIFT WOW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+recovery+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO recovery patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -lp" data-ebay-reference="what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu" target="_blank" rel="sponsored noopener noreferrer">UFO RECOVERY TEAM ROSWELL NM HAT PATCH CAP AREA 52 ALIEN NASA SPACE GIFT WOW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+recovery+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO recovery patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -lp" data-ebay-reference="what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO recovery patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO recovery patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+recovery+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO recovery patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -lp" data-ebay-reference="what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+recovery+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO recovery patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -lp" data-ebay-reference="what-moon-dust-reveals-about-fallen-debris-ufo-recovery-patch-gerry-anderson-band-concert-cd-series-television-tour-albu" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +571,7 @@ However, the files do establish several points relevant to later claims:
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +591,7 @@ However, the files do establish several points relevant to later claims:
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +623,7 @@ However, the files do establish several points relevant to later claims:
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +675,7 @@ However, the files do establish several points relevant to later claims:
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +720,7 @@ However, the files do establish several points relevant to later claims:
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,87 +761,87 @@ However, the files do establish several points relevant to later claims:
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aerospace.org  
    Title: brief history space debris  
-   Link: <a href="https://aerospace.org/article/brief-history-space-debris" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/brief-history-space-debris</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace CorporationA Brief History of Space Debris2 Nov 2022 — The creation of humanmade orbital debris, and the need to survey these o...</p></details>
+   Link:<a href="https://aerospace.org/article/brief-history-space-debris" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/brief-history-space-debris</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace CorporationA Brief History of Space Debris2 Nov 2022 — The creation of humanmade orbital debris, and the need to survey these o...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: unoosa.org  
-   Link: <a href="https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/introouterspacetreaty.html" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/introouterspacetreaty.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Outer Space TreatyTreaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including...</p></details>
+   Link:<a href="https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/introouterspacetreaty.html" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/introouterspacetreaty.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Outer Space TreatyTreaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: 2009-2017.state.gov  
    Title: Department Outer Space Treaty  
-   Link: <a href="https://2009-2017.state.gov/t/isn/5181.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/t/isn/5181.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>State DepartmentOuter Space Treaty - State.govTreaty on principles governing the activities of states in the exploration and use of outer...</p></details>
+   Link:<a href="https://2009-2017.state.gov/t/isn/5181.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/t/isn/5181.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State DepartmentOuter Space Treaty - State.govTreaty on principles governing the activities of states in the exploration and use of outer...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: text-message.blogs.archives.gov  
    Title: give us back our junk space debris 1968  
-   Link: <a href="https://text-message.blogs.archives.gov/2022/08/09/give-us-back-our-junk-space-debris-1968/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2022/08/09/give-us-back-our-junk-space-debris-1968/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Text MessageGive Us Back Our Junk: Space Debris, 1968 - The Text MessageAugust 9, 2022 — 9 Aug 2022 — When space debris identified as...</p></details>
+   Link:<a href="https://text-message.blogs.archives.gov/2022/08/09/give-us-back-our-junk-space-debris-1968/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2022/08/09/give-us-back-our-junk-space-debris-1968/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Text MessageGive Us Back Our Junk: Space Debris, 1968 - The Text MessageAugust 9, 2022 — 9 Aug 2022 — When space debris identified as...</p></details>
    Published: August 9, 2022  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: unoosa.org  
-   Link: <a href="https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Reported Space Objects Discovered by Member States. In compliance with article 8 of the...Read more...</p></details>
+   Link:<a href="https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of Reported Space Objects Discovered by Member States. In compliance with article 8 of the...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Project Moon Dust | Episode 8 | The Secret UFO Retrieval Program  
-   Link: <a href="https://www.youtube.com/watch?v=uKAT4yK_AyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uKAT4yK_AyY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uKAT4yK_AyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uKAT4yK_AyY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: governmentattic.org  
-   Link: <a href="https://www.governmentattic.org/ExecBr_N-Z_docs.html" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/ExecBr_N-Z_docs.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, 1967-1972 - [PDF 8.2 MB - 03-Jun-2024] Department...Read more...</p></details>
+   Link:<a href="https://www.governmentattic.org/ExecBr_N-Z_docs.html" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/ExecBr_N-Z_docs.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, 1967-1972 - [PDF 8.2 MB - 03-Jun-2024] Department...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: governmentattic.org  
-   Link: <a href="https://www.governmentattic.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e Freedom of Information Act.Read more...</p></details>
+   Link:<a href="https://www.governmentattic.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e Freedom of Information Act.Read more...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nti.org  
-   Link: <a href="https://www.nti.org/education-center/treaties-and-regimes/treaty-principles-governing-activities-states-exploration-and-use-outer-space-including-moon-and-other-celestial-bodies-outer-space-treaty/" target="_blank" rel="noopener noreferrer nofollow">https://www.nti.org/education-center/treaties-and-regimes/treaty-principles-governing-activities-states-exploration-and-use-outer-space-including-moon-and-other-celestial-bodies-outer-space-treaty/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space TreatyThe Outer Space Treaty obligates Parties not to place any objects carrying nuclear weapons in orbit, on the Moon, or on...</p></details>
+   Link:<a href="https://www.nti.org/education-center/treaties-and-regimes/treaty-principles-governing-activities-states-exploration-and-use-outer-space-including-moon-and-other-celestial-bodies-outer-space-treaty/" target="_blank" rel="noopener noreferrer nofollow">https://www.nti.org/education-center/treaties-and-regimes/treaty-principles-governing-activities-states-exploration-and-use-outer-space-including-moon-and-other-celestial-bodies-outer-space-treaty/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space TreatyThe Outer Space Treaty obligates Parties not to place any objects carrying nuclear weapons in orbit, on the Moon, or on...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: un.org  
-   Link: <a href="https://www.un.org/en/global-issues/outer-space" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/en/global-issues/outer-space</a>  
+   Link:<a href="https://www.un.org/en/global-issues/outer-space" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/en/global-issues/outer-space</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QiZxd61igSw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QiZxd61igSw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=QiZxd61igSw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QiZxd61igSw</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...Nov 13, 2024 — Belvoir had responsibility for recovery of foreign space vehicles under Pro...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...Nov 13, 2024 — Belvoir had responsibility for recovery of foreign space vehicles under Pro...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: conference.sdo.esoc.esa.int  
-   Link: <a href="https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/229/SDC9-paper229.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/229/SDC9-paper229.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite Fragmentations and tracking data available via. LeoLabs to...Read more...</p></details>
+   Link:<a href="https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/229/SDC9-paper229.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/229/SDC9-paper229.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite Fragmentations and tracking data available via. LeoLabs to...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: satobs.org  
    Title: Visually Observed Natural Re entries latest draft  
-   Link: <a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsx&quot;Corona Associated Space Debris&quot;, Memo, National Reconnaissance Office, 1...</p></details>
+   Link:<a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsx&quot;Corona Associated Space Debris&quot;, Memo, National Reconnaissance Office, 1...</p></details>
 
 9
 
@@ -818,26 +850,26 @@ However, the files do establish several points relevant to later claims:
 7. ([http://www.nro.gov/foia/CAL-Re](http://www.nro.gov/foia/CAL-Re)
 
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: leonarddavid.com  
    Title: secretive project moon dust details revealed  
-   Link: <a href="https://www.leonarddavid.com/secretive-project-moon-dust-details-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/secretive-project-moon-dust-details-revealed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Secretive Moon Dust Details Revealed3 Jun 2024 — New revelations have come to light regarding Project Moon Dust, long known by Freedom of...</p></details>
+   Link:<a href="https://www.leonarddavid.com/secretive-project-moon-dust-details-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/secretive-project-moon-dust-details-revealed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secretive Moon Dust Details Revealed3 Jun 2024 — New revelations have come to light regarding Project Moon Dust, long known by Freedom of...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: documents2.theblackvault.com  
-   Link: <a href="https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultJuly 27, 2021 Office of Communications John Greenewald...Jul 27, 2021 — analysis of debris sent to NASA by any other age...</p></details>
+   Link:<a href="https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultJuly 27, 2021 Office of Communications John Greenewald...Jul 27, 2021 — analysis of debris sent to NASA by any other age...</p></details>
    Published: July 27, 2021  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wrhstol/posts/the-united-states-has-never-officially-admitted-it-was-involved-in-project-a119-/1402274431934112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wrhstol/posts/the-united-states-has-never-officially-admitted-it-was-involved-in-project-a119-/1402274431934112/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The United States has never officially admitted it was...In August 1967, an object described as a satellite crashed and was recovered in...</p></details>
+   Link:<a href="https://www.facebook.com/wrhstol/posts/the-united-states-has-never-officially-admitted-it-was-involved-in-project-a119-/1402274431934112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wrhstol/posts/the-united-states-has-never-officially-admitted-it-was-involved-in-project-a119-/1402274431934112/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The United States has never officially admitted it was...In August 1967, an object described as a satellite crashed and was recovered in...</p></details>
    Published: August 1967  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: open.spotify.com  
    Title: 1P7Eu1wf YZARXBBd Wo Ckf H  
-   Link: <a href="https://open.spotify.com/episode/1P7Eu1wfYZARXBBdWoCkfH" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/1P7Eu1wfYZARXBBdWoCkfH</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MOON DUST: The UFO Recovery Team That Didn&#x27;t...29 Oct 2025 — We examine the 1965 Kecksburg incident where MOON DUST teams recovered some...</p></details>
+   Link:<a href="https://open.spotify.com/episode/1P7Eu1wfYZARXBBdWoCkfH" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/1P7Eu1wfYZARXBBdWoCkfH</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MOON DUST: The UFO Recovery Team That Didn&#x27;t...29 Oct 2025 — We examine the 1965 Kecksburg incident where MOON DUST teams recovered some...</p></details>

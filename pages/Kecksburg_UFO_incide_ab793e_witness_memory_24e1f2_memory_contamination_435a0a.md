@@ -280,7 +280,7 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_memory_c
 
 ## Introduction
 
-The Kecksburg case contains exactly the conditions that make eyewitness memory vulnerable to post-event contamination. A dramatic and confusing event was followed by rumours, radio reports, newspaper coverage, neighbourhood discussions, UFO investigations, television programmes and decades of retelling. In such circumstances, memory researchers do not assume that [witnesses]({{ 'witnesses/' | relative_url }}) are dishonest. Instead, they recognise that sincere memories can gradually absorb information encountered after the original event. This process, often called the misinformation effect or post-event contamination, is one of the best-established findings in memory research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">In the second phase, information that contradicts factual detail of the observed event is then given...Read more...</span></span></span>
+The Kecksburg case contains exactly the conditions that make eyewitness memory vulnerable to post-event contamination. A dramatic and confusing event was followed by rumours, radio reports, newspaper coverage, neighbourhood discussions, UFO investigations, television programmes and decades of retelling. In such circumstances, memory researchers do not assume that [witnesses]({{ 'witnesses/' | relative_url }}) are dishonest. Instead, they recognise that sincere memories can gradually absorb information encountered after the original event. This process, often called the misinformation effect or post-event contamination, is one of the best-established findings in memory research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">In the second phase, information that contradicts factual detail of the observed event is then given...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_memory_contamination_435a0a-Illustration-1-dark.svg" | relative_url }}" alt="Memory Drift illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_memory_contamination_435a0a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_memory_contamination_435a0a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ For Kecksburg, the key question is not whether later witnesses believed what the
 
 ## How Conversations Can Add Details After an Event
 
-Memory does not simply store and replay a perfect recording. People reconstruct past experiences from fragments, and later information can become woven into those reconstructions. Research shows that exposure to misleading information after an event can alter later recall, sometimes causing people to report details they never actually observed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">In the second phase, information that contradicts factual detail of the observed event is then given...Read more...</span></span></span>
+Memory does not simply store and replay a perfect recording. People reconstruct past experiences from fragments, and later information can become woven into those reconstructions. Research shows that exposure to misleading information after an event can alter later recall, sometimes causing people to report details they never actually observed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">In the second phase, information that contradicts factual detail of the observed event is then given...Read more...</span></span></span>
 
 In Kecksburg, witnesses were exposed to multiple streams of information after the fireball:
 
@@ -304,22 +304,22 @@ In Kecksburg, witnesses were exposed to multiple streams of information after th
 
 </div>
 
-Each stage created opportunities for details to spread from one person's account into another person's memory. Memory researchers call this a source-monitoring problem: people may accurately remember hearing a detail but misremember where it came from. Over time, a person may sincerely believe that a detail was personally witnessed when it was actually learned later from another source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1018&amp;context=jj_etds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academicworks.cuny.edu">[CUNY Academic Works+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academicworks.cuny.edu</span><span class="citation-popover-snippet">CUNY Academic WorksCan Implicit Post-Event Information Influence Explicit...by HS Chau · 2017 — In the eyewitness setting, the source mo...</span></span></span>
+Each stage created opportunities for details to spread from one person's account into another person's memory. Memory researchers call this a source-monitoring problem: people may accurately remember hearing a detail but misremember where it came from. Over time, a person may sincerely believe that a detail was personally witnessed when it was actually learned later from another source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1018&amp;context=jj_etds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academicworks.cuny.edu">[cuny.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academicworks.cuny.edu</span><span class="citation-popover-snippet">CUNY Academic WorksCan Implicit Post-Event Information Influence Explicit...by HS Chau · 2017 — In the eyewitness setting, the source mo...</span></span></span>
 
-This mechanism is especially relevant in Kecksburg because many of the most famous features of the story became prominent years after the event. The now-familiar image of an acorn-shaped object with unusual markings is far more visible in later retellings than in the earliest public reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+This mechanism is especially relevant in Kecksburg because many of the most famous features of the story became prominent years after the event. The now-familiar image of an acorn-shaped object with unusual markings is far more visible in later retellings than in the earliest public reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PB2OegI6wvI" title="How reliable is your memory? | Elizabeth Loftus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer">How reliable is your memory? | Elizabeth Loftus</a></p><p class="youtube-embed-meta">Channel: TED &middot; Views: 2.7M &middot; Uploaded: September 2013 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PB2OegI6wvI">Open on YouTube</a></p></div></div></div>
 
 ### Why Shared Stories Become Stronger
 
-Psychological studies of co-witness discussion show that people often adopt information supplied by others, even when they did not personally observe it. Once a detail enters a shared narrative, repetition can make it feel increasingly familiar and therefore increasingly true. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tutor2u.net/psychology/reference/misleading-information-post-event-discussion?srsltid=AfmBOoolrfM8SRuHkswnEKWpBA63a91NT_fKNR0WLCtBONp43LDM_VwV" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tutor2u.net">[Tutor2u]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tutor2u.net</span><span class="citation-popover-title">Misleading Information – Post-event Discussion</span><span class="citation-popover-snippet">Evaluation: The results...Read more...</span></span></span>
+Psychological studies of co-witness discussion show that people often adopt information supplied by others, even when they did not personally observe it. Once a detail enters a shared narrative, repetition can make it feel increasingly familiar and therefore increasingly true.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tutor2u.net/psychology/reference/misleading-information-post-event-discussion?srsltid=AfmBOoolrfM8SRuHkswnEKWpBA63a91NT_fKNR0WLCtBONp43LDM_VwV" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tutor2u.net">[Tutor2u]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tutor2u.net</span><span class="citation-popover-title">Misleading Information – Post-event Discussion</span><span class="citation-popover-snippet">Evaluation: The results...Read more...</span></span></span>
 
 In a small community such as Kecksburg, repeated discussions could have amplified this effect. Residents were not isolated observers preserving independent memories. Many talked with one another, compared experiences and heard the same rumours. As a result, later accounts may reflect a collective story as much as a collection of separate observations.
 
 ## Why Confidence Does Not Prove Independence
 
-One of the most persistent misunderstandings about eyewitness evidence is the assumption that confidence equals accuracy. Modern memory research rejects that simple equation. Witnesses can become highly confident in memories that have been altered by later information, especially when years or decades have passed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12408934/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">New Insights on Expert Opinion About Eyewitness Memory...by TM Seale-Carlisle · 2024 · Cited by 31 — An eyewitness&#x27;s confidence in th...</span></span></span>
+One of the most persistent misunderstandings about eyewitness evidence is the assumption that confidence equals accuracy. Modern memory research rejects that simple equation. Witnesses can become highly confident in memories that have been altered by later information, especially when years or decades have passed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12408934/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">New Insights on Expert Opinion About Eyewitness Memory...by TM Seale-Carlisle · 2024 · Cited by 31 — An eyewitness&#x27;s confidence in th...</span></span></span>
 
 Confidence can increase for several reasons unrelated to accuracy:
 
@@ -336,13 +336,13 @@ Confidence can increase for several reasons unrelated to accuracy:
 
 The result is a paradox frequently seen in long-running mysteries: the most detailed accounts are sometimes the least reliable because they have undergone the greatest amount of reconstruction.
 
-Kecksburg illustrates this problem particularly well. Witnesses interviewed decades after 1965 often expressed strong certainty about object [shape]({{ 'shape/' | relative_url }}), dimensions, markings or military actions. Yet confidence recorded many years after an event cannot demonstrate that a memory remained untouched by intervening discussions, books, documentaries or local folklore. Memory experts note that confidence measured long after exposure to potentially contaminating information is a poor indicator of accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12408934/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">New Insights on Expert Opinion About Eyewitness Memory...by TM Seale-Carlisle · 2024 · Cited by 31 — An eyewitness&#x27;s confidence in th...</span></span></span>
+Kecksburg illustrates this problem particularly well. Witnesses interviewed decades after 1965 often expressed strong certainty about object [shape]({{ 'shape/' | relative_url }}), dimensions, markings or military actions. Yet confidence recorded many years after an event cannot demonstrate that a memory remained untouched by intervening discussions, books, documentaries or local folklore. Memory experts note that confidence measured long after exposure to potentially contaminating information is a poor indicator of accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12408934/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">New Insights on Expert Opinion About Eyewitness Memory...by TM Seale-Carlisle · 2024 · Cited by 31 — An eyewitness&#x27;s confidence in th...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_memory_contamination_435a0a-Illustration-2-dark.svg" | relative_url }}" alt="Memory Drift illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_memory_contamination_435a0a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_memory_contamination_435a0a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Effect of Time
 
-The passage of time magnifies susceptibility to post-event information. As original memories weaken, people become less able to distinguish between what they saw and what they later heard. Research consistently finds that fading memory increases vulnerability to misinformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 13 — As a witness&#x27; memory of the ev...</span></span></span>
+The passage of time magnifies susceptibility to post-event information. As original memories weaken, people become less able to distinguish between what they saw and what they later heard. Research consistently finds that fading memory increases vulnerability to misinformation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 13 — As a witness&#x27; memory of the ev...</span></span></span>
 
 For Kecksburg, this matters because many influential witness interviews were conducted years or even decades after the incident. By then, witnesses had lived through countless opportunities for memory contamination.
 
@@ -356,15 +356,15 @@ A practical approach is to ask three questions.
 
 **How soon was the account recorded?**
 
-Statements documented close to December 1965 generally deserve greater weight than memories first reported decades later. Early accounts have had fewer opportunities to absorb outside information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 13 — As a witness&#x27; memory of the ev...</span></span></span>
+Statements documented close to December 1965 generally deserve greater weight than memories first reported decades later. Early accounts have had fewer opportunities to absorb outside information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 13 — As a witness&#x27; memory of the ev...</span></span></span>
 
 **Is the detail independently corroborated?**
 
-A claim repeated by multiple witnesses is not necessarily independent if those witnesses interacted with one another or encountered the same media coverage. Independence requires evidence that the accounts developed separately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/62246/chapter/550960878?searchresult=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicEyewitness Memory &#124; OxfordMar 22, 2023 — In addition, memory can be contaminated by extraneous factors that occur after the f...</span></span></span>
+A claim repeated by multiple witnesses is not necessarily independent if those witnesses interacted with one another or encountered the same media coverage. Independence requires evidence that the accounts developed separately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/62246/chapter/550960878?searchresult=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicEyewitness Memory &#124; OxfordMar 22, 2023 — In addition, memory can be contaminated by extraneous factors that occur after the f...</span></span></span>
 
 **Does the detail become more specific over time?**
 
-A memory that evolves from "something came down in the woods" into "a metallic acorn-shaped craft with markings" deserves careful scrutiny. Increased specificity after repeated retelling can indicate reconstruction rather than preservation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">In the second phase, information that contradicts factual detail of the observed event is then given...Read more...</span></span></span>
+A memory that evolves from "something came down in the woods" into "a metallic acorn-shaped craft with markings" deserves careful scrutiny. Increased specificity after repeated retelling can indicate reconstruction rather than preservation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">In the second phase, information that contradicts factual detail of the observed event is then given...Read more...</span></span></span>
 
 Using those criteria, different categories of Kecksburg testimony can be evaluated differently:
 
@@ -377,201 +377,201 @@ Type of recollectionVulnerability to contaminationSeeing a bright fireballRelati
 
 The strongest lesson from Kecksburg is not that witnesses were mistaken about everything. Rather, it is that a genuine event can acquire additional layers of remembered detail over time. A spectacular fireball, local uncertainty, official searches and community discussion created fertile ground for memory drift.
 
-Understanding post-event information changes how testimony should be interpreted. Instead of treating every recollection as equally direct evidence of what happened in December 1965, it becomes necessary to separate immediate observations from details that emerged only after years of conversation, investigation and retelling. That distinction helps explain how sincere witnesses can produce accounts that grow more elaborate while remaining completely convinced that they are recalling what they originally saw. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">In the second phase, information that contradicts factual detail of the observed event is then given...Read more...</span></span></span>
+Understanding post-event information changes how testimony should be interpreted. Instead of treating every recollection as equally direct evidence of what happened in December 1965, it becomes necessary to separate immediate observations from details that emerged only after years of conversation, investigation and retelling. That distinction helps explain how sincere witnesses can produce accounts that grow more elaborate while remaining completely convinced that they are recalling what they originally saw.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">In the second phase, information that contradicts factual detail of the observed event is then given...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/by0KXoexZv0" title="Source-monitoring error" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=by0KXoexZv0" target="_blank" rel="noopener noreferrer">Source-monitoring error</a></p><p class="youtube-embed-meta">Channel: MinsEducation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=by0KXoexZv0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=by0KXoexZv0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Later Details Feel Like Memories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Later Details Feel Like Memories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uBlAU24-qsoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uBlAU24-qsoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus</p>
         
-        <p class="fr-book-desc">Directly explains misinformation effects, memory distortion, suggestive questioning, and why confident recollections can be inaccurate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains misinformation effects, memory distortion, suggestive questioning, and why confident recollections can be inaccurate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Shows how perception and memory can be surprisingly unreliable, supporting discussion of contaminated recollections and retrospective cer...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how perception and memory can be surprisingly unreliable, supporting discussion of contaminated recollections and retrospective cer...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Provides tools for assessing extraordinary claims and evolving narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Provides tools for assessing extraordinary claims and evolving narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains how people sincerely defend mistaken beliefs and memories, helping readers understand confidence without accuracy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how people sincerely defend mistaken beliefs and memories, helping readers understand confidence without accuracy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="memory-drift-when-later-details-feel-like-memories-kecksburg-ufo-incide-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ Understanding post-event information changes how testimony should be interpreted
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ Understanding post-event information changes how testimony should be interpreted
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ Understanding post-event information changes how testimony should be interpreted
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ Understanding post-event information changes how testimony should be interpreted
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ Understanding post-event information changes how testimony should be interpreted
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,143 +777,143 @@ Understanding post-event information changes how testimony should be interpreted
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Misinformation effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation_effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effectThe misinformation effect occurs when a person&#x27;s recall of episodic memories becomes less accurate because of pos...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation_effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effectThe misinformation effect occurs when a person&#x27;s recall of episodic memories becomes less accurate because of pos...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11078839/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11078839/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This pervasive form of memory...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11078839/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11078839/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This pervasive form of memory...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11680610/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11680610/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>cognitive abilities reduce eyewitness susceptibility to the...by M Brassil · 2024 · Cited by 11 — The fact that memories can be distorte...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11680610/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11680610/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cognitive abilities reduce eyewitness susceptibility to the...by M Brassil · 2024 · Cited by 11 — The fact that memories can be distorte...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academicworks.cuny.edu  
-   Link: <a href="https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1018&amp;context=jj_etds" target="_blank" rel="noopener noreferrer nofollow">https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1018&amp;context=jj_etds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CUNY Academic WorksCan Implicit Post-Event Information Influence Explicit...by HS Chau · 2017 — In the eyewitness setting, the source mo...</p></details>
+   Link:<a href="https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1018&amp;context=jj_etds" target="_blank" rel="noopener noreferrer nofollow">https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1018&amp;context=jj_etds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CUNY Academic WorksCan Implicit Post-Event Information Influence Explicit...by HS Chau · 2017 — In the eyewitness setting, the source mo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/rwe/10.1007/978-3-030-93789-8_36-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-3-030-93789-8_36-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory | Springer Nature LinkDec 13, 2022 — The text explores theories such as source monitoring and fuzzy trace theory to explain this p...</p></details>
+   Link:<a href="https://link.springer.com/rwe/10.1007/978-3-030-93789" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-3-030-93789</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memory | Springer Nature LinkDec 13, 2022 — The text explores theories such as source monitoring and fuzzy trace theory to explain this p...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/edited-volume/62246/chapter/550960878?searchresult=1" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/62246/chapter/550960878?searchresult=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicEyewitness Memory | OxfordMar 22, 2023 — In addition, memory can be contaminated by extraneous factors that occur after the f...</p></details>
+   Link:<a href="https://academic.oup.com/edited-volume/62246/chapter/550960878?searchresult=1" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/62246/chapter/550960878?searchresult=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicEyewitness Memory | OxfordMar 22, 2023 — In addition, memory can be contaminated by extraneous factors that occur after the f...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tutor2u.net  
    Title: Misleading Information – Post-event Discussion  
-   Link: <a href="https://www.tutor2u.net/psychology/reference/misleading-information-post-event-discussion?srsltid=AfmBOoolrfM8SRuHkswnEKWpBA63a91NT_fKNR0WLCtBONp43LDM_VwV" target="_blank" rel="noopener noreferrer nofollow">https://www.tutor2u.net/psychology/reference/misleading-information-post-event-discussion?srsltid=AfmBOoolrfM8SRuHkswnEKWpBA63a91NT_fKNR0WLCtBONp43LDM_VwV</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation: The results...Read more...</p></details>
+   Link:<a href="https://www.tutor2u.net/psychology/reference/misleading-information-post-event-discussion?srsltid=AfmBOoolrfM8SRuHkswnEKWpBA63a91NT_fKNR0WLCtBONp43LDM_VwV" target="_blank" rel="noopener noreferrer nofollow">https://www.tutor2u.net/psychology/reference/misleading-information-post-event-discussion?srsltid=AfmBOoolrfM8SRuHkswnEKWpBA63a91NT_fKNR0WLCtBONp43LDM_VwV</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation: The results...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12408934/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12408934/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Insights on Expert Opinion About Eyewitness Memory...by TM Seale-Carlisle · 2024 · Cited by 31 — An eyewitness&#x27;s confidence in th...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12408934/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12408934/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Insights on Expert Opinion About Eyewitness Memory...by TM Seale-Carlisle · 2024 · Cited by 31 — An eyewitness&#x27;s confidence in th...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWhy eyewitnesses fail  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eyewitness confidence reliably predicts eyewitness identification accuracy.Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eyewitness confidence reliably predicts eyewitness identification accuracy.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of recall [timing](&amp;#123;&amp;#123; &#x27;timing/&#x27; | relative_url &amp;#125;&amp;#125;) on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 13 — As a witness&#x27; memory of the ev...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of recall [timing](&amp;#123;&amp;#123; &#x27;timing/&#x27; | relative_url &amp;#125;&amp;#125;) on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 13 — As a witness&#x27; memory of the ev...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA Behavioral Account of the Misinformation Effect  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the second phase, information that contradicts factual detail of the observed event is then given...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the second phase, information that contradicts factual detail of the observed event is then given...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: 4 Basic Research on Vision and MemoryAccurate eyewitness identification requires that a witness to a crime correctly sense, perc...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/18891/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: 4 Basic Research on Vision and MemoryAccurate eyewitness identification requires that a witness to a crime correctly sense, perc...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/projects/PGA-STL-13-02/publication/18891" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/PGA-STL-13-02/publication/18891</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying the Culprit: Assessing Eyewitness Identification...Science has provided an increasingly clear picture of the inherent limits...</p></details>
+   Link:<a href="https://www.nationalacademies.org/projects/PGA-STL-13-02/publication/18891" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/PGA-STL-13-02/publication/18891</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying the Culprit: Assessing Eyewitness Identification...Science has provided an increasingly clear picture of the inherent limits...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nationalacademies.org  
    Title: Chapter: 5 Applied Eyewitness Identification Research5  
-   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/7" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Applied Eyewitness Identification Research. The committee was tasked with (1) critically assessing the existing body of scientific resear...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/18891/chapter/7" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Applied Eyewitness Identification Research. The committee was tasked with (1) critically assessing the existing body of scientific resear...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalacademies.org  
    Title: using science to improve eyewitness testimony  
-   Link: <a href="https://www.nationalacademies.org/news/using-science-to-improve-eyewitness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/using-science-to-improve-eyewitness-testimony</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 24, 2020 — Five years after a [landmark](&amp;#123;&amp;#123; &#x27;landmark/&#x27; | relative_url &amp;#125;&amp;#125;) National Academies report on eyewitness identification, a lead author reflects on its impact.R...</p></details>
+   Link:<a href="https://www.nationalacademies.org/news/using-science-to-improve-eyewitness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/using-science-to-improve-eyewitness-testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 24, 2020 — Five years after a [landmark](&amp;#123;&amp;#123; &#x27;landmark/&#x27; | relative_url &amp;#125;&amp;#125;) National Academies report on eyewitness identification, a lead author reflects on its impact.R...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effect | Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event information can...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effect | Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event information can...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/318347975_Effects_of_Postwarning_Specificity_on_Memory_Performance_and_Confidence_in_the_Eyewitness_Misinformation_Paradigm" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318347975_Effects_of_Postwarning_Specificity_on_Memory_Performance_and_Confidence_in_the_Eyewitness_Misinformation_Paradigm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Effects of Postwarning Specificity on Memory...9 Oct 2025 — Warnings about the presence of misinformation reduced participants&#x27; me...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/318347975_Effects_of_Postwarning_Specificity_on_Memory_Performance_and_Confidence_in_the_Eyewitness_Misinformation_Paradigm" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318347975_Effects_of_Postwarning_Specificity_on_Memory_Performance_and_Confidence_in_the_Eyewitness_Misinformation_Paradigm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Effects of Postwarning Specificity on Memory...9 Oct 2025 — Warnings about the presence of misinformation reduced participants&#x27; me...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: juryanalyst.com  
-   Link: <a href="https://juryanalyst.com/how-to-increase-the-accuracy-of-eyewitness-information-provided/" target="_blank" rel="noopener noreferrer nofollow">https://juryanalyst.com/how-to-increase-the-accuracy-of-eyewitness-information-provided/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to increase the accuracy of eyewitnessIn the previous two posts on eyewitness testimony, we have seen how fragile and inaccurate memo...</p></details>
+   Link:<a href="https://juryanalyst.com/how-to-increase-the-accuracy-of-eyewitness-information-provided/" target="_blank" rel="noopener noreferrer nofollow">https://juryanalyst.com/how-to-increase-the-accuracy-of-eyewitness-information-provided/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to increase the accuracy of eyewitnessIn the previous two posts on eyewitness testimony, we have seen how fragile and inaccurate memo...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: judicature.duke.edu  
-   Link: <a href="https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow">https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Academy of Sciences (NAS) convened a panel of experts to consider the problem of eyewitness identification. Eyewitnesses have...</p></details>
+   Link:<a href="https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow">https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Academy of Sciences (NAS) convened a panel of experts to consider the problem of eyewitness identification. Eyewitnesses have...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nobaproject.com  
-   Link: <a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
+   Link:<a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: positivelypittsburgh.com  
-   Link: <a href="https://positivelypittsburgh.com/[the-kecksburg-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/[the-kecksburg-ufo-incident</a>  
+   Link:<a href="https://positivelypittsburgh.com/[the-kecksburg-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/[the-kecksburg-ufo-incident</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: now.tufts.edu  
    Title: warning witnesses possibility misinformation helps protect their memory accuracy  
-   Link: <a href="https://now.tufts.edu/2020/08/31/warning-witnesses-possibility-misinformation-helps-protect-their-memory-accuracy" target="_blank" rel="noopener noreferrer nofollow">https://now.tufts.edu/2020/08/31/warning-witnesses-possibility-misinformation-helps-protect-their-memory-accuracy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Witnesses of the Possibility of Misinformation Helps...31 Aug 2020 — Warning witnesses about the threat of misinformation—before or afte...</p></details>
+   Link:<a href="https://now.tufts.edu/2020/08/31/warning-witnesses-possibility-misinformation-helps-protect-their-memory-accuracy" target="_blank" rel="noopener noreferrer nofollow">https://now.tufts.edu/2020/08/31/warning-witnesses-possibility-misinformation-helps-protect-their-memory-accuracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Witnesses of the Possibility of Misinformation Helps...31 Aug 2020 — Warning witnesses about the threat of misinformation—before or afte...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HX_RrO7ZQaU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HX_RrO7ZQaU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=HX_RrO7ZQaU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HX_RrO7ZQaU</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/227963134_Misleading_postevent_information_and_working_memory_capacity_An_individual_differences_approach_to_eyewitness_memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227963134_Misleading_postevent_information_and_working_memory_capacity_An_individual_differences_approach_to_eyewitness_memory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n susceptibility is that those with higher capacity are better able to create...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/227963134_Misleading_postevent_information_and_working_memory_capacity_An_individual_differences_approach_to_eyewitness_memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227963134_Misleading_postevent_information_and_working_memory_capacity_An_individual_differences_approach_to_eyewitness_memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n susceptibility is that those with higher capacity are better able to create...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: innocenceproject.org  
-   Link: <a href="https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lnerable to modification by exposure to post-event misinformation, even in...Read more...</p></details>
+   Link:<a href="https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lnerable to modification by exposure to post-event misinformation, even in...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/mlf13o/kecksburg_ufo_incident_solved_it_was_potentially/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/mlf13o/kecksburg_ufo_incident_solved_it_was_potentially/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireman James Romansky talks witnessing the 1965 crashed UFO at Kecksburg and.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/mlf13o/kecksburg_ufo_incident_solved_it_was_potentially/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/mlf13o/kecksburg_ufo_incident_solved_it_was_potentially/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireman James Romansky talks witnessing the 1965 crashed UFO at Kecksburg and.Read more...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e-index/
 description: Focused pages that expand on The Kecksburg UFO Incident.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e
 parent_title: The Kecksburg UFO Incident
@@ -16,7 +16,7 @@ parent_permalink: /the-kecksburg-ufo-incident/
 
 # Explore Topics in The Kecksburg UFO Incident
 
-The following pages expand on the main **[The Kecksburg UFO Incident]({{ '/the-kecksburg-ufo-incident/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[The Kecksburg UFO Incident]({{ '/the-kecksburg-ufo-incident/' | relative_url }})** page and cover its key branches in.
 
 - [Space Acorn]({{ '/space-acorn/' | relative_url }})
 - [Alien Claim]({{ '/alien-claim/' | relative_url }})

@@ -447,21 +447,21 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d-overvi
 
 ## Introduction
 
-The Detroit-Windsor reconstruction matters because it shifts [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}) from a single-town crash story to a [regional fireball]({{ 'fireball-map/' | relative_url }}) event with measurable evidence. On 9 December 1965, the object reported near Kecksburg was also seen across parts of the United States and Canada, and the strongest technical reconstruction placed the fireball’s path over the Great Lakes, with its disappearance near the Windsor, Ontario, area rather than directly over rural Pennsylvania. That does not settle every local claim from Kecksburg, but it changes the scale of the question: the first thing to explain is a bright, high-altitude bolide seen across a vast area, not an object witnessed only by one Pennsylvania village. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
+The Detroit-Windsor reconstruction matters because it shifts [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}) from a single-town crash story to a [regional fireball]({{ 'fireball-map/' | relative_url }}) event with measurable evidence. On 9 December 1965, the object reported near Kecksburg was also seen across parts of the United States and Canada, and the strongest technical reconstruction placed the fireball’s path over the Great Lakes, with its disappearance near the Windsor, Ontario, area rather than directly over rural Pennsylvania. That does not settle every local claim from Kecksburg, but it changes the scale of the question: the first thing to explain is a bright, high-altitude bolide seen across a vast area, not an object witnessed only by one Pennsylvania village.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d-overview.webp" | relative_url }}" alt="Overview image for Great Lakes" loading="eager" decoding="sync" fetchpriority="high">
-The key evidence came from contemporary reports, pilot sightings, photographs of the lingering trail, a [seismic record]({{ 'seismic-record/' | relative_url }}) near Detroit, and later astronomical analysis. Those sources make the Detroit-Windsor angle one of the most important correctives to the popular “something crashed in Kecksburg” framing: it shows why people in many places could sincerely believe the object had come down nearby, even if the physical fireball was far away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) The Reliability of UFO Witness Testimony</span><span class="citation-popover-snippet">PDF) The Reliability of UFO Witness Testimony</span></span></span>
+The key evidence came from contemporary reports, pilot sightings, photographs of the lingering trail, a [seismic record]({{ 'seismic-record/' | relative_url }}) near Detroit, and later astronomical analysis. Those sources make the Detroit-Windsor angle one of the most important correctives to the popular “something crashed in Kecksburg” framing: it shows why people in many places could sincerely believe the object had come down nearby, even if the physical fireball was far away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) The Reliability of UFO Witness Testimony</span><span class="citation-popover-snippet">PDF) The Reliability of UFO Witness Testimony</span></span></span>
 
 ## Detroit-Windsor Evidence
 
-The Great Lakes reconstruction begins with the [timing]({{ 'timing/' | relative_url }}). Later summaries of the scientific work identify the event at about 21:43 universal time, or 4:43 p.m. Eastern time, with the fireball visible just before sunset. Robert R. Young’s later case study describes it as a brilliant bolide brighter than the full Moon, visible from ten US states and Ontario, changing colour, lasting only a few seconds, and leaving a smoke-like train that remained visible far longer than the fireball itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) The Reliability of UFO Witness Testimony</span><span class="citation-popover-snippet">PDF) The Reliability of UFO Witness Testimony</span></span></span>
+The Great Lakes reconstruction begins with the [timing]({{ 'timing/' | relative_url }}). Later summaries of the scientific work identify the event at about 21:43 universal time, or 4:43 p.m. Eastern time, with the fireball visible just before sunset. Robert R. Young’s later case study describes it as a brilliant bolide brighter than the full Moon, visible from ten US states and Ontario, changing colour, lasting only a few seconds, and leaving a smoke-like train that remained visible far longer than the fireball itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) The Reliability of UFO Witness Testimony</span><span class="citation-popover-snippet">PDF) The Reliability of UFO Witness Testimony</span></span></span>
 
-That distinction between the short-lived fireball and the longer-lived train is crucial. Many Kecksburg retellings treat the visible object as if it were a slow, low, nearby craft. The technical reconstruction instead treats the object as a meteor fireball: a luminous atmospheric event, followed by a lingering trail that [witnesses]({{ 'witnesses/' | relative_url }}) could continue to interpret after the object itself had ended. The Popular Astronomy meteor reporting guide notes that ordinary fireballs rarely last more than five to ten seconds, while much longer visible events are more typical of artificial re-entry objects; this helps explain why duration estimates are central to judging whether a sighting behaves like a meteor or like space debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popastro.com/meteor/detailed-fireball-reporting-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[Popular Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">Popular Astronomy Detailed Fireball Reporting Guide</span><span class="citation-popover-snippet">Popular Astronomy Detailed Fireball Reporting Guide</span></span></span>
+That distinction between the short-lived fireball and the longer-lived train is crucial. Many Kecksburg retellings treat the visible object as if it were a slow, low, nearby craft. The technical reconstruction instead treats the object as a meteor fireball: a luminous atmospheric event, followed by a lingering trail that [witnesses]({{ 'witnesses/' | relative_url }}) could continue to interpret after the object itself had ended. The Popular Astronomy meteor reporting guide notes that ordinary fireballs rarely last more than five to ten seconds, while much longer visible events are more typical of artificial re-entry objects; this helps explain why duration estimates are central to judging whether a sighting behaves like a meteor or like space debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popastro.com/meteor/detailed-fireball-reporting-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[Popular Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">Popular Astronomy Detailed Fireball Reporting Guide</span><span class="citation-popover-snippet">Popular Astronomy Detailed Fireball Reporting Guide</span></span></span>
 
-The Detroit-Windsor region supplied unusually valuable evidence because it produced more than witness impressions. According to accounts of the Chamberlain and Krause analysis in the *Journal of the Royal Astronomical Society of Canada*, the investigators used photographs taken from separate Michigan locations and a seismic record associated with the fireball to reconstruct the trajectory. Enigma Labs’ summary of that paper reports that the photographs indicated a northeasterly path, with the fireball disappearing over land about 15 miles south-east of Windsor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
+The Detroit-Windsor region supplied unusually valuable evidence because it produced more than witness impressions. According to accounts of the Chamberlain and Krause analysis in the *Journal of the Royal Astronomical Society of Canada*, the investigators used photographs taken from separate Michigan locations and a seismic record associated with the fireball to reconstruct the trajectory. Enigma Labs’ summary of that paper reports that the photographs indicated a northeasterly path, with the fireball disappearing over land about 15 miles south-east of Windsor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
 
-That placement is a long way from the image many readers have of a flaming object dropping directly into Kecksburg. Robert Sheaffer’s summary of the same scientific literature states that the object was more than a hundred miles from Kecksburg and that the usual early reports proposed “landing sites” from western Michigan to Pennsylvania, with loud sonic booms heard in the Detroit-Windsor region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.debunker.com/Kecksburg.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[debunker.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">The Kecksburg, Pennsylvania &quot;UFO Crash</span><span class="citation-popover-snippet">The Kecksburg, Pennsylvania &quot;UFO Crash</span></span></span>
+That placement is a long way from the image many readers have of a flaming object dropping directly into Kecksburg. Robert Sheaffer’s summary of the same scientific literature states that the object was more than a hundred miles from Kecksburg and that the usual early reports proposed “landing sites” from western Michigan to Pennsylvania, with loud sonic booms heard in the Detroit-Windsor region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.debunker.com/Kecksburg.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[debunker.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">The Kecksburg, Pennsylvania &quot;UFO Crash</span><span class="citation-popover-snippet">The Kecksburg, Pennsylvania &quot;UFO Crash</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d-Illustration-1-dark.svg" | relative_url }}" alt="Great Lakes illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -472,11 +472,11 @@ The Detroit-Windsor reconstruction was not based on one dramatic witness. It com
 * **Photographic trail evidence:** two photographs from Michigan provided geometric information about the fireball’s trail after the object passed.
 * **Seismic or shock evidence:** a record from the University of Michigan’s geophysics facilities helped anchor the timing and physical disturbance of the event.
 * **Witness questionnaires:** Chamberlain and Krause’s work is summarised as drawing on 66 standardised questionnaires from 107 witnesses.
-* **Regional sighting pattern:** reports came not only from Pennsylvania, but also from Michigan, Ohio, Ontario and other surrounding areas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
+* **Regional sighting pattern:** reports came not only from Pennsylvania, but also from Michigan, Ohio, Ontario and other surrounding areas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
 
-This combination matters because fireball reports are especially prone to local misreading. A bolide can appear to drop behind a hill, tree line, building or lake horizon, even when it is still tens of kilometres high or far beyond the observer. Young’s case study quotes the wider Great Lakes investigation as finding that “almost everyone” thought the fireball was much closer than it really was, and it notes that 1965 accounts claimed crashes or landings in at least 17 places across six states. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) The Reliability of UFO Witness Testimony</span><span class="citation-popover-snippet">PDF) The Reliability of UFO Witness Testimony</span></span></span>
+This combination matters because fireball reports are especially prone to local misreading. A bolide can appear to drop behind a hill, tree line, building or lake horizon, even when it is still tens of kilometres high or far beyond the observer. Young’s case study quotes the wider Great Lakes investigation as finding that “almost everyone” thought the fireball was much closer than it really was, and it notes that 1965 accounts claimed crashes or landings in at least 17 places across six states.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) The Reliability of UFO Witness Testimony</span><span class="citation-popover-snippet">PDF) The Reliability of UFO Witness Testimony</span></span></span>
 
-The American Meteor Society’s fireball guidance explains why loud reports and delayed sounds do not require a low-altitude craft. Very bright [bolides]({{ 'bolides/' | relative_url }}) that penetrate into the stratosphere can produce sonic booms on the ground, and because sound travels much more slowly than light, those booms may arrive one and a half to four minutes after the visual explosion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Fireball FAQs</span><span class="citation-popover-snippet">American Meteor Society Fireball FAQs</span></span></span>
+The American Meteor Society’s fireball guidance explains why loud reports and delayed sounds do not require a low-altitude craft. Very bright [bolides]({{ 'bolides/' | relative_url }}) that penetrate into the stratosphere can produce sonic booms on the ground, and because sound travels much more slowly than light, those booms may arrive one and a half to four minutes after the visual explosion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Fireball FAQs</span><span class="citation-popover-snippet">American Meteor Society Fireball FAQs</span></span></span>
 
 That is a useful check on the Detroit-Windsor reports. Loud booms in the region do not, by themselves, point to a local crash; they are compatible with a bright fireball producing shock waves along its atmospheric path. They also explain why witnesses in different places could connect sight, sound and vibration into a single nearby event even when the geometry was more complicated.
 
@@ -487,9 +487,9 @@ That is a useful check on the Detroit-Windsor reports. Loud booms in the region 
 
 The regional framing does not erase Kecksburg. It narrows what Kecksburg must prove.
 
-In the local version, the story centres on a village about 30 miles south-east of Pittsburgh, where residents reported a crash-like event, smoke or disturbance in the woods, roadblocks, and a search involving police and military personnel. Enigma Labs summarises early press accounts describing officials blocking access to the alleged landing area, while also noting that the search was later reported as unsuccessful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
+In the local version, the story centres on a village about 30 miles south-east of Pittsburgh, where residents reported a crash-like event, smoke or disturbance in the woods, roadblocks, and a search involving police and military personnel. Enigma Labs summarises early press accounts describing officials blocking access to the alleged landing area, while also noting that the search was later reported as unsuccessful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
 
-In the regional version, Kecksburg becomes one node in a much larger sighting wave. The fireball was reported across several states and Canada, with pilots, weather observers and Coast Guard personnel among those who saw it. One Ohio pilot over Lake Erie thought the object had plunged into the lake, while other reports placed apparent debris or impacts in several areas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
+In the regional version, Kecksburg becomes one node in a much larger sighting wave. The fireball was reported across several states and Canada, with pilots, weather observers and Coast Guard personnel among those who saw it. One Ohio pilot over Lake Erie thought the object had plunged into the lake, while other reports placed apparent debris or impacts in several areas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
 
 That contrast matters because a true local crash story should produce local physical evidence that is independent of the regional fireball. The regional record already explains why many people saw a bright object, why some heard booms, why smoke-like trails were reported, and why different communities thought the object had descended near them. What it does not explain on its own is the later claim that a metallic, acorn-shaped object was found and removed from the woods near Kecksburg.
 
@@ -499,7 +499,7 @@ The best way to read the evidence is therefore layered rather than either-or. Th
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d-Illustration-2-dark.svg" | relative_url }}" alt="Great Lakes illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Role of Project Blue Book
 
-Project Blue Book, the US Air Force’s UFO investigation programme, also sits between the regional and local frames. According to Enigma Labs’ summary of a Project Blue Book memo, Major Hector Quintanilla reported that personnel were sent from the Oakdale Radar Site to assist the search near Kecksburg, worked with state police, and were unsuccessful in finding the object. The same memo reportedly stated that the object was detected visually, not by radar, and advised calling it a meteor while noting that the investigation was still ongoing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
+Project Blue Book, the US Air Force’s UFO investigation programme, also sits between the regional and local frames. According to Enigma Labs’ summary of a Project Blue Book memo, Major Hector Quintanilla reported that personnel were sent from the Oakdale Radar Site to assist the search near Kecksburg, worked with state police, and were unsuccessful in finding the object. The same memo reportedly stated that the object was detected visually, not by radar, and advised calling it a meteor while noting that the investigation was still ongoing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
 
 This is important for two reasons. First, it confirms that the local search was not invented from nothing: official attention really did converge on the Kecksburg area. Secondly, it weakens the claim that the Kecksburg report was a neatly documented recovery. The available official summary points towards a search responding to reports, not a confirmed retrieved craft.
 
@@ -512,9 +512,9 @@ The Project Blue Book material also helps explain why the case remained ambiguou
 
 The Detroit-Windsor reconstruction is also a lesson in how fireball perception works. Bright meteors do not provide the normal cues people use to judge distance. There is no familiar size, no fixed landscape reference, and often no sense of altitude. A fireball passing high through the atmosphere can look as if it is falling into the next valley, lake or wood.
 
-Young’s later analysis of the Great Lakes fireball emphasises this point directly: the 1965 event generated many claimed crash or landing places, but searches at 17 locations recovered no meteorites or debris linked to the fireball. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) The Reliability of UFO Witness Testimony</span><span class="citation-popover-snippet">PDF) The Reliability of UFO Witness Testimony</span></span></span>
+Young’s later analysis of the Great Lakes fireball emphasises this point directly: the 1965 event generated many claimed crash or landing places, but searches at 17 locations recovered no meteorites or debris linked to the fireball.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) The Reliability of UFO Witness Testimony</span><span class="citation-popover-snippet">PDF) The Reliability of UFO Witness Testimony</span></span></span>
 
-The American Meteor Society adds another practical caution: even a fireball bright enough to raise hopes of meteorites does not necessarily drop visible fragments to the ground. Once meteorite-producing material slows into “[dark flight]({{ 'dark-flight/' | relative_url }})”, visible light stops, and any surviving stones fall invisibly at terminal velocity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Fireball FAQs</span><span class="citation-popover-snippet">American Meteor Society Fireball FAQs</span></span></span>
+The American Meteor Society adds another practical caution: even a fireball bright enough to raise hopes of meteorites does not necessarily drop visible fragments to the ground. Once meteorite-producing material slows into “[dark flight]({{ 'dark-flight/' | relative_url }})”, visible light stops, and any surviving stones fall invisibly at terminal velocity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Fireball FAQs</span><span class="citation-popover-snippet">American Meteor Society Fireball FAQs</span></span></span>
 
 That means a witness can honestly report a bright object “coming down” while the actual final material, if any, is no longer glowing and may fall somewhere else entirely. For Kecksburg, this is one of the strongest reasons the Great Lakes path matters: the regional fireball can account for many sincere local perceptions without requiring a car-sized object to have landed where each observer thought it did.
 
@@ -525,9 +525,9 @@ That means a witness can honestly report a bright object “coming down” while
 
 The Detroit-Windsor evidence does not make Kecksburg uninteresting; it makes the claim more specific. A broad, bright, dramatic sky event is well explained by a bolide over the Great Lakes. Any stronger Kecksburg claim has to rest on evidence after that point: reliable ground witnesses, physical traces, contemporaneous documents, photographs, chain-of-custody records, or verifiable recovery paperwork.
 
-That is where the case becomes thinner. Later accounts collected by Kecksburg investigator Stan Gordon describe a metallic acorn-shaped object, unusual markings, and military removal, but those claims are not matched by a publicly verified object or surviving official recovery record. Enigma Labs notes those later witness accounts while also summarising the scientific and Project Blue Book evidence pointing to a natural fireball. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
+That is where the case becomes thinner. Later accounts collected by Kecksburg investigator Stan Gordon describe a metallic acorn-shaped object, unusual markings, and military removal, but those claims are not matched by a publicly verified object or surviving official recovery record. Enigma Labs notes those later witness accounts while also summarising the scientific and Project Blue Book evidence pointing to a natural fireball.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
 
-The Detroit-Windsor reconstruction also complicates space-debris theories. Some later speculation connected Kecksburg with the Soviet Kosmos 96 spacecraft, but NASA’s own space-science archive, as summarised by Enigma Labs, later stated that other orbital analyses definitively indicated the Kecksburg event could not have been Kosmos 96. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
+The Detroit-Windsor reconstruction also complicates space-debris theories. Some later speculation connected Kecksburg with the Soviet Kosmos 96 spacecraft, but NASA’s own space-science archive, as summarised by Enigma Labs, later stated that other orbital analyses definitively indicated the Kecksburg event could not have been Kosmos 96.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
 
 That leaves the most defensible reading: the sky event was almost certainly the Great Lakes fireball, reconstructed from Detroit-Windsor area evidence and other regional observations. The Kecksburg mystery, if any remains, is not whether a bright object crossed the sky; it is whether the local search and later recovery claims point to something additional that has never been properly documented.
 
@@ -540,194 +540,194 @@ The Detroit-Windsor reconstruction changes the reader’s mental map of the inci
 This is why the Great Lakes path remains one of the most useful filters for the Kecksburg UFO incident. It separates the durable scientific core from the contested folklore around it. The fireball, the timing, the broad visibility, the photographic trail, the Detroit-area shock evidence and the Windsor-area endpoint all belong to the stronger evidential layer. The acorn-shaped object, military removal and hidden wreckage claims belong to a second layer that may be culturally powerful, but is much less securely documented.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Great Lakes Path Matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Great Lakes Path Matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites and their Parent Planets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pib50AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites and their Parent Planets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites and their Parent Planets">Meteorites and their Parent Planets</a>
-        </h4>
-        <p class="fr-book-author">By Harry Y. McSween</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites and their Parent Planets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pib50AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites and their Parent Planets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites and their Parent Planets">Meteorites and their Parent Planets</a>
+</h4>
+<p class="fr-book-author">By Harry Y. McSween</p>
         
-        <p class="fr-book-desc">Provides context for Great Lakes fireball interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for Great Lakes fireball interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Useful for understanding official treatment of unusual aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding official treatment of unusual aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers evaluate visible sky phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate visible sky phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kecksburg UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kecksburg UFO Incident">The Kecksburg UFO Incident</a>
-        </h4>
-        <p class="fr-book-author">By George Dudding</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kecksburg UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kecksburg UFO Incident">The Kecksburg UFO Incident</a>
+</h4>
+<p class="fr-book-author">By George Dudding</p>
         
-        <p class="fr-book-desc">Focuses on the event and competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on the event and competing explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites and their Parent Planets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites and their Parent Planets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of The Great Lakes Michigan USA 1764 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/0a70b40261a001044873.jpg' | relative_url }}" alt="Listing image for Map Of The Great Lakes Michigan USA 1764 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of The Great Lakes Michigan USA 1764 Vintage Historic Map Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of The Great Lakes Michigan USA 1764 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/0a70b40261a001044873.jpg' | relative_url }}" alt="Listing image for Map Of The Great Lakes Michigan USA 1764 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of The Great Lakes Michigan USA 1764 Vintage Historic Map Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/a4702a69b8c69ab6582b.jpg' | relative_url }}" alt="Listing image for Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/a4702a69b8c69ab6582b.jpg' | relative_url }}" alt="Listing image for Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print"><img src="{{ '/assets/images/marketplace-covers/31fb5486de8394b97a2a.jpg' | relative_url }}" alt="Listing image for Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print"><img src="{{ '/assets/images/marketplace-covers/31fb5486de8394b97a2a.jpg' | relative_url }}" alt="Listing image for Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/d08323b3733fc5c4b9fd.jpg' | relative_url }}" alt="Listing image for Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/d08323b3733fc5c4b9fd.jpg' | relative_url }}" alt="Listing image for Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="great-lakes-why-the-great-lakes-path-matters-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -743,7 +743,7 @@ This is why the Great Lakes path remains one of the most useful filters for the 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -763,7 +763,7 @@ This is why the Great Lakes path remains one of the most useful filters for the 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -795,7 +795,7 @@ This is why the Great Lakes path remains one of the most useful filters for the 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -847,7 +847,7 @@ This is why the Great Lakes path remains one of the most useful filters for the 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -892,7 +892,7 @@ This is why the Great Lakes path remains one of the most useful filters for the 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -933,141 +933,141 @@ This is why the Great Lakes path remains one of the most useful filters for the 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: enigmalabs.io  
    Title: Enigma Labs | Report a UFO sighting Kecksburg Incident | Enigma Labs  
-   Link: <a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
+   Link:<a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: academia.edu  
    Title: (PDF) The Reliability of UFO Witness Testimony  
-   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
+   Link:<a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: debunker.com  
    Title: The Kecksburg, Pennsylvania "UFO Crash"  
-   Link: <a href="https://www.debunker.com/Kecksburg.html" target="_blank" rel="noopener noreferrer nofollow">https://www.debunker.com/Kecksburg.html</a>  
+   Link:<a href="https://www.debunker.com/Kecksburg.html" target="_blank" rel="noopener noreferrer nofollow">https://www.debunker.com/Kecksburg.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: space.com  
    Title: 7589 case finally closed 1965 pennsylvania ufo mystery  
-   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/[fireball-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/[fireball-sightings</a>  
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/[fireball-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/[fireball-sightings</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ares.jsc.nasa.gov  
-   Link: <a href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/events/</a>  
+   Link:<a href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/events/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Unsolved Mysteries with Dennis Farina  
-   Link: <a href="https://www.youtube.com/watch?v=TeLgzzfOS3c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TeLgzzfOS3c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg | HD | Horror, Sci-Fi | Full Movie in English...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TeLgzzfOS3c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TeLgzzfOS3c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg | HD | Horror, Sci-Fi | Full Movie in English...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Kecksburg | HD | Horror, Sci-Fi | Full Movie in English  
-   Link: <a href="https://www.youtube.com/watch?v=bntdCsyy20k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bntdCsyy20k</a>  
+   Link:<a href="https://www.youtube.com/watch?v=bntdCsyy20k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bntdCsyy20k</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: popastro.com  
    Title: Popular Astronomy Detailed Fireball Reporting Guide  
-   Link: <a href="https://www.popastro.com/meteor/detailed-fireball-reporting-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/detailed-fireball-reporting-guide/</a>  
+   Link:<a href="https://www.popastro.com/meteor/detailed-fireball-reporting-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/detailed-fireball-reporting-guide/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: amsmeteors.org  
    Title: American Meteor Society Fireball FAQs  
-   Link: <a href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/faqf/</a>  
+   Link:<a href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/faqf/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: The Kecksburg Mystery | Sunday Roast  
-   Link: <a href="https://www.facebook.com/sunday.roast.media/videos/the-kecksburg-mystery/830434049690187/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sunday.roast.media/videos/the-kecksburg-mystery/830434049690187/</a>  
+   Link:<a href="https://www.facebook.com/sunday.roast.media/videos/the-kecksburg-mystery/830434049690187/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sunday.roast.media/videos/the-kecksburg-mystery/830434049690187/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: unsolved.com  
    Title: Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theclio.com  
    Title: Kecksburg UFO Incident  
-   Link: <a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
+   Link:<a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
+   Link:<a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/</a>  
+   Link:<a href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/US/1-ton-meteor-streaks-texas-sky-breaking-fireball/story?id=131307190" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/1-ton-meteor-streaks-texas-sky-breaking-fireball/story?id=131307190</a>  
+   Link:<a href="https://abcnews.com/US/1-ton-meteor-streaks-texas-sky-breaking-fireball/story?id=131307190" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/1-ton-meteor-streaks-texas-sky-breaking-fireball/story?id=131307190</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tardis.fandom.com  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://tardis.fandom.com/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://tardis.fandom.com/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://tardis.fandom.com/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://tardis.fandom.com/wiki/Kecksburg_UFO_incident</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: positivelypittsburgh.com  
    Title: The Kecksburg UFO Incident  
-   Link: <a href="https://positivelypittsburgh.com/the-kecksburg-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/the-kecksburg-ufo-incident/</a>  
+   Link:<a href="https://positivelypittsburgh.com/the-kecksburg-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/the-kecksburg-ufo-incident/</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: adsabs.harvard.edu  
-   Link: <a href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1967JRASC..61..184C</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fireball had an apparent magnitude of at least -15. Loud sonic booms were heard in the Detroit-Windsor region at intervals after the visu...</p></details>
+   Link:<a href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1967JRASC..61..184C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fireball had an apparent magnitude of at least -15. Loud sonic booms were heard in the Detroit-Windsor region at intervals after the visu...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ac3hYt3k-Eo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Cases From Unsolved Mysteries That Are Still Unexplained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ac3hYt3k-Eo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Cases From Unsolved Mysteries That Are Still Unexplained...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Strange Cases From Unsolved Mysteries That Are Still Unexplained  
-   Link: <a href="https://www.youtube.com/watch?v=vSHZataJDlc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vSHZataJDlc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries with Dennis Farina - Season 1 Episode 8...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vSHZataJDlc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vSHZataJDlc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries with Dennis Farina - Season 1 Episode 8...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Kecksburg Incident: What Really Happened Here?  
-   Link: <a href="https://www.youtube.com/watch?v=BXh2zTD9Kug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BXh2zTD9Kug</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BXh2zTD9Kug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BXh2zTD9Kug</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/1991/04/old-solved-mysteries-the-kecksburg-incident/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1991/04/old-solved-mysteries-the-kecksburg-incident/</a>  
+   Link:<a href="https://skepticalinquirer.org/1991/04/old-solved-mysteries-the-kecksburg-incident/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1991/04/old-solved-mysteries-the-kecksburg-incident/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/78grt4/a_meteor_crashed_behind_my_house_last_night_and_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/78grt4/a_meteor_crashed_behind_my_house_last_night_and_i/</a>  
+   Link:<a href="https://www.reddit.com/r/space/comments/78grt4/a_meteor_crashed_behind_my_house_last_night_and_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/78grt4/a_meteor_crashed_behind_my_house_last_night_and_i/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MikeCollierWx/posts/a-spectacular-fireball-meteor-known-as-a-super-bolide-lit-up-the-skies-across-mu/1528946645249267/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MikeCollierWx/posts/a-spectacular-fireball-meteor-known-as-a-super-bolide-lit-up-the-skies-across-mu/1528946645249267/</a>  
+   Link:<a href="https://www.facebook.com/MikeCollierWx/posts/a-spectacular-fireball-meteor-known-as-a-super-bolide-lit-up-the-skies-across-mu/1528946645249267/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MikeCollierWx/posts/a-spectacular-fireball-meteor-known-as-a-super-bolide-lit-up-the-skies-across-mu/1528946645249267/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABC30/posts/abc30-insiders-sent-in-several-videos-of-what-was-believed-to-be-a-meteor-streak/1443147821176503/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABC30/posts/abc30-insiders-sent-in-several-videos-of-what-was-believed-to-be-a-meteor-streak/1443147821176503/</a>  
+   Link:<a href="https://www.facebook.com/ABC30/posts/abc30-insiders-sent-in-several-videos-of-what-was-believed-to-be-a-meteor-streak/1443147821176503/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABC30/posts/abc30-insiders-sent-in-several-videos-of-what-was-believed-to-be-a-meteor-streak/1443147821176503/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DW2NoEtDgjg/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW2NoEtDgjg/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DW2NoEtDgjg/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW2NoEtDgjg/?hl=en</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/</a>  
+   Link:<a href="https://www.imo.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/</a>  

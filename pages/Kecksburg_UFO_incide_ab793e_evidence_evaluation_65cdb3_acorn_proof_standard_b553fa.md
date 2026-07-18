@@ -274,7 +274,7 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_evidence_evaluation_65cdb3_aco
 
 ## Introduction
 
-[The acorn-shaped object]({{ 'the-acorn-shaped-object/' | relative_url }}) is the most famous element of the Kecksburg story and the least securely established. A bright fireball over the [Great Lakes]({{ 'great-lakes/' | relative_url }}) region is supported by multiple contemporary observations and scientific analysis. Claims that officials searched the area are also supported by contemporary reporting. The alleged recovery of a bronze, acorn-shaped craft with strange markings is a different category of claim entirely. It requires evidence not merely that something unusual was seen, but that a specific physical object existed, was recovered, and can be traced through reliable documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+[The acorn-shaped object]({{ 'the-acorn-shaped-object/' | relative_url }}) is the most famous element of the Kecksburg story and the least securely established. A bright fireball over the [Great Lakes]({{ 'great-lakes/' | relative_url }}) region is supported by multiple contemporary observations and scientific analysis. Claims that officials searched the area are also supported by contemporary reporting. The alleged recovery of a bronze, acorn-shaped craft with strange markings is a different category of claim entirely. It requires evidence not merely that something unusual was seen, but that a specific physical object existed, was recovered, and can be traced through reliable documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_evidence_evaluation_65cdb3_acorn_proof_standard_b553fa-Illustration-1-dark.svg" | relative_url }}" alt="Acorn proof illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_evidence_evaluation_65cdb3_acorn_proof_standard_b553fa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_evidence_evaluation_65cdb3_acorn_proof_standard_b553fa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,9 +284,9 @@ A fair evaluation therefore gives the acorn story a higher evidential burden tha
 
 The acorn story combines several distinct assertions: that a metallic object reached the ground, that witnesses saw it at close range, that it had unusual [markings]({{ 'markings/' | relative_url }}), and that authorities removed it. Each step requires separate proof.
 
-The difficulty is that the strongest descriptions of the object emerged primarily through witness recollections collected years after the event. Accounts often describe a bronze or copper-coloured object roughly the size of a Volkswagen Beetle, shaped like an acorn and bearing symbols compared to [hieroglyphics]({{ 'hieroglyphics/' | relative_url }}). These descriptions became widely known through documentaries, books, interviews and television programmes rather than through a large body of contemporaneous photographs or technical reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The difficulty is that the strongest descriptions of the object emerged primarily through witness recollections collected years after the event. Accounts often describe a bronze or copper-coloured object roughly the size of a Volkswagen Beetle, shaped like an acorn and bearing symbols compared to [hieroglyphics]({{ 'hieroglyphics/' | relative_url }}). These descriptions became widely known through documentaries, books, interviews and television programmes rather than through a large body of contemporaneous photographs or technical reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-From an evidential standpoint, proving a recovered object is far more demanding than proving a fireball. A fireball can be established through many independent observations across a wide geographic area. A recovered craft, by contrast, requires evidence tied directly to the object itself. Without that connection, the claim remains dependent on testimony rather than physical verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+From an evidential standpoint, proving a recovered object is far more demanding than proving a fireball. A fireball can be established through many independent observations across a wide geographic area. A recovered craft, by contrast, requires evidence tied directly to the object itself. Without that connection, the claim remains dependent on testimony rather than physical verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 This does not make witness testimony worthless. It means the testimony must be evaluated as one component of a larger evidential chain rather than as a substitute for that chain.
 
@@ -308,7 +308,7 @@ In investigations involving aircraft wreckage, meteorites, military hardware or 
 
 </div>
 
-For the alleged Kecksburg object, publicly available evidence does not provide clear answers to those questions. Witnesses reported military activity and some claimed to have seen a covered object being transported from the area. However, no publicly verified inventory records, transportation logs, recovery reports, engineering assessments or authenticated photographs have emerged that conclusively connect a recovered object to the site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">space acorn</span><span class="citation-popover-snippet">Atlas ObscuraSpace Acorn in Kecksburg3 Jul 2013 — On December 9, 1965, thousands of people across six U.S. states and Ontario reported se...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+For the alleged Kecksburg object, publicly available evidence does not provide clear answers to those questions. Witnesses reported military activity and some claimed to have seen a covered object being transported from the area. However, no publicly verified inventory records, transportation logs, recovery reports, engineering assessments or authenticated photographs have emerged that conclusively connect a recovered object to the site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">space acorn</span><span class="citation-popover-snippet">Atlas ObscuraSpace Acorn in Kecksburg3 Jul 2013 — On December 9, 1965, thousands of people across six U.S. states and Ontario reported se...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
 This gap matters because many historical mysteries become much easier to resolve once a chain of custody is established. Even if the object had turned out to be mundane—space debris, a military test article or another aerospace component—a documented transfer path would allow researchers to evaluate competing explanations. Without that path, nearly every interpretation remains possible, which is precisely why the debate continues.
 
@@ -319,7 +319,7 @@ This gap matters because many historical mysteries become much easier to resolve
 
 One reason the Kecksburg case remains compelling is the controversy surrounding government records.
 
-Freedom of Information Act litigation forced NASA to conduct additional searches for documents connected with the incident. Court proceedings revealed that some historical records could not be located, and NASA acknowledged [missing boxes]({{ 'missing-boxes/' | relative_url }}) of documents from the relevant period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[Reporters Committee+3Reporters Committee+3CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-title">judge forces nasa take giant leap foia suit</span><span class="citation-popover-snippet">Reporters CommitteeJudge forces NASA to take a giant leap in FOIA suit10 Dec 2007 — Leslie Kean, a freelance reporter working with suppor...</span></span></span>
+Freedom of Information Act litigation forced NASA to conduct additional searches for documents connected with the incident. Court proceedings revealed that some historical records could not be located, and NASA acknowledged [missing boxes]({{ 'missing-boxes/' | relative_url }}) of documents from the relevant period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcfp.org">[rcfp.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcfp.org</span><span class="citation-popover-title">judge forces nasa take giant leap foia suit</span><span class="citation-popover-snippet">Reporters CommitteeJudge forces NASA to take a giant leap in FOIA suit10 Dec 2007 — Leslie Kean, a freelance reporter working with suppor...</span></span></span>
 
 Those facts are significant because they raise legitimate questions about record preservation and transparency. However, missing files do not automatically prove that an exotic object was recovered.
 
@@ -328,7 +328,7 @@ There is an important distinction between:
 * Evidence that records are incomplete.
 * Evidence that a specific acorn-shaped craft existed.
 
-The first proposition has support. The second still requires direct proof. A gap in documentation may justify further investigation, but it cannot by itself establish the content of the missing records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">7589 case finally closed 1965 pennsylvania ufo mystery</span><span class="citation-popover-snippet">Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — This stageof the saga began in 2002, when Kean was asked to...</span></span></span>
+The first proposition has support. The second still requires direct proof. A gap in documentation may justify further investigation, but it cannot by itself establish the content of the missing records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">7589 case finally closed 1965 pennsylvania ufo mystery</span><span class="citation-popover-snippet">Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — This stageof the saga began in 2002, when Kean was asked to...</span></span></span>
 
 For that reason, the strongest version of the acorn claim cannot rest solely on arguments about secrecy or lost paperwork.
 
@@ -391,7 +391,7 @@ Some commonly cited points have relatively low evidential value on their own:
 
 </div>
 
-These observations may support the idea that officials took the event seriously, but they do not by themselves prove the existence of the acorn-shaped object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+These observations may support the idea that officials took the event seriously, but they do not by themselves prove the existence of the acorn-shaped object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_evidence_evaluation_65cdb3_acorn_proof_standard_b553fa-Illustration-3-dark.svg" | relative_url }}" alt="Acorn proof illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_evidence_evaluation_65cdb3_acorn_proof_standard_b553fa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_evidence_evaluation_65cdb3_acorn_proof_standard_b553fa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -399,199 +399,199 @@ These observations may support the idea that officials took the event seriously,
 
 A balanced assessment neither dismisses witnesses outright nor assumes that vivid testimony settles the issue.
 
-The strongest witness accounts consistently describe a distinctive object: acorn-shaped, metallic, and marked with unusual symbols. Those similarities are one reason the story has endured for decades. Yet consistency alone does not establish physical reality, especially when the alleged object itself is unavailable for inspection and the recovery process lacks documented continuity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The strongest witness accounts consistently describe a distinctive object: acorn-shaped, metallic, and marked with unusual symbols. Those similarities are one reason the story has endured for decades. Yet consistency alone does not establish physical reality, especially when the alleged object itself is unavailable for inspection and the recovery process lacks documented continuity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 The fair standard is therefore straightforward: the acorn story should be judged as a recovery claim, not merely as a sighting claim. To move from possibility to historical fact, researchers would need evidence that directly connects a specific object to a documented recovery and traceable destination. Until such evidence appears, the acorn remains the most memorable feature of the Kecksburg narrative—and the one requiring the strongest proof.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Would Prove the Acorn Story?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Would Prove the Acorn Story?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Focuses on what is needed to substantiate UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on what is needed to substantiate UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Discusses evidential limits in famous cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evidential limits in famous cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses proof, skepticism, and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses proof, skepticism, and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kecksburg UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kecksburg UFO Incident">The Kecksburg UFO Incident</a>
-        </h4>
-        <p class="fr-book-author">By George Dudding</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kecksburg UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kecksburg UFO Incident">The Kecksburg UFO Incident</a>
+</h4>
+<p class="fr-book-author">By George Dudding</p>
         
-        <p class="fr-book-desc">Covers the acorn-object narrative directly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the acorn-object narrative directly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift"><img src="{{ '/assets/images/marketplace-covers/e3822e61b859bc0e7376.jpg' | relative_url }}" alt="Listing image for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift"><img src="{{ '/assets/images/marketplace-covers/e3822e61b859bc0e7376.jpg' | relative_url }}" alt="Listing image for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="acorn-proof-what-would-prove-the-acorn-story-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -607,7 +607,7 @@ The fair standard is therefore straightforward: the acorn story should be judged
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -627,7 +627,7 @@ The fair standard is therefore straightforward: the acorn story should be judged
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -659,7 +659,7 @@ The fair standard is therefore straightforward: the acorn story should be judged
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -711,7 +711,7 @@ The fair standard is therefore straightforward: the acorn story should be judged
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -756,7 +756,7 @@ The fair standard is therefore straightforward: the acorn story should be judged
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -797,107 +797,107 @@ The fair standard is therefore straightforward: the acorn story should be judged
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: space.com  
    Title: 7589 case finally closed 1965 pennsylvania ufo mystery  
-   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — This stageof the saga began in 2002, when Kean was asked to...</p></details>
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — This stageof the saga began in 2002, when Kean was asked to...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: thecoldfile.com  
    Title: 1965 kecksburg  
-   Link: <a href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecoldfile.com/articles/1965-kecksburg/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Acorn in the Woods: The 1965 Kecksburg Incident25 May 2026 — In accounts collected by Gordon, the witness Jim Romansky described an a...</p></details>
+   Link:<a href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecoldfile.com/articles/1965-kecksburg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Acorn in the Woods: The 1965 Kecksburg Incident25 May 2026 — In accounts collected by Gordon, the witness Jim Romansky described an a...</p></details>
    Published: May 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: atlasobscura.com  
    Title: space acorn  
-   Link: <a href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/space-acorn</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Atlas ObscuraSpace Acorn in Kecksburg3 Jul 2013 — On December 9, 1965, thousands of people across six U.S. states and Ontario reported se...</p></details>
+   Link:<a href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/space-acorn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atlas ObscuraSpace Acorn in Kecksburg3 Jul 2013 — On December 9, 1965, thousands of people across six U.S. states and Ontario reported se...</p></details>
    Published: December 9, 1965  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: rcfp.org  
    Title: judge forces nasa take giant leap foia suit  
-   Link: <a href="https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters CommitteeJudge forces NASA to take a giant leap in FOIA suit10 Dec 2007 — Leslie Kean, a freelance reporter working with suppor...</p></details>
+   Link:<a href="https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters CommitteeJudge forces NASA to take a giant leap in FOIA suit10 Dec 2007 — Leslie Kean, a freelance reporter working with suppor...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cbsnews.com  
    Title: nasa court ordered to search for ufo docs  
-   Link: <a href="https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Court-Ordered To Search For UFO Docs27 Oct 2007 — NASA has agreed to search its archives once again for documents on a 1965 UFO inci...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Court-Ordered To Search For UFO Docs27 Oct 2007 — NASA has agreed to search its archives once again for documents on a 1965 UFO inci...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: rcfp.org  
    Title: nasa ordered review its records data ufo sighting  
-   Link: <a href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>files for documents about what many residents of Kecksburg, Pa., believe was a UFO sighting 42-yers ago. A federal judge in October order...</p></details>
+   Link:<a href="https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/nasa-ordered-review-its-records-data-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>files for documents about what many residents of Kecksburg, Pa., believe was a UFO sighting 42-yers ago. A federal judge in October order...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/story?id=3785376&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/story?id=3785376&amp;page=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to search files for UFO incident27 Oct 2007 — The government has refused to open its files about what, if anything, moved across the...</p></details>
+   Link:<a href="https://abcnews.com/Technology/story?id=3785376&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/story?id=3785376&amp;page=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to search files for UFO incident27 Oct 2007 — The government has refused to open its files about what, if anything, moved across the...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: mykss.com  
-   Link: <a href="https://mykss.com/en/article/1965-kecksburg-pennsylvania-[acorn-shape" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/article/1965-kecksburg-pennsylvania-[acorn-shape</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1965 Kecksburg Pennsylvania Acorn-Shape Recovery What...Mar 18, 2026 — On 9 December 1965 a fireball entered the atmosphere over the Gre...</p></details>
+   Link:<a href="https://mykss.com/en/article/1965-kecksburg-pennsylvania-[acorn-shape" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/article/1965-kecksburg-pennsylvania-[acorn-shape</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1965 Kecksburg Pennsylvania Acorn-Shape Recovery What...Mar 18, 2026 — On 9 December 1965 a fireball entered the atmosphere over the Gre...</p></details>
    Published: December 1965  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s mysterious UFO landing 60 years agoSixty years ago, a December day changed the course of history for Kecksburg, a small commu...</p></details>
+   Link:<a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s mysterious UFO landing 60 years agoSixty years ago, a December day changed the course of history for Kecksburg, a small commu...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-acorn-shape-object-crash-landed-just-down-the-road-in-kecks/974564784944605/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-acorn-shape-object-crash-landed-just-down-the-road-in-kecks/974564784944605/</a>  
+   Link:<a href="https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-acorn-shape-object-crash-landed-just-down-the-road-in-kecks/974564784944605/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ghalibrary/posts/in-1965-a-mysterious-acorn-shape-object-crash-landed-just-down-the-road-in-kecks/974564784944605/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: phillyvoice.com  
-   Link: <a href="https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a bizarre incident that occurred in Kecksburg, Pennsylvania, on Dec. 9, 1965. Some residents think an alien UFO crashed in the woods...</p></details>
+   Link:<a href="https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a bizarre incident that occurred in Kecksburg, Pennsylvania, on Dec. 9, 1965. Some residents think an alien UFO crashed in the woods...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the unidentified object up close before US military officials were able to...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the unidentified object up close before US military officials were able to...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: is case finally closed on 1965 ufo mysteryleslie  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is case finally closed on 1965 UFO mystery?--Leslie Keane...Is case finally closed on 1965 UFO mystery?--Leslie Keane sued NASA in 2003...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is case finally closed on 1965 UFO mystery?--Leslie Keane...Is case finally closed on 1965 UFO mystery?--Leslie Keane sued NASA in 2003...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: yahoo.com  
    Title: kecksburg incident remains mystery 60 035900487  
-   Link: <a href="https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg incident remains mystery 60 years later13 Jul 2025 — Reports at the time noted a strange bronze-colored, acorn-shaped object. A...</p></details>
+   Link:<a href="https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg incident remains mystery 60 years later13 Jul 2025 — Reports at the time noted a strange bronze-colored, acorn-shaped object. A...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mg.co.za  
    Title: 2007 11 11 nasa told to solve ufo crash x file  
-   Link: <a href="https://mg.co.za/news/south-africa/2007-11-11-nasa-told-to-solve-ufo-crash-x-file/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/news/south-africa/2007-11-11-nasa-told-to-solve-ufo-crash-x-file/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa told to solve &#x27;UFO crash&#x27; X-file11 Nov 2007 —... Leslie Kean, a journalist who launched a lawsuit four years ago to force Nasa to o...</p></details>
+   Link:<a href="https://mg.co.za/news/south-africa/2007-11-11-nasa-told-to-solve-ufo-crash-x-file/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/news/south-africa/2007-11-11-nasa-told-to-solve-ufo-crash-x-file/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa told to solve &#x27;UFO crash&#x27; X-file11 Nov 2007 —... Leslie Kean, a journalist who launched a lawsuit four years ago to force Nasa to o...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mg.co.za  
    Title: 2007 11 11 nasa told to solve ufo crash xfile  
-   Link: <a href="https://mg.co.za/article/2007-11-11-nasa-told-to-solve-ufo-crash-xfile/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/article/2007-11-11-nasa-told-to-solve-ufo-crash-xfile/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa told to solve &#x27;UFO crash&#x27; X-file11 Nov 2007 — Nasa told to solve &#x27;UFO crash&#x27; X-file... For four decades, residents of the tiny Penn...</p></details>
+   Link:<a href="https://mg.co.za/article/2007-11-11-nasa-told-to-solve-ufo-crash-xfile/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/article/2007-11-11-nasa-told-to-solve-ufo-crash-xfile/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa told to solve &#x27;UFO crash&#x27; X-file11 Nov 2007 — Nasa told to solve &#x27;UFO crash&#x27; X-file... For four decades, residents of the tiny Penn...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: yahoo.com  
    Title: 60 years questions remain kecksburg 115100866  
-   Link: <a href="https://www.yahoo.com/news/60-years-questions-remain-kecksburg-115100866.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/60-years-questions-remain-kecksburg-115100866.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>After 60 years, questions remain about Kecksburg UFO...16 Jul 2025 — Since the Kecksburg incident, it seems the government has become mo...</p></details>
+   Link:<a href="https://www.yahoo.com/news/60-years-questions-remain-kecksburg-115100866.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/60-years-questions-remain-kecksburg-115100866.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>After 60 years, questions remain about Kecksburg UFO...16 Jul 2025 — Since the Kecksburg incident, it seems the government has become mo...</p></details>

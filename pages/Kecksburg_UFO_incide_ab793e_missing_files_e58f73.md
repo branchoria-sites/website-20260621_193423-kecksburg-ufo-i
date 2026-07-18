@@ -446,7 +446,7 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_missing_files_e58f73-overview-
 
 ## Introduction
 
-The missing Kecksburg files matter because they sit at the point where the incident changes from witness testimony into a test of government recordkeeping. In the early 2000s, journalist Leslie Kean used the Freedom of Information Act to seek NASA records on the 9 December 1965 Kecksburg incident, including the so-called “[Fragology Files]({{ 'fragology-files/' | relative_url }})”, Project Moon Dust material, Cosmos 96 references, and related correspondence. A federal court later found that NASA had not yet shown that its searches were adequate, even though the court did not find that the missing files proved a cover-up or a recovered craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/nasa/USCOURTS-dcd-1_03-cv-02509-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+The missing Kecksburg files matter because they sit at the point where the incident changes from witness testimony into a test of government recordkeeping. In the early 2000s, journalist Leslie Kean used the Freedom of Information Act to seek NASA records on the 9 December 1965 Kecksburg incident, including the so-called “[Fragology Files]({{ 'fragology-files/' | relative_url }})”, Project Moon Dust material, Cosmos 96 references, and related correspondence. A federal court later found that NASA had not yet shown that its searches were adequate, even though the court did not find that the missing files proved a cover-up or a recovered craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/nasa/USCOURTS-dcd-1_03-cv-02509-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_missing_files_e58f73-overview.webp" | relative_url }}" alt="Overview image for Missing Files" loading="eager" decoding="sync" fetchpriority="high">
@@ -454,11 +454,11 @@ The clearest lesson is narrower but important: Kecksburg is not just a mystery a
 
 ## What Files Were Sought
 
-The phrase “[Fragology]({{ 'fragology/' | relative_url }}) Files” refers to a set of NASA records described in archival material as reports concerning the recovery of space objects and the analysis of fragments to determine national ownership and vehicle origin. In plain terms, these were not “UFO files” in the popular sense. They appear to have been technical or administrative records about pieces of spacecraft or launch hardware that came back to Earth and needed identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/documentarchive/nasas-fragology-files-space-object-recovery-and-analysis-records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The phrase “[Fragology]({{ 'fragology/' | relative_url }}) Files” refers to a set of NASA records described in archival material as reports concerning the recovery of space objects and the analysis of fragments to determine national ownership and vehicle origin. In plain terms, these were not “UFO files” in the popular sense. They appear to have been technical or administrative records about pieces of spacecraft or launch hardware that came back to Earth and needed identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/documentarchive/nasas-fragology-files-space-object-recovery-and-analysis-records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 That description is central to the Kecksburg dispute. The 1965 event occurred during the Cold War, when falling space debris could have been American, Soviet, or natural. NASA had technical expertise relevant to identifying spacecraft material, while other agencies, including the military, had responsibilities for security and recovery. If an object or fragments had been retrieved after the fireball, records of technical analysis would be exactly the kind of material researchers would expect to matter.
 
-Kean’s 2003 FOIA request therefore did not simply ask for a general search of the word “Kecksburg”. The court record says she requested documents relating to Kecksburg, the 9 December 1965 incident, the Fragology Files for 1962 to 1967, Richard M. Schulherr, Project Moon Dust, and Cosmos 96. Those terms show the logic of the search: Kecksburg was being treated as a possible overlap between a local incident, a Soviet-spacecraft hypothesis, and government systems for tracking or analysing fallen space objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/nasa/USCOURTS-dcd-1_03-cv-02509-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+Kean’s 2003 FOIA request therefore did not simply ask for a general search of the word “Kecksburg”. The court record says she requested documents relating to Kecksburg, the 9 December 1965 incident, the Fragology Files for 1962 to 1967, Richard M. Schulherr, Project Moon Dust, and Cosmos 96. Those terms show the logic of the search: Kecksburg was being treated as a possible overlap between a local incident, a Soviet-spacecraft hypothesis, and government systems for tracking or analysing fallen space objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/nasa/USCOURTS-dcd-1_03-cv-02509-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
 The records sought can be grouped into three useful categories:
 
@@ -477,11 +477,11 @@ That last category is important because a direct search for “Kecksburg” alon
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_missing_files_e58f73-Illustration-1-dark.svg" | relative_url }}" alt="Missing Files illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_missing_files_e58f73-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_missing_files_e58f73-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Fragology Files Trail
 
-The strongest documentary anchor is the archival reference to NASA accession 255-68A-2062. A 1996 letter from the Washington National Records Center to NASA stated that it could not locate two boxes of records identified as Fragology Files from that accession. The same letter said the boxes had been identified as missing in 1987 and had not been located since. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/nasa/Kecksberg-UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+The strongest documentary anchor is the archival reference to NASA accession 255-68A-2062. A 1996 letter from the Washington National Records Center to NASA stated that it could not locate two boxes of records identified as Fragology Files from that accession. The same letter said the boxes had been identified as missing in 1987 and had not been located since.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/nasa/Kecksberg-UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
-That letter is not proof that the boxes contained anything about Kecksburg. It is proof that a named NASA record set, apparently relevant to space-object recovery and fragment analysis, existed in archival tracking records and could not be produced when sought. The Black Vault’s later archive page summarises the same trail: the transmittal slip and index labelled the material as NASA Fragology Files, described them as space-object recovery and fragment-analysis records, and noted that later efforts failed to locate them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/documentarchive/nasas-fragology-files-space-object-recovery-and-analysis-records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+That letter is not proof that the boxes contained anything about Kecksburg. It is proof that a named NASA record set, apparently relevant to space-object recovery and fragment analysis, existed in archival tracking records and could not be produced when sought. The Black Vault’s later archive page summarises the same trail: the transmittal slip and index labelled the material as NASA Fragology Files, described them as space-object recovery and fragment-analysis records, and noted that later efforts failed to locate them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/documentarchive/nasas-fragology-files-space-object-recovery-and-analysis-records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
-The trail becomes more complicated because of where the records were supposed to be. Earlier accounts treated the boxes as transferred to archival custody and then lost. A later Black Vault summary of a 2021 follow-up says the National Archives search raised the possibility that the records may not have been transferred as previously assumed, or that the accession trail itself was misunderstood. That is a governance problem rather than an evidential breakthrough: either way, the record set cannot currently be used to confirm or disprove a Kecksburg recovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/documentarchive/nasas-fragology-files-space-object-recovery-and-analysis-records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The trail becomes more complicated because of where the records were supposed to be. Earlier accounts treated the boxes as transferred to archival custody and then lost. A later Black Vault summary of a 2021 follow-up says the National Archives search raised the possibility that the records may not have been transferred as previously assumed, or that the accession trail itself was misunderstood. That is a governance problem rather than an evidential breakthrough: either way, the record set cannot currently be used to confirm or disprove a Kecksburg recovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/documentarchive/nasas-fragology-files-space-object-recovery-and-analysis-records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 This distinction matters. “Missing” can mean several different things in a records system: physically misplaced, destroyed under a retention schedule, mislabelled, transferred under the wrong accession, never transferred, or held by a different agency. Each possibility has different implications. A misplaced box suggests archival failure. A destroyed file may be lawful if disposed of under a valid schedule, but it still removes evidence. A misfiled record may yet exist but be practically undiscoverable without the right index term or accession trail.
 
@@ -490,13 +490,13 @@ This distinction matters. “Missing” can mean several different things in a r
 
 ## NASA’s FOIA Searches Became Part of the Evidence
 
-The Kecksburg file dispute became significant because it entered federal court. In March 2007, the United States District Court for the District of Columbia reviewed NASA’s handling of Kean’s FOIA request. The opinion records that NASA admitted its first two searches were inadequate, while arguing that later searches were exhaustive. The court did not accept that NASA had yet met its burden of showing an adequate search. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/nasa/USCOURTS-dcd-1_03-cv-02509-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+The Kecksburg file dispute became significant because it entered federal court. In March 2007, the United States District Court for the District of Columbia reviewed NASA’s handling of Kean’s FOIA request. The opinion records that NASA admitted its first two searches were inadequate, while arguing that later searches were exhaustive. The court did not accept that NASA had yet met its burden of showing an adequate search.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/nasa/USCOURTS-dcd-1_03-cv-02509-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
-The details are revealing. NASA’s first search produced a “no records” response after a limited search through the History Office and UFO files, and the request was not sent to Goddard Space Flight Center despite a recommendation to do so. On appeal, NASA said it would conduct a broader search including all NASA centres and would look for the missing Fragology Files, but the court record says NASA initially failed to act properly on that commitment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/nasa/USCOURTS-dcd-1_03-cv-02509-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+The details are revealing. NASA’s first search produced a “no records” response after a limited search through the History Office and UFO files, and the request was not sent to Goddard Space Flight Center despite a recommendation to do so. On appeal, NASA said it would conduct a broader search including all NASA centres and would look for the missing Fragology Files, but the court record says NASA initially failed to act properly on that commitment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/nasa/USCOURTS-dcd-1_03-cv-02509-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
-The court was especially concerned with documentation. Some NASA centre responses simply asserted that a thorough search had been completed and no responsive records were found. Only one of the ten centre letters specified the databases searched and the [search terms]({{ 'search-terms/' | relative_url }}) used. For a case built around old, scattered, technical records, that lack of detail mattered: the issue was not merely whether NASA said it searched, but whether the agency created a reliable record of where and how it searched. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/nasa/USCOURTS-dcd-1_03-cv-02509-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+The court was especially concerned with documentation. Some NASA centre responses simply asserted that a thorough search had been completed and no responsive records were found. Only one of the ten centre letters specified the databases searched and the [search terms]({{ 'search-terms/' | relative_url }}) used. For a case built around old, scattered, technical records, that lack of detail mattered: the issue was not merely whether NASA said it searched, but whether the agency created a reliable record of where and how it searched.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/nasa/USCOURTS-dcd-1_03-cv-02509-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
-This is why the Kecksburg FOIA case should not be simplified into “NASA lost the UFO files” or “NASA proved nothing happened”. FOIA law usually asks whether an agency conducted a search reasonably calculated to uncover responsive records, not whether it solved the underlying historical event. The Department of Justice’s FOIA guidance explains the general standard in similar terms: an agency’s search must be reasonably calculated to uncover relevant documents, but inability to locate every responsive record does not automatically defeat an otherwise reasonable search. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archives/oip/foia-guide-2004-edition-procedural-requirments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">foia guide 2004 edition procedural requirments</span><span class="citation-popover-snippet">foia guide 2004 edition procedural requirments</span></span></span>
+This is why the Kecksburg FOIA case should not be simplified into “NASA lost the UFO files” or “NASA proved nothing happened”. FOIA law usually asks whether an agency conducted a search reasonably calculated to uncover responsive records, not whether it solved the underlying historical event. The Department of Justice’s FOIA guidance explains the general standard in similar terms: an agency’s search must be reasonably calculated to uncover relevant documents, but inability to locate every responsive record does not automatically defeat an otherwise reasonable search.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archives/oip/foia-guide-2004-edition-procedural-requirments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">foia guide 2004 edition procedural requirments</span><span class="citation-popover-snippet">foia guide 2004 edition procedural requirments</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_missing_files_e58f73-Illustration-2-dark.svg" | relative_url }}" alt="Missing Files illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_missing_files_e58f73-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_missing_files_e58f73-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -504,13 +504,13 @@ This is why the Kecksburg FOIA case should not be simplified into “NASA lost t
 
 The recordkeeping gaps in the Kecksburg trail are not one single missing folder. They form a chain of weak points.
 
-First, there is the missing two-box [Fragology accession]({{ 'fragology-accession/' | relative_url }}). The 1996 archival letter is unusually concrete because it names the accession and says the boxes had been missing since 1987. That gives the missing-record claim a firmer basis than ordinary speculation, but it still does not identify the contents box by box. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/nasa/Kecksberg-UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+First, there is the missing two-box [Fragology accession]({{ 'fragology-accession/' | relative_url }}). The 1996 archival letter is unusually concrete because it names the accession and says the boxes had been missing since 1987. That gives the missing-record claim a firmer basis than ordinary speculation, but it still does not identify the contents box by box.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/nasa/Kecksberg-UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
-Second, there is the inconsistency between NASA’s public explanation and the missing support for it. In 2005 press reporting, NASA representatives said experts had studied fragments and concluded the material was from a [Russian satellite]({{ 'satellite-claim/' | relative_url }}), while also saying the supporting records had been lost. The Associated Press account carried by the Vindicator reported NASA spokesman Dave Steitz saying that experts studied fragments but that the records of what they found were lost. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vindyarchives.com/news/2005/dec/10/southwest-pa-still-seeking-answers-to-65-ufo/?print=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vindyarchives.com">[http://vindyarchives.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vindyarchives.com</span><span class="citation-popover-title">southwest pa still seeking answers to 65 ufo</span><span class="citation-popover-snippet">southwest pa still seeking answers to 65 ufo</span></span></span>
+Second, there is the inconsistency between NASA’s public explanation and the missing support for it. In 2005 press reporting, NASA representatives said experts had studied fragments and concluded the material was from a [Russian satellite]({{ 'satellite-claim/' | relative_url }}), while also saying the supporting records had been lost. The Associated Press account carried by the Vindicator reported NASA spokesman Dave Steitz saying that experts studied fragments but that the records of what they found were lost.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vindyarchives.com/news/2005/dec/10/southwest-pa-still-seeking-answers-to-65-ufo/?print=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vindyarchives.com">[http://vindyarchives.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vindyarchives.com</span><span class="citation-popover-title">southwest pa still seeking answers to 65 ufo</span><span class="citation-popover-snippet">southwest pa still seeking answers to 65 ufo</span></span></span>
 
-Third, there is the court’s concern about search documentation. The 2007 opinion did not say NASA possessed a hidden Kecksburg file. It said NASA had not adequately demonstrated the sufficiency of its searches, and directed the parties to propose search and documentation procedures that would create a proper record for the court. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/nasa/USCOURTS-dcd-1_03-cv-02509-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+Third, there is the court’s concern about search documentation. The 2007 opinion did not say NASA possessed a hidden Kecksburg file. It said NASA had not adequately demonstrated the sufficiency of its searches, and directed the parties to propose search and documentation procedures that would create a proper record for the court.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/nasa/USCOURTS-dcd-1_03-cv-02509-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
-Fourth, later releases did not close the matter. The Black Vault reported in 2021 that NASA released more than 220 pages connected to the Kean v NASA lawsuit, including communications and Project Moon Dust-related material, but also that the Fragology Files themselves remained unfound and that some records had been destroyed under NASA retention schedules. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/documentarchive/nasas-fragology-files-space-object-recovery-and-analysis-records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+Fourth, later releases did not close the matter. The Black Vault reported in 2021 that NASA released more than 220 pages connected to the Kean v NASA lawsuit, including communications and Project Moon Dust-related material, but also that the Fragology Files themselves remained unfound and that some records had been destroyed under NASA retention schedules.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/documentarchive/nasas-fragology-files-space-object-recovery-and-analysis-records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 Together, these gaps create a frustrating but bounded conclusion: there is a genuine document trail showing that relevant categories of records were sought, that a specific Fragology accession could not be located, and that NASA’s early search handling was criticised. There is not a public chain of custody showing a recovered Kecksburg object moving from Pennsylvania into a NASA laboratory.
 
@@ -521,13 +521,13 @@ Together, these gaps create a frustrating but bounded conclusion: there is a gen
 
 The missing files are often treated as if their absence speaks for itself. It does not. Missing records are evidence of a records problem; they are not automatically evidence of what the records would have said.
 
-What the absence **can** show is that the public record is incomplete. The Fragology accession was not a vague rumour: it appears in archival paperwork, and the Washington National Records Center’s 1996 response said two boxes could not be located. The court record also shows that the FOIA search process had serious enough weaknesses for a federal judge to deny NASA summary judgment in part on the adequacy of its searches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/nasa/Kecksberg-UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+What the absence **can** show is that the public record is incomplete. The Fragology accession was not a vague rumour: it appears in archival paperwork, and the Washington National Records Center’s 1996 response said two boxes could not be located. The court record also shows that the FOIA search process had serious enough weaknesses for a federal judge to deny NASA summary judgment in part on the adequacy of its searches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/nasa/Kecksberg-UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
 The absence can also show why Kecksburg remains unusually persistent among UFO cases. Many cases rely mainly on eyewitness testimony. Kecksburg adds a governance layer: an official record search that exposed poor tracking, [missing boxes]({{ 'missing-boxes/' | relative_url }}), and uncertainty about technical debris-analysis files. That does not make [the acorn-shaped-object]({{ 'the-acorn-shaped-object/' | relative_url }}) story true, but it does explain why the case has not been easily retired.
 
 What the absence **cannot** show is that NASA analysed an extraterrestrial craft, that Cosmos 96 definitely caused the incident, or that a particular military object was recovered. Those claims require positive evidence: surviving reports, laboratory findings, photographs with provenance, transport logs, custody forms, or corroborated agency records. Missing files cannot supply those details by implication.
 
-The Cosmos 96 angle illustrates the same caution. NASA and space-tracking records identify Cosmos 96 as a Soviet spacecraft that failed to leave Earth orbit and decayed on 9 December 1965, which makes it an understandable line of inquiry. But the broader scientific literature on the 9 December fireball has also treated the visible event as a meteor-like fireball, and the Cosmos 96 hypothesis has been disputed on timing and trajectory grounds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.n2yo.com/satellite/?s=01742" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: n2yo.com">[N2YO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">n2yo.com</span><span class="citation-popover-snippet">Open source on n2yo.com.</span></span></span>
+The Cosmos 96 angle illustrates the same caution. NASA and space-tracking records identify Cosmos 96 as a Soviet spacecraft that failed to leave Earth orbit and decayed on 9 December 1965, which makes it an understandable line of inquiry. But the broader scientific literature on the 9 December fireball has also treated the visible event as a meteor-like fireball, and the Cosmos 96 hypothesis has been disputed on timing and trajectory grounds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.n2yo.com/satellite/?s=01742" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: n2yo.com">[N2YO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">n2yo.com</span><span class="citation-popover-snippet">Open source on n2yo.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_missing_files_e58f73-Illustration-3-dark.svg" | relative_url }}" alt="Missing Files illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_missing_files_e58f73-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_missing_files_e58f73-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -548,194 +548,194 @@ That is the most useful way to read the Fragology Files today. They are not a hi
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Missing Kecksburg Files Matter. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Missing Kecksburg Files Matter. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Kean led the NASA FOIA effort tied to the missing Kecksburg records and discusses government documentation, transparency, and official in...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Kean led the NASA FOIA effort tied to the missing Kecksburg records and discusses government documentation, transparency, and official in...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides the investigative framework for evaluating witness testimony versus documentary evidence, a central issue in the Kecksburg recor...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the investigative framework for evaluating witness testimony versus documentary evidence, a central issue in the Kecksburg recor...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Offers broader context on unexplained aerial phenomena and how narratives evolve when definitive evidence is incomplete or disputed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers broader context on unexplained aerial phenomena and how narratives evolve when definitive evidence is incomplete or disputed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Focuses on official investigations, recordkeeping, and government handling of unexplained cases, themes directly relevant to missing-file...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official investigations, recordkeeping, and government handling of unexplained cases, themes directly relevant to missing-file...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;"><img src="https://i.ebayimg.com/images/g/vXUAAOSws0FmZ9g7/s-l225.jpg" alt="Listing image for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed"><img src="https://i.ebayimg.com/images/g/1XgAAOSwCRth3c3h/s-l225.jpg" alt="Listing image for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing"><img src="{{ '/assets/images/marketplace-covers/3c730e832354b31bceeb.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed"><img src="https://i.ebayimg.com/images/g/hHEAAOSwEiJmNQYz/s-l225.jpg" alt="Listing image for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing"><img src="{{ '/assets/images/marketplace-covers/0c2eebb918fe7513f183.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="missing-files-why-the-missing-kecksburg-files-matter-kecksburg-ufo-incide-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed"><img src="https://i.ebayimg.com/images/g/-EkAAeSwUARosDVU/s-l225.jpg" alt="Listing image for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-the-missing-kecksburg-files-matter-kecksburg-ufo-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -751,7 +751,7 @@ That is the most useful way to read the Fragology Files today. They are not a hi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -771,7 +771,7 @@ That is the most useful way to read the Fragology Files today. They are not a hi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -803,7 +803,7 @@ That is the most useful way to read the Fragology Files today. They are not a hi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -855,7 +855,7 @@ That is the most useful way to read the Fragology Files today. They are not a hi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -900,7 +900,7 @@ That is the most useful way to read the Fragology Files today. They are not a hi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -941,165 +941,165 @@ That is the most useful way to read the Fragology Files today. They are not a hi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: documents2.theblackvault.com  
    Title: The Black Vault  
-   Link: <a href="https://documents2.theblackvault.com/documents/nasa/USCOURTS-dcd-1_03-cv-02509-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/nasa/USCOURTS-dcd-1_03-cv-02509-1.pdf</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/nasa/USCOURTS-dcd-1_03-cv-02509-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/nasa/USCOURTS-dcd-1_03-cv-02509-1.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: documents2.theblackvault.com  
    Title: The Black Vault  
-   Link: <a href="https://documents2.theblackvault.com/documents/nasa/Kecksberg-UFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/nasa/Kecksberg-UFO.pdf</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/nasa/Kecksberg-UFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/nasa/Kecksberg-UFO.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: justice.gov  
    Title: foia guide 2004 edition procedural requirments  
-   Link: <a href="https://www.justice.gov/archives/oip/foia-guide-2004-edition-procedural-requirments" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archives/oip/foia-guide-2004-edition-procedural-requirments</a>  
+   Link:<a href="https://www.justice.gov/archives/oip/foia-guide-2004-edition-procedural-requirments" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archives/oip/foia-guide-2004-edition-procedural-requirments</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: vindyarchives.com  
    Title: southwest pa still seeking answers to 65 ufo  
-   Link: <a href="https://vindyarchives.com/news/2005/dec/10/southwest-pa-still-seeking-answers-to-65-ufo/?print=" target="_blank" rel="noopener noreferrer nofollow">https://vindyarchives.com/news/2005/dec/10/southwest-pa-still-seeking-answers-to-65-ufo/?print=</a>  
+   Link:<a href="https://vindyarchives.com/news/2005/dec/10/southwest-pa-still-seeking-answers-to-65-ufo/?print=" target="_blank" rel="noopener noreferrer nofollow">https://vindyarchives.com/news/2005/dec/10/southwest-pa-still-seeking-answers-to-65-ufo/?print=</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: n2yo.com  
-   Link: <a href="https://www.n2yo.com/satellite/?s=01742" target="_blank" rel="noopener noreferrer nofollow">https://www.n2yo.com/satellite/?s=01742</a>  
+   Link:<a href="https://www.n2yo.com/satellite/?s=01742" target="_blank" rel="noopener noreferrer nofollow">https://www.n2yo.com/satellite/?s=01742</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/oip/courtdecisions/adequacy-search.html" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/oip/courtdecisions/adequacy-search.html</a>  
+   Link:<a href="https://www.justice.gov/archive/oip/courtdecisions/adequacy-search.html" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/oip/courtdecisions/adequacy-search.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/oip/doj-guide-freedom-information-act-0" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/oip/doj-guide-freedom-information-act-0</a>  
+   Link:<a href="https://www.justice.gov/oip/doj-guide-freedom-information-act-0" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/oip/doj-guide-freedom-information-act-0</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: justice.gov  
    Title: foia guide 2004 edition litigation considerations  
-   Link: <a href="https://www.justice.gov/archives/oip/foia-guide-2004-edition-litigation-considerations" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archives/oip/foia-guide-2004-edition-litigation-considerations</a>  
+   Link:<a href="https://www.justice.gov/archives/oip/foia-guide-2004-edition-litigation-considerations" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archives/oip/foia-guide-2004-edition-litigation-considerations</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/oip/department-justice-freedom-information-act-reference-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/oip/department-justice-freedom-information-act-reference-guide</a>  
+   Link:<a href="https://www.justice.gov/oip/department-justice-freedom-information-act-reference-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/oip/department-justice-freedom-information-act-reference-guide</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: justice.gov  
    Title: procedural requirements final with minor may 2023 update to fn 88  
-   Link: <a href="https://www.justice.gov/d9/pages/attachments/2019/09/04/procedural_requirements_final_with_minor_may_2023_update_to_fn_88.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/d9/pages/attachments/2019/09/04/procedural_requirements_final_with_minor_may_2023_update_to_fn_88.pdf</a>  
+   Link:<a href="https://www.justice.gov/d9/pages/attachments/2019/09/04/procedural_requirements_final_with_minor_may_2023_update_to_fn_88.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/d9/pages/attachments/2019/09/04/procedural_requirements_final_with_minor_may_2023_update_to_fn_88.pdf</a>  
    Published: may 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/oip/foiapost/2012-cd-march.html" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/oip/foiapost/2012-cd-march.html</a>  
+   Link:<a href="https://www.justice.gov/archive/oip/foiapost/2012-cd-march.html" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/oip/foiapost/2012-cd-march.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: war.gov  
    Title: USG UAP D001 Congress WhiteHouse UFO Correspondence 1998  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/USG-UAP-D001_Congress-WhiteHouse-UFO-Correspondence_1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/USG-UAP-D001_Congress-WhiteHouse-UFO-Correspondence_1998.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/USG-UAP-D001_Congress-WhiteHouse-UFO-Correspondence_1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/USG-UAP-D001_Congress-WhiteHouse-UFO-Correspondence_1998.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: foia.gov  
    Title: oip 100621  
-   Link: <a href="https://www.foia.gov/iso/opa/foia/oip-100621.html" target="_blank" rel="noopener noreferrer nofollow">https://www.foia.gov/iso/opa/foia/oip-100621.html</a>  
+   Link:<a href="https://www.foia.gov/iso/opa/foia/oip-100621.html" target="_blank" rel="noopener noreferrer nofollow">https://www.foia.gov/iso/opa/foia/oip-100621.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: foia.gov  
-   Link: <a href="https://www.foia.gov/faq.html" target="_blank" rel="noopener noreferrer nofollow">https://www.foia.gov/faq.html</a>  
+   Link:<a href="https://www.foia.gov/faq.html" target="_blank" rel="noopener noreferrer nofollow">https://www.foia.gov/faq.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: orbitaldebris.jsc.nasa.gov  
    Title: HOOSF 16e  
-   Link: <a href="https://orbitaldebris.jsc.nasa.gov/library/HOOSF_16e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/library/HOOSF_16e.pdf</a>  
+   Link:<a href="https://orbitaldebris.jsc.nasa.gov/library/HOOSF_16e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/library/HOOSF_16e.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/nssdc/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/nssdc/</a>  
+   Link:<a href="https://www.nasa.gov/nssdc/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/nssdc/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/stem-content/nasa-space-science-data-coordinated-archive/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/stem-content/nasa-space-science-data-coordinated-archive/</a>  
+   Link:<a href="https://www.nasa.gov/stem-content/nasa-space-science-data-coordinated-archive/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/stem-content/nasa-space-science-data-coordinated-archive/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: science.gsfc.nasa.gov  
-   Link: <a href="https://science.gsfc.nasa.gov/solarsystem/dataarchives/projects/232/" target="_blank" rel="noopener noreferrer nofollow">https://science.gsfc.nasa.gov/solarsystem/dataarchives/projects/232/</a>  
+   Link:<a href="https://science.gsfc.nasa.gov/solarsystem/dataarchives/projects/232/" target="_blank" rel="noopener noreferrer nofollow">https://science.gsfc.nasa.gov/solarsystem/dataarchives/projects/232/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: foia.wiki  
-   Link: <a href="https://foia.wiki/wiki/Sufficiency_of_an_Agency%27s_Search" target="_blank" rel="noopener noreferrer nofollow">https://foia.wiki/wiki/Sufficiency_of_an_Agency%27s_Search</a>  
+   Link:<a href="https://foia.wiki/wiki/Sufficiency_of_an_Agency%27s_Search" target="_blank" rel="noopener noreferrer nofollow">https://foia.wiki/wiki/Sufficiency_of_an_Agency%27s_Search</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: space.com  
    Title: 7589 case finally closed 1965 pennsylvania ufo mystery  
-   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theblackvault.com  
-   Link: <a href="https://www.theblackvault.com/documentarchive/nasas-fragology-files-space-object-recovery-and-analysis-records/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/nasas-fragology-files-space-object-recovery-and-analysis-records/</a>  
+   Link:<a href="https://www.theblackvault.com/documentarchive/nasas-fragology-files-space-object-recovery-and-analysis-records/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/nasas-fragology-files-space-object-recovery-and-analysis-records/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: documents2.theblackvault.com  
-   Link: <a href="https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: documents2.theblackvault.com  
    Title: Nov132024Hearing Shellenberger2  
-   Link: <a href="https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger2.pdf</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger2.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theblackvault.com  
    Title: the vault files the 1965 kecksburg pennsylvania crash  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/</a>  
+   Link:<a href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: thecoldfile.com  
    Title: 1965 kecksburg  
-   Link: <a href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecoldfile.com/articles/1965-kecksburg/</a>  
+   Link:<a href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecoldfile.com/articles/1965-kecksburg/</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ecEY2xNFzPw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ecEY2xNFzPw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries with Dennis Farina - Season 1 Episode 8...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ecEY2xNFzPw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ecEY2xNFzPw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries with Dennis Farina - Season 1 Episode 8...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: NASA Claim To Have “Lost” Important Wreckage From [The Kecksburg UFO Incident](&#123;&#123; 'the-kecksburg-ufo-incident/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.youtube.com/watch?v=9HZl2Nl1h5U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9HZl2Nl1h5U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Other Roswell: the Kecksburg UFO | Conspiracy (S1, E13)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9HZl2Nl1h5U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9HZl2Nl1h5U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Other Roswell: the Kecksburg UFO | Conspiracy (S1, E13)...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: America's Other Roswell: the Kecksburg UFO | Conspiracy (S1, E13)  
-   Link: <a href="https://www.youtube.com/watch?v=3dHn_VpQhoc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3dHn_VpQhoc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reverse Engineering, Crash Retrievals, and the Pentagon&#x27;s New Files | UAP Gerb...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3dHn_VpQhoc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3dHn_VpQhoc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reverse Engineering, Crash Retrievals, and the Pentagon&#x27;s New Files | UAP Gerb...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Kecksburg UFO Crash: The Untold Story | The Government Lied!  
-   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Claim To Have “Lost” Important Wreckage From The Kecksburg UFO Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Claim To Have “Lost” Important Wreckage From The Kecksburg UFO Incident...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: doi.gov  
-   Link: <a href="https://www.doi.gov/foia/news/guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.doi.gov/foia/news/guidance</a>  
+   Link:<a href="https://www.doi.gov/foia/news/guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.doi.gov/foia/news/guidance</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DR999kqkQZ1/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DR999kqkQZ1/</a>  
+   Link:<a href="https://www.instagram.com/p/DR999kqkQZ1/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DR999kqkQZ1/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ilrc.org  
-   Link: <a href="https://www.ilrc.org/sites/default/files/resources/a_step_by_step_guide_to_completing_foia_requests_with_dhs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ilrc.org/sites/default/files/resources/a_step_by_step_guide_to_completing_foia_requests_with_dhs.pdf</a>  
+   Link:<a href="https://www.ilrc.org/sites/default/files/resources/a_step_by_step_guide_to_completing_foia_requests_with_dhs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ilrc.org/sites/default/files/resources/a_step_by_step_guide_to_completing_foia_requests_with_dhs.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheKenyansWeWant/posts/fred-ngatia-argues-that-one-of-nasas-supporting-documents-was-backdated-in-his-n/1453251528125208/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheKenyansWeWant/posts/fred-ngatia-argues-that-one-of-nasas-supporting-documents-was-backdated-in-his-n/1453251528125208/</a>  
+   Link:<a href="https://www.facebook.com/TheKenyansWeWant/posts/fred-ngatia-argues-that-one-of-nasas-supporting-documents-was-backdated-in-his-n/1453251528125208/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheKenyansWeWant/posts/fred-ngatia-argues-that-one-of-nasas-supporting-documents-was-backdated-in-his-n/1453251528125208/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: foxnews.com  
-   Link: <a href="https://www.foxnews.com/science/is-case-finally-closed-on-65-ufo-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/is-case-finally-closed-on-65-ufo-mystery</a>  
+   Link:<a href="https://www.foxnews.com/science/is-case-finally-closed-on-65-ufo-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/is-case-finally-closed-on-65-ufo-mystery</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-13.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-13.pdf</a>  

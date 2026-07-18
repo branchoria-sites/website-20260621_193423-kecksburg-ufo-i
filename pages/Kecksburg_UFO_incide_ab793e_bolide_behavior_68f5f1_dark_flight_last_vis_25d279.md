@@ -272,27 +272,27 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_dark_fl
 
 ## Introduction
 
-One of the most important facts about meteorite falls is also one of the least intuitive: the glowing fireball usually ends before any surviving fragments reach the ground. After the visible phase stops, any remaining pieces enter what meteor researchers call **dark flight**—a period of non-luminous descent through the lower atmosphere. During this stage, fragments continue falling invisibly, slowed by air resistance and pushed by winds. As a result, the last bright point seen by [witnesses]({{ 'witnesses/' | relative_url }}) is often not the place where material ultimately lands. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.arizona.edu/news/rapid-detection-and-recovery-science-hunting-meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.arizona.edu">[University of Arizona News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.arizona.edu</span><span class="citation-popover-snippet">University of Arizona NewsRapid Detection and Recovery: The Science of Hunting...6 Feb 2018 — The meteor then enters a period known as &quot;...</span></span></span>
+One of the most important facts about meteorite falls is also one of the least intuitive: the glowing fireball usually ends before any surviving fragments reach the ground. After the visible phase stops, any remaining pieces enter what meteor researchers call **dark flight**—a period of non-luminous descent through the lower atmosphere. During this stage, fragments continue falling invisibly, slowed by air resistance and pushed by winds. As a result, the last bright point seen by [witnesses]({{ 'witnesses/' | relative_url }}) is often not the place where material ultimately lands.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.arizona.edu/news/rapid-detection-and-recovery-science-hunting-meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.arizona.edu">[University of Arizona News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.arizona.edu</span><span class="citation-popover-snippet">University of Arizona NewsRapid Detection and Recovery: The Science of Hunting...6 Feb 2018 — The meteor then enters a period known as &quot;...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_dark_flight_last_vis_25d279-Illustration-1-dark.svg" | relative_url }}" alt="Dark Flight illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_dark_flight_last_vis_25d279-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_dark_flight_last_vis_25d279-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This mechanism matters directly to interpretations of the Kecksburg incident. Witnesses who believed the object disappeared behind nearby trees or hills may have been accurately describing where the glow ended, while still being mistaken about where any surviving material, if it existed at all, eventually came down. The distinction helps explain why dramatic reports of a local impact can arise even when scientific reconstructions place the fireball's trajectory elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+This mechanism matters directly to interpretations of the Kecksburg incident. Witnesses who believed the object disappeared behind nearby trees or hills may have been accurately describing where the glow ended, while still being mistaken about where any surviving material, if it existed at all, eventually came down. The distinction helps explain why dramatic reports of a local impact can arise even when scientific reconstructions place the fireball's trajectory elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vkZszbMzl3Q" title="The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer">The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence</a></p><p class="youtube-embed-meta">Channel: Tiffany Bliss</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vkZszbMzl3Q">Open on YouTube</a></p></div></div></div>
 
 ## What Dark Flight Means
 
-A meteor becomes visible because extreme atmospheric friction and compression heat the incoming object and surrounding gases, creating the bright phenomenon known as a fireball or bolide. Eventually the object slows enough that this luminous phase ends. If fragments survive, they do not instantly hit the ground. Instead, they continue descending as ordinary falling bodies. This non-glowing stage is dark flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.arizona.edu/news/rapid-detection-and-recovery-science-hunting-meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.arizona.edu">[University of Arizona News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.arizona.edu</span><span class="citation-popover-snippet">University of Arizona NewsRapid Detection and Recovery: The Science of Hunting...6 Feb 2018 — The meteor then enters a period known as &quot;...</span></span></span>
+A meteor becomes visible because extreme atmospheric friction and compression heat the incoming object and surrounding gases, creating the bright phenomenon known as a fireball or bolide. Eventually the object slows enough that this luminous phase ends. If fragments survive, they do not instantly hit the ground. Instead, they continue descending as ordinary falling bodies. This non-glowing stage is dark flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.arizona.edu/news/rapid-detection-and-recovery-science-hunting-meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.arizona.edu">[University of Arizona News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.arizona.edu</span><span class="citation-popover-snippet">University of Arizona NewsRapid Detection and Recovery: The Science of Hunting...6 Feb 2018 — The meteor then enters a period known as &quot;...</span></span></span>
 
 During dark flight, the fragment's behaviour changes dramatically:
 
 * Its speed falls from cosmic-entry velocities to something closer to terminal velocity.
 * The fragment is no longer producing a bright trail.
 * Atmospheric winds become increasingly important.
-* The path is influenced by fragment size, [shape]({{ 'shape/' | relative_url }}), density, and altitude. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.arizona.edu/news/rapid-detection-and-recovery-science-hunting-meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.arizona.edu">[University of Arizona News+2OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.arizona.edu</span><span class="citation-popover-snippet">University of Arizona NewsRapid Detection and Recovery: The Science of Hunting...6 Feb 2018 — The meteor then enters a period known as &quot;...</span></span></span>
+* The path is influenced by fragment size, [shape]({{ 'shape/' | relative_url }}), density, and altitude.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.arizona.edu/news/rapid-detection-and-recovery-science-hunting-meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.arizona.edu">[arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.arizona.edu</span><span class="citation-popover-snippet">University of Arizona NewsRapid Detection and Recovery: The Science of Hunting...6 Feb 2018 — The meteor then enters a period known as &quot;...</span></span></span>
 
-Modern meteorite recovery programmes routinely model dark flight because observations of the bright phase alone are insufficient to predict where meteorites will be found. Researchers must extend the trajectory beyond the visible endpoint and account for atmospheric conditions before searching the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2108.04397" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Modern meteorite recovery programmes routinely model dark flight because observations of the bright phase alone are insufficient to predict where meteorites will be found. Researchers must extend the trajectory beyond the visible endpoint and account for atmospheric conditions before searching the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2108.04397" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lg1m_PvR55g" title="UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer">UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lg1m_PvR55g">Open on YouTube</a></p></div></div></div>
@@ -301,7 +301,7 @@ Modern meteorite recovery programmes routinely model dark flight because observa
 
 Human observers naturally assume that the place where an object disappears is the place where it lands. For meteors, that assumption is often wrong.
 
-A fireball can extinguish tens of kilometres above the Earth's surface while surviving fragments continue falling for additional minutes. During that time, the fragments are invisible to unaided observers. Someone watching from the ground sees the light end and may conclude that the object struck the terrain beneath that point. In reality, the descent is still continuing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.arizona.edu/news/rapid-detection-and-recovery-science-hunting-meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.arizona.edu">[University of Arizona News+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.arizona.edu</span><span class="citation-popover-snippet">University of Arizona NewsRapid Detection and Recovery: The Science of Hunting...6 Feb 2018 — The meteor then enters a period known as &quot;...</span></span></span>
+A fireball can extinguish tens of kilometres above the Earth's surface while surviving fragments continue falling for additional minutes. During that time, the fragments are invisible to unaided observers. Someone watching from the ground sees the light end and may conclude that the object struck the terrain beneath that point. In reality, the descent is still continuing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.arizona.edu/news/rapid-detection-and-recovery-science-hunting-meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.arizona.edu">[arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.arizona.edu</span><span class="citation-popover-snippet">University of Arizona NewsRapid Detection and Recovery: The Science of Hunting...6 Feb 2018 — The meteor then enters a period known as &quot;...</span></span></span>
 
 This creates a recurring pattern in meteor reports:
 
@@ -315,9 +315,9 @@ This creates a recurring pattern in meteor reports:
 
 </div>
 
-The problem is not necessarily faulty observation. The witness accurately reports where the glow vanished. The mistake lies in equating the end of luminosity with the end of the fall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.arizona.edu/news/rapid-detection-and-recovery-science-hunting-meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.arizona.edu">[University of Arizona News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.arizona.edu</span><span class="citation-popover-snippet">University of Arizona NewsRapid Detection and Recovery: The Science of Hunting...6 Feb 2018 — The meteor then enters a period known as &quot;...</span></span></span>
+The problem is not necessarily faulty observation. The witness accurately reports where the glow vanished. The mistake lies in equating the end of luminosity with the end of the fall.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.arizona.edu/news/rapid-detection-and-recovery-science-hunting-meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.arizona.edu">[University of Arizona News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.arizona.edu</span><span class="citation-popover-snippet">University of Arizona NewsRapid Detection and Recovery: The Science of Hunting...6 Feb 2018 — The meteor then enters a period known as &quot;...</span></span></span>
 
-For events associated with UFO claims, this misunderstanding can become especially important. A brilliant object that appears to descend into nearby woods can create a powerful impression of a crash even when the visible phase actually ended high in the atmosphere. The emotional certainty of the observation does not eliminate the physics of dark flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.arizona.edu/news/rapid-detection-and-recovery-science-hunting-meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.arizona.edu">[University of Arizona News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.arizona.edu</span><span class="citation-popover-snippet">University of Arizona NewsRapid Detection and Recovery: The Science of Hunting...6 Feb 2018 — The meteor then enters a period known as &quot;...</span></span></span>
+For events associated with UFO claims, this misunderstanding can become especially important. A brilliant object that appears to descend into nearby woods can create a powerful impression of a crash even when the visible phase actually ended high in the atmosphere. The emotional certainty of the observation does not eliminate the physics of dark flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.arizona.edu/news/rapid-detection-and-recovery-science-hunting-meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.arizona.edu">[University of Arizona News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.arizona.edu</span><span class="citation-popover-snippet">University of Arizona NewsRapid Detection and Recovery: The Science of Hunting...6 Feb 2018 — The meteor then enters a period known as &quot;...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_dark_flight_last_vis_25d279-Illustration-2-dark.svg" | relative_url }}" alt="Dark Flight illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_dark_flight_last_vis_25d279-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_dark_flight_last_vis_25d279-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -325,223 +325,223 @@ For events associated with UFO claims, this misunderstanding can become especial
 
 Once dark flight begins, atmospheric winds become a dominant factor in determining where fragments eventually land.
 
-Meteorite researchers use the term **strewn field** for the area across which surviving pieces are scattered. The location and shape of that field depend heavily on winds encountered after the luminous phase has ended. Studies of recovered meteorites show that dark-flight drift can move fragments substantial distances from the fireball's visible endpoint. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/mnras/article/503/3/3337/6155056" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicDetermination of strewn fields for meteorite fallsby J Moilanen · 2021 · Cited by 61 — The shape and location of a meteorite...</span></span></span>
+Meteorite researchers use the term **strewn field** for the area across which surviving pieces are scattered. The location and shape of that field depend heavily on winds encountered after the luminous phase has ended. Studies of recovered meteorites show that dark-flight drift can move fragments substantial distances from the fireball's visible endpoint.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/mnras/article/503/3/3337/6155056" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicDetermination of strewn fields for meteorite fallsby J Moilanen · 2021 · Cited by 61 — The shape and location of a meteorite...</span></span></span>
 
 Several factors influence the final landing area:
 
-**Fragment mass.** Larger pieces generally retain momentum better and are less affected by crosswinds than smaller fragments. Smaller fragments can be carried much farther. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/358755684_Dark-flight_Estimates_of_Meteorite_Fall_Positions_Issues_and_a_Case_Study_Using_the_Murrili_Meteorite_Fall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Dark-flight Estimates of Meteorite Fall Positions17 Jan 2026 — This dark-flight modeling is deceptively simple, but the...</span></span></span>
+**Fragment mass.** Larger pieces generally retain momentum better and are less affected by crosswinds than smaller fragments. Smaller fragments can be carried much farther.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/358755684_Dark-flight_Estimates_of_Meteorite_Fall_Positions_Issues_and_a_Case_Study_Using_the_Murrili_Meteorite_Fall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Dark-flight Estimates of Meteorite Fall Positions17 Jan 2026 — This dark-flight modeling is deceptively simple, but the...</span></span></span>
 
-**Altitude of extinction.** If the fireball stops glowing high in the atmosphere, surviving fragments spend more time in dark flight and experience greater wind drift. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.arizona.edu/news/rapid-detection-and-recovery-science-hunting-meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.arizona.edu">[University of Arizona News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.arizona.edu</span><span class="citation-popover-snippet">University of Arizona NewsRapid Detection and Recovery: The Science of Hunting...6 Feb 2018 — The meteor then enters a period known as &quot;...</span></span></span>
+**Altitude of extinction.** If the fireball stops glowing high in the atmosphere, surviving fragments spend more time in dark flight and experience greater wind drift.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.arizona.edu/news/rapid-detection-and-recovery-science-hunting-meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.arizona.edu">[University of Arizona News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.arizona.edu</span><span class="citation-popover-snippet">University of Arizona NewsRapid Detection and Recovery: The Science of Hunting...6 Feb 2018 — The meteor then enters a period known as &quot;...</span></span></span>
 
-**Atmospheric structure.** Wind speed and direction often vary dramatically with altitude. A fragment may encounter several different wind layers before reaching the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/mnras/article/503/3/3337/6155056" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicDetermination of strewn fields for meteorite fallsby J Moilanen · 2021 · Cited by 61 — The shape and location of a meteorite...</span></span></span>
+**Atmospheric structure.** Wind speed and direction often vary dramatically with altitude. A fragment may encounter several different wind layers before reaching the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/mnras/article/503/3/3337/6155056" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicDetermination of strewn fields for meteorite fallsby J Moilanen · 2021 · Cited by 61 — The shape and location of a meteorite...</span></span></span>
 
-**Shape and density.** Recovery studies show that aerodynamic characteristics can noticeably alter predicted fall positions. Even when a fireball is well documented, modelling assumptions about shape can affect where meteorites are expected to land. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2108.04397" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+**Shape and density.** Recovery studies show that aerodynamic characteristics can noticeably alter predicted fall positions. Even when a fireball is well documented, modelling assumptions about shape can affect where meteorites are expected to land.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2108.04397" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-Modern dark-flight simulations sometimes produce curved or elongated strewn fields because winds at different altitudes push fragments in different directions. Researchers have described cases in which strong crosswinds create distinctive displaced fall patterns rather than simple straight-line continuations of the visible trajectory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hou.usra.edu/meetings/lpsc2023/pdf/2527.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hou.usra.edu">[USRA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hou.usra.edu</span><span class="citation-popover-snippet">the jörmungandr dark flight model for meteorite and orbital...Jörmungandr data show that strewn field shapes are dominated by local...</span></span></span>
+Modern dark-flight simulations sometimes produce curved or elongated strewn fields because winds at different altitudes push fragments in different directions. Researchers have described cases in which strong crosswinds create distinctive displaced fall patterns rather than simple straight-line continuations of the visible trajectory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hou.usra.edu/meetings/lpsc2023/pdf/2527.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hou.usra.edu">[USRA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hou.usra.edu</span><span class="citation-popover-snippet">the jörmungandr dark flight model for meteorite and orbital...Jörmungandr data show that strewn field shapes are dominated by local...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rJ3N_kemp5Q" title="How to Get METEOR FLIGHT in Where Winds Meet (Afterglow Quest Guide)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rJ3N_kemp5Q" target="_blank" rel="noopener noreferrer">How to Get METEOR FLIGHT in Where Winds Meet (Afterglow Quest Guide)</a></p><p class="youtube-embed-meta">Channel: TiffyMissWiffy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rJ3N_kemp5Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rJ3N_kemp5Q">Open on YouTube</a></p></div></div></div>
 
 ## What This Means for the Kecksburg Event
 
-The Kecksburg case sits at the intersection of a genuine [regional fireball]({{ 'fireball-map/' | relative_url }}) and local reports of a nearby descent. Scientific analyses conducted after the event reconstructed a trajectory associated with the widely observed fireball over the [Great Lakes]({{ 'great-lakes/' | relative_url }}) region rather than accepting any single witness estimate of where it appeared to come down. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The Kecksburg case sits at the intersection of a genuine [regional fireball]({{ 'fireball-map/' | relative_url }}) and local reports of a nearby descent. Scientific analyses conducted after the event reconstructed a trajectory associated with the widely observed fireball over the [Great Lakes]({{ 'great-lakes/' | relative_url }}) region rather than accepting any single witness estimate of where it appeared to come down.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-Dark flight provides one reason such differences can arise. Even if a fireball produces surviving fragments, the place where observers last see the glow is not automatically the place where material reaches the ground. Any surviving pieces would continue descending invisibly and could be displaced by atmospheric winds before landing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.arizona.edu/news/rapid-detection-and-recovery-science-hunting-meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.arizona.edu">[University of Arizona News+2OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.arizona.edu</span><span class="citation-popover-snippet">University of Arizona NewsRapid Detection and Recovery: The Science of Hunting...6 Feb 2018 — The meteor then enters a period known as &quot;...</span></span></span>
+Dark flight provides one reason such differences can arise. Even if a fireball produces surviving fragments, the place where observers last see the glow is not automatically the place where material reaches the ground. Any surviving pieces would continue descending invisibly and could be displaced by atmospheric winds before landing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.arizona.edu/news/rapid-detection-and-recovery-science-hunting-meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.arizona.edu">[arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.arizona.edu</span><span class="citation-popover-snippet">University of Arizona NewsRapid Detection and Recovery: The Science of Hunting...6 Feb 2018 — The meteor then enters a period known as &quot;...</span></span></span>
 
-This does not prove that meteorites fell near Kecksburg, nor does it resolve competing explanations for the incident. It does, however, explain why eyewitness impressions of a nearby crash should be treated cautiously. In bolide events, the visible ending point is often only the beginning of the final stage of the fall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.arizona.edu/news/rapid-detection-and-recovery-science-hunting-meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.arizona.edu">[University of Arizona News+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.arizona.edu</span><span class="citation-popover-snippet">University of Arizona NewsRapid Detection and Recovery: The Science of Hunting...6 Feb 2018 — The meteor then enters a period known as &quot;...</span></span></span>
+This does not prove that meteorites fell near Kecksburg, nor does it resolve competing explanations for the incident. It does, however, explain why eyewitness impressions of a nearby crash should be treated cautiously. In bolide events, the visible ending point is often only the beginning of the final stage of the fall.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.arizona.edu/news/rapid-detection-and-recovery-science-hunting-meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.arizona.edu">[arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.arizona.edu</span><span class="citation-popover-snippet">University of Arizona NewsRapid Detection and Recovery: The Science of Hunting...6 Feb 2018 — The meteor then enters a period known as &quot;...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_dark_flight_last_vis_25d279-Illustration-3-dark.svg" | relative_url }}" alt="Dark Flight illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_dark_flight_last_vis_25d279-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_bolide_behavior_68f5f1_dark_flight_last_vis_25d279-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Glow Ends Before the Fall. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Glow Ends Before the Fall. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypTvAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rocks from Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypTvAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rocks from Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
+</h4>
+<p class="fr-book-author">By O. Richard Norton</p>
         
-        <p class="fr-book-desc">Directly helps readers understand dark flight and recoveries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly helps readers understand dark flight and recoveries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites and their Parent Planets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pib50AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites and their Parent Planets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites and their Parent Planets">Meteorites and their Parent Planets</a>
-        </h4>
-        <p class="fr-book-author">By Harry Y. McSween</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites and their Parent Planets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pib50AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites and their Parent Planets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites and their Parent Planets">Meteorites and their Parent Planets</a>
+</h4>
+<p class="fr-book-author">By Harry Y. McSween</p>
         
-        <p class="fr-book-desc">Explains atmospheric entry and fragment behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains atmospheric entry and fragment behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rain+Of+Iron+And+Ice+by+John+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rain Of Iron And Ice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=u5ruAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rain Of Iron And Ice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rain+Of+Iron+And+Ice+by+John+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rain Of Iron And Ice">Rain Of Iron And Ice</a>
-        </h4>
-        <p class="fr-book-author">By John S. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rain+Of+Iron+And+Ice+by+John+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rain Of Iron And Ice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=u5ruAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rain Of Iron And Ice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rain+Of+Iron+And+Ice+by+John+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rain Of Iron And Ice">Rain Of Iron And Ice</a>
+</h4>
+<p class="fr-book-author">By John S. Lewis</p>
         
-        <p class="fr-book-desc">Covers meteor falls and impact processes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rain+Of+Iron+And+Ice+by+John+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers meteor falls and impact processes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rain+Of+Iron+And+Ice+by+John+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Science and Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BSAIAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteor Science and Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
-        </h4>
-        <p class="fr-book-author">By Donald William Robert McKinley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Science and Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BSAIAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteor Science and Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
+</h4>
+<p class="fr-book-author">By Donald William Robert McKinley</p>
         
-        <p class="fr-book-desc">Addresses trajectories, atmospheric flight, and observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses trajectories, atmospheric flight, and observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites and their Parent Planets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rain+Of+Iron+And+Ice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rain Of Iron And Ice</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites and their Parent Planets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rain+Of+Iron+And+Ice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rain Of Iron And Ice</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;"><img src="{{ '/assets/images/marketplace-covers/bb1ce154941236052aff.jpg' | relative_url }}" alt="Listing image for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;"><img src="{{ '/assets/images/marketplace-covers/bb1ce154941236052aff.jpg' | relative_url }}" alt="Listing image for Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Kecksburg Acorn UFO Model | 3D Printed 1965 Incident Replica Collectible 4-10&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed"><img src="{{ '/assets/images/marketplace-covers/2d28adb2b053d08362c1.jpg' | relative_url }}" alt="Listing image for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed"><img src="{{ '/assets/images/marketplace-covers/2d28adb2b053d08362c1.jpg' | relative_url }}" alt="Listing image for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed"><img src="{{ '/assets/images/marketplace-covers/e4340afcb137f2bf938a.jpg' | relative_url }}" alt="Listing image for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed"><img src="{{ '/assets/images/marketplace-covers/e4340afcb137f2bf938a.jpg' | relative_url }}" alt="Listing image for UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Kecksburg UFO Crash Acorn 1965 – UAP Model - Spaceship – 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/fd6cb10c53a539320230.jpg' | relative_url }}" alt="Listing image for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/fd6cb10c53a539320230.jpg' | relative_url }}" alt="Listing image for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="dark-flight-why-the-glow-ends-before-the-fall-kecksburg-ufo-incide-kecksburg-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ This does not prove that meteorites fell near Kecksburg, nor does it resolve com
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ This does not prove that meteorites fell near Kecksburg, nor does it resolve com
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ This does not prove that meteorites fell near Kecksburg, nor does it resolve com
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ This does not prove that meteorites fell near Kecksburg, nor does it resolve com
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ This does not prove that meteorites fell near Kecksburg, nor does it resolve com
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,106 +747,106 @@ This does not prove that meteorites fell near Kecksburg, nor does it resolve com
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: news.arizona.edu  
-   Link: <a href="https://news.arizona.edu/news/rapid-detection-and-recovery-science-hunting-meteorites" target="_blank" rel="noopener noreferrer nofollow">https://news.arizona.edu/news/rapid-detection-and-recovery-science-hunting-meteorites</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Arizona NewsRapid Detection and Recovery: The Science of Hunting...6 Feb 2018 — The meteor then enters a period known as &quot;...</p></details>
+   Link:<a href="https://news.arizona.edu/news/rapid-detection-and-recovery-science-hunting-meteorites" target="_blank" rel="noopener noreferrer nofollow">https://news.arizona.edu/news/rapid-detection-and-recovery-science-hunting-meteorites</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Arizona NewsRapid Detection and Recovery: The Science of Hunting...6 Feb 2018 — The meteor then enters a period known as &quot;...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2108.04397" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2108.04397</a>  
+   Link:<a href="https://arxiv.org/abs/2108.04397" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2108.04397</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/mnras/article/503/3/3337/6155056" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/mnras/article/503/3/3337/6155056</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicDetermination of strewn fields for meteorite fallsby J Moilanen · 2021 · Cited by 61 — The shape and location of a meteorite...</p></details>
+   Link:<a href="https://academic.oup.com/mnras/article/503/3/3337/6155056" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/mnras/article/503/3/3337/6155056</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicDetermination of strewn fields for meteorite fallsby J Moilanen · 2021 · Cited by 61 — The shape and location of a meteorite...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/358755684_Dark-flight_Estimates_of_Meteorite_Fall_Positions_Issues_and_a_Case_Study_Using_the_Murrili_Meteorite_Fall" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358755684_Dark-flight_Estimates_of_Meteorite_Fall_Positions_Issues_and_a_Case_Study_Using_the_Murrili_Meteorite_Fall</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Dark-flight Estimates of Meteorite Fall Positions17 Jan 2026 — This dark-flight modeling is deceptively simple, but the...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/358755684_Dark-flight_Estimates_of_Meteorite_Fall_Positions_Issues_and_a_Case_Study_Using_the_Murrili_Meteorite_Fall" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358755684_Dark-flight_Estimates_of_Meteorite_Fall_Positions_Issues_and_a_Case_Study_Using_the_Murrili_Meteorite_Fall</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Dark-flight Estimates of Meteorite Fall Positions17 Jan 2026 — This dark-flight modeling is deceptively simple, but the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hou.usra.edu  
-   Link: <a href="https://www.hou.usra.edu/meetings/lpsc2023/pdf/2527.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hou.usra.edu/meetings/lpsc2023/pdf/2527.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the jörmungandr dark flight model for meteorite and orbital...Jörmungandr data show that strewn field shapes are dominated by local...</p></details>
+   Link:<a href="https://www.hou.usra.edu/meetings/lpsc2023/pdf/2527.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hou.usra.edu/meetings/lpsc2023/pdf/2527.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the jörmungandr dark flight model for meteorite and orbital...Jörmungandr data show that strewn field shapes are dominated by local...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ares.jsc.nasa.gov  
-   Link: <a href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/events/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Falls | Recent EventsThis event was a bright fireball that was accompanied by no reports of sonic [booms](&amp;#123;&amp;#123; &#x27;booms/&#x27; | relative_url &amp;#125;&amp;#125;). This is recorded as American Met...</p></details>
+   Link:<a href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/events/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Falls | Recent EventsThis event was a bright fireball that was accompanied by no reports of sonic [booms](&amp;#123;&amp;#123; &#x27;booms/&#x27; | relative_url &amp;#125;&amp;#125;). This is recorded as American Met...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ares.jsc.nasa.gov  
    Title: meteorite falls  
-   Link: <a href="https://ares.jsc.nasa.gov/meteorite-falls/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FallsAre you curious about locations of recent meteorite fall events? Meteorite Falls, a NASA ARES website, is just the place for you...</p></details>
+   Link:<a href="https://ares.jsc.nasa.gov/meteorite-falls/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FallsAre you curious about locations of recent meteorite fall events? Meteorite Falls, a NASA ARES website, is just the place for you...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyThe American Meteor Society, Ltd. is established to inform, encourage, and support the research activities of peop...</p></details>
+   Link:<a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyThe American Meteor Society, Ltd. is established to inform, encourage, and support the research activities of peop...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: strewnify.com  
-   Link: <a href="https://www.strewnify.com/strewnlab/" target="_blank" rel="noopener noreferrer nofollow">https://www.strewnify.com/strewnlab/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>StrewnLAB SoftwareStrewnLAB is a computer program for predicting meteorite strewn fields, written by Jim Goodall, the President of the Ge...</p></details>
+   Link:<a href="https://www.strewnify.com/strewnlab/" target="_blank" rel="noopener noreferrer nofollow">https://www.strewnify.com/strewnlab/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StrewnLAB SoftwareStrewnLAB is a computer program for predicting meteorite strewn fields, written by Jim Goodall, the President of the Ge...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: astronomy.stackexchange.com  
    Title: how long between the moment a meteor is first visible and the moment a meteorite  
-   Link: <a href="https://astronomy.stackexchange.com/questions/38909/how-long-between-the-moment-a-meteor-is-first-visible-and-the-moment-a-meteorite" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/38909/how-long-between-the-moment-a-meteor-is-first-visible-and-the-moment-a-meteorite</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy Stack ExchangeHow long between the moment a meteor is first visible and...15 Sept 2020 — A meteor is usually only visible for...</p></details>
+   Link:<a href="https://astronomy.stackexchange.com/questions/38909/how-long-between-the-moment-a-meteor-is-first-visible-and-the-moment-a-meteorite" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/38909/how-long-between-the-moment-a-meteor-is-first-visible-and-the-moment-a-meteorite</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy Stack ExchangeHow long between the moment a meteor is first visible and...15 Sept 2020 — A meteor is usually only visible for...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: Today I learned of the Kecksburg, PA UFO incident where local  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 6, 2017 — I learned of the Kecksburg, PA UFO incident where local witnesses actually saw the unidentified object up close before US...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 6, 2017 — I learned of the Kecksburg, PA UFO incident where local witnesses actually saw the unidentified object up close before US...</p></details>
    Published: June 6, 2017  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: roadunraveled.com  
    Title: The Kecksburg UFO Crash and the Roswell of Pennsylvania  
-   Link: <a href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2020 — A raging fireball was reportedly seen falling from the sky before finally crash landing in the woods near the small tow...</p></details>
+   Link:<a href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2020 — A raging fireball was reportedly seen falling from the sky before finally crash landing in the woods near the small tow...</p></details>
    Published: October 1, 2020  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence  
-   Link: <a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished...August 25, 2025 — reported a glowing fireball, strange military activity, a...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished...August 25, 2025 — reported a glowing fireball, strange military activity, a...</p></details>
    Published: August 25, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel  
-   Link: <a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lg1m_PvR55g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteors: Crash Course Astronomy #23 breaks down the physical properties of meteoroids as they transition through Earth&#x27;s atmosphere, expl...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lg1m_PvR55g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteors: Crash Course Astronomy #23 breaks down the physical properties of meteoroids as they transition through Earth&#x27;s atmosphere, expl...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: What Really Came Down In The Woods Near Kecksburg  
-   Link: <a href="https://www.facebook.com/Abovethenormnews/videos/-what-really-came-down-in-the-woods-near-kecksburg-thousands-witnessed-a-blazing/1541462657445303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/videos/-what-really-came-down-in-the-woods-near-kecksburg-thousands-witnessed-a-blazing/1541462657445303/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 10, 2026 — This was not a local event. Thousands of people across North America had witnessed the same object crossing the e...</p></details>
+   Link:<a href="https://www.facebook.com/Abovethenormnews/videos/-what-really-came-down-in-the-woods-near-kecksburg-thousands-witnessed-a-blazing/1541462657445303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/videos/-what-really-came-down-in-the-woods-near-kecksburg-thousands-witnessed-a-blazing/1541462657445303/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 10, 2026 — This was not a local event. Thousands of people across North America had witnessed the same object crossing the e...</p></details>
    Published: June 10, 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: Kecksburg's UFO Acorn: A Pennsylvania [Landmark](&#123;&#123; 'landmark/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-[landmarks" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-[landmarks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 25, 2026 — Many in the region saw the fireball that tore across the sky that night, with some near Kecksburg claiming to have...</p></details>
+   Link:<a href="https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-[landmarks" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-[landmarks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 25, 2026 — Many in the region saw the fireball that tore across the sky that night, with some near Kecksburg claiming to have...</p></details>
    Published: May 25, 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWHV2A-hSrP/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWHV2A-hSrP/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>just metal, but it turned out to be a rare find from the asteroid...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWHV2A-hSrP/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWHV2A-hSrP/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>just metal, but it turned out to be a rare find from the asteroid...</p></details>

@@ -458,9 +458,9 @@ That gap matters because later Kecksburg accounts often add details that were no
 
 ## What the first reports actually captured
 
-The most quoted early item is the Greensburg Tribune-Review county edition of 10 December 1965. Its visible front-page headline described an “Unidentified Flying Object” falling near Kecksburg, with the subheading “Army Ropes Off Area”. The article’s opening described an object “possibly the same one reported seen streaking across seven northeastern states and Canada” as having fallen in a secluded wooded area near Kecksburg, and said the place where it had reportedly landed was sealed off on the order of US Army and State Police officials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://priory-of-sion.com/biblios/links/tribune.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: priory-of-sion.com">[priory-of-sion.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">priory-of-sion.com</span><span class="citation-popover-snippet">Open source on priory-of-sion.com.</span></span></span>
+The most quoted early item is the Greensburg Tribune-Review county edition of 10 December 1965. Its visible front-page headline described an “Unidentified Flying Object” falling near Kecksburg, with the subheading “Army Ropes Off Area”. The article’s opening described an object “possibly the same one reported seen streaking across seven northeastern states and Canada” as having fallen in a secluded wooded area near Kecksburg, and said the place where it had reportedly landed was sealed off on the order of US Army and State Police officials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://priory-of-sion.com/biblios/links/tribune.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: priory-of-sion.com">[priory-of-sion.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">priory-of-sion.com</span><span class="citation-popover-snippet">Open source on priory-of-sion.com.</span></span></span>
 
-That wording is striking because it does two things at once. It uses cautious language — “unidentified”, “possibly”, “whatever may have fallen” — but it also describes concrete official activity: an area being roped off, police and army involvement, and expectations that specialists would inspect the site. A later summary of the same Tribune-Review reporting notes that the paper said officials sealed the area for a “close inspection”, quoted a radar-team spokesman as saying, “We don’t know what we have yet,” and reported that reporter Robert Gatty was told no one was being allowed near the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
+That wording is striking because it does two things at once. It uses cautious language — “unidentified”, “possibly”, “whatever may have fallen” — but it also describes concrete official activity: an area being roped off, police and army involvement, and expectations that specialists would inspect the site. A later summary of the same Tribune-Review reporting notes that the paper said officials sealed the area for a “close inspection”, quoted a radar-team spokesman as saying, “We don’t know what we have yet,” and reported that reporter Robert Gatty was told no one was being allowed near the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
 
 This is why the first newspaper account became so important to the Kecksburg story. It did not merely say residents saw a light in the sky. It placed the drama on the ground, in a specific wooded area, with police, army personnel, roadblocks, and local curiosity converging on the scene. For later researchers and believers, that early wording became evidence that authorities initially behaved as though a physical object might exist.
 
@@ -470,15 +470,15 @@ At the same time, the article’s language was not a verified recovery report. I
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_early_newspapers_e36aa7-Illustration-1-dark.svg" | relative_url }}" alt="Newspapers illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_early_newspapers_e36aa7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_early_newspapers_e36aa7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The “nothing found” version arrived almost immediately
 
-The contradiction did not appear decades later; it was present from the start. Early follow-up reporting said that the search had failed. Enigma Labs’ sourced summary of the early press notes that the search was reportedly called off at about 1 a.m. on 10 December, while the Beaver County Times account included a state trooper’s comment that there was “definitely something down there” and described later observers seeing a brief [blue light]({{ 'blue-light/' | relative_url }}) in the woods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
+The contradiction did not appear decades later; it was present from the start. Early follow-up reporting said that the search had failed. Enigma Labs’ sourced summary of the early press notes that the search was reportedly called off at about 1 a.m. on 10 December, while the Beaver County Times account included a state trooper’s comment that there was “definitely something down there” and described later observers seeing a brief [blue light]({{ 'blue-light/' | relative_url }}) in the woods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
 
-But the official line moved towards “nothing found”. A Project [Blue Book memo]({{ 'blue-book-memo/' | relative_url }}), summarised from the Air Force case file, stated that men from the Oakdale Radar Site helped the State Highway Patrol search near Kecksburg until about 2 a.m. and were unsuccessful in finding the object. The same memo said the object had been visually reported, was not picked up by radar, and that Major Hector Quintanilla advised the Pentagon it was acceptable to call it a meteor, while the investigation was still under way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
+But the official line moved towards “nothing found”. A Project [Blue Book memo]({{ 'blue-book-memo/' | relative_url }}), summarised from the Air Force case file, stated that men from the Oakdale Radar Site helped the State Highway Patrol search near Kecksburg until about 2 a.m. and were unsuccessful in finding the object. The same memo said the object had been visually reported, was not picked up by radar, and that Major Hector Quintanilla advised the Pentagon it was acceptable to call it a meteor, while the investigation was still under way.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
 
 This created a layered contradiction rather than a simple yes-or-no dispute:
 
-* **The scene was treated seriously enough to draw official searchers.** Contemporary reporting described army and police activity, roadblocks, and restricted access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://priory-of-sion.com/biblios/links/tribune.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: priory-of-sion.com">[priory-of-sion.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">priory-of-sion.com</span><span class="citation-popover-snippet">Open source on priory-of-sion.com.</span></span></span>
-* **Officials later said the search had failed.** Air Force-linked records and press accounts reported that searchers were unable to find the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
-* **Some [witnesses]({{ 'witnesses/' | relative_url }}) and later local accounts remembered a stronger recovery story.** Those later accounts describe military control, possible lorries, and an object removed from the area, but those details are not established in the same way by the first newspaper report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wtae.com/article/kecksburg-ufo-pennsylvania-4-the-record/69631280" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wtae.com">[WTAE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wtae.com</span><span class="citation-popover-title">UFO in Kecksburg, Pennsylvania is a 60-year mystery</span><span class="citation-popover-snippet">UFO in Kecksburg, Pennsylvania is a 60-year mystery</span></span></span>
+* **The scene was treated seriously enough to draw official searchers.** Contemporary reporting described army and police activity, roadblocks, and restricted access.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://priory-of-sion.com/biblios/links/tribune.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: priory-of-sion.com">[priory-of-sion.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">priory-of-sion.com</span><span class="citation-popover-snippet">Open source on priory-of-sion.com.</span></span></span>
+* **Officials later said the search had failed.** Air Force-linked records and press accounts reported that searchers were unable to find the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
+* **Some [witnesses]({{ 'witnesses/' | relative_url }}) and later local accounts remembered a stronger recovery story.** Those later accounts describe military control, possible lorries, and an object removed from the area, but those details are not established in the same way by the first newspaper report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wtae.com/article/kecksburg-ufo-pennsylvania-4-the-record/69631280" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wtae.com">[WTAE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wtae.com</span><span class="citation-popover-title">UFO in Kecksburg, Pennsylvania is a 60-year mystery</span><span class="citation-popover-snippet">UFO in Kecksburg, Pennsylvania is a 60-year mystery</span></span></span>
 
 The early contradiction therefore sits at the boundary between documented response and disputed recovery. The press shows that something unusual was being searched for; it does not, by itself, settle whether anything was found.
 
@@ -489,9 +489,9 @@ The early contradiction therefore sits at the boundary between documented respon
 
 Part of the confusion came from the different roles being played by different officials. Local police and searchers were responding to reports of a possible crash, possibly a downed aircraft or dangerous debris. The military and Project Blue Book were trying to classify a widely seen aerial event. Newspapers, meanwhile, were trying to report a fast-moving story before the facts had settled.
 
-The Air Force context is important. Project Blue Book was the official US Air Force programme for investigating UFO reports from 1947 to 1969, and its records were later transferred to the National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> The Air Force’s later general position was that Blue Book found no evidence that UFO reports represented extraterrestrial vehicles or technology beyond known science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> That does not decide the Kecksburg case by itself, but it explains why the official machinery was oriented towards classification and closure.
+The Air Force context is important. Project Blue Book was the official US Air Force programme for investigating UFO reports from 1947 to 1969, and its records were later transferred to the National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> The Air Force’s later general position was that Blue Book found no evidence that UFO reports represented extraterrestrial vehicles or technology beyond known science.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> That does not decide the Kecksburg case by itself, but it explains why the official machinery was oriented towards classification and closure.
 
-The Kecksburg memo’s phrasing is revealing. Saying the team was “unsuccessful in finding the object” is not the same as saying no one had reason to search. Saying it was acceptable to call the event a meteor while the investigation was still continuing also leaves room for public certainty to arrive before every local question was resolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
+The Kecksburg memo’s phrasing is revealing. Saying the team was “unsuccessful in finding the object” is not the same as saying no one had reason to search. Saying it was acceptable to call the event a meteor while the investigation was still continuing also leaves room for public certainty to arrive before every local question was resolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
 
 That sequence helps explain why the story remained controversial. To sceptics, the early official conclusion looks like a normal response to a meteor fireball: reports came in, police searched where locals thought something had landed, and nothing was found. To proponents of a recovery story, the same sequence looks suspicious: officials acted as if something was present, restricted access, then quickly denied finding anything.
 
@@ -499,9 +499,9 @@ That sequence helps explain why the story remained controversial. To sceptics, t
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_early_newspapers_e36aa7-Illustration-2-dark.svg" | relative_url }}" alt="Newspapers illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_early_newspapers_e36aa7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_early_newspapers_e36aa7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The fireball reports were wider than Kecksburg
 
-A major reason early press accounts should be read carefully is that Kecksburg was only one node in a much wider event. Reports of the fireball came from multiple states and Canada. Enigma Labs’ summary of the early press record notes reports from Pennsylvania, Indiana, Ohio, Michigan, West Virginia, New York, and Canadian observers, including pilots and witnesses who thought they saw falling debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
+A major reason early press accounts should be read carefully is that Kecksburg was only one node in a much wider event. Reports of the fireball came from multiple states and Canada. Enigma Labs’ summary of the early press record notes reports from Pennsylvania, Indiana, Ohio, Michigan, West Virginia, New York, and Canadian observers, including pilots and witnesses who thought they saw falling debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
 
-That wider pattern makes a meteor or bolide explanation plausible for the sky event, even if it does not automatically explain every Kecksburg ground claim. Early speculation included a meteor, a test rocket over Lake Erie, and other possibilities; Coast Guard and Air Force officials reportedly denied that a rocket launch explained the sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
+That wider pattern makes a meteor or bolide explanation plausible for the sky event, even if it does not automatically explain every Kecksburg ground claim. Early speculation included a meteor, a test rocket over Lake Erie, and other possibilities; Coast Guard and Air Force officials reportedly denied that a rocket launch explained the sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
 
 Newspapers therefore had to compress several events into one developing story: a [regional fireball]({{ 'fireball-map/' | relative_url }}), local reports of a fall near Kecksburg, [emergency response]({{ 'search-response/' | relative_url }}), possible fires or debris elsewhere, and official pressure to identify the phenomenon quickly. That compression is one reason headlines can feel more definitive than the body text. A dramatic headline may say a UFO fell near Kecksburg, while the article underneath still contains uncertainty about what, if anything, was actually found.
 
@@ -510,7 +510,7 @@ Newspapers therefore had to compress several events into one developing story: a
 
 ## Why the early wording still matters
 
-The early newspaper record matters because it anchors the case before later embellishment. It shows that the Kecksburg story did not begin solely as a 1990s television legend or as a retrospective [UFO festival]({{ 'ufo-festival/' | relative_url }}) narrative. There really were immediate reports of a fireball, a local search, official presence, and restricted access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://priory-of-sion.com/biblios/links/tribune.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: priory-of-sion.com">[priory-of-sion.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">priory-of-sion.com</span><span class="citation-popover-snippet">Open source on priory-of-sion.com.</span></span></span>
+The early newspaper record matters because it anchors the case before later embellishment. It shows that the Kecksburg story did not begin solely as a 1990s television legend or as a retrospective [UFO festival]({{ 'ufo-festival/' | relative_url }}) narrative. There really were immediate reports of a fireball, a local search, official presence, and restricted access.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://priory-of-sion.com/biblios/links/tribune.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: priory-of-sion.com">[priory-of-sion.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">priory-of-sion.com</span><span class="citation-popover-snippet">Open source on priory-of-sion.com.</span></span></span>
 
 It also matters because the wording shows how quickly uncertainty hardened into competing narratives. “Army ropes off area” supports the view that authorities treated the location as important. “Searchers fail to find object” supports the view that the response produced no physical discovery. Neither phrase alone is enough. The evidence lies in the tension between them.
 
@@ -522,194 +522,194 @@ The most defensible conclusion is narrower: the first press accounts show a real
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_early_newspapers_e36aa7-Illustration-3-dark.svg" | relative_url }}" alt="Newspapers illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_early_newspapers_e36aa7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_early_newspapers_e36aa7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Early Reports Actually Say?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Early Reports Actually Say?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e9NaAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
-        </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e9NaAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
+</h4>
+<p class="fr-book-author">By Brad Steiger</p>
         
-        <p class="fr-book-desc">Provides context for official handling of UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for official handling of UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Useful background for evaluating early official statements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful background for evaluating early official statements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines how reports evolve from initial sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how reports evolve from initial sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Places newspaper reporting within broader institutional history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places newspaper reporting within broader institutional history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift"><img src="{{ '/assets/images/marketplace-covers/e3822e61b859bc0e7376.jpg' | relative_url }}" alt="Listing image for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift"><img src="{{ '/assets/images/marketplace-covers/e3822e61b859bc0e7376.jpg' | relative_url }}" alt="Listing image for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="newspapers-what-did-early-reports-actually-say-kecksburg-ufo-incide-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -725,7 +725,7 @@ The most defensible conclusion is narrower: the first press accounts show a real
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -745,7 +745,7 @@ The most defensible conclusion is narrower: the first press accounts show a real
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -777,7 +777,7 @@ The most defensible conclusion is narrower: the first press accounts show a real
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -829,7 +829,7 @@ The most defensible conclusion is narrower: the first press accounts show a real
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -874,7 +874,7 @@ The most defensible conclusion is narrower: the first press accounts show a real
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -915,110 +915,110 @@ The most defensible conclusion is narrower: the first press accounts show a real
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: priory-of-sion.com  
-   Link: <a href="https://priory-of-sion.com/biblios/links/tribune.pdf" target="_blank" rel="noopener noreferrer nofollow">https://priory-of-sion.com/biblios/links/tribune.pdf</a>  
+   Link:<a href="https://priory-of-sion.com/biblios/links/tribune.pdf" target="_blank" rel="noopener noreferrer nofollow">https://priory-of-sion.com/biblios/links/tribune.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: enigmalabs.io  
    Title: Enigma Labs | Report a UFO sighting Kecksburg Incident | Enigma Labs  
-   Link: <a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
+   Link:<a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wtae.com  
    Title: UFO in Kecksburg, Pennsylvania is a 60-year mystery  
-   Link: <a href="https://www.wtae.com/article/kecksburg-ufo-pennsylvania-4-the-record/69631280" target="_blank" rel="noopener noreferrer nofollow">https://www.wtae.com/article/kecksburg-ufo-pennsylvania-4-the-record/69631280</a>  
+   Link:<a href="https://www.wtae.com/article/kecksburg-ufo-pennsylvania-4-the-record/69631280" target="_blank" rel="noopener noreferrer nofollow">https://www.wtae.com/article/kecksburg-ufo-pennsylvania-4-the-record/69631280</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: newspapers.com  
    Title: the spokesman review 12101965 kecksb  
-   Link: <a href="https://www.newspapers.com/article/the-spokesman-review-12101965-kecksb/47002415/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/the-spokesman-review-12101965-kecksb/47002415/</a>  
+   Link:<a href="https://www.newspapers.com/article/the-spokesman-review-12101965-kecksb/47002415/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/the-spokesman-review-12101965-kecksb/47002415/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: unsolved.com  
    Title: Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pennsylvania.fandom.com  
-   Link: <a href="https://pennsylvania.fandom.com/wiki/Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://pennsylvania.fandom.com/wiki/Kecksburg</a>  
+   Link:<a href="https://pennsylvania.fandom.com/wiki/Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://pennsylvania.fandom.com/wiki/Kecksburg</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: d20advanced.fandom.com  
-   Link: <a href="https://d20advanced.fandom.com/wiki/Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://d20advanced.fandom.com/wiki/Kecksburg</a>  
+   Link:<a href="https://d20advanced.fandom.com/wiki/Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://d20advanced.fandom.com/wiki/Kecksburg</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HX_RrO7ZQaU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HX_RrO7ZQaU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=HX_RrO7ZQaU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HX_RrO7ZQaU</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theclio.com  
    Title: Kecksburg UFO Incident  
-   Link: <a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
+   Link:<a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/story?id=3785376&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/story?id=3785376&amp;page=1</a>  
+   Link:<a href="https://abcnews.com/Technology/story?id=3785376&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/story?id=3785376&amp;page=1</a>  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel  
-   Link: <a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lg1m_PvR55g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Kecksburg UFO Case: Finally Solved After 60 Years?[https://www.youtube.com/watch?v=3Ka9dOx7ZWY...&quot;](https://www.youtube.com/watch?v=3Ka9dOx7ZWY...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lg1m_PvR55g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Kecksburg UFO Case: Finally Solved After 60 Years?[https://www.youtube.com/watch?v=3Ka9dOx7ZWY...&quot;](https://www.youtube.com/watch?v=3Ka9dOx7ZWY...&quot;)...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Real UFO? The "Space Acorn" of Kecksburg Pennsylvania  
-   Link: <a href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lsHWrkQWiQs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lsHWrkQWiQs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: post-gazette.com  
-   Link: <a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
+   Link:<a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DMRXk3muHJx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMRXk3muHJx/</a>  
+   Link:<a href="https://www.instagram.com/reel/DMRXk3muHJx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMRXk3muHJx/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MichellewRIGHTNOW/videos/here-is-the-story-i-did-on-the-60th-anniversary-of-the-kecksburg-ufo-we-still-ha/1801184087506632/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/videos/here-is-the-story-i-did-on-the-60th-anniversary-of-the-kecksburg-ufo-we-still-ha/1801184087506632/</a>  
+   Link:<a href="https://www.facebook.com/MichellewRIGHTNOW/videos/here-is-the-story-i-did-on-the-60th-anniversary-of-the-kecksburg-ufo-we-still-ha/1801184087506632/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/videos/here-is-the-story-i-did-on-the-60th-anniversary-of-the-kecksburg-ufo-we-still-ha/1801184087506632/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: spacepage.be  
-   Link: <a href="https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/het-kecksburg-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/het-kecksburg-ufo-incident.html</a>  
+   Link:<a href="https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/het-kecksburg-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/het-kecksburg-ufo-incident.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/pennsylvaniaphotos/posts/3965626140374425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/pennsylvaniaphotos/posts/3965626140374425/</a>  
+   Link:<a href="https://www.facebook.com/groups/pennsylvaniaphotos/posts/3965626140374425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/pennsylvaniaphotos/posts/3965626140374425/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
+   Link:<a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: phillyvoice.com  
-   Link: <a href="https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/</a>  
+   Link:<a href="https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.phillyvoice.com/disclosure-day-ufo-encounters-kecksburg-pennsylvania/</a>  

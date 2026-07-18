@@ -274,7 +274,7 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_reentry_vehicle_69783c_traject
 
 ## Introduction
 
-The central weakness in the classified re-entry vehicle explanation for the Kecksburg incident is not the existence of secret Cold War hardware. It is the flight path. The widely observed fireball of 9 December 1965 was analysed by professional astronomers using photographs, witness reports and seismographic timing data. Their reconstruction placed the object on a steep trajectory across the [Great Lakes]({{ 'great-lakes/' | relative_url }}) region, ending near or beyond western Lake Erie rather than in western Pennsylvania. If that reconstruction is substantially correct, then the famous Kecksburg recovery story and the [regional fireball]({{ 'fireball-map/' | relative_url }}) were not the same event. Any classified-vehicle theory must therefore explain why a supposed recovered object was reported in Pennsylvania while the best scientific tracking points elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The central weakness in the classified re-entry vehicle explanation for the Kecksburg incident is not the existence of secret Cold War hardware. It is the flight path. The widely observed fireball of 9 December 1965 was analysed by professional astronomers using photographs, witness reports and seismographic timing data. Their reconstruction placed the object on a steep trajectory across the [Great Lakes]({{ 'great-lakes/' | relative_url }}) region, ending near or beyond western Lake Erie rather than in western Pennsylvania. If that reconstruction is substantially correct, then the famous Kecksburg recovery story and the [regional fireball]({{ 'fireball-map/' | relative_url }}) were not the same event. Any classified-vehicle theory must therefore explain why a supposed recovered object was reported in Pennsylvania while the best scientific tracking points elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_reentry_vehicle_69783c_trajectory_gap_13581d-Illustration-1-dark.svg" | relative_url }}" alt="Trajectory Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_reentry_vehicle_69783c_trajectory_gap_13581d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_reentry_vehicle_69783c_trajectory_gap_13581d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -286,11 +286,11 @@ This does not automatically disprove every recovery claim. It does, however, cre
 
 ### What the Great Lakes fireball evidence suggests
 
-The strongest scientific reconstruction came from work published in the *Journal of the Royal Astronomical Society of Canada* in 1967. Investigators used photographs of the fireball's persistent trail taken from separate locations north of Detroit and combined them with [timing]({{ 'timing/' | relative_url }}) information from a seismographic record. Their analysis concluded that the object travelled on a steep southwest-to-northeast path and likely terminated near the north-western shore of Lake Erie around the Windsor, Ontario region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The strongest scientific reconstruction came from work published in the *Journal of the Royal Astronomical Society of Canada* in 1967. Investigators used photographs of the fireball's persistent trail taken from separate locations north of Detroit and combined them with [timing]({{ 'timing/' | relative_url }}) information from a seismographic record. Their analysis concluded that the object travelled on a steep southwest-to-northeast path and likely terminated near the north-western shore of Lake Erie around the Windsor, Ontario region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-That conclusion matters because it was based on physical measurements rather than later recollections. The photographs allowed [triangulation]({{ 'triangulation/' | relative_url }}) of the trail's position in the sky, while the seismograph provided an independent timing reference. Together, these data suggested a path that does not naturally intersect the wooded area near Kecksburg, roughly 200 kilometres to the south-east. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+That conclusion matters because it was based on physical measurements rather than later recollections. The photographs allowed [triangulation]({{ 'triangulation/' | relative_url }}) of the trail's position in the sky, while the seismograph provided an independent timing reference. Together, these data suggested a path that does not naturally intersect the wooded area near Kecksburg, roughly 200 kilometres to the south-east.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-Contemporary astronomical reporting pointed in a similar direction. Early summaries in *Sky & Telescope* described the fireball's track as extending across the Detroit–Windsor area and ending in or near western Lake Erie. Reports of scattered metallic debris and fireball-related phenomena were concentrated in Michigan and northern Ohio, consistent with a broad Great Lakes event rather than a localised Pennsylvania impact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Contemporary astronomical reporting pointed in a similar direction. Early summaries in *Sky & Telescope* described the fireball's track as extending across the Detroit–Windsor area and ending in or near western Lake Erie. Reports of scattered metallic debris and fireball-related phenomena were concentrated in Michigan and northern Ohio, consistent with a broad Great Lakes event rather than a localised Pennsylvania impact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 For advocates of a classified [re-entry]({{ 're-entry/' | relative_url }}) vehicle, this creates a straightforward problem: if the luminous object witnessed across multiple states ended near Lake Erie, it cannot simultaneously have crashed intact in the Kecksburg woods.
 
@@ -299,7 +299,7 @@ For advocates of a classified [re-entry]({{ 're-entry/' | relative_url }}) vehic
 
 ### Why Kecksburg is hard to fit
 
-The classified-vehicle theory generally begins with reports from Kecksburg itself: [witnesses]({{ 'witnesses/' | relative_url }}) describing smoke in the woods, local searches, military activity and later stories of an acorn-shaped object being removed. The difficulty is that these claims emerge from a location that the principal trajectory studies place outside the fireball's likely terminal path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The classified-vehicle theory generally begins with reports from Kecksburg itself: [witnesses]({{ 'witnesses/' | relative_url }}) describing smoke in the woods, local searches, military activity and later stories of an acorn-shaped object being removed. The difficulty is that these claims emerge from a location that the principal trajectory studies place outside the fireball's likely terminal path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 This forces the theory into one of three positions:
 
@@ -312,9 +312,9 @@ This forces the theory into one of three positions:
 
 </div>
 
-Each explanation carries costs. Rejecting the trajectory analysis means overturning the most systematic dataset available. Proposing two separate events requires explaining why reports became linked almost immediately. Suggesting an unconventional flight path demands evidence that a vehicle survived and altered course in a manner not reflected in the observational record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Each explanation carries costs. Rejecting the trajectory analysis means overturning the most systematic dataset available. Proposing two separate events requires explaining why reports became linked almost immediately. Suggesting an unconventional flight path demands evidence that a vehicle survived and altered course in a manner not reflected in the observational record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-The challenge is particularly acute for the General Electric Mark 2 re-entry vehicle hypothesis. A Mark 2-type object might fit some later descriptions of [shape]({{ 'shape/' | relative_url }}) and construction, but shape similarity does not solve the trajectory discrepancy. The path still has to connect the observed fireball to Kecksburg. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post-gazette.com">[Pittsburgh Post-Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post-gazette.com</span><span class="citation-popover-snippet">Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — The unidentified flying object that came down Dec...</span></span></span>
+The challenge is particularly acute for the General Electric Mark 2 re-entry vehicle hypothesis. A Mark 2-type object might fit some later descriptions of [shape]({{ 'shape/' | relative_url }}) and construction, but shape similarity does not solve the trajectory discrepancy. The path still has to connect the observed fireball to Kecksburg.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post-gazette.com">[Pittsburgh Post-Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post-gazette.com</span><span class="citation-popover-snippet">Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — The unidentified flying object that came down Dec...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lg1m_PvR55g" title="UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer">UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lg1m_PvR55g">Open on YouTube</a></p></div></div></div>
@@ -323,207 +323,207 @@ The challenge is particularly acute for the General Electric Mark 2 re-entry veh
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_reentry_vehicle_69783c_trajectory_gap_13581d-Illustration-2-dark.svg" | relative_url }}" alt="Trajectory Gap illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_reentry_vehicle_69783c_trajectory_gap_13581d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_reentry_vehicle_69783c_trajectory_gap_13581d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Coincidence versus Incomplete Tracking
 
-The most plausible defence of the classified-vehicle theory is not that the trajectory evidence does not exist, but that it may be incomplete. Fireball reconstructions from the 1960s relied on relatively sparse observational networks. Investigators did not have modern all-sky camera arrays, satellite tracking databases, or automated meteor detection systems. Consequently, some uncertainty remains around precise altitude, speed and endpoint estimates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pabook.libraries.psu.edu">[Pittsburgh Anthology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pabook.libraries.psu.edu</span><span class="citation-popover-snippet">Pittsburgh AnthologyAcorn from Space: The Kecksburg IncidentTrajectory analysis of the fireball deemed Kecksburg an impossible landing sp...</span></span></span>
+The most plausible defence of the classified-vehicle theory is not that the trajectory evidence does not exist, but that it may be incomplete. Fireball reconstructions from the 1960s relied on relatively sparse observational networks. Investigators did not have modern all-sky camera arrays, satellite tracking databases, or automated meteor detection systems. Consequently, some uncertainty remains around precise altitude, speed and endpoint estimates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pabook.libraries.psu.edu">[Pittsburgh Anthology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pabook.libraries.psu.edu</span><span class="citation-popover-snippet">Pittsburgh AnthologyAcorn from Space: The Kecksburg IncidentTrajectory analysis of the fireball deemed Kecksburg an impossible landing sp...</span></span></span>
 
-Yet uncertainty is not the same as support for a Pennsylvania recovery. The available scientific studies generally shift the endpoint within the Great Lakes region rather than toward Kecksburg. Even critics of the original calculations typically focus on margins of error rather than producing a well-supported trajectory that terminates in western Pennsylvania. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pabook.libraries.psu.edu">[Pittsburgh Anthology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pabook.libraries.psu.edu</span><span class="citation-popover-snippet">Pittsburgh AnthologyAcorn from Space: The Kecksburg IncidentTrajectory analysis of the fireball deemed Kecksburg an impossible landing sp...</span></span></span>
+Yet uncertainty is not the same as support for a Pennsylvania recovery. The available scientific studies generally shift the endpoint within the Great Lakes region rather than toward Kecksburg. Even critics of the original calculations typically focus on margins of error rather than producing a well-supported trajectory that terminates in western Pennsylvania.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pabook.libraries.psu.edu">[Pittsburgh Anthology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pabook.libraries.psu.edu</span><span class="citation-popover-snippet">Pittsburgh AnthologyAcorn from Space: The Kecksburg IncidentTrajectory analysis of the fireball deemed Kecksburg an impossible landing sp...</span></span></span>
 
-This leaves the classified-re-entry interpretation with a dilemma. The local recovery narrative gains strength from reports of military involvement and persistent witness testimony. The regional fireball gains strength from measurable physical evidence and contemporaneous scientific analysis. The two bodies of evidence do not fit together comfortably. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">states and Canada reported a bright fireball on December 9, 1965. Residents in Kecksburg, PA reported...Read more...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
+This leaves the classified-re-entry interpretation with a dilemma. The local recovery narrative gains strength from reports of military involvement and persistent witness testimony. The regional fireball gains strength from measurable physical evidence and contemporaneous scientific analysis. The two bodies of evidence do not fit together comfortably.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">states and Canada reported a bright fireball on December 9, 1965. Residents in Kecksburg, PA reported...Read more...</span><span class="citation-popover-meta">Published: December 9, 1965</span></span></span>
 
-For that reason, the trajectory issue remains one of the most important critiques of any claim that a classified vehicle came down at Kecksburg. Before questions of secrecy, cover-ups or recovered hardware can be resolved, the theory must first bridge the gap between a fireball apparently ending near Lake Erie and a recovery story centred in rural Pennsylvania. Until that gap is convincingly closed, the flight path remains one of the strongest obstacles facing the classified re-entry vehicle explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Astronomy UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+For that reason, the trajectory issue remains one of the most important critiques of any claim that a classified vehicle came down at Kecksburg. Before questions of secrecy, cover-ups or recovered hardware can be resolved, the theory must first bridge the gap between a fireball apparently ending near Lake Erie and a recovery story centred in rural Pennsylvania. Until that gap is convincingly closed, the flight path remains one of the strongest obstacles facing the classified re-entry vehicle explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ac3hYt3k-Eo" title="The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer">The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 149.6K &middot; Uploaded: July 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ac3hYt3k-Eo">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Flight Path Problem for Kecksburg. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Flight Path Problem for Kecksburg. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores official responses, military records, and evidential disputes that parallel debates over the Kecksburg recovery story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores official responses, military records, and evidential disputes that parallel debates over the Kecksburg recovery story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides the broader scientific and investigative framework needed to assess disputed sightings and evidence chains such as Kecksburg.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the broader scientific and investigative framework needed to assess disputed sightings and evidence chains such as Kecksburg.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides historical context on how military investigations handled unexplained aerial events, informing evaluation of secrecy and evidenc...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context on how military investigations handled unexplained aerial events, informing evaluation of secrecy and evidenc...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Top+Secret%2FMajic+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Top Secret/Majic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=at2_S8JV96cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Top Secret/Majic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Top+Secret%2FMajic+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Top Secret/Majic">Top Secret/Majic</a>
-        </h4>
-        <p class="fr-book-author">By Stanton T. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Top+Secret%2FMajic+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Top Secret/Majic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=at2_S8JV96cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Top Secret/Majic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Top+Secret%2FMajic+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Top Secret/Majic">Top Secret/Majic</a>
+</h4>
+<p class="fr-book-author">By Stanton T. Friedman</p>
         
-        <p class="fr-book-desc">Useful for readers comparing claims of military recovery operations and secrecy with the arguments made about Kecksburg.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Top+Secret%2FMajic+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for readers comparing claims of military recovery operations and secrecy with the arguments made about Kecksburg.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Top+Secret%2FMajic+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BSA WESTMORELAND FAYETTE OA WAGION 6 2023 JAMBOREE 2-PATCH KECKSBURG UFO ALIEN"><img src="{{ '/assets/images/marketplace-covers/80f03e2530527080e0dd.jpg' | relative_url }}" alt="Listing image for BSA WESTMORELAND FAYETTE OA WAGION 6 2023 JAMBOREE 2-PATCH KECKSBURG UFO ALIEN" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">BSA WESTMORELAND FAYETTE OA WAGION 6 2023 JAMBOREE 2-PATCH KECKSBURG UFO ALIEN</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BSA WESTMORELAND FAYETTE OA WAGION 6 2023 JAMBOREE 2-PATCH KECKSBURG UFO ALIEN"><img src="{{ '/assets/images/marketplace-covers/80f03e2530527080e0dd.jpg' | relative_url }}" alt="Listing image for BSA WESTMORELAND FAYETTE OA WAGION 6 2023 JAMBOREE 2-PATCH KECKSBURG UFO ALIEN" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">BSA WESTMORELAND FAYETTE OA WAGION 6 2023 JAMBOREE 2-PATCH KECKSBURG UFO ALIEN</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Kecksburg UFO 10” Shoulder Mount Base 7.5” Unique Alien"><img src="{{ '/assets/images/marketplace-covers/46d74cc16f9dbf62a2c3.jpg' | relative_url }}" alt="Listing image for Roswell Kecksburg UFO 10” Shoulder Mount Base 7.5” Unique Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell Kecksburg UFO 10” Shoulder Mount Base 7.5” Unique Alien</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Kecksburg UFO 10” Shoulder Mount Base 7.5” Unique Alien"><img src="{{ '/assets/images/marketplace-covers/46d74cc16f9dbf62a2c3.jpg' | relative_url }}" alt="Listing image for Roswell Kecksburg UFO 10” Shoulder Mount Base 7.5” Unique Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell Kecksburg UFO 10” Shoulder Mount Base 7.5” Unique Alien</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/fd6cb10c53a539320230.jpg' | relative_url }}" alt="Listing image for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/fd6cb10c53a539320230.jpg' | relative_url }}" alt="Listing image for UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Model - Kecksburg UFO - Geek Gift / UFO / UAP / 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed"><img src="{{ '/assets/images/marketplace-covers/2d28adb2b053d08362c1.jpg' | relative_url }}" alt="Listing image for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed"><img src="{{ '/assets/images/marketplace-covers/2d28adb2b053d08362c1.jpg' | relative_url }}" alt="Listing image for Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Kecksburg &#x27;Acorn&#x27; UFO Model - Retro / Sci Fi / Geek Gift -3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO collectible" data-ebay-reference="trajectory-gap-the-flight-path-problem-for-kecksburg-kecksburg-ufo-incide-kecksburg-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ For that reason, the trajectory issue remains one of the most important critique
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ For that reason, the trajectory issue remains one of the most important critique
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ For that reason, the trajectory issue remains one of the most important critique
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ For that reason, the trajectory issue remains one of the most important critique
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ For that reason, the trajectory issue remains one of the most important critique
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,110 +729,110 @@ For that reason, the trajectory issue remains one of the most important critique
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: post-gazette.com  
-   Link: <a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — The unidentified flying object that came down Dec...</p></details>
+   Link:<a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pittsburgh Post-GazetteFive decades later, the Kecksburg UFO is identified...5 Dec 2015 — The unidentified flying object that came down Dec...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://it.wikipedia.org/wiki/T%C3%A8" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/T%C3%A8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TèIl tè (con grafia meno corretta the o thè) è una bevanda originaria della civiltà cinese, consistente in un infuso o decotto ricavat...</p></details>
+   Link:<a href="https://it.wikipedia.org/wiki/T%C3%A8" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/T%C3%A8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TèIl tè (con grafia meno corretta the o thè) è una bevanda originaria della civiltà cinese, consistente in un infuso o decotto ricavat...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: astronomyufo.com  
    Title: SUNlite3 6  
-   Link: <a href="https://www.astronomyufo.com/UFO/SUNlite3_6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/SUNlite3_6.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SUNlite18 Sept 2011 — All the data indicates the fireball&#x27;s trajec- tory ended up on the northern shore of. Lake Erie and did not end nea...</p></details>
+   Link:<a href="https://www.astronomyufo.com/UFO/SUNlite3_6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/SUNlite3_6.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SUNlite18 Sept 2011 — All the data indicates the fireball&#x27;s trajec- tory ended up on the northern shore of. Lake Erie and did not end nea...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pabook.libraries.psu.edu  
-   Link: <a href="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident" target="_blank" rel="noopener noreferrer nofollow">https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pittsburgh AnthologyAcorn from Space: The Kecksburg IncidentTrajectory analysis of the fireball deemed Kecksburg an impossible landing sp...</p></details>
+   Link:<a href="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident" target="_blank" rel="noopener noreferrer nofollow">https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pittsburgh AnthologyAcorn from Space: The Kecksburg IncidentTrajectory analysis of the fireball deemed Kecksburg an impossible landing sp...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theblackvault.com  
    Title: the vault files the 1965 kecksburg pennsylvania crash  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>states and Canada reported a bright fireball on December 9, 1965. Residents in Kecksburg, PA reported...Read more...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>states and Canada reported a bright fireball on December 9, 1965. Residents in Kecksburg, PA reported...Read more...</p></details>
    Published: December 9, 1965  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thecoldfile.com  
    Title: 1965 kecksburg  
-   Link: <a href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecoldfile.com/articles/1965-kecksburg/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Acorn in the Woods: The 1965 Kecksburg Incident25 May 2026 — The astronomers who looked at it called it what it appeared to be: a nat...</p></details>
+   Link:<a href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecoldfile.com/articles/1965-kecksburg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Acorn in the Woods: The 1965 Kecksburg Incident25 May 2026 — The astronomers who looked at it called it what it appeared to be: a nat...</p></details>
    Published: May 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/story?id=3785376&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/story?id=3785376&amp;page=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to search files for UFO incident27 Oct 2007 — The government has refused to open its files about what, if anything, moved across the...</p></details>
+   Link:<a href="https://abcnews.com/Technology/story?id=3785376&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/story?id=3785376&amp;page=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to search files for UFO incident27 Oct 2007 — The government has refused to open its files about what, if anything, moved across the...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg IncidentAt approximately 4:45 p.m. on the afternoon of December 9, 1965, several reports of a “fireball” streaking through the...</p></details>
+   Link:<a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg IncidentAt approximately 4:45 p.m. on the afternoon of December 9, 1965, several reports of a “fireball” streaking through the...</p></details>
    Published: December 9, 1965  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lflank.wordpress.com  
    Title: pennsylvanias roswell the kecksburg flying saucer  
-   Link: <a href="https://lflank.wordpress.com/2015/12/08/pennsylvanias-roswell-the-kecksburg-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://lflank.wordpress.com/2015/12/08/pennsylvanias-roswell-the-kecksburg-flying-saucer/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wordpress.comPennsylvania&#x27;s “Roswell”: The Kecksburg Flying Saucer8 Dec 2015 — Using photographs taken of the meteor by witnesses, they w...</p></details>
+   Link:<a href="https://lflank.wordpress.com/2015/12/08/pennsylvanias-roswell-the-kecksburg-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://lflank.wordpress.com/2015/12/08/pennsylvanias-roswell-the-kecksburg-flying-saucer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wordpress.comPennsylvania&#x27;s “Roswell”: The Kecksburg Flying Saucer8 Dec 2015 — Using photographs taken of the meteor by witnesses, they w...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: basementofthebizarre.com  
    Title: kecksburg ufo incident 1965 mystery  
-   Link: <a href="https://basementofthebizarre.com/2026/06/04/kecksburg-ufo-incident-1965-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://basementofthebizarre.com/2026/06/04/kecksburg-ufo-incident-1965-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg Incident: Pennsylvania&#x27;s “Area 51” Moment4 Jun 2026 — On the evening of December 9, 1965, a fireball streaked across the sk...</p></details>
+   Link:<a href="https://basementofthebizarre.com/2026/06/04/kecksburg-ufo-incident-1965-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://basementofthebizarre.com/2026/06/04/kecksburg-ufo-incident-1965-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg Incident: Pennsylvania&#x27;s “Area 51” Moment4 Jun 2026 — On the evening of December 9, 1965, a fireball streaked across the sk...</p></details>
    Published: December 9, 1965  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: discoveryuk.com  
    Title: [the kecksburg ufo incident](&#123;&#123; 'the-kecksburg-ufo-incident/' | relative_url &#125;&#125;) a cold war mystery  
-   Link: <a href="https://www.discoveryuk.com/mysteries/the-kecksburg-ufo-incident-a-cold-war-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-kecksburg-ufo-incident-a-cold-war-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As the Cold War simmered, a ball of fire tore through the darkening sky, its trajectory forever changing that...Read more...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/the-kecksburg-ufo-incident-a-cold-war-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-kecksburg-ufo-incident-a-cold-war-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As the Cold War simmered, a ball of fire tore through the darkening sky, its trajectory forever changing that...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>40 miles southeast of downtown Pittsburgh.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>40 miles southeast of downtown Pittsburgh.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: roadunraveled.com  
    Title: kecksburg ufo crash pennsylvania  
-   Link: <a href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Crash and the Roswell of Pennsylvania1 Oct 2020 — A raging fireball was reportedly seen falling from the sky before fin...</p></details>
+   Link:<a href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Crash and the Roswell of Pennsylvania1 Oct 2020 — A raging fireball was reportedly seen falling from the sky before fin...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aol.com  
    Title: dec 9 1965 night sky 112913215  
-   Link: <a href="https://www.aol.com/articles/dec-9-1965-night-sky-112913215.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/dec-9-1965-night-sky-112913215.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the fireball was a meteor that disintegrated over Lake Erie. No debris was officially recovered or confirmed. However, astronomical analy...</p></details>
+   Link:<a href="https://www.aol.com/articles/dec-9-1965-night-sky-112913215.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/dec-9-1965-night-sky-112913215.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the fireball was a meteor that disintegrated over Lake Erie. No debris was officially recovered or confirmed. However, astronomical analy...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: spacepage.be  
    Title: het kecksburg ufo incident  
-   Link: <a href="https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/het-kecksburg-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/het-kecksburg-ufo-incident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>de nacht dat een klein...Op 9 december 1965 werd door duizenden inwoners boven zes staten van de Verenigde Staten een gigantische vuurba...</p></details>
+   Link:<a href="https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/het-kecksburg-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/het-kecksburg-ufo-incident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>de nacht dat een klein...Op 9 december 1965 werd door duizenden inwoners boven zes staten van de Verenigde Staten een gigantische vuurba...</p></details>
    Published: december 1965  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: insightobservatory.com  
    Title: the great fireball of 1966  
-   Link: <a href="https://www.insightobservatory.com/2014/07/the-great-fireball-of-1966.html" target="_blank" rel="noopener noreferrer nofollow">https://www.insightobservatory.com/2014/07/the-great-fireball-of-1966.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Jul 2014 — The mega ball of fire shot past us on a north east trajectory and directly behind it was a trail of fire the likes you may h...</p></details>
+   Link:<a href="https://www.insightobservatory.com/2014/07/the-great-fireball-of-1966.html" target="_blank" rel="noopener noreferrer nofollow">https://www.insightobservatory.com/2014/07/the-great-fireball-of-1966.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Jul 2014 — The mega ball of fire shot past us on a north east trajectory and directly behind it was a trail of fire the likes you may h...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: positivelypittsburgh.com  
-   Link: <a href="https://positivelypittsburgh.com/the-kecksburg-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/the-kecksburg-ufo-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO IncidentOn the evening of December 9, 1965, in the small town of Kecksburg, PA, a fireball tore through the sky and cra...</p></details>
+   Link:<a href="https://positivelypittsburgh.com/the-kecksburg-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/the-kecksburg-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO IncidentOn the evening of December 9, 1965, in the small town of Kecksburg, PA, a fireball tore through the sky and cra...</p></details>
    Published: December 9, 1965  

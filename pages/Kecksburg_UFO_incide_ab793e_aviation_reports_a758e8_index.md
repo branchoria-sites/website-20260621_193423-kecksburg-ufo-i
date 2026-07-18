@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e-aviation/
 description: Focused pages that expand on Aviation.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8
 parent_title: Aviation
@@ -16,7 +16,7 @@ parent_permalink: /aviation/
 
 # Explore Topics in Aviation
 
-The following pages expand on the main **[Aviation]({{ '/aviation/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Aviation]({{ '/aviation/' | relative_url }})** page and cover its key branches in.
 
 - [Cold War Alarm]({{ '/cold-war-alarm/' | relative_url }})
 - [Fireball Path]({{ '/fireball-path/' | relative_url }})

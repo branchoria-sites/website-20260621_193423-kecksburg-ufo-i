@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e-ufo/
 description: Focused pages that expand on Landmark.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_ufo_tourism_ac097c
 parent_title: Landmark
@@ -16,7 +16,7 @@ parent_permalink: /landmark/
 
 # Explore Topics in Landmark
 
-The following pages expand on the main **[Landmark]({{ '/landmark/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Landmark]({{ '/landmark/' | relative_url }})** page and cover its key branches in.
 
 - [Open Mystery]({{ '/open-mystery/' | relative_url }})
 - [Roswell Contrast]({{ '/roswell-contrast/' | relative_url }})

@@ -280,25 +280,25 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_unsolved_mysteries_i_e933ac_tv
 
 ## Introduction
 
-The most important question about the Kecksburg “Space Acorn” is not whether television invented the story, but whether television changed how people remembered it. In the years after *Unsolved Mysteries* broadcast its reconstruction of the alleged object, the acorn-shaped craft became the dominant visual symbol of the case. For many [witnesses]({{ 'witnesses/' | relative_url }}), residents and later enthusiasts, that image provided a concrete way to imagine an event that had originally been fragmented, uncertain and described through scattered recollections. The result offers a useful example of how media can [shape]({{ 'shape/' | relative_url }}) collective memory without necessarily proving or disproving what happened. The Kecksburg incident became not only a debate about an object in the woods, but also a debate about the image through which people remembered that object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThousands see a UFO in the sky above Kecksburg, Pennsylvania. A ball of light streaki...</span></span></span>
+The most important question about the Kecksburg “Space Acorn” is not whether television invented the story, but whether television changed how people remembered it. In the years after *Unsolved Mysteries* broadcast its reconstruction of the alleged object, the acorn-shaped craft became the dominant visual symbol of the case. For many [witnesses]({{ 'witnesses/' | relative_url }}), residents and later enthusiasts, that image provided a concrete way to imagine an event that had originally been fragmented, uncertain and described through scattered recollections. The result offers a useful example of how media can [shape]({{ 'shape/' | relative_url }}) collective memory without necessarily proving or disproving what happened. The Kecksburg incident became not only a debate about an object in the woods, but also a debate about the image through which people remembered that object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThousands see a UFO in the sky above Kecksburg, Pennsylvania. A ball of light streaki...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_unsolved_mysteries_i_e933ac_tv_memory_effects_3db434-Illustration-1-dark.svg" | relative_url }}" alt="Memory Effects illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_unsolved_mysteries_i_e933ac_tv_memory_effects_3db434-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_unsolved_mysteries_i_e933ac_tv_memory_effects_3db434-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Can TV Change a UFO Memory?
 
-Memory researchers have long distinguished between remembering an event and remembering later information about that event. One influential concept is **source monitoring**: the ability to identify where a memory came from. People often remember a detail clearly while becoming less certain whether it came from direct experience, conversation, photographs, television or imagination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlineacademiccommunity.uvic.ca/lindsaylab/wp-content/uploads/sites/4861/2020/10/Lindsay-SM-Chap-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlineacademiccommunity.uvic.ca">[Online Academic Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlineacademiccommunity.uvic.ca</span><span class="citation-popover-title">The eyewitness suggestibility effect and memory for source. Memory and.Read more</span><span class="citation-popover-snippet">Online Academic CommunityMemory Source Monitoring AppliedFebruary 22, 2018 — Memory impairment and source misattribution in postevent mis...</span><span class="citation-popover-meta">Published: February 22, 2018</span></span></span>
+Memory researchers have long distinguished between remembering an event and remembering later information about that event. One influential concept is **source monitoring**: the ability to identify where a memory came from. People often remember a detail clearly while becoming less certain whether it came from direct experience, conversation, photographs, television or imagination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlineacademiccommunity.uvic.ca/lindsaylab/wp-content/uploads/sites/4861/2020/10/Lindsay-SM-Chap-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlineacademiccommunity.uvic.ca">[Online Academic Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlineacademiccommunity.uvic.ca</span><span class="citation-popover-title">The eyewitness suggestibility effect and memory for source. Memory and.Read more</span><span class="citation-popover-snippet">Online Academic CommunityMemory Source Monitoring AppliedFebruary 22, 2018 — Memory impairment and source misattribution in postevent mis...</span><span class="citation-popover-meta">Published: February 22, 2018</span></span></span>
 
-The Kecksburg case presents exactly the sort of environment in which source-monitoring problems can emerge. Many years passed between the 1965 incident and the widely viewed television reconstruction. During those years witnesses spoke with neighbours, encountered newspaper stories, heard competing explanations and revisited the event repeatedly. When *Unsolved Mysteries* transformed verbal descriptions into a physical object on screen, viewers received a vivid visual reference that could later become intertwined with older memories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThousands see a UFO in the sky above Kecksburg, Pennsylvania. A ball of light streaki...</span></span></span>
+The Kecksburg case presents exactly the sort of environment in which source-monitoring problems can emerge. Many years passed between the 1965 incident and the widely viewed television reconstruction. During those years witnesses spoke with neighbours, encountered newspaper stories, heard competing explanations and revisited the event repeatedly. When *Unsolved Mysteries* transformed verbal descriptions into a physical object on screen, viewers received a vivid visual reference that could later become intertwined with older memories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThousands see a UFO in the sky above Kecksburg, Pennsylvania. A ball of light streaki...</span></span></span>
 
-Importantly, this does not mean witnesses invented their experiences. Rather, memory research suggests that later images can influence how earlier experiences are organised, recalled and described. The issue is not simple falsification but the blending of original recollections with subsequent representations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://memlab.yale.edu/sites/default/files/files/2000_Lindsay_Johnson_LID.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memlab.yale.edu">[Memory and Cognition Lab+2EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memlab.yale.edu</span><span class="citation-popover-title">2000 Lindsay Johnson LID</span><span class="citation-popover-snippet">Memory and Cognition LabFalse memories and the source monitoring framework Reply...by DS Lindsaya · 2000 · Cited by 145 — The present pa...</span></span></span>
+Importantly, this does not mean witnesses invented their experiences. Rather, memory research suggests that later images can influence how earlier experiences are organised, recalled and described. The issue is not simple falsification but the blending of original recollections with subsequent representations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://memlab.yale.edu/sites/default/files/files/2000_Lindsay_Johnson_LID.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memlab.yale.edu">[yale.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memlab.yale.edu</span><span class="citation-popover-title">2000 Lindsay Johnson LID</span><span class="citation-popover-snippet">Memory and Cognition LabFalse memories and the source monitoring framework Reply...by DS Lindsaya · 2000 · Cited by 145 — The present pa...</span></span></span>
 
 ## Why Dramatic Reconstructions Stick
 
 Television reconstructions are designed to be memorable. They convert uncertain testimony into visible scenes, giving audiences a shape, colour, scale and setting that can be recalled long after specific verbal details are forgotten.
 
-In Kecksburg, witness descriptions recorded in later accounts commonly emphasised several distinctive features: an acorn-like outline, metallic appearance and unusual [markings]({{ 'markings/' | relative_url }}). These details gave television producers enough material to create a striking prop rather than a generic flying saucer. Once viewers saw the reconstructed object, they no longer had to imagine what an “acorn-shaped craft” might look like. Television supplied the image. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries+2Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThousands see a UFO in the sky above Kecksburg, Pennsylvania. A ball of light streaki...</span></span></span>
+In Kecksburg, witness descriptions recorded in later accounts commonly emphasised several distinctive features: an acorn-like outline, metallic appearance and unusual [markings]({{ 'markings/' | relative_url }}). These details gave television producers enough material to create a striking prop rather than a generic flying saucer. Once viewers saw the reconstructed object, they no longer had to imagine what an “acorn-shaped craft” might look like. Television supplied the image.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[unsolved.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThousands see a UFO in the sky above Kecksburg, Pennsylvania. A ball of light streaki...</span></span></span>
 
-Memory studies show that vivid imagery can strengthen recollection and make remembered material feel more familiar and more confidently held. Research on source monitoring also suggests that highly visual mental representations can make it harder to distinguish between something personally observed and something encountered later through another medium. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/8467368/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Imagery ability and source monitoring: implications for...by M Dobson · 1993 · Cited by 169 — The present study investigated the e...</span></span></span>
+Memory studies show that vivid imagery can strengthen recollection and make remembered material feel more familiar and more confidently held. Research on source monitoring also suggests that highly visual mental representations can make it harder to distinguish between something personally observed and something encountered later through another medium.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/8467368/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Imagery ability and source monitoring: implications for...by M Dobson · 1993 · Cited by 169 — The present study investigated the e...</span></span></span>
 
 The acorn reconstruction therefore possessed two qualities that make memories durable:
 
@@ -314,11 +314,11 @@ Those qualities help explain why the acorn image became more culturally durable 
 
 One reason Kecksburg remains interesting is that witnesses and researchers often disagree not only about what happened but also about what was originally reported.
 
-Memory scholars describe a process in which later information can become incorporated into recollections of an earlier event. People may sincerely remember a detail while becoming uncertain whether they saw it themselves, heard it from another witness or encountered it in later media coverage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlineacademiccommunity.uvic.ca/lindsaylab/wp-content/uploads/sites/4861/2020/10/Lindsay-SM-Chap-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlineacademiccommunity.uvic.ca">[Online Academic Community+2EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlineacademiccommunity.uvic.ca</span><span class="citation-popover-title">The eyewitness suggestibility effect and memory for source. Memory and.Read more</span><span class="citation-popover-snippet">Online Academic CommunityMemory Source Monitoring AppliedFebruary 22, 2018 — Memory impairment and source misattribution in postevent mis...</span><span class="citation-popover-meta">Published: February 22, 2018</span></span></span>
+Memory scholars describe a process in which later information can become incorporated into recollections of an earlier event. People may sincerely remember a detail while becoming uncertain whether they saw it themselves, heard it from another witness or encountered it in later media coverage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlineacademiccommunity.uvic.ca/lindsaylab/wp-content/uploads/sites/4861/2020/10/Lindsay-SM-Chap-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlineacademiccommunity.uvic.ca">[uvic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlineacademiccommunity.uvic.ca</span><span class="citation-popover-title">The eyewitness suggestibility effect and memory for source. Memory and.Read more</span><span class="citation-popover-snippet">Online Academic CommunityMemory Source Monitoring AppliedFebruary 22, 2018 — Memory impairment and source misattribution in postevent mis...</span><span class="citation-popover-meta">Published: February 22, 2018</span></span></span>
 
-The long lifespan of the Kecksburg story created ideal conditions for this process. The incident was discussed for decades before many people encountered the televised reconstruction. After the broadcast, discussions increasingly took place in a cultural environment where a standard image existed. Subsequent books, websites, documentaries, [souvenirs]({{ 'souvenirs/' | relative_url }}) and local displays often referred back to that same visual template. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadunraveled.com">[Road Unraveled]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadunraveled.com</span><span class="citation-popover-title">Road Unraveled The Kecksburg UFO Crash and the Roswell of Pennsylvania</span><span class="citation-popover-snippet">Road UnraveledThe Kecksburg UFO Crash and the Roswell of PennsylvaniaOctober 1, 2020 — 1 Oct 2020 — The Kecksburg UFO incident has become...</span><span class="citation-popover-meta">Published: October 1, 2020</span></span></span>
+The long lifespan of the Kecksburg story created ideal conditions for this process. The incident was discussed for decades before many people encountered the televised reconstruction. After the broadcast, discussions increasingly took place in a cultural environment where a standard image existed. Subsequent books, websites, documentaries, [souvenirs]({{ 'souvenirs/' | relative_url }}) and local displays often referred back to that same visual template.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadunraveled.com">[Road Unraveled]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadunraveled.com</span><span class="citation-popover-title">Road Unraveled The Kecksburg UFO Crash and the Roswell of Pennsylvania</span><span class="citation-popover-snippet">Road UnraveledThe Kecksburg UFO Crash and the Roswell of PennsylvaniaOctober 1, 2020 — 1 Oct 2020 — The Kecksburg UFO incident has become...</span><span class="citation-popover-meta">Published: October 1, 2020</span></span></span>
 
-Researchers studying eyewitness conformity have also shown that memories can be influenced by what other people report after an event. When witnesses repeatedly exchange stories, details can spread through a community and become part of a shared narrative even when individuals originally observed different things. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abdn.elsevierpure.com/en/publications/from-the-archive-memory-conformity-can-eyewitnesses-influence-eac/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abdn.elsevierpure.com">[Aberdeen Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abdn.elsevierpure.com</span><span class="citation-popover-title">from the archive memory conformity can eyewitnesses influence eac</span><span class="citation-popover-snippet">Aberdeen Research PortalCan eyewitnesses influence each other&#x27;s memories for an...by F Gabbert · 2011 — This paper established a new dir...</span></span></span>
+Researchers studying eyewitness conformity have also shown that memories can be influenced by what other people report after an event. When witnesses repeatedly exchange stories, details can spread through a community and become part of a shared narrative even when individuals originally observed different things.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abdn.elsevierpure.com/en/publications/from-the-archive-memory-conformity-can-eyewitnesses-influence-eac/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abdn.elsevierpure.com">[Aberdeen Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abdn.elsevierpure.com</span><span class="citation-popover-title">from the archive memory conformity can eyewitnesses influence eac</span><span class="citation-popover-snippet">Aberdeen Research PortalCan eyewitnesses influence each other&#x27;s memories for an...by F Gabbert · 2011 — This paper established a new dir...</span></span></span>
 
 Viewed through that lens, Kecksburg witness culture became a continuing conversation rather than a fixed archive of untouched memories. The television image entered that conversation as a particularly influential reference point.
 
@@ -328,17 +328,17 @@ Viewed through that lens, Kecksburg witness culture became a continuing conversa
 
 A paradox of the Space Acorn is that it simplified the story while simultaneously creating new disagreements.
 
-Before the reconstruction, the mystery involved many uncertainties: where the object landed, what shape it had, whether it was recovered and what witnesses actually saw. After television popularised the acorn image, debates increasingly focused on whether that specific representation was accurate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThousands see a UFO in the sky above Kecksburg, Pennsylvania. A ball of light streaki...</span></span></span>
+Before the reconstruction, the mystery involved many uncertainties: where the object landed, what shape it had, whether it was recovered and what witnesses actually saw. After television popularised the acorn image, debates increasingly focused on whether that specific representation was accurate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThousands see a UFO in the sky above Kecksburg, Pennsylvania. A ball of light streaki...</span></span></span>
 
 This produced two broad camps:
 
 **Those who saw the reconstruction as a reasonable visualisation.**
 
-For these observers, the acorn prop captured recurring witness descriptions and made an otherwise abstract account easier to understand. The image became a shorthand for the incident itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThousands see a UFO in the sky above Kecksburg, Pennsylvania. A ball of light streaki...</span></span></span>
+For these observers, the acorn prop captured recurring witness descriptions and made an otherwise abstract account easier to understand. The image became a shorthand for the incident itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThousands see a UFO in the sky above Kecksburg, Pennsylvania. A ball of light streaki...</span></span></span>
 
 **Those who regarded it as an interpretive overlay.**
 
-Critics argued that a television prop inevitably reflected production choices. Once the reconstruction became famous, they worried that later discussions could become anchored to the television version rather than to the full diversity of witness reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">space acorn</span><span class="citation-popover-snippet">Atlas ObscuraSpace Acorn in Kecksburg3 Jul 2013 — In 1990 the Kecksburg incident attracted the attention of the television show Unsolved...</span></span></span>
+Critics argued that a television prop inevitably reflected production choices. Once the reconstruction became famous, they worried that later discussions could become anchored to the television version rather than to the full diversity of witness reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">space acorn</span><span class="citation-popover-snippet">Atlas ObscuraSpace Acorn in Kecksburg3 Jul 2013 — In 1990 the Kecksburg incident attracted the attention of the television show Unsolved...</span></span></span>
 
 The disagreement was therefore not simply about UFOs. It was about representation: whether a reconstruction helped preserve testimony or subtly reshaped it.
 
@@ -347,9 +347,9 @@ The disagreement was therefore not simply about UFOs. It was about representatio
 
 ## From Television Prop to Community Memory
 
-The memory effects of the reconstruction were amplified because the image did not remain confined to a television broadcast. The life-size replica built for *Unsolved Mysteries* was left in Kecksburg and eventually became a local [landmark]({{ 'landmark/' | relative_url }}). Visitors could see it, photograph it and incorporate it into their understanding of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">space acorn</span><span class="citation-popover-snippet">Atlas ObscuraSpace Acorn in Kecksburg3 Jul 2013 — In 1990 the Kecksburg incident attracted the attention of the television show Unsolved...</span></span></span>
+The memory effects of the reconstruction were amplified because the image did not remain confined to a television broadcast. The life-size replica built for *Unsolved Mysteries* was left in Kecksburg and eventually became a local [landmark]({{ 'landmark/' | relative_url }}). Visitors could see it, photograph it and incorporate it into their understanding of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">space acorn</span><span class="citation-popover-snippet">Atlas ObscuraSpace Acorn in Kecksburg3 Jul 2013 — In 1990 the Kecksburg incident attracted the attention of the television show Unsolved...</span></span></span>
 
-That transformation matters because collective memory is often reinforced by physical symbols. Once the acorn existed as a monument, it became more than a reconstruction. It became a recurring visual cue that linked local identity, tourism and historical storytelling. People who never watched the original programme could still encounter the television-created image through the town itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">space acorn</span><span class="citation-popover-snippet">Atlas ObscuraSpace Acorn in Kecksburg3 Jul 2013 — In 1990 the Kecksburg incident attracted the attention of the television show Unsolved...</span></span></span>
+That transformation matters because collective memory is often reinforced by physical symbols. Once the acorn existed as a monument, it became more than a reconstruction. It became a recurring visual cue that linked local identity, tourism and historical storytelling. People who never watched the original programme could still encounter the television-created image through the town itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">space acorn</span><span class="citation-popover-snippet">Atlas ObscuraSpace Acorn in Kecksburg3 Jul 2013 — In 1990 the Kecksburg incident attracted the attention of the television show Unsolved...</span></span></span>
 
 In this sense, the Space Acorn illustrates a broader historical pattern: media representations can leave the screen and enter community memory. The image becomes a reference object through which later generations understand a disputed event.
 
@@ -358,202 +358,202 @@ In this sense, the Space Acorn illustrates a broader historical pattern: media r
 
 ## What Kecksburg Reveals About Media and Memory
 
-Kecksburg is valuable not because it proves that television altered witness memories, but because it demonstrates how such influence can become plausible and culturally significant. A dramatic reconstruction supplied a stable visual model for an event that had originally been remembered in diverse ways. Memory research suggests that people often blend later information with earlier recollections, especially when the later material is vivid, repeated and socially reinforced. Online Academic Community+2Memory and Cognition Lab <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlineacademiccommunity.uvic.ca/lindsaylab/wp-content/uploads/sites/4861/2020/10/Lindsay-SM-Chap-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlineacademiccommunity.uvic.ca">[onlineacademiccommunity.uvic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlineacademiccommunity.uvic.ca</span><span class="citation-popover-title">The eyewitness suggestibility effect and memory for source. Memory and.Read more</span><span class="citation-popover-snippet">Online Academic CommunityMemory Source Monitoring AppliedFebruary 22, 2018 — Memory impairment and source misattribution in postevent mis...</span><span class="citation-popover-meta">Published: February 22, 2018</span></span></span>
+Kecksburg is valuable not because it proves that television altered witness memories, but because it demonstrates how such influence can become plausible and culturally significant. A dramatic reconstruction supplied a stable visual model for an event that had originally been remembered in diverse ways. Memory research suggests that people often blend later information with earlier recollections, especially when the later material is vivid, repeated and socially reinforced. Online Academic Community+2Memory and Cognition Lab<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlineacademiccommunity.uvic.ca/lindsaylab/wp-content/uploads/sites/4861/2020/10/Lindsay-SM-Chap-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlineacademiccommunity.uvic.ca">[onlineacademiccommunity.uvic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlineacademiccommunity.uvic.ca</span><span class="citation-popover-title">The eyewitness suggestibility effect and memory for source. Memory and.Read more</span><span class="citation-popover-snippet">Online Academic CommunityMemory Source Monitoring AppliedFebruary 22, 2018 — Memory impairment and source misattribution in postevent mis...</span><span class="citation-popover-meta">Published: February 22, 2018</span></span></span>
 
-The Space Acorn therefore functions as more than a UFO symbol. It is a case study in collective remembering. Whether one sees it as an accurate reconstruction, an interpretive aid or a source of later memory contamination, its importance lies in showing how a television image can become part of the historical record people believe they are recalling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">space acorn</span><span class="citation-popover-snippet">Atlas ObscuraSpace Acorn in Kecksburg3 Jul 2013 — In 1990 the Kecksburg incident attracted the attention of the television show Unsolved...</span></span></span>
+The Space Acorn therefore functions as more than a UFO symbol. It is a case study in collective remembering. Whether one sees it as an accurate reconstruction, an interpretive aid or a source of later memory contamination, its importance lies in showing how a television image can become part of the historical record people believe they are recalling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">space acorn</span><span class="citation-popover-snippet">Atlas ObscuraSpace Acorn in Kecksburg3 Jul 2013 — In 1990 the Kecksburg incident attracted the attention of the television show Unsolved...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_unsolved_mysteries_i_e933ac_tv_memory_effects_3db434-Illustration-3-dark.svg" | relative_url }}" alt="Memory Effects illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_unsolved_mysteries_i_e933ac_tv_memory_effects_3db434-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_unsolved_mysteries_i_e933ac_tv_memory_effects_3db434-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can TV Change a UFO Memory?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can TV Change a UFO Memory?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for how witness accounts are interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how witness accounts are interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Explains how perception and memory can diverge from reality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how perception and memory can diverge from reality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explores belief formation and memory reinforcement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores belief formation and memory reinforcement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Remembering+by+Frederic+C.+Bartlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remembering on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Remembering+by+Frederic+C.+Bartlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remembering">Remembering</a>
-        </h4>
-        <p class="fr-book-author">By Frederic C. Bartlett</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Remembering+by+Frederic+C.+Bartlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remembering on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Remembering+by+Frederic+C.+Bartlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remembering">Remembering</a>
+</h4>
+<p class="fr-book-author">By Frederic C. Bartlett</p>
         
-        <p class="fr-book-desc">Classic study of reconstructive memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Remembering+by+Frederic+C.+Bartlett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Classic study of reconstructive memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Remembering+by+Frederic+C.+Bartlett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="memory-effects-can-tv-change-a-ufo-memory-kecksburg-ufo-incide-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="can-tv-change-a-ufo-memory-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ The Space Acorn therefore functions as more than a UFO symbol. It is a case stud
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ The Space Acorn therefore functions as more than a UFO symbol. It is a case stud
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ The Space Acorn therefore functions as more than a UFO symbol. It is a case stud
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ The Space Acorn therefore functions as more than a UFO symbol. It is a case stud
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ The Space Acorn therefore functions as more than a UFO symbol. It is a case stud
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,133 +759,133 @@ The Space Acorn therefore functions as more than a UFO symbol. It is a case stud
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: unsolved.com  
    Title: Mysteries Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThousands see a UFO in the sky above Kecksburg, Pennsylvania. A ball of light streaki...</p></details>
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO - Unsolved MysteriesThousands see a UFO in the sky above Kecksburg, Pennsylvania. A ball of light streaki...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effect | Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event information can...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effect | Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event information can...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — The Conclusion of the NASA Lawsuit - Concerning the Kecksburg,PA...</p></details>
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — The Conclusion of the NASA Lawsuit - Concerning the Kecksburg,PA...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Around The Town  
-   Link: <a href="https://www.youtube.com/watch?v=FjFdzlRlTiA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FjFdzlRlTiA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries with Robert Stack - Season 4, Episode 1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FjFdzlRlTiA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FjFdzlRlTiA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries with Robert Stack - Season 4, Episode 1...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Unsolved Mysteries with Robert Stack  
-   Link: <a href="https://www.youtube.com/watch?v=JN1AkB8I9Fg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JN1AkB8I9Fg</a>  
+   Link:<a href="https://www.youtube.com/watch?v=JN1AkB8I9Fg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JN1AkB8I9Fg</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: atlasobscura.com  
    Title: space acorn  
-   Link: <a href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/space-acorn</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Atlas ObscuraSpace Acorn in Kecksburg3 Jul 2013 — In 1990 the Kecksburg incident attracted the attention of the television show Unsolved...</p></details>
+   Link:<a href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/space-acorn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atlas ObscuraSpace Acorn in Kecksburg3 Jul 2013 — In 1990 the Kecksburg incident attracted the attention of the television show Unsolved...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: onlineacademiccommunity.uvic.ca  
    Title: The eyewitness suggestibility effect and memory for source. Memory and.Read more  
-   Link: <a href="https://onlineacademiccommunity.uvic.ca/lindsaylab/wp-content/uploads/sites/4861/2020/10/Lindsay-SM-Chap-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://onlineacademiccommunity.uvic.ca/lindsaylab/wp-content/uploads/sites/4861/2020/10/Lindsay-SM-Chap-4.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Online Academic CommunityMemory Source Monitoring AppliedFebruary 22, 2018 — Memory impairment and source misattribution in postevent mis...</p></details>
+   Link:<a href="https://onlineacademiccommunity.uvic.ca/lindsaylab/wp-content/uploads/sites/4861/2020/10/Lindsay-SM-Chap-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://onlineacademiccommunity.uvic.ca/lindsaylab/wp-content/uploads/sites/4861/2020/10/Lindsay-SM-Chap-4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Online Academic CommunityMemory Source Monitoring AppliedFebruary 22, 2018 — Memory impairment and source misattribution in postevent mis...</p></details>
    Published: February 22, 2018  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/8467368/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/8467368/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Imagery ability and source monitoring: implications for...by M Dobson · 1993 · Cited by 169 — The present study investigated the e...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/8467368/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/8467368/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Imagery ability and source monitoring: implications for...by M Dobson · 1993 · Cited by 169 — The present study investigated the e...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: memlab.yale.edu  
    Title: 2000 Lindsay Johnson LID  
-   Link: <a href="https://memlab.yale.edu/sites/default/files/files/2000_Lindsay_Johnson_LID.pdf" target="_blank" rel="noopener noreferrer nofollow">https://memlab.yale.edu/sites/default/files/files/2000_Lindsay_Johnson_LID.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory and Cognition LabFalse memories and the source monitoring framework Reply...by DS Lindsaya · 2000 · Cited by 145 — The present pa...</p></details>
+   Link:<a href="https://memlab.yale.edu/sites/default/files/files/2000_Lindsay_Johnson_LID.pdf" target="_blank" rel="noopener noreferrer nofollow">https://memlab.yale.edu/sites/default/files/files/2000_Lindsay_Johnson_LID.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memory and Cognition LabFalse memories and the source monitoring framework Reply...by DS Lindsaya · 2000 · Cited by 145 — The present pa...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: roadunraveled.com  
    Title: Road Unraveled The Kecksburg UFO Crash and the Roswell of Pennsylvania  
-   Link: <a href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Road UnraveledThe Kecksburg UFO Crash and the Roswell of PennsylvaniaOctober 1, 2020 — 1 Oct 2020 — [The Kecksburg UFO incident](&amp;#123;&amp;#123; &#x27;the-kecksburg-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;) has become...</p></details>
+   Link:<a href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Road UnraveledThe Kecksburg UFO Crash and the Roswell of PennsylvaniaOctober 1, 2020 — 1 Oct 2020 — [The Kecksburg UFO incident](&amp;#123;&amp;#123; &#x27;the-kecksburg-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;) has become...</p></details>
    Published: October 1, 2020  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abdn.elsevierpure.com  
    Title: from the archive memory conformity can eyewitnesses influence eac  
-   Link: <a href="https://abdn.elsevierpure.com/en/publications/from-the-archive-memory-conformity-can-eyewitnesses-influence-eac/" target="_blank" rel="noopener noreferrer nofollow">https://abdn.elsevierpure.com/en/publications/from-the-archive-memory-conformity-can-eyewitnesses-influence-eac/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aberdeen Research PortalCan eyewitnesses influence each other&#x27;s memories for an...by F Gabbert · 2011 — This paper established a new dir...</p></details>
+   Link:<a href="https://abdn.elsevierpure.com/en/publications/from-the-archive-memory-conformity-can-eyewitnesses-influence-eac/" target="_blank" rel="noopener noreferrer nofollow">https://abdn.elsevierpure.com/en/publications/from-the-archive-memory-conformity-can-eyewitnesses-influence-eac/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aberdeen Research PortalCan eyewitnesses influence each other&#x27;s memories for an...by F Gabbert · 2011 — This paper established a new dir...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: post-gazette.com  
-   Link: <a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Five decades later, the Kecksburg UFO is identified...5 Dec 2015 — Mystery cloaked the strange object that fell from the sky 50 years ag...</p></details>
+   Link:<a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Five decades later, the Kecksburg UFO is identified...5 Dec 2015 — Mystery cloaked the strange object that fell from the sky 50 years ag...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Kecksburg UFO  
-   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO | Unsolved Mysteries Wiki - FandomThe UFO was bright orange as it shot through the sky over Kecksburg. Case File: Kecksburg UFO Locat...</p></details>
+   Link:<a href="https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO | Unsolved Mysteries Wiki - FandomThe UFO was bright orange as it shot through the sky over Kecksburg. Case File: Kecksburg UFO Locat...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-[landmarks" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-[landmarks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s UFO Acorn: A Pennsylvania LandmarkWhile the government officially attributed the event to a meteor or re-entry of a Soviet sa...</p></details>
+   Link:<a href="https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-[landmarks" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-[landmarks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s UFO Acorn: A Pennsylvania LandmarkWhile the government officially attributed the event to a meteor or re-entry of a Soviet sa...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/en/27465540/Childrens_Memory_and_Source_Monitoring_of_Real_Life_and_Televised_Events" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/en/27465540/Childrens_Memory_and_Source_Monitoring_of_Real_Life_and_Televised_Events</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ontaminate memories, and the findings are discussed in relation to children&#x27;s...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/en/27465540/Childrens_Memory_and_Source_Monitoring_of_Real_Life_and_Televised_Events" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/en/27465540/Childrens_Memory_and_Source_Monitoring_of_Real_Life_and_Televised_Events</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ontaminate memories, and the findings are discussed in relation to children&#x27;s...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the unidentified object up close before US military officials were able to...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the unidentified object up close before US military officials were able to...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/11366435_Source-monitoring_training_facilitates_preschoolers%27_eyewitness_memory_performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/11366435_Source-monitoring_training_facilitates_preschoolers%27_eyewitness_memory_performance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>thus attributing a memory to an event that occurred on television.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/11366435_Source-monitoring_training_facilitates_preschoolers%27_eyewitness_memory_performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/11366435_Source-monitoring_training_facilitates_preschoolers%27_eyewitness_memory_performance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>thus attributing a memory to an event that occurred on television.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYVIcS8oKZZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYVIcS8oKZZ/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is #ovni #extraterrestrial #ancientaliens #ufofiles #...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYVIcS8oKZZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYVIcS8oKZZ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is #ovni #extraterrestrial #ancientaliens #ufofiles #...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
    Title: crash site of the 1965 kecksburg ufo  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Today I learned of the Kecksburg, PA UFO incident where local witnesses actually saw the unidentified object up close before US military...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Today I learned of the Kecksburg, PA UFO incident where local witnesses actually saw the unidentified object up close before US military...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theclio.com  
    Title: Clio Kecksburg UFO Incident  
-   Link: <a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Incident - ClioMany eye-witness testimony described the object as being metallic and acorn-shaped with odd [hieroglyphics](&amp;#123;&amp;#123; &#x27;hieroglyphics/&#x27; | relative_url &amp;#125;&amp;#125;) wr...</p></details>
+   Link:<a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Incident - ClioMany eye-witness testimony described the object as being metallic and acorn-shaped with odd [hieroglyphics](&amp;#123;&amp;#123; &#x27;hieroglyphics/&#x27; | relative_url &amp;#125;&amp;#125;) wr...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incidentThe Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireb...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incidentThe Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireb...</p></details>
    Published: December 9, 1965  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vkHgTeIpRpY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkHgTeIpRpY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>zijn op een missie om de waarheid achter UFO-waarnemingen en...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vkHgTeIpRpY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkHgTeIpRpY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>zijn op een missie om de waarheid achter UFO-waarnemingen en...</p></details>

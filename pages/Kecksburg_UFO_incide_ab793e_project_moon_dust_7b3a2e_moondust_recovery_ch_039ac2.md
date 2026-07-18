@@ -280,7 +280,7 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e_moond
 
 ## Introduction
 
-The [Moon Dust records]({{ 'moon-dust-13e495/' | relative_url }}) are most revealing not because they describe dramatic recoveries, but because they show the administrative machinery behind them. In the surviving State Department cables and related records, a fallen object typically moved through a chain of reporting, identification, custody decisions, technical examination, and diplomatic consultation. The process was often international, involving embassies, military attachés, NASA specialists, foreign governments, and legal questions about ownership. Rather than a secret team simply collecting debris and disappearing, the documentary trail shows a structured recovery system designed to determine what had fallen, who owned it, what intelligence value it might have, and which agency should ultimately control it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">4, 2024 — 3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source of documents: National Archives and Records Ad...</span></span></span>
+The [Moon Dust records]({{ 'moon-dust-13e495/' | relative_url }}) are most revealing not because they describe dramatic recoveries, but because they show the administrative machinery behind them. In the surviving State Department cables and related records, a fallen object typically moved through a chain of reporting, identification, custody decisions, technical examination, and diplomatic consultation. The process was often international, involving embassies, military attachés, NASA specialists, foreign governments, and legal questions about ownership. Rather than a secret team simply collecting debris and disappearing, the documentary trail shows a structured recovery system designed to determine what had fallen, who owned it, what intelligence value it might have, and which agency should ultimately control it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">4, 2024 — 3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source of documents: National Archives and Records Ad...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e_moondust_recovery_ch_039ac2-Illustration-1-dark.svg" | relative_url }}" alt="Recovery Chain illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e_moondust_recovery_ch_039ac2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_project_moon_dust_7b3a2e_moondust_recovery_ch_039ac2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -294,9 +294,9 @@ For understanding the wider recovery context surrounding debates such as the Kec
 
 ## From Local Reports to Embassy Channels
 
-The first step in a Moon Dust-type recovery was usually a local report. A witness, police officer, military unit, or foreign government would notify authorities that an unusual object or fragment had been found. The key question was not whether the object was mysterious, but whether it might be associated with a spacecraft, rocket stage, or satellite. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">4, 2024 — 3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source of documents: National Archives and Records Ad...</span></span></span>
+The first step in a Moon Dust-type recovery was usually a local report. A witness, police officer, military unit, or foreign government would notify authorities that an unusual object or fragment had been found. The key question was not whether the object was mysterious, but whether it might be associated with a spacecraft, rocket stage, or satellite.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">4, 2024 — 3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source of documents: National Archives and Records Ad...</span></span></span>
 
-Once a report appeared credible, information travelled rapidly through official channels. The State Department files contain joint State–Defense communications sent between Washington and American embassies. In several documented cases, embassies were instructed to gather information, photograph debris, secure access to the object, and assess the attitude of the host government toward examination or transfer. Recoveries in places such as Nepal, Mexico, New Zealand, and the United Kingdom generated diplomatic traffic because any foreign-owned space object raised legal and political questions as well as technical ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">4, 2024 — 3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source of documents: National Archives and Records Ad...</span></span></span>
+Once a report appeared credible, information travelled rapidly through official channels. The State Department files contain joint State–Defense communications sent between Washington and American embassies. In several documented cases, embassies were instructed to gather information, photograph debris, secure access to the object, and assess the attitude of the host government toward examination or transfer. Recoveries in places such as Nepal, Mexico, New Zealand, and the United Kingdom generated diplomatic traffic because any foreign-owned space object raised legal and political questions as well as technical ones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[governmentattic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">ProjMoondust1967 1972</span><span class="citation-popover-snippet">4, 2024 — 3 Jun 2024 — Recovery of Deorbited Space Debris (Moon Dust), 1967-. 1972. Source of documents: National Archives and Records Ad...</span></span></span>
 
 The cables reveal a recurring pattern:
 
@@ -370,194 +370,194 @@ The surviving Moon Dust communications portray a practical recovery mechanism ra
 For the Kecksburg context, the significance is not that the available Moon Dust records prove a specific recovery there. Rather, they show that the United States already possessed established procedures for dealing with unusual fallen objects. The cables demonstrate that recoveries of suspected space hardware routinely generated embassy messages, technical investigations, interagency coordination, and custody decisions. In other words, when officials believed an object might have aerospace significance, there was an existing bureaucratic pathway ready to handle it. [governmentattic.org](https://www.governmentattic.org/54docs/ProjMoondust1967-1972.pdf)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Did Moon Dust Recoveries Actually Work?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Did Moon Dust Recoveries Actually Work?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explains institutional processes behind sensitive recoveries and examinations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains institutional processes behind sensitive recoveries and examinations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+NASA+Conspiracies+by+Nick+Redfern&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The NASA Conspiracies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rd1EDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The NASA Conspiracies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+NASA+Conspiracies+by+Nick+Redfern&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The NASA Conspiracies">The NASA Conspiracies</a>
-        </h4>
-        <p class="fr-book-author">By Nick Redfern</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+NASA+Conspiracies+by+Nick+Redfern&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The NASA Conspiracies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rd1EDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The NASA Conspiracies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+NASA+Conspiracies+by+Nick+Redfern&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The NASA Conspiracies">The NASA Conspiracies</a>
+</h4>
+<p class="fr-book-author">By Nick Redfern</p>
         
-        <p class="fr-book-desc">Touches on government handling of unusual aerospace material.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+NASA+Conspiracies+by+Nick+Redfern&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Touches on government handling of unusual aerospace material.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+NASA+Conspiracies+by+Nick+Redfern&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Zgw35KTLOVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
-        </h4>
-        <p class="fr-book-author">By Richard Dolan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Zgw35KTLOVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
+</h4>
+<p class="fr-book-author">By Richard Dolan</p>
         
-        <p class="fr-book-desc">Covers the agencies and national-security environment relevant to Moon Dust.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the agencies and national-security environment relevant to Moon Dust.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
         
-        <p class="fr-book-desc">Provides practical insight into classified aerospace programs and recovery culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical insight into classified aerospace programs and recovery culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+NASA+Conspiracies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The NASA Conspiracies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and the National Security State</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+NASA+Conspiracies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The NASA Conspiracies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and the National Security State</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KECKSBURG PA Military GAS MASK WWII 12/09/1965 UFO Incident BLUE T-Shirt Men&#x27;s L"><img src="{{ '/assets/images/marketplace-covers/6c34441edd0ad961e35c.jpg' | relative_url }}" alt="Listing image for KECKSBURG PA Military GAS MASK WWII 12/09/1965 UFO Incident BLUE T-Shirt Men&#x27;s L" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">KECKSBURG PA Military GAS MASK WWII 12/09/1965 UFO Incident BLUE T-Shirt Men&#x27;s L</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KECKSBURG PA Military GAS MASK WWII 12/09/1965 UFO Incident BLUE T-Shirt Men&#x27;s L"><img src="{{ '/assets/images/marketplace-covers/6c34441edd0ad961e35c.jpg' | relative_url }}" alt="Listing image for KECKSBURG PA Military GAS MASK WWII 12/09/1965 UFO Incident BLUE T-Shirt Men&#x27;s L" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">KECKSBURG PA Military GAS MASK WWII 12/09/1965 UFO Incident BLUE T-Shirt Men&#x27;s L</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg Ufo Alien Incident Brand New Shirt Multiple Sizes and Colors"><img src="{{ '/assets/images/marketplace-covers/a3ba1466e686f0cce89f.jpg' | relative_url }}" alt="Listing image for Kecksburg Ufo Alien Incident Brand New Shirt Multiple Sizes and Colors" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Kecksburg Ufo Alien Incident Brand New Shirt Multiple Sizes and Colors</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kecksburg Ufo Alien Incident Brand New Shirt Multiple Sizes and Colors"><img src="{{ '/assets/images/marketplace-covers/a3ba1466e686f0cce89f.jpg' | relative_url }}" alt="Listing image for Kecksburg Ufo Alien Incident Brand New Shirt Multiple Sizes and Colors" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Kecksburg Ufo Alien Incident Brand New Shirt Multiple Sizes and Colors</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bell Bell Wonder Weapon Myth Kecksburg UFO Secret Project T-Shirt #46876"><img src="{{ '/assets/images/marketplace-covers/e314f32d00be674bc7bb.jpg' | relative_url }}" alt="Listing image for The Bell Bell Wonder Weapon Myth Kecksburg UFO Secret Project T-Shirt #46876" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">The Bell Bell Wonder Weapon Myth Kecksburg UFO Secret Project T-Shirt #46876</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bell Bell Wonder Weapon Myth Kecksburg UFO Secret Project T-Shirt #46876"><img src="{{ '/assets/images/marketplace-covers/e314f32d00be674bc7bb.jpg' | relative_url }}" alt="Listing image for The Bell Bell Wonder Weapon Myth Kecksburg UFO Secret Project T-Shirt #46876" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">The Bell Bell Wonder Weapon Myth Kecksburg UFO Secret Project T-Shirt #46876</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KECKSBURG 65 Unisex embroidered Classic Tee – UFO Mystery Apparel"><img src="{{ '/assets/images/marketplace-covers/e04cd349c4832a9c0b4a.jpg' | relative_url }}" alt="Listing image for KECKSBURG 65 Unisex embroidered Classic Tee – UFO Mystery Apparel" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">KECKSBURG 65 Unisex embroidered Classic Tee – UFO Mystery Apparel</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KECKSBURG 65 Unisex embroidered Classic Tee – UFO Mystery Apparel"><img src="{{ '/assets/images/marketplace-covers/e04cd349c4832a9c0b4a.jpg' | relative_url }}" alt="Listing image for KECKSBURG 65 Unisex embroidered Classic Tee – UFO Mystery Apparel" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">KECKSBURG 65 Unisex embroidered Classic Tee – UFO Mystery Apparel</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kecksburg UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kecksburg UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kecksburg+UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kecksburg UFO t shirt" data-ebay-reference="recovery-chain-how-did-moon-dust-recoveries-actually-work-kecksburg-ufo-incide-kecksburg-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -573,7 +573,7 @@ For the Kecksburg context, the significance is not that the available Moon Dust 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -593,7 +593,7 @@ For the Kecksburg context, the significance is not that the available Moon Dust 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -625,7 +625,7 @@ For the Kecksburg context, the significance is not that the available Moon Dust 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -677,7 +677,7 @@ For the Kecksburg context, the significance is not that the available Moon Dust 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -722,7 +722,7 @@ For the Kecksburg context, the significance is not that the available Moon Dust 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -763,82 +763,82 @@ For the Kecksburg context, the significance is not that the available Moon Dust 
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: leonarddavid.com  
    Title: secretive project moon dust details revealed  
-   Link: <a href="https://www.leonarddavid.com/secretive-project-moon-dust-details-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/secretive-project-moon-dust-details-revealed/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Secretive Moon Dust Details Revealed3 Jun 2024 — New revelations have come to light regarding Project Moon Dust, long known by Freedom of...</p></details>
+   Link:<a href="https://www.leonarddavid.com/secretive-project-moon-dust-details-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/secretive-project-moon-dust-details-revealed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secretive Moon Dust Details Revealed3 Jun 2024 — New revelations have come to light regarding Project Moon Dust, long known by Freedom of...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: unoosa.org  
-   Link: <a href="https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Reported Space Objects Discovered by Member States. In compliance with article 8 of the...Read more...</p></details>
+   Link:<a href="https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/oosa/en/treatyimplementation/arra-art-v/unlfd.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of Reported Space Objects Discovered by Member States. In compliance with article 8 of the...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/19990041784/downloads/19990041784.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19990041784/downloads/19990041784.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerOrbital Debris: A ChronologyDecember 2, 2002 — by DSF Portree · 1999 · Cited by 152 — This chronology is an...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/19990041784/downloads/19990041784.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19990041784/downloads/19990041784.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerOrbital Debris: A ChronologyDecember 2, 2002 — by DSF Portree · 1999 · Cited by 152 — This chronology is an...</p></details>
    Published: December 2, 2002  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: www3.nasa.gov  
    Title: 2008 all archives  
-   Link: <a href="https://www3.nasa.gov/audience/formedia/archives/2008-all-archives.html" target="_blank" rel="noopener noreferrer nofollow">https://www3.nasa.gov/audience/formedia/archives/2008-all-archives.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Press ReleasesNASA has completed a comprehensive study of crew safety equipment and procedures used during the space shuttle Columbia acc...</p></details>
+   Link:<a href="https://www3.nasa.gov/audience/formedia/archives/2008-all-archives.html" target="_blank" rel="noopener noreferrer nofollow">https://www3.nasa.gov/audience/formedia/archives/2008-all-archives.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Press ReleasesNASA has completed a comprehensive study of crew safety equipment and procedures used during the space shuttle Columbia acc...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: text-message.blogs.archives.gov  
-   Link: <a href="https://text-message.blogs.archives.gov/2018/03/06/what-goes-up-must-come-down-dealing-with-the-international-aspects-of-the-demise-of-skylab-part-i/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2018/03/06/what-goes-up-must-come-down-dealing-with-the-international-aspects-of-the-demise-of-skylab-part-i/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goes Up Must Come Down - The Text Message6 Mar 2018 — Ultimately, NASA authorized Department to say the debris was “no more radioactive t...</p></details>
+   Link:<a href="https://text-message.blogs.archives.gov/2018/03/06/what-goes-up-must-come-down-dealing-with-the-international-aspects-of-the-demise-of-skylab-part-i/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2018/03/06/what-goes-up-must-come-down-dealing-with-the-international-aspects-of-the-demise-of-skylab-part-i/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goes Up Must Come Down - The Text Message6 Mar 2018 — Ultimately, NASA authorized Department to say the debris was “no more radioactive t...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: history.navy.mil  
-   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/f/from-sea-stars.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/f/from-sea-stars.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Sea to the Starsby POW MIA — The Navy transferred operation of the system to the Air Force during formal ceremonies on 01 October 200...</p></details>
+   Link:<a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/f/from-sea-stars.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/f/from-sea-stars.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Sea to the Starsby POW MIA — The Navy transferred operation of the system to the Air Force during formal ceremonies on 01 October 200...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: swfound.org  
-   Link: <a href="https://www.swfound.org/publications-and-reports/insight---doubling-down-actions-to-progress-on-both-space-debris-mitigation-and-remediation" target="_blank" rel="noopener noreferrer nofollow">https://www.swfound.org/publications-and-reports/insight---doubling-down-actions-to-progress-on-both-space-debris-mitigation-and-remediation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Doubling Down: Actions to Progress on Both Space Debris...25 Jul 2024 — In the United States, the Air Force Research Laboratory&#x27;s Orbita...</p></details>
+   Link:<a href="https://www.swfound.org/publications-and-reports/insight---doubling-down-actions-to-progress-on-both-space-debris-mitigation-and-remediation" target="_blank" rel="noopener noreferrer nofollow">https://www.swfound.org/publications-and-reports/insight---doubling-down-actions-to-progress-on-both-space-debris-mitigation-and-remediation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Doubling Down: Actions to Progress on Both Space Debris...25 Jul 2024 — In the United States, the Air Force Research Laboratory&#x27;s Orbita...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DW7vs8kQGRI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DW7vs8kQGRI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fixing Failure in Orbit: NASA&#x27;s Greatest In-Flight RepairsDiscover how astronauts and Mission Control pulled off extraordinary saves thro...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DW7vs8kQGRI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DW7vs8kQGRI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fixing Failure in Orbit: NASA&#x27;s Greatest In-Flight RepairsDiscover how astronauts and Mission Control pulled off extraordinary saves thro...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchnow.flinders.edu.au  
    Title: flinders.edu.au Postorbital discard and chain of custody  
-   Link: <a href="https://researchnow.flinders.edu.au/files/52742971/1_s2.0_S0094576522001448_main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchnow.flinders.edu.au/files/52742971/1_s2.0_S0094576522001448_main.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>discard and chain of custody - Research @ Flindersby JSP Walsh · 2022 · Cited by 18 — Together with a sociologist, we observed the proces...</p></details>
+   Link:<a href="https://researchnow.flinders.edu.au/files/52742971/1_s2.0_S0094576522001448_main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchnow.flinders.edu.au/files/52742971/1_s2.0_S0094576522001448_main.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>discard and chain of custody - Research @ Flindersby JSP Walsh · 2022 · Cited by 18 — Together with a sociologist, we observed the proces...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: afmc.af.mil  
    Title: space fence design moves into next phase  
-   Link: <a href="https://www.afmc.af.mil/News/Article-Display/Article/154072/space-fence-design-moves-into-next-phase" target="_blank" rel="noopener noreferrer nofollow">https://www.afmc.af.mil/News/Article-Display/Article/154072/space-fence-design-moves-into-next-phase</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fence design moves into next phase27 Oct 2010 — The Space Fence will use multiple S-band ground-based radars -- the exact number will dep...</p></details>
+   Link:<a href="https://www.afmc.af.mil/News/Article-Display/Article/154072/space-fence-design-moves-into-next-phase" target="_blank" rel="noopener noreferrer nofollow">https://www.afmc.af.mil/News/Article-Display/Article/154072/space-fence-design-moves-into-next-phase</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fence design moves into next phase27 Oct 2010 — The Space Fence will use multiple S-band ground-based radars -- the exact number will dep...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pauldmaley.com  
    Title: HISTOR Y OF SPACE DEBRIS RECOVERIES  
-   Link: <a href="https://pauldmaley.com/sd1/" target="_blank" rel="noopener noreferrer nofollow">https://pauldmaley.com/sd1/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY OF SPACE DEBRIS RECOVERIES - Paul Maley19 Oct 2025 — We compile reports, accounts and illustration of factual events in the histo...</p></details>
+   Link:<a href="https://pauldmaley.com/sd1/" target="_blank" rel="noopener noreferrer nofollow">https://pauldmaley.com/sd1/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY OF SPACE DEBRIS RECOVERIES - Paul Maley19 Oct 2025 — We compile reports, accounts and illustration of factual events in the histo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, [Witnesses](&amp;#123;&amp;#123; &#x27;witnesses/&#x27; | relative_url &amp;#125;&amp;#125;) and Vanished Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, [Witnesses](&amp;#123;&amp;#123; &#x27;witnesses/&#x27; | relative_url &amp;#125;&amp;#125;) and Vanished Evidence...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: open.spotify.com  
    Title: 1P7Eu1wf YZARXBBd Wo Ckf H  
-   Link: <a href="https://open.spotify.com/episode/1P7Eu1wfYZARXBBdWoCkfH" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/1P7Eu1wfYZARXBBdWoCkfH</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MOON DUST: The UFO Recovery Team That Didn&#x27;t...29 Oct 2025 — In 1979, UFO researcher Robert Todd asked the Air Force about something cal...</p></details>
+   Link:<a href="https://open.spotify.com/episode/1P7Eu1wfYZARXBBdWoCkfH" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/1P7Eu1wfYZARXBBdWoCkfH</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MOON DUST: The UFO Recovery Team That Didn&#x27;t...29 Oct 2025 — In 1979, UFO researcher Robert Todd asked the Air Force about something cal...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Project Moon Dust | Episode 8 | The Secret UFO Retrieval Program  
-   Link: <a href="https://www.youtube.com/watch?v=uKAT4yK_AyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uKAT4yK_AyY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uKAT4yK_AyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uKAT4yK_AyY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>

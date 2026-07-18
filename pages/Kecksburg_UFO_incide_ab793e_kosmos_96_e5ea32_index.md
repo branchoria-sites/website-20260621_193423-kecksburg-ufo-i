@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e-kosmos-96/
 description: Focused pages that expand on Kosmos 96.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32
 parent_title: Kosmos 96
@@ -16,7 +16,7 @@ parent_permalink: /kosmos-96/
 
 # Explore Topics in Kosmos 96
 
-The following pages expand on the main **[Kosmos 96]({{ '/kosmos-96/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Kosmos 96]({{ '/kosmos-96/' | relative_url }})** page and cover its key branches in.
 
 - [Cold War]({{ '/cold-war-bf3e8b/' | relative_url }})
 - [Timing]({{ '/timing/' | relative_url }})

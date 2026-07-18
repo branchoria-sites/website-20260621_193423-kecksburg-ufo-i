@@ -274,37 +274,37 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_blue
 
 ## Introduction
 
-For the U.S. Air Force’s Project Blue Book, the key question raised by the Kecksburg reports was not whether an exotic craft had landed in Pennsylvania, but whether the widely observed fireball of 9 December 1965 could be explained through known astronomical phenomena. The official answer was yes. Blue Book classified the event as an astronomical case—a meteor or fireball—and closed the investigation accordingly. At the same time, records associated with the case noted that personnel who searched the reported impact area near Kecksburg did not locate a recoverable object. This combination of a meteor explanation and an unsuccessful ground search became one of the most important official reference points in later debates about the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">The Black VaultThe Vault Files: The 1965 Kecksburg, Pennsylvania CrashAugust 1, 2025 — 1 Aug 2025 — The official Air Force conclusion fil...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
+For the U.S. Air Force’s Project Blue Book, the key question raised by the Kecksburg reports was not whether an exotic craft had landed in Pennsylvania, but whether the widely observed fireball of 9 December 1965 could be explained through known astronomical phenomena. The official answer was yes. Blue Book classified the event as an astronomical case—a meteor or fireball—and closed the investigation accordingly. At the same time, records associated with the case noted that personnel who searched the reported impact area near Kecksburg did not locate a recoverable object. This combination of a meteor explanation and an unsuccessful ground search became one of the most important official reference points in later debates about the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">The Black VaultThe Vault Files: The 1965 Kecksburg, Pennsylvania CrashAugust 1, 2025 — 1 Aug 2025 — The official Air Force conclusion fil...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_blue_book_meteor_rec_973654-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_blue_book_meteor_rec_973654-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_blue_book_meteor_rec_973654-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What did officials say about the fireball?
 
-Project Blue Book's surviving records indicate that the Air Force treated the sighting as an explained case rather than an unidentified one. The official classification entered into the Blue Book system was “ASTRO (meteor) – Case Closed,” placing the event within the programme’s category of astronomical explanations. Under Blue Book procedures, a case assigned to a known natural cause was removed from the list of unresolved UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">The Black VaultThe Vault Files: The 1965 Kecksburg, Pennsylvania CrashAugust 1, 2025 — 1 Aug 2025 — The official Air Force conclusion fil...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
+Project Blue Book's surviving records indicate that the Air Force treated the sighting as an explained case rather than an unidentified one. The official classification entered into the Blue Book system was “ASTRO (meteor) – Case Closed,” placing the event within the programme’s category of astronomical explanations. Under Blue Book procedures, a case assigned to a known natural cause was removed from the list of unresolved UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">The Black VaultThe Vault Files: The 1965 Kecksburg, Pennsylvania CrashAugust 1, 2025 — 1 Aug 2025 — The official Air Force conclusion fil...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
 
-This conclusion reflected how officials interpreted the broader pattern of observations across North America. Thousands of [witnesses]({{ 'witnesses/' | relative_url }}) in multiple states and parts of Canada reported a bright object crossing the sky at roughly the same time. Such wide-area visibility matched the behaviour expected from a large fireball or meteor entering the atmosphere, whereas a small localised event would not normally produce reports over such a large region. Later Air Force summaries continued to describe the sighting as a meteor event rather than evidence of a technological object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aol.com/articles/dec-9-1965-night-sky-112913215.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aol.com">[AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aol.com</span><span class="citation-popover-title">dec 9 1965 night sky 112913215</span><span class="citation-popover-snippet">Air Force&#x27;s Project Blue Book initially sent investigators to Kecksburg but ultimately concluded the fireball was a meteor that...Read more...</span></span></span>
+This conclusion reflected how officials interpreted the broader pattern of observations across North America. Thousands of [witnesses]({{ 'witnesses/' | relative_url }}) in multiple states and parts of Canada reported a bright object crossing the sky at roughly the same time. Such wide-area visibility matched the behaviour expected from a large fireball or meteor entering the atmosphere, whereas a small localised event would not normally produce reports over such a large region. Later Air Force summaries continued to describe the sighting as a meteor event rather than evidence of a technological object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aol.com/articles/dec-9-1965-night-sky-112913215.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aol.com">[AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aol.com</span><span class="citation-popover-title">dec 9 1965 night sky 112913215</span><span class="citation-popover-snippet">Air Force&#x27;s Project Blue Book initially sent investigators to Kecksburg but ultimately concluded the fireball was a meteor that...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ruKDXL13lk8" title="The 1965 Kecksburg Incident: A UFO Crash the Government Hides to This Day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ruKDXL13lk8" target="_blank" rel="noopener noreferrer">The 1965 Kecksburg Incident: A UFO Crash the Government Hides to This Day</a></p><p class="youtube-embed-meta">Channel: FORGOTTEN HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ruKDXL13lk8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ruKDXL13lk8">Open on YouTube</a></p></div></div></div>
 
 ## Visual detection rather than radar evidence
 
-A notable feature of the official handling was the emphasis on visual observations. Witnesses reported a brilliant object, a fiery trail, and apparent descent towards the horizon. These were the types of observations that Blue Book commonly compared with known astronomical phenomena such as meteors, [bolides]({{ 'bolides/' | relative_url }}), and re-entering space debris. The explanation did not depend on a publicly documented radar track proving a crash in the woods near Kecksburg. Instead, investigators relied primarily on the characteristics of the observed fireball and its regional visibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">The Black VaultThe Vault Files: The 1965 Kecksburg, Pennsylvania CrashAugust 1, 2025 — 1 Aug 2025 — The official Air Force conclusion fil...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
+A notable feature of the official handling was the emphasis on visual observations. Witnesses reported a brilliant object, a fiery trail, and apparent descent towards the horizon. These were the types of observations that Blue Book commonly compared with known astronomical phenomena such as meteors, [bolides]({{ 'bolides/' | relative_url }}), and re-entering space debris. The explanation did not depend on a publicly documented radar track proving a crash in the woods near Kecksburg. Instead, investigators relied primarily on the characteristics of the observed fireball and its regional visibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">The Black VaultThe Vault Files: The 1965 Kecksburg, Pennsylvania CrashAugust 1, 2025 — 1 Aug 2025 — The official Air Force conclusion fil...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
 
-This approach was consistent with broader Blue Book practice. Throughout its existence, the programme frequently assigned sightings to astronomical causes when witness descriptions aligned with known celestial or atmospheric events. In the Kecksburg case, the fireball itself was treated as the central phenomenon requiring explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue Book... conclusions of Project Blue Book were: No UFO reported, investiga...</span></span></span>
+This approach was consistent with broader Blue Book practice. Throughout its existence, the programme frequently assigned sightings to astronomical causes when witness descriptions aligned with known celestial or atmospheric events. In the Kecksburg case, the fireball itself was treated as the central phenomenon requiring explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue Book... conclusions of Project Blue Book were: No UFO reported, investiga...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_blue_book_meteor_rec_973654-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_blue_book_meteor_rec_973654-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_blue_book_meteor_rec_973654-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The unsuccessful Kecksburg search note
 
-One of the most significant details in the official record concerns what happened after reports of a possible landing. According to Air Force statements associated with the investigation, personnel who examined the area near Kecksburg found nothing that could be identified as a crashed object. Officials stated that technical personnel assisting local authorities had “nothing to report,” and the case file did not document the recovery of wreckage or a vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">The Black VaultThe Vault Files: The 1965 Kecksburg, Pennsylvania CrashAugust 1, 2025 — 1 Aug 2025 — The official Air Force conclusion fil...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
+One of the most significant details in the official record concerns what happened after reports of a possible landing. According to Air Force statements associated with the investigation, personnel who examined the area near Kecksburg found nothing that could be identified as a crashed object. Officials stated that technical personnel assisting local authorities had “nothing to report,” and the case file did not document the recovery of wreckage or a vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">The Black VaultThe Vault Files: The 1965 Kecksburg, Pennsylvania CrashAugust 1, 2025 — 1 Aug 2025 — The official Air Force conclusion fil...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
 
-This point is often overshadowed by later stories about military activity in the area. Yet from the standpoint of the official record, the absence of a recovered object was central. Blue Book's classification did not rest on evidence that an unusual craft had been found and analysed; it rested on the opposite conclusion—that the observed fireball could be explained astronomically and that searches produced no confirmed crash material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">The Black VaultThe Vault Files: The 1965 Kecksburg, Pennsylvania CrashAugust 1, 2025 — 1 Aug 2025 — The official Air Force conclusion fil...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
+This point is often overshadowed by later stories about military activity in the area. Yet from the standpoint of the official record, the absence of a recovered object was central. Blue Book's classification did not rest on evidence that an unusual craft had been found and analysed; it rested on the opposite conclusion—that the observed fireball could be explained astronomically and that searches produced no confirmed crash material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">The Black VaultThe Vault Files: The 1965 Kecksburg, Pennsylvania CrashAugust 1, 2025 — 1 Aug 2025 — The official Air Force conclusion fil...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
 
 The search record therefore created a sharp distinction between two bodies of evidence:
 
 * **The documented fireball observations**, which officials considered consistent with a meteor.
-* **Local claims of a recovered object**, which were not supported by the Air Force's reported findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">The Black VaultThe Vault Files: The 1965 Kecksburg, Pennsylvania CrashAugust 1, 2025 — 1 Aug 2025 — The official Air Force conclusion fil...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
+* **Local claims of a recovered object**, which were not supported by the Air Force's reported findings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">The Black VaultThe Vault Files: The 1965 Kecksburg, Pennsylvania CrashAugust 1, 2025 — 1 Aug 2025 — The official Air Force conclusion fil...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Ka9dOx7ZWY" title="The Kecksburg UFO Case: Finally Solved After 60 Years?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer">The Kecksburg UFO Case: Finally Solved After 60 Years?</a></p><p class="youtube-embed-meta">Channel: Redoubt Productions &middot; Views: 851 &middot; Uploaded: December 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Ka9dOx7ZWY">Open on YouTube</a></p></div></div></div>
@@ -314,204 +314,204 @@ The search record therefore created a sharp distinction between two bodies of ev
 
 ## Why the meteor explanation mattered
 
-The Blue Book classification shaped nearly every later discussion of the Kecksburg incident. Because the case was officially categorised as a meteor, it entered the historical record as an explained event rather than one of Blue Book's unresolved UFO reports. That distinction remains important when evaluating competing interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">The Black VaultThe Vault Files: The 1965 Kecksburg, Pennsylvania CrashAugust 1, 2025 — 1 Aug 2025 — The official Air Force conclusion fil...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
+The Blue Book classification shaped nearly every later discussion of the Kecksburg incident. Because the case was officially categorised as a meteor, it entered the historical record as an explained event rather than one of Blue Book's unresolved UFO reports. That distinction remains important when evaluating competing interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">The Black VaultThe Vault Files: The 1965 Kecksburg, Pennsylvania CrashAugust 1, 2025 — 1 Aug 2025 — The official Air Force conclusion fil...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
 
-For supporters of the official view, the combination of a region-wide fireball and an unsuccessful search strongly supports a natural explanation. A bright meteor can appear to descend nearby even when it remains far away, and witnesses often disagree about where such objects came down. In this interpretation, the lack of recovered debris near Kecksburg is exactly what one would expect if the perceived landing location was mistaken. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aol.com/articles/dec-9-1965-night-sky-112913215.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aol.com">[AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aol.com</span><span class="citation-popover-title">dec 9 1965 night sky 112913215</span><span class="citation-popover-snippet">Air Force&#x27;s Project Blue Book initially sent investigators to Kecksburg but ultimately concluded the fireball was a meteor that...Read more...</span></span></span>
+For supporters of the official view, the combination of a region-wide fireball and an unsuccessful search strongly supports a natural explanation. A bright meteor can appear to descend nearby even when it remains far away, and witnesses often disagree about where such objects came down. In this interpretation, the lack of recovered debris near Kecksburg is exactly what one would expect if the perceived landing location was mistaken.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aol.com/articles/dec-9-1965-night-sky-112913215.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aol.com">[AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aol.com</span><span class="citation-popover-title">dec 9 1965 night sky 112913215</span><span class="citation-popover-snippet">Air Force&#x27;s Project Blue Book initially sent investigators to Kecksburg but ultimately concluded the fireball was a meteor that...Read more...</span></span></span>
 
-For critics, however, the absence of a recovered object in official files did not settle the matter. Questions about military involvement, later records disputes, and conflicting witness recollections encouraged continued scepticism about the completeness of the official account. Nevertheless, the Blue Book position itself remained straightforward: the fireball was logged as a meteor, the search produced no confirmed object, and the case was closed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">The Black VaultThe Vault Files: The 1965 Kecksburg, Pennsylvania CrashAugust 1, 2025 — 1 Aug 2025 — The official Air Force conclusion fil...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
+For critics, however, the absence of a recovered object in official files did not settle the matter. Questions about military involvement, later records disputes, and conflicting witness recollections encouraged continued scepticism about the completeness of the official account. Nevertheless, the Blue Book position itself remained straightforward: the fireball was logged as a meteor, the search produced no confirmed object, and the case was closed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">The Black VaultThe Vault Files: The 1965 Kecksburg, Pennsylvania CrashAugust 1, 2025 — 1 Aug 2025 — The official Air Force conclusion fil...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_blue_book_meteor_rec_973654-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_blue_book_meteor_rec_973654-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_fireball_sightings_c30669_blue_book_meteor_rec_973654-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What did officials say about the fireball?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What did officials say about the fireball?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides essential background on official Air Force UFO investigations that later culminated in Project Blue Book discussions surrounding...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides essential background on official Air Force UFO investigations that later culminated in Project Blue Book discussions surrounding...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek was closely tied to Project Blue Book, making this highly relevant to official explanations and classification of UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek was closely tied to Project Blue Book, making this highly relevant to official explanations and classification of UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Contains coverage of major historical cases, including incidents discussed alongside Kecksburg and Blue Book records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains coverage of major historical cases, including incidents discussed alongside Kecksburg and Blue Book records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines how governments and officials handle unexplained aerial reports, paralleling debates over official explanations of the Kecksburg...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how governments and officials handle unexplained aerial reports, paralleling debates over official explanations of the Kecksburg...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+UFO+files&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-officials-say-about-the-fireball-project-blue-book-ufo-files&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book UFO files" data-ebay-reference="what-did-officials-say-about-the-fireball-project-blue-book-ufo-files" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROJECT BLUE BOOK: UFO Files"><img src="https://i.ebayimg.com/images/g/EZ4AAOSw6rZjZtzr/s-l225.jpg" alt="Listing image for PROJECT BLUE BOOK: UFO Files" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+UFO+files&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-officials-say-about-the-fireball-project-blue-book-ufo-files&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book UFO files" data-ebay-reference="what-did-officials-say-about-the-fireball-project-blue-book-ufo-files" target="_blank" rel="sponsored noopener noreferrer">PROJECT BLUE BOOK: UFO Files</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+UFO+files&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-officials-say-about-the-fireball-project-blue-book-ufo-files&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book UFO files" data-ebay-reference="what-did-officials-say-about-the-fireball-project-blue-book-ufo-files" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book UFO files">Search<span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book UFO files</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+UFO+files&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-officials-say-about-the-fireball-project-blue-book-ufo-files&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book UFO files" data-ebay-reference="what-did-officials-say-about-the-fireball-project-blue-book-ufo-files" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible"><img src="{{ '/assets/images/marketplace-covers/311e792dddced7598d86.jpg' | relative_url }}" alt="Listing image for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+UFO+files&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-officials-say-about-the-fireball-project-blue-book-ufo-files&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book UFO files" data-ebay-reference="what-did-officials-say-about-the-fireball-project-blue-book-ufo-files" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Edition 1 2019, Project Blue Book Top Secret UFO Files by John Scott Chace PB VG"><img src="https://i.ebayimg.com/images/g/UTsAAOSwtCVjrxQx/s-l225.jpg" alt="Listing image for Edition 1 2019, Project Blue Book Top Secret UFO Files by John Scott Chace PB VG" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+UFO+files&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-officials-say-about-the-fireball-project-blue-book-ufo-files&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book UFO files" data-ebay-reference="what-did-officials-say-about-the-fireball-project-blue-book-ufo-files" target="_blank" rel="sponsored noopener noreferrer">Edition 1 2019, Project Blue Book Top Secret UFO Files by John Scott Chace PB VG</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+UFO+files&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-officials-say-about-the-fireball-project-blue-book-ufo-files&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book UFO files" data-ebay-reference="what-did-officials-say-about-the-fireball-project-blue-book-ufo-files" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book UFO files">Search<span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book UFO files</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+UFO+files&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-officials-say-about-the-fireball-project-blue-book-ufo-files&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book UFO files" data-ebay-reference="what-did-officials-say-about-the-fireball-project-blue-book-ufo-files" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anderson Entertainment UFO Saucer Collectable"><img src="{{ '/assets/images/marketplace-covers/3fcedd05f4d4333b7b2b.jpg' | relative_url }}" alt="Listing image for Anderson Entertainment UFO Saucer Collectable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Anderson Entertainment UFO Saucer Collectable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+UFO+files&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-officials-say-about-the-fireball-project-blue-book-ufo-files&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book UFO files" data-ebay-reference="what-did-officials-say-about-the-fireball-project-blue-book-ufo-files" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROJECT BLUE BOOK : TOP SECRET UFO FILES: THE UNTOLD TRUTH"><img src="https://i.ebayimg.com/images/g/bJ8AAeSwneJoO1MR/s-l225.jpg" alt="Listing image for PROJECT BLUE BOOK : TOP SECRET UFO FILES: THE UNTOLD TRUTH" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+UFO+files&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-officials-say-about-the-fireball-project-blue-book-ufo-files&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book UFO files" data-ebay-reference="what-did-officials-say-about-the-fireball-project-blue-book-ufo-files" target="_blank" rel="sponsored noopener noreferrer">PROJECT BLUE BOOK : TOP SECRET UFO FILES: THE UNTOLD TRUTH</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+UFO+files&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-officials-say-about-the-fireball-project-blue-book-ufo-files&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book UFO files" data-ebay-reference="what-did-officials-say-about-the-fireball-project-blue-book-ufo-files" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book UFO files">Search<span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book UFO files</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+UFO+files&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-officials-say-about-the-fireball-project-blue-book-ufo-files&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book UFO files" data-ebay-reference="what-did-officials-say-about-the-fireball-project-blue-book-ufo-files" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade."><img src="{{ '/assets/images/marketplace-covers/eae7a1e8a8fad5254c8b.jpg' | relative_url }}" alt="Listing image for The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="blue-book-a6b7a8-what-did-officials-say-about-the-fireball-kecksburg-ufo-incide-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+UFO+files&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-officials-say-about-the-fireball-project-blue-book-ufo-files&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book UFO files" data-ebay-reference="what-did-officials-say-about-the-fireball-project-blue-book-ufo-files" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Project Blue Book: The Top Secret UFO Files that Revealed a Government Cover-Up"><img src="https://i.ebayimg.com/images/g/OKAAAeSw69Jp4~Mo/s-l225.jpg" alt="Listing image for Project Blue Book: The Top Secret UFO Files that Revealed a Government Cover-Up" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+UFO+files&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-officials-say-about-the-fireball-project-blue-book-ufo-files&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book UFO files" data-ebay-reference="what-did-officials-say-about-the-fireball-project-blue-book-ufo-files" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book: The Top Secret UFO Files that Revealed a Government Cover-Up</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+UFO+files&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-officials-say-about-the-fireball-project-blue-book-ufo-files&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book UFO files" data-ebay-reference="what-did-officials-say-about-the-fireball-project-blue-book-ufo-files" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book UFO files">Search<span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book UFO files</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+UFO+files&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-officials-say-about-the-fireball-project-blue-book-ufo-files&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book UFO files" data-ebay-reference="what-did-officials-say-about-the-fireball-project-blue-book-ufo-files" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+UFO+files&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-officials-say-about-the-fireball-project-blue-book-ufo-files&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book UFO files" data-ebay-reference="what-did-officials-say-about-the-fireball-project-blue-book-ufo-files" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -527,7 +527,7 @@ For critics, however, the absence of a recovered object in official files did no
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -547,7 +547,7 @@ For critics, however, the absence of a recovered object in official files did no
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -579,7 +579,7 @@ For critics, however, the absence of a recovered object in official files did no
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -631,7 +631,7 @@ For critics, however, the absence of a recovered object in official files did no
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -676,7 +676,7 @@ For critics, however, the absence of a recovered object in official files did no
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -717,87 +717,87 @@ For critics, however, the absence of a recovered object in official files did no
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aol.com  
    Title: dec 9 1965 night sky 112913215  
-   Link: <a href="https://www.aol.com/articles/dec-9-1965-night-sky-112913215.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/dec-9-1965-night-sky-112913215.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s Project Blue Book initially sent investigators to Kecksburg but ultimately concluded the fireball was a meteor that...Read more...</p></details>
+   Link:<a href="https://www.aol.com/articles/dec-9-1965-night-sky-112913215.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/dec-9-1965-night-sky-112913215.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s Project Blue Book initially sent investigators to Kecksburg but ultimately concluded the fireball was a meteor that...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue Book... conclusions of Project Blue Book were: No UFO reported, investiga...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue Book... conclusions of Project Blue Book were: No UFO reported, investiga...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: theblackvault.com  
    Title: the vault files the 1965 kecksburg pennsylvania crash  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultThe Vault Files: The 1965 Kecksburg, Pennsylvania CrashAugust 1, 2025 — 1 Aug 2025 — The official Air Force conclusion fil...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultThe Vault Files: The 1965 Kecksburg, Pennsylvania CrashAugust 1, 2025 — 1 Aug 2025 — The official Air Force conclusion fil...</p></details>
    Published: August 1, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s mysterious UFO landing 60 years agoSixty years ago, a December day changed the course of history for Kecksburg, a small commu...</p></details>
+   Link:<a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s mysterious UFO landing 60 years agoSixty years ago, a December day changed the course of history for Kecksburg, a small commu...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: did a ufo land in kecksburg pa in 1965 today we found old wtae tv pittsburgh fil  
-   Link: <a href="https://www.facebook.com/MichellewRIGHTNOW/videos/did-a-ufo-land-in-kecksburg-pa-in-1965-today-we-found-old-wtae-tv-pittsburgh-fil/2281834022322210/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/videos/did-a-ufo-land-in-kecksburg-pa-in-1965-today-we-found-old-wtae-tv-pittsburgh-fil/2281834022322210/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Did a UFO land in Kecksburg PA in 1965???? Today we...On December 9, 1965 a fireball was streaking across the sky. It went through sever...</p></details>
+   Link:<a href="https://www.facebook.com/MichellewRIGHTNOW/videos/did-a-ufo-land-in-kecksburg-pa-in-1965-today-we-found-old-wtae-tv-pittsburgh-fil/2281834022322210/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/videos/did-a-ufo-land-in-kecksburg-pa-in-1965-today-we-found-old-wtae-tv-pittsburgh-fil/2281834022322210/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did a UFO land in Kecksburg PA in 1965???? Today we...On December 9, 1965 a fireball was streaking across the sky. It went through sever...</p></details>
    Published: December 9, 1965  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the unidentified object up close before US military officials were able to...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the unidentified object up close before US military officials were able to...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: fold3.com  
    Title: august 1963 ufo reports in project blue book  
-   Link: <a href="https://www.fold3.com/blog/august-1963-ufo-reports-in-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/blog/august-1963-ufo-reports-in-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 1963: UFO Reports in Project Blue Book1 Aug 2013 — When the project closed in 1969, the Air Force had concluded that none of the o...</p></details>
+   Link:<a href="https://www.fold3.com/blog/august-1963-ufo-reports-in-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/blog/august-1963-ufo-reports-in-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 1963: UFO Reports in Project Blue Book1 Aug 2013 — When the project closed in 1969, the Air Force had concluded that none of the o...</p></details>
    Published: august 1963  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: What fell from the sky in Kecksburg PA  
-   Link: <a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>9, 1965, Kecksburg residents reported that a fireball streaked through the sky and then an object showed up in the nearby woods. Conspira...</p></details>
+   Link:<a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9, 1965, Kecksburg residents reported that a fireball streaked through the sky and then an object showed up in the nearby woods. Conspira...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>orite, but this did not satisfy local...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>orite, but this did not satisfy local...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theclio.com  
    Title: Kecksburg UFO Incident  
-   Link: <a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ClioThe Kecksburg UFO Incident happened December 9, 1965 when a mysterious glowing ball of fire crash landed in a small Pennsylvanian tow...</p></details>
+   Link:<a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ClioThe Kecksburg UFO Incident happened December 9, 1965 when a mysterious glowing ball of fire crash landed in a small Pennsylvanian tow...</p></details>
    Published: December 9, 1965  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incidentThe Kecksburg UFO incident occurred on December 9, 1965, when a fireball was reported by citizens of six U.S. be...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incidentThe Kecksburg UFO incident occurred on December 9, 1965, when a fireball was reported by citizens of six U.S. be...</p></details>
    Published: December 9, 1965  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa told to solve &#x27;UFO crash&#x27; X-File | World news11 Nov 2007 — For four decades, residents of the tiny Pennsylvania town of Kecksburg ha...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa told to solve &#x27;UFO crash&#x27; X-File | World news11 Nov 2007 — For four decades, residents of the tiny Pennsylvania town of Kecksburg ha...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ruKDXL13lk8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ruKDXL13lk8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure Day Is Built On UFO Cases The Government Failed To Explain...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ruKDXL13lk8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ruKDXL13lk8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure Day Is Built On UFO Cases The Government Failed To Explain...</p></details>

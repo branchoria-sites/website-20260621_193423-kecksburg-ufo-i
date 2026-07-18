@@ -278,24 +278,24 @@ One of the most persistent elements of the Kecksburg story is not the reported a
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_335442_covered_flatbed_clai_8126d5-Illustration-1-dark.svg" | relative_url }}" alt="Flatbed illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_335442_covered_flatbed_clai_8126d5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_335442_covered_flatbed_clai_8126d5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Unlike descriptions of the alleged object in the woods, the flatbed-truck accounts involve [witnesses]({{ 'witnesses/' | relative_url }}) positioned away from the immediate crash area. Their testimony focuses on a vehicle, a convoy, and a tarpaulin-covered load rather than a direct view of whatever was allegedly recovered. As a result, the truck story is often treated as supporting evidence for a recovery operation, but not as independent proof of the nature of the object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesMany eyewitnesses reported seeing the military convoy coming out of the ravine. John...</span></span></span>
+Unlike descriptions of the alleged object in the woods, the flatbed-truck accounts involve [witnesses]({{ 'witnesses/' | relative_url }}) positioned away from the immediate crash area. Their testimony focuses on a vehicle, a convoy, and a tarpaulin-covered load rather than a direct view of whatever was allegedly recovered. As a result, the truck story is often treated as supporting evidence for a recovery operation, but not as independent proof of the nature of the object itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesMany eyewitnesses reported seeing the military convoy coming out of the ravine. John...</span></span></span>
 
 ## What Covered-Load Witnesses Reported
 
-Accounts of a covered flatbed truck emerged from multiple witnesses who said they observed military vehicles leaving the Kecksburg area after authorities had restricted access to the woods. The most commonly repeated version describes a flatbed truck carrying a large object concealed beneath a tarp, sometimes accompanied by military escorts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries+2Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesMany eyewitnesses reported seeing the military convoy coming out of the ravine. John...</span></span></span>
+Accounts of a covered flatbed truck emerged from multiple witnesses who said they observed military vehicles leaving the Kecksburg area after authorities had restricted access to the woods. The most commonly repeated version describes a flatbed truck carrying a large object concealed beneath a tarp, sometimes accompanied by military escorts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[unsolved.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesMany eyewitnesses reported seeing the military convoy coming out of the ravine. John...</span></span></span>
 
-Among the most frequently cited witnesses is John Hays, who stated that as a child he saw a flatbed truck carrying a large covered object pass near his home on the evening of the incident. His account became widely known through later documentaries and television programmes. According to that testimony, the [shape]({{ 'shape/' | relative_url }}) beneath the covering appeared substantial—roughly consistent with descriptions given by witnesses who claimed to have seen an object in the woods earlier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesMany eyewitnesses reported seeing the military convoy coming out of the ravine. John...</span></span></span>
+Among the most frequently cited witnesses is John Hays, who stated that as a child he saw a flatbed truck carrying a large covered object pass near his home on the evening of the incident. His account became widely known through later documentaries and television programmes. According to that testimony, the [shape]({{ 'shape/' | relative_url }}) beneath the covering appeared substantial—roughly consistent with descriptions given by witnesses who claimed to have seen an object in the woods earlier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesMany eyewitnesses reported seeing the military convoy coming out of the ravine. John...</span></span></span>
 
-Other retellings similarly describe a convoy leaving the area with a tarpaulin-covered load. Some later summaries and local histories note that multiple residents reported seeing such a vehicle, reinforcing the idea that something was transported after the search area had been secured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pabook.libraries.psu.edu">[Pennsylvania Authors Registry+2Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pabook.libraries.psu.edu</span><span class="citation-popover-snippet">Pennsylvania Authors RegistryAcorn from Space: The Kecksburg IncidentThis flatbed truck, carrying a mysterious object, was later seen lea...</span></span></span>
+Other retellings similarly describe a convoy leaving the area with a tarpaulin-covered load. Some later summaries and local histories note that multiple residents reported seeing such a vehicle, reinforcing the idea that something was transported after the search area had been secured.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pabook.libraries.psu.edu">[psu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pabook.libraries.psu.edu</span><span class="citation-popover-snippet">Pennsylvania Authors RegistryAcorn from Space: The Kecksburg IncidentThis flatbed truck, carrying a mysterious object, was later seen lea...</span></span></span>
 
-The key point is that these reports concern a covered object. Witnesses generally did not claim to have an unobstructed view of the cargo while it was being transported. What they observed was the presence of a truck and a concealed load, not a direct inspection of the item itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesMany eyewitnesses reported seeing the military convoy coming out of the ravine. John...</span></span></span>
+The key point is that these reports concern a covered object. Witnesses generally did not claim to have an unobstructed view of the cargo while it was being transported. What they observed was the presence of a truck and a concealed load, not a direct inspection of the item itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesMany eyewitnesses reported seeing the military convoy coming out of the ravine. John...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lsHWrkQWiQs" title="Real UFO? The &quot;Space Acorn&quot; of Kecksburg Pennsylvania" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer">Real UFO? The &quot;Space Acorn&quot; of Kecksburg Pennsylvania</a></p><p class="youtube-embed-meta">Channel: Ray Out There &middot; Views: 1.9K &middot; Uploaded: May 2023 &middot; Length: 4 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lsHWrkQWiQs">Open on YouTube</a></p></div></div></div>
 
 ## How the Truck Story Supports a Recovery Claim
 
-The flatbed accounts are significant because they address a specific dispute in the Kecksburg case. Official statements from the time generally indicated that searchers found nothing of significance in the woods. Yet many local witnesses later insisted that something had indeed been recovered and removed. The reported truck convoy became the main piece of testimony used to challenge the official version. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The flatbed accounts are significant because they address a specific dispute in the Kecksburg case. Official statements from the time generally indicated that searchers found nothing of significance in the woods. Yet many local witnesses later insisted that something had indeed been recovered and removed. The reported truck convoy became the main piece of testimony used to challenge the official version.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 From an evidential standpoint, the truck reports support three limited propositions:
 
@@ -308,9 +308,9 @@ From an evidential standpoint, the truck reports support three limited propositi
 
 </div>
 
-Those observations fit naturally into a recovery narrative. If a large object had been found, transporting it by flatbed truck would be a practical method of removal. The reports therefore provide circumstantial support for claims that something was taken from the site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries+2Pennsylvania Authors Registry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesMany eyewitnesses reported seeing the military convoy coming out of the ravine. John...</span></span></span>
+Those observations fit naturally into a recovery narrative. If a large object had been found, transporting it by flatbed truck would be a practical method of removal. The reports therefore provide circumstantial support for claims that something was taken from the site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[unsolved.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesMany eyewitnesses reported seeing the military convoy coming out of the ravine. John...</span></span></span>
 
-This is one reason the [flatbed story]({{ 'flatbed-story/' | relative_url }}) has endured for decades. Even readers who remain unconvinced by descriptions of [hieroglyphics]({{ 'hieroglyphics/' | relative_url }}) or unusual craft shapes often regard the alleged convoy as one of the more concrete elements of the broader legend. A vehicle moving through a public area is, in principle, easier for multiple observers to notice than an object hidden deep in a wooded ravine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesMany eyewitnesses reported seeing the military convoy coming out of the ravine. John...</span></span></span>
+This is one reason the [flatbed story]({{ 'flatbed-story/' | relative_url }}) has endured for decades. Even readers who remain unconvinced by descriptions of [hieroglyphics]({{ 'hieroglyphics/' | relative_url }}) or unusual craft shapes often regard the alleged convoy as one of the more concrete elements of the broader legend. A vehicle moving through a public area is, in principle, easier for multiple observers to notice than an object hidden deep in a wooded ravine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesMany eyewitnesses reported seeing the military convoy coming out of the ravine. John...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_335442_covered_flatbed_clai_8126d5-Illustration-2-dark.svg" | relative_url }}" alt="Flatbed illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_335442_covered_flatbed_clai_8126d5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_335442_covered_flatbed_clai_8126d5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -318,7 +318,7 @@ This is one reason the [flatbed story]({{ 'flatbed-story/' | relative_url }}) ha
 
 The strength of the flatbed-truck testimony is also its principal limitation.
 
-A tarp-covered load can establish that something was being transported, but it cannot reliably identify what that something was. Witnesses observing a covered object from a distance are necessarily interpreting size, outline, and significance through the covering itself. The tarp prevents direct examination of shape, surface features, [markings]({{ 'markings/' | relative_url }}), construction materials, or other characteristics that might distinguish an aircraft component, space debris, equipment, or an entirely different object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesMany eyewitnesses reported seeing the military convoy coming out of the ravine. John...</span></span></span>
+A tarp-covered load can establish that something was being transported, but it cannot reliably identify what that something was. Witnesses observing a covered object from a distance are necessarily interpreting size, outline, and significance through the covering itself. The tarp prevents direct examination of shape, surface features, [markings]({{ 'markings/' | relative_url }}), construction materials, or other characteristics that might distinguish an aircraft component, space debris, equipment, or an entirely different object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesMany eyewitnesses reported seeing the military convoy coming out of the ravine. John...</span></span></span>
 
 This creates an evidential gap between two separate claims:
 
@@ -328,211 +328,211 @@ This creates an evidential gap between two separate claims:
 1. A covered load was transported.
 2. The transported load was the same acorn-shaped object reportedly seen in the woods.
 
-The first claim rests on witness observations of the truck. The second requires an additional inference that cannot be confirmed from the truck sighting alone. Even if one accepts the convoy reports as accurate, the covering means the witnesses could not independently verify the cargo's identity during transport. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesMany eyewitnesses reported seeing the military convoy coming out of the ravine. John...</span></span></span>
+The first claim rests on witness observations of the truck. The second requires an additional inference that cannot be confirmed from the truck sighting alone. Even if one accepts the convoy reports as accurate, the covering means the witnesses could not independently verify the cargo's identity during transport.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesMany eyewitnesses reported seeing the military convoy coming out of the ravine. John...</span></span></span>
 
-For historians and investigators, this distinction matters. The truck accounts may strengthen the argument that an object was removed from the area, but they do not establish whether that object was an extraterrestrial craft, military hardware, space debris, or something else entirely. The concealment that makes the story intriguing is also what limits its evidential value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+For historians and investigators, this distinction matters. The truck accounts may strengthen the argument that an object was removed from the area, but they do not establish whether that object was an extraterrestrial craft, military hardware, space debris, or something else entirely. The concealment that makes the story intriguing is also what limits its evidential value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_335442_covered_flatbed_clai_8126d5-Illustration-3-dark.svg" | relative_url }}" alt="Flatbed illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_335442_covered_flatbed_clai_8126d5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_acorn_object_335442_covered_flatbed_clai_8126d5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Lasting Importance of the Flatbed Narrative
 
-The reported flatbed truck remains one of the central pieces of witness testimony connected to the Kecksburg recovery story because it bridges the gap between alleged discovery and alleged removal. Without it, the narrative would largely end with claims that something unusual was seen in the woods. With it, the story acquires a second stage: transportation under official control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesMany eyewitnesses reported seeing the military convoy coming out of the ravine. John...</span></span></span>
+The reported flatbed truck remains one of the central pieces of witness testimony connected to the Kecksburg recovery story because it bridges the gap between alleged discovery and alleged removal. Without it, the narrative would largely end with claims that something unusual was seen in the woods. With it, the story acquires a second stage: transportation under official control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesMany eyewitnesses reported seeing the military convoy coming out of the ravine. John...</span></span></span>
 
-Yet the same testimony illustrates the limits of eyewitness evidence. Witnesses may have observed a truck, a convoy, and a covered load, but the covering itself prevents the truck sightings from resolving the central mystery. The flatbed reports support the possibility of a recovery operation; they do not, by themselves, reveal what was actually carried away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries+2Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesMany eyewitnesses reported seeing the military convoy coming out of the ravine. John...</span></span></span>
+Yet the same testimony illustrates the limits of eyewitness evidence. Witnesses may have observed a truck, a convoy, and a covered load, but the covering itself prevents the truck sightings from resolving the central mystery. The flatbed reports support the possibility of a recovery operation; they do not, by themselves, reveal what was actually carried away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[unsolved.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Kecksburg UFO</span><span class="citation-popover-snippet">Unsolved MysteriesKecksburg UFO - Unsolved MysteriesMany eyewitnesses reported seeing the military convoy coming out of the ravine. John...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tU7WSHZye5w" title="Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer">Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 68.0K &middot; Uploaded: March 2025 &middot; Length: 1 hour 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tU7WSHZye5w">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the Flatbed Truck Carry?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the Flatbed Truck Carry?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers evidence assessment, witness testimony and government involvement themes that mirror debates around the Kecksburg recovery and fla...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers evidence assessment, witness testimony and government involvement themes that mirror debates around the Kecksburg recovery and fla...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Top+Secret%2FMajic+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Top Secret/Majic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=at2_S8JV96cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Top Secret/Majic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Top+Secret%2FMajic+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Top Secret/Majic">Top Secret/Majic</a>
-        </h4>
-        <p class="fr-book-author">By Stanton T. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Top+Secret%2FMajic+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Top Secret/Majic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=at2_S8JV96cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Top Secret/Majic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Top+Secret%2FMajic+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Top Secret/Majic">Top Secret/Majic</a>
+</h4>
+<p class="fr-book-author">By Stanton T. Friedman</p>
         
-        <p class="fr-book-desc">Explores claims of recovered objects and military retrieval operations, providing context for how recovery stories are evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Top+Secret%2FMajic+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores claims of recovered objects and military retrieval operations, providing context for how recovery stories are evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Top+Secret%2FMajic+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding witness testimony, case classification and the limits of observational evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding witness testimony, case classification and the limits of observational evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides background on official investigations and the challenges of interpreting reports involving alleged recovered objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on official investigations and the challenges of interpreting reports involving alleged recovered objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Top+Secret%2FMajic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Top Secret/Majic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Top+Secret%2FMajic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Top Secret/Majic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Apollo 11 Kapton Gold Foil Relic | Certified flown in Command Module + COA"><img src="{{ '/assets/images/marketplace-covers/5701e8b618f46dd81ff6.jpg' | relative_url }}" alt="Listing image for Apollo 11 Kapton Gold Foil Relic | Certified flown in Command Module + COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer">Apollo 11 Kapton Gold Foil Relic | Certified flown in Command Module + COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: space collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Apollo 11 Kapton Gold Foil Relic | Certified flown in Command Module + COA"><img src="{{ '/assets/images/marketplace-covers/5701e8b618f46dd81ff6.jpg' | relative_url }}" alt="Listing image for Apollo 11 Kapton Gold Foil Relic | Certified flown in Command Module + COA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer">Apollo 11 Kapton Gold Foil Relic | Certified flown in Command Module + COA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: space collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Space Pin Badges Space Shuttle Launches Missions Anniversary Spacelab"><img src="{{ '/assets/images/marketplace-covers/e6981ac74e113d489c35.jpg' | relative_url }}" alt="Listing image for NASA Space Pin Badges Space Shuttle Launches Missions Anniversary Spacelab" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer">NASA Space Pin Badges Space Shuttle Launches Missions Anniversary Spacelab</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: space collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Space Pin Badges Space Shuttle Launches Missions Anniversary Spacelab"><img src="{{ '/assets/images/marketplace-covers/e6981ac74e113d489c35.jpg' | relative_url }}" alt="Listing image for NASA Space Pin Badges Space Shuttle Launches Missions Anniversary Spacelab" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer">NASA Space Pin Badges Space Shuttle Launches Missions Anniversary Spacelab</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: space collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SpaceX space x Starship , 1/64 scale - Massive 2.45 METERS READ DESCRIPTION"><img src="{{ '/assets/images/marketplace-covers/562aa25a01b6878735b5.jpg' | relative_url }}" alt="Listing image for SpaceX space x Starship , 1/64 scale - Massive 2.45 METERS READ DESCRIPTION" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer">SpaceX space x Starship , 1/64 scale - Massive 2.45 METERS READ DESCRIPTION</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: space collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SpaceX space x Starship , 1/64 scale - Massive 2.45 METERS READ DESCRIPTION"><img src="{{ '/assets/images/marketplace-covers/562aa25a01b6878735b5.jpg' | relative_url }}" alt="Listing image for SpaceX space x Starship , 1/64 scale - Massive 2.45 METERS READ DESCRIPTION" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer">SpaceX space x Starship , 1/64 scale - Massive 2.45 METERS READ DESCRIPTION</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: space collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artemis II Lunar Legacy Commemorative Coin Space Mission Collectible Coin Token"><img src="{{ '/assets/images/marketplace-covers/14910322689e67eb659e.jpg' | relative_url }}" alt="Listing image for Artemis II Lunar Legacy Commemorative Coin Space Mission Collectible Coin Token" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer">Artemis II Lunar Legacy Commemorative Coin Space Mission Collectible Coin Token</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: space collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artemis II Lunar Legacy Commemorative Coin Space Mission Collectible Coin Token"><img src="{{ '/assets/images/marketplace-covers/14910322689e67eb659e.jpg' | relative_url }}" alt="Listing image for Artemis II Lunar Legacy Commemorative Coin Space Mission Collectible Coin Token" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer">Artemis II Lunar Legacy Commemorative Coin Space Mission Collectible Coin Token</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: space collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space collectible" data-ebay-reference="flatbed-what-did-the-flatbed-truck-carry-kecksburg-ufo-incide-space-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ Yet the same testimony illustrates the limits of eyewitness evidence. Witnesses 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ Yet the same testimony illustrates the limits of eyewitness evidence. Witnesses 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ Yet the same testimony illustrates the limits of eyewitness evidence. Witnesses 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ Yet the same testimony illustrates the limits of eyewitness evidence. Witnesses 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ Yet the same testimony illustrates the limits of eyewitness evidence. Witnesses 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,101 +738,101 @@ Yet the same testimony illustrates the limits of eyewitness evidence. Witnesses 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: unsolved.com  
    Title: Mysteries Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO - Unsolved MysteriesMany eyewitnesses reported seeing the military convoy coming out of the ravine. John...</p></details>
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesKecksburg UFO - Unsolved MysteriesMany eyewitnesses reported seeing the military convoy coming out of the ravine. John...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: discoveryuk.com  
    Title: [the kecksburg ufo incident](&#123;&#123; 'the-kecksburg-ufo-incident/' | relative_url &#125;&#125;) a cold war mystery  
-   Link: <a href="https://www.discoveryuk.com/mysteries/the-kecksburg-ufo-incident-a-cold-war-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-kecksburg-ufo-incident-a-cold-war-mystery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>flatbed truck and sped away. The object was described as large, metallic, and acorn-shaped, emblazoned with [strange symbols](&amp;#123;&amp;#123; &#x27;symbols/&#x27; | relative_url &amp;#125;&amp;#125;) akin to hiero...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/the-kecksburg-ufo-incident-a-cold-war-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-kecksburg-ufo-incident-a-cold-war-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>flatbed truck and sped away. The object was described as large, metallic, and acorn-shaped, emblazoned with [strange symbols](&amp;#123;&amp;#123; &#x27;symbols/&#x27; | relative_url &amp;#125;&amp;#125;) akin to hiero...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — The Conclusion of the NASA Lawsuit - Concerning the Kecksburg,PA...</p></details>
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — The Conclusion of the NASA Lawsuit - Concerning the Kecksburg,PA...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pabook.libraries.psu.edu  
-   Link: <a href="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident" target="_blank" rel="noopener noreferrer nofollow">https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pennsylvania Authors RegistryAcorn from Space: The Kecksburg IncidentThis flatbed truck, carrying a mysterious object, was later seen lea...</p></details>
+   Link:<a href="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident" target="_blank" rel="noopener noreferrer nofollow">https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pennsylvania Authors RegistryAcorn from Space: The Kecksburg IncidentThis flatbed truck, carrying a mysterious object, was later seen lea...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: atlasobscura.com  
    Title: space acorn  
-   Link: <a href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/space-acorn</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in Kecksburg3 Jul 2013 — U.S. military personnel arrived shortly thereafter, sealed off the area, and were allegedly seen later removing...</p></details>
+   Link:<a href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/space-acorn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Kecksburg3 Jul 2013 — U.S. military personnel arrived shortly thereafter, sealed off the area, and were allegedly seen later removing...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s mysterious UFO landing 60 years agoSixty years ago, a December day changed the course of history for Kecksburg, a small commu...</p></details>
+   Link:<a href="https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/triblive/posts/sixty-years-ago-a-december-day-changed-the-course-of-history-for-kecksburg-a-sma/1154245740064800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s mysterious UFO landing 60 years agoSixty years ago, a December day changed the course of history for Kecksburg, a small commu...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the unidentified object up close before US military officials were able to...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the unidentified object up close before US military officials were able to...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: yahoo.com  
    Title: kecksburg incident remains mystery 60 035900487  
-   Link: <a href="https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg incident remains mystery 60 years later13 Jul 2025 — Reports at the time noted a strange bronze-colored, acorn-shaped object me...</p></details>
+   Link:<a href="https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/kecksburg-incident-remains-mystery-60-035900487.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg incident remains mystery 60 years later13 Jul 2025 — Reports at the time noted a strange bronze-colored, acorn-shaped object me...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: What Really Crashed in Pennsylvania?  
-   Link: <a href="https://www.facebook.com/centuryofwar/videos/the-kecksburg-incident-what-really-crashed-in-pennsylvaniain-1965-something-blaz/1254286443563639/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/centuryofwar/videos/the-kecksburg-incident-what-really-crashed-in-pennsylvaniain-1965-something-blaz/1254286443563639/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1965, something...Witnesses claimed it wasn&#x27;t a meteor at all—but a metallic, tear-shaped object covered in strange hieroglyphics. Be...</p></details>
+   Link:<a href="https://www.facebook.com/centuryofwar/videos/the-kecksburg-incident-what-really-crashed-in-pennsylvaniain-1965-something-blaz/1254286443563639/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/centuryofwar/videos/the-kecksburg-incident-what-really-crashed-in-pennsylvaniain-1965-something-blaz/1254286443563639/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1965, something...Witnesses claimed it wasn&#x27;t a meteor at all—but a metallic, tear-shaped object covered in strange hieroglyphics. Be...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: crash site of the 1965 kecksburg ufo  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The object looked like a literally giant acorn with Egyptian-hieroglyphic looking writing on the rim. I never seen a photo of the farm wh...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The object looked like a literally giant acorn with Egyptian-hieroglyphic looking writing on the rim. I never seen a photo of the farm wh...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: basementofthebizarre.com  
    Title: kecksburg ufo incident 1965 mystery  
-   Link: <a href="https://basementofthebizarre.com/2026/06/04/kecksburg-ufo-incident-1965-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://basementofthebizarre.com/2026/06/04/kecksburg-ufo-incident-1965-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg Incident: Pennsylvania&#x27;s “Area 51” Moment4 Jun 2026 — The Removal: Late that night, witnesses reported seeing a flatbed tru...</p></details>
+   Link:<a href="https://basementofthebizarre.com/2026/06/04/kecksburg-ufo-incident-1965-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://basementofthebizarre.com/2026/06/04/kecksburg-ufo-incident-1965-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg Incident: Pennsylvania&#x27;s “Area 51” Moment4 Jun 2026 — The Removal: Late that night, witnesses reported seeing a flatbed tru...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: tvi.show  
    Title: the 1965 kecksburg ufo crash  
-   Link: <a href="https://www.tvi.show/skywatch-files/the-1965-kecksburg-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/the-1965-kecksburg-ufo-crash</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pennsylvania&#x27;s Roswell...1 May 2026 — Late on the evening of December 9, witnesses saw a large flatbed truck—accompanied by military esc...</p></details>
+   Link:<a href="https://www.tvi.show/skywatch-files/the-1965-kecksburg-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/the-1965-kecksburg-ufo-crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pennsylvania&#x27;s Roswell...1 May 2026 — Late on the evening of December 9, witnesses saw a large flatbed truck—accompanied by military esc...</p></details>
    Published: May 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theclio.com  
    Title: Kecksburg UFO Incident  
-   Link: <a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ClioMany eye-witness testimony described the object as being metallic and acorn-shaped with odd hieroglyphics written on it. The Kecksbur...</p></details>
+   Link:<a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ClioMany eye-witness testimony described the object as being metallic and acorn-shaped with odd hieroglyphics written on it. The Kecksbur...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: poorstuart.com  
    Title: The Kecksburg Incident  
-   Link: <a href="https://www.poorstuart.com/podcast-episode/Astonishing-Legends/The-Kecksburg-Incident/159463/" target="_blank" rel="noopener noreferrer nofollow">https://www.poorstuart.com/podcast-episode/Astonishing-Legends/The-Kecksburg-Incident/159463/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astonishing LegendsSo often the event of a mysterious object falling to earth has too few witnesses or leaves no evidence, but this is no...</p></details>
+   Link:<a href="https://www.poorstuart.com/podcast-episode/Astonishing-Legends/The-Kecksburg-Incident/159463/" target="_blank" rel="noopener noreferrer nofollow">https://www.poorstuart.com/podcast-episode/Astonishing-Legends/The-Kecksburg-Incident/159463/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astonishing LegendsSo often the event of a mysterious object falling to earth has too few witnesses or leaves no evidence, but this is no...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cbsnews.com  
    Title: nasa court ordered to search for ufo docs  
-   Link: <a href="https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Court-Ordered To Search For UFO Docs27 Oct 2007 — NASA has agreed to search its archives once again for documents on a 1965 UFO inci...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Court-Ordered To Search For UFO Docs27 Oct 2007 — NASA has agreed to search its archives once again for documents on a 1965 UFO inci...</p></details>

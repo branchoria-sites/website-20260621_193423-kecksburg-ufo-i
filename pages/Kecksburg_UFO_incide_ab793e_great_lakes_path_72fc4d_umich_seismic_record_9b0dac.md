@@ -280,15 +280,15 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_umich_
 
 ## Introduction
 
-The University of Michigan seismic record is one of the most important pieces of [physical evidence]({{ 'no-object/' | relative_url }}) in the reconstruction of the 9 December 1965 fireball associated with [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}). Unlike witness testimony, which can vary with perception and memory, the seismic trace provided an instrumentally recorded event tied to a specific time and place. For investigators reconstructing the Detroit–Windsor segment of the fireball's path, the seismograph offered an independent benchmark against which photographs, pilot reports and public sightings could be compared. As a result, the seismic record became a key reason why later scientific analyses treated the event as a regional atmospheric fireball rather than relying solely on local crash narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The University of Michigan seismic record is one of the most important pieces of [physical evidence]({{ 'no-object/' | relative_url }}) in the reconstruction of the 9 December 1965 fireball associated with [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}). Unlike witness testimony, which can vary with perception and memory, the seismic trace provided an instrumentally recorded event tied to a specific time and place. For investigators reconstructing the Detroit–Windsor segment of the fireball's path, the seismograph offered an independent benchmark against which photographs, pilot reports and public sightings could be compared. As a result, the seismic record became a key reason why later scientific analyses treated the event as a regional atmospheric fireball rather than relying solely on local crash narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_umich_seismic_record_9b0dac-Illustration-1-dark.svg" | relative_url }}" alt="Seismic Record illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_umich_seismic_record_9b0dac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_umich_seismic_record_9b0dac-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Seismograph Behind the Fireball Case
 
-One of the most influential scientific studies of the 1965 event was published in the *Journal of the Royal Astronomical Society of Canada* by astronomers Dennis Chamberlain and Roy A. Krause. Their reconstruction did not depend exclusively on eyewitness accounts. Instead, they combined photographs of the lingering trail with a seismic record obtained from a University of Michigan geophysical station southwest of Detroit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+One of the most influential scientific studies of the 1965 event was published in the *Journal of the Royal Astronomical Society of Canada* by astronomers Dennis Chamberlain and Roy A. Krause. Their reconstruction did not depend exclusively on eyewitness accounts. Instead, they combined photographs of the lingering trail with a seismic record obtained from a University of Michigan geophysical station southwest of Detroit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-The significance of the seismic measurement lies in what it represented. The instrument did not record a solid object striking the ground. Rather, it detected ground motion generated by atmospheric [shock waves]({{ 'shock-waves/' | relative_url }}) associated with the passage of an exceptionally bright bolide. Such shock waves are well known in meteor science: when a large object travels through the atmosphere at hypersonic speed, it can create sonic disturbances that couple into the ground and become detectable on sensitive seismographs. Modern fireball research continues to recognise these ground-coupled acoustic signals as legitimate seismic signatures of atmospheric meteors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2102.11534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Statistical analysis of fireballs: Seismic signature survey</span><span class="citation-popover-snippet">Statistical analysis of fireballs: Seismic signature surveyFebruary 23, 2021...</span><span class="citation-popover-meta">Published: February 23, 2021</span></span></span>
+The significance of the seismic measurement lies in what it represented. The instrument did not record a solid object striking the ground. Rather, it detected ground motion generated by atmospheric [shock waves]({{ 'shock-waves/' | relative_url }}) associated with the passage of an exceptionally bright bolide. Such shock waves are well known in meteor science: when a large object travels through the atmosphere at hypersonic speed, it can create sonic disturbances that couple into the ground and become detectable on sensitive seismographs. Modern fireball research continues to recognise these ground-coupled acoustic signals as legitimate seismic signatures of atmospheric meteors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2102.11534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Statistical analysis of fireballs: Seismic signature survey</span><span class="citation-popover-snippet">Statistical analysis of fireballs: Seismic signature surveyFebruary 23, 2021...</span><span class="citation-popover-meta">Published: February 23, 2021</span></span></span>
 
 For the 1965 case, the recorded signal supplied something eyewitnesses could not provide reliably: an objective timestamp.
 
@@ -297,11 +297,11 @@ For the 1965 case, the recorded signal supplied something eyewitnesses could not
 
 ## What the Seismic Record Added
 
-The strongest contribution of the University of Michigan record was temporal precision. Scientific analyses of the event identified the fireball's passage over the Detroit area at approximately 4:43 p.m. Eastern Standard Time. The seismic trace helped establish this [timing]({{ 'timing/' | relative_url }}) independently of human recollection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The strongest contribution of the University of Michigan record was temporal precision. Scientific analyses of the event identified the fireball's passage over the Detroit area at approximately 4:43 p.m. Eastern Standard Time. The seismic trace helped establish this [timing]({{ 'timing/' | relative_url }}) independently of human recollection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-This mattered because reports flooded in from a huge geographical area. People across multiple states and Ontario described bright light, sonic booms, vibrations and apparent descents toward the horizon. In such circumstances, [witnesses]({{ 'witnesses/' | relative_url }}) in different locations often believe an object landed near them. A precisely timed instrumental record provided a fixed point against which the broader body of observations could be organised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+This mattered because reports flooded in from a huge geographical area. People across multiple states and Ontario described bright light, sonic booms, vibrations and apparent descents toward the horizon. In such circumstances, [witnesses]({{ 'witnesses/' | relative_url }}) in different locations often believe an object landed near them. A precisely timed instrumental record provided a fixed point against which the broader body of observations could be organised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-The seismic evidence also strengthened the argument that the event was a genuine physical atmospheric phenomenon rather than a purely observational misunderstanding. Whether one favours a meteor explanation, a spacecraft re-entry hypothesis, or another interpretation, the seismic trace demonstrates that an energetic event capable of producing detectable shock effects occurred in the Detroit–Windsor region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The seismic evidence also strengthened the argument that the event was a genuine physical atmospheric phenomenon rather than a purely observational misunderstanding. Whether one favours a meteor explanation, a spacecraft re-entry hypothesis, or another interpretation, the seismic trace demonstrates that an energetic event capable of producing detectable shock effects occurred in the Detroit–Windsor region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_umich_seismic_record_9b0dac-Illustration-2-dark.svg" | relative_url }}" alt="Seismic Record illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_umich_seismic_record_9b0dac-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_umich_seismic_record_9b0dac-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -309,9 +309,9 @@ The seismic evidence also strengthened the argument that the event was a genuine
 
 The Detroit–Windsor reconstruction depended on combining different types of evidence that compensated for one another's weaknesses.
 
-The photographs used by Chamberlain and Krause provided geometric information. By comparing images of the persistent trail from separate locations, they could estimate the fireball's direction and altitude. The seismic record supplied a complementary constraint: when the shock effects reached the monitoring station. Together, these data points helped investigators calculate a trajectory rather than merely collecting descriptions of where people thought the object had gone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The photographs used by Chamberlain and Krause provided geometric information. By comparing images of the persistent trail from separate locations, they could estimate the fireball's direction and altitude. The seismic record supplied a complementary constraint: when the shock effects reached the monitoring station. Together, these data points helped investigators calculate a trajectory rather than merely collecting descriptions of where people thought the object had gone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-The resulting reconstruction placed the fireball on a steep path over the [Great Lakes]({{ 'great-lakes/' | relative_url }}) region, with its disappearance occurring near the Windsor area rather than over Kecksburg itself. The importance of the seismic record is therefore not that it revealed a crash site. Its value was that it helped anchor the timing of the atmospheric event, making a trajectory analysis possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The resulting reconstruction placed the fireball on a steep path over the [Great Lakes]({{ 'great-lakes/' | relative_url }}) region, with its disappearance occurring near the Windsor area rather than over Kecksburg itself. The importance of the seismic record is therefore not that it revealed a crash site. Its value was that it helped anchor the timing of the atmospheric event, making a trajectory analysis possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 This distinction is often overlooked in popular retellings. The seismograph did not prove where an object landed, nor did it identify the object's nature. What it did provide was an objective physical marker that could be incorporated into a broader reconstruction.
 
@@ -322,213 +322,213 @@ This distinction is often overlooked in popular retellings. The seismograph did 
 
 Although the University of Michigan record is frequently cited as one of the strongest physical datasets connected to the incident, its evidential power has clear limits.
 
-First, seismic instruments record disturbances, not identities. A shock wave from a meteor, a fragmenting bolide, or another high-speed atmospheric object can generate similar signatures. The seismograph therefore cannot distinguish between competing explanations by itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2102.11534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Statistical analysis of fireballs: Seismic signature survey</span><span class="citation-popover-snippet">Statistical analysis of fireballs: Seismic signature surveyFebruary 23, 2021...</span><span class="citation-popover-meta">Published: February 23, 2021</span></span></span>
+First, seismic instruments record disturbances, not identities. A shock wave from a meteor, a fragmenting bolide, or another high-speed atmospheric object can generate similar signatures. The seismograph therefore cannot distinguish between competing explanations by itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2102.11534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Statistical analysis of fireballs: Seismic signature survey</span><span class="citation-popover-snippet">Statistical analysis of fireballs: Seismic signature surveyFebruary 23, 2021...</span><span class="citation-popover-meta">Published: February 23, 2021</span></span></span>
 
-Second, the record is indirect evidence. Investigators inferred the fireball's behaviour from the timing and characteristics of the shock wave rather than from a direct recording of the object. The interpretation depends on models of atmospheric propagation and on correlation with other observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2102.11534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Statistical analysis of fireballs: Seismic signature survey</span><span class="citation-popover-snippet">Statistical analysis of fireballs: Seismic signature surveyFebruary 23, 2021...</span><span class="citation-popover-meta">Published: February 23, 2021</span></span></span>
+Second, the record is indirect evidence. Investigators inferred the fireball's behaviour from the timing and characteristics of the shock wave rather than from a direct recording of the object. The interpretation depends on models of atmospheric propagation and on correlation with other observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2102.11534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Statistical analysis of fireballs: Seismic signature survey</span><span class="citation-popover-snippet">Statistical analysis of fireballs: Seismic signature surveyFebruary 23, 2021...</span><span class="citation-popover-meta">Published: February 23, 2021</span></span></span>
 
-Third, the seismic evidence pertains primarily to the Detroit–Windsor phase of the event. It does not directly address later claims from Kecksburg concerning military activity, recovered objects or alleged crash debris. Those claims must be evaluated using separate evidence. The seismograph can help reconstruct the [regional fireball]({{ 'fireball-map/' | relative_url }}), but it cannot resolve every controversy associated with the wider Kecksburg story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Third, the seismic evidence pertains primarily to the Detroit–Windsor phase of the event. It does not directly address later claims from Kecksburg concerning military activity, recovered objects or alleged crash debris. Those claims must be evaluated using separate evidence. The seismograph can help reconstruct the [regional fireball]({{ 'fireball-map/' | relative_url }}), but it cannot resolve every controversy associated with the wider Kecksburg story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_umich_seismic_record_9b0dac-Illustration-3-dark.svg" | relative_url }}" alt="Seismic Record illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_umich_seismic_record_9b0dac-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_umich_seismic_record_9b0dac-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Record Remains Important
 
-Among the many sources cited in discussions of the Kecksburg incident, the University of Michigan seismic record stands out because it is not dependent on memory, folklore or retrospective testimony. It represents a contemporaneous physical measurement made by scientific instrumentation. Together with the Michigan trail photographs, it allowed investigators to move beyond anecdotal reports and develop a structured reconstruction of the fireball's movement through the Detroit–Windsor region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Among the many sources cited in discussions of the Kecksburg incident, the University of Michigan seismic record stands out because it is not dependent on memory, folklore or retrospective testimony. It represents a contemporaneous physical measurement made by scientific instrumentation. Together with the Michigan trail photographs, it allowed investigators to move beyond anecdotal reports and develop a structured reconstruction of the fireball's movement through the Detroit–Windsor region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-For that reason, the seismic trace remains one of the most significant datasets in the case. It does not solve the Kecksburg mystery, but it provides a measurable anchor point that any serious reconstruction of the 9 December 1965 event must account for. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+For that reason, the seismic trace remains one of the most significant datasets in the case. It does not solve the Kecksburg mystery, but it provides a measurable anchor point that any serious reconstruction of the 9 December 1965 event must account for.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8cdF_z71TRw" title="The Mysterious Fireball That Terrified 8 States — Then Vanished" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8cdF_z71TRw" target="_blank" rel="noopener noreferrer">The Mysterious Fireball That Terrified 8 States — Then Vanished</a></p><p class="youtube-embed-meta">Channel: Motech</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8cdF_z71TRw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8cdF_z71TRw">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Seismograph Behind the Fireball Case. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Seismograph Behind the Fireball Case. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Science and Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BSAIAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteor Science and Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
-        </h4>
-        <p class="fr-book-author">By Donald William Robert McKinley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Science and Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BSAIAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteor Science and Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
+</h4>
+<p class="fr-book-author">By Donald William Robert McKinley</p>
         
-        <p class="fr-book-desc">Directly relevant to shock waves, bolides, and instrumented observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to shock waves, bolides, and instrumented observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines cases with supporting data and documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines cases with supporting data and documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evidence assessment rather than speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidence assessment rather than speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Firestorm+by+Ann+Druffel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Firestorm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xGD0wAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Firestorm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Firestorm+by+Ann+Druffel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Firestorm">Firestorm</a>
-        </h4>
-        <p class="fr-book-author">By Ann Druffel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Firestorm+by+Ann+Druffel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Firestorm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xGD0wAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Firestorm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Firestorm+by+Ann+Druffel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Firestorm">Firestorm</a>
+</h4>
+<p class="fr-book-author">By Ann Druffel</p>
         
-        <p class="fr-book-desc">Highlights attempts to apply scientific methods to anomalous reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Firestorm+by+Ann+Druffel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights attempts to apply scientific methods to anomalous reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Firestorm+by+Ann+Druffel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Science and Engineering</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Science and Engineering</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of The Great Lakes Michigan USA 1764 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/0a70b40261a001044873.jpg' | relative_url }}" alt="Listing image for Map Of The Great Lakes Michigan USA 1764 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of The Great Lakes Michigan USA 1764 Vintage Historic Map Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of The Great Lakes Michigan USA 1764 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/0a70b40261a001044873.jpg' | relative_url }}" alt="Listing image for Map Of The Great Lakes Michigan USA 1764 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of The Great Lakes Michigan USA 1764 Vintage Historic Map Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print"><img src="{{ '/assets/images/marketplace-covers/31fb5486de8394b97a2a.jpg' | relative_url }}" alt="Listing image for Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print"><img src="{{ '/assets/images/marketplace-covers/31fb5486de8394b97a2a.jpg' | relative_url }}" alt="Listing image for Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/d08323b3733fc5c4b9fd.jpg' | relative_url }}" alt="Listing image for Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/d08323b3733fc5c4b9fd.jpg' | relative_url }}" alt="Listing image for Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/a4702a69b8c69ab6582b.jpg' | relative_url }}" alt="Listing image for Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/a4702a69b8c69ab6582b.jpg' | relative_url }}" alt="Listing image for Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="seismic-record-the-seismograph-behind-the-fireball-case-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ For that reason, the seismic trace remains one of the most significant datasets 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ For that reason, the seismic trace remains one of the most significant datasets 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ For that reason, the seismic trace remains one of the most significant datasets 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ For that reason, the seismic trace remains one of the most significant datasets 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ For that reason, the seismic trace remains one of the most significant datasets 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,100 +734,100 @@ For that reason, the seismic trace remains one of the most significant datasets 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Statistical analysis of fireballs: Seismic signature survey  
-   Link: <a href="https://arxiv.org/abs/2102.11534" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2102.11534</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistical analysis of fireballs: Seismic signature surveyFebruary 23, 2021...</p></details>
+   Link:<a href="https://arxiv.org/abs/2102.11534" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2102.11534</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statistical analysis of fireballs: Seismic signature surveyFebruary 23, 2021...</p></details>
    Published: February 23, 2021  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: michigan.gov  
-   Link: <a href="https://www.michigan.gov/-/media/Project/Websites/egle/Documents/Programs/GRMD/Catalog/02/BU-05opt.pdf?rev=90b7e40c458741ddb871c397730d9a19" target="_blank" rel="noopener noreferrer nofollow">https://www.michigan.gov/-/media/Project/Websites/egle/Documents/Programs/GRMD/Catalog/02/BU-05opt.pdf?rev=90b7e40c458741ddb871c397730d9a19</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>meteorites of michiganThe author and his colleagues documented the December 9, 1965 fireball in Vol. 61, August, 1967 of the Journal of t...</p></details>
+   Link:<a href="https://www.michigan.gov/-/media/Project/Websites/egle/Documents/Programs/GRMD/Catalog/02/BU-05opt.pdf?rev=90b7e40c458741ddb871c397730d9a19" target="_blank" rel="noopener noreferrer nofollow">https://www.michigan.gov/-/media/Project/Websites/egle/Documents/Programs/GRMD/Catalog/02/BU-05opt.pdf?rev=90b7e40c458741ddb871c397730d9a19</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>meteorites of michiganThe author and his colleagues documented the December 9, 1965 fireball in Vol. 61, August, 1967 of the Journal of t...</p></details>
    Published: December 9, 1965  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
    Title: The Kecksburg Mystery | Sunday Roast  
-   Link: <a href="https://www.facebook.com/sunday.roast.media/videos/the-kecksburg-mystery/830434049690187/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sunday.roast.media/videos/the-kecksburg-mystery/830434049690187/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania. 00:05. The...</p></details>
+   Link:<a href="https://www.facebook.com/sunday.roast.media/videos/the-kecksburg-mystery/830434049690187/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sunday.roast.media/videos/the-kecksburg-mystery/830434049690187/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania. 00:05. The...</p></details>
    Published: December 9, 1965  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: unsolved.com  
    Title: Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries“Astronomers who looked into the case at the time basically felt that the object in question was a [bolides](&amp;#123;&amp;#123; &#x27;bolides/&#x27; | relative_url &amp;#125;&amp;#125;), which was a...</p></details>
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries“Astronomers who looked into the case at the time basically felt that the object in question was a [bolides](&amp;#123;&amp;#123; &#x27;bolides/&#x27; | relative_url &amp;#125;&amp;#125;), which was a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theclio.com  
    Title: Kecksburg UFO Incident  
-   Link: <a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ClioThe Kecksburg UFO Incident happened December 9, 1965 when a mysterious glowing ball of fire crash landed in a small Pennsylvanian town...</p></details>
+   Link:<a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ClioThe Kecksburg UFO Incident happened December 9, 1965 when a mysterious glowing ball of fire crash landed in a small Pennsylvanian town...</p></details>
    Published: December 9, 1965  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/335120697_The_Hamburg_meteorite_fall_Fireball_trajectory_orbit_and_dynamics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335120697_The_Hamburg_meteorite_fall_Fireball_trajectory_orbit_and_dynamics</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The fireball initial velocity was 15.83 ± 0.05 km s−1, Journal of the Royal Astronomical Society of Canada, 55(5), 218–228...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/335120697_The_Hamburg_meteorite_fall_Fireball_trajectory_orbit_and_dynamics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335120697_The_Hamburg_meteorite_fall_Fireball_trajectory_orbit_and_dynamics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The fireball initial velocity was 15.83 ± 0.05 km s−1, Journal of the Royal Astronomical Society of Canada, 55(5), 218–228...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/realtime1960s/posts/dec-10-1965-a-sudden-flash-lit-the-early-evening-sky-over-michigan-and-nearby-st/1436371191827214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/realtime1960s/posts/dec-10-1965-a-sudden-flash-lit-the-early-evening-sky-over-michigan-and-nearby-st/1436371191827214/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A large, brilliant fireball is seen by thousands in at least six states and Ontario, Canada. It streaks over the Detroit, Michigan–...Re...</p></details>
+   Link:<a href="https://www.facebook.com/realtime1960s/posts/dec-10-1965-a-sudden-flash-lit-the-early-evening-sky-over-michigan-and-nearby-st/1436371191827214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/realtime1960s/posts/dec-10-1965-a-sudden-flash-lit-the-early-evening-sky-over-michigan-and-nearby-st/1436371191827214/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A large, brilliant fireball is seen by thousands in at least six states and Ontario, Canada. It streaks over the Detroit, Michigan–...Re...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DSGVLY4DKBF/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSGVLY4DKBF/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“a fireball, or bolide” — a fast-moving object of stone...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DSGVLY4DKBF/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSGVLY4DKBF/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“a fireball, or bolide” — a fast-moving object of stone...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: Today is the 60th Anniversary of Western  
-   Link: <a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 2025 — It is believed, by many, that on the early evening of December 9, 1965, “something” fell from the sky - and into some...</p></details>
+   Link:<a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 2025 — It is believed, by many, that on the early evening of December 9, 1965, “something” fell from the sky - and into some...</p></details>
    Published: December 9, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: roadunraveled.com  
    Title: kecksburg ufo crash pennsylvania  
-   Link: <a href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Crash and the Roswell of Pennsylvania1 Oct 2020 — A raging fireball was reportedly seen falling from the sky before fin...</p></details>
+   Link:<a href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Crash and the Roswell of Pennsylvania1 Oct 2020 — A raging fireball was reportedly seen falling from the sky before fin...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: states and Canada over Detroit,  
-   Link: <a href="https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On the evening of December 9, 1965, a massive, brilliant fireball...March 26, 2026 — The Kecksburg UFO incident occurred on December 9...</p></details>
+   Link:<a href="https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On the evening of December 9, 1965, a massive, brilliant fireball...March 26, 2026 — The Kecksburg UFO incident occurred on December 9...</p></details>
    Published: December 9, 1965  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: open.spotify.com  
    Title: com254: Kecksburg UFO Incident  
-   Link: <a href="https://open.spotify.com/episode/786dJjQhJQ7YcPFGhlLga2" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/786dJjQhJQ7YcPFGhlLga2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com254: Kecksburg UFO Incident - SpotifyFebruary 12, 2026 — The guys&#x27; discussion is “out of this world” good…The Kecksburg UFO In...</p></details>
+   Link:<a href="https://open.spotify.com/episode/786dJjQhJQ7YcPFGhlLga2" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/786dJjQhJQ7YcPFGhlLga2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com254: Kecksburg UFO Incident - SpotifyFebruary 12, 2026 — The guys&#x27; discussion is “out of this world” good…The Kecksburg UFO In...</p></details>
    Published: February 12, 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: adsabs.harvard.edu  
-   Link: <a href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1967JRASC..61..184C</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — December 9, 1965 a brilliant fireball ・ booms were heard in th...</p></details>
+   Link:<a href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1967JRASC..61..184C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball of December 9, 1965-Part Iby VD Chamberlain · 1967 · Cited by 6 — December 9, 1965 a brilliant fireball ・ booms were heard in th...</p></details>
    Published: December 9, 1965  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: news.umich.edu  
-   Link: <a href="https://news.umich.edu/january-2018-michigan-meteor-provides-trove-of-scientific-insights/" target="_blank" rel="noopener noreferrer nofollow">https://news.umich.edu/january-2018-michigan-meteor-provides-trove-of-scientific-insights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2018 Michigan meteor provides trove of scientific...20 Aug 2018 — More than 600 sightings of the fireball were reported, along with repo...</p></details>
+   Link:<a href="https://news.umich.edu/january-2018-michigan-meteor-provides-trove-of-scientific-insights/" target="_blank" rel="noopener noreferrer nofollow">https://news.umich.edu/january-2018-michigan-meteor-provides-trove-of-scientific-insights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2018 Michigan meteor provides trove of scientific...20 Aug 2018 — More than 600 sightings of the fireball were reported, along with repo...</p></details>

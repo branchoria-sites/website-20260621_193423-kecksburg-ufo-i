@@ -447,37 +447,37 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_media_reconstruction_9160d9-ov
 
 ## Introduction
 
-In [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}), media reconstruction did not merely popularise an old mystery; it helped give the mystery its most recognisable shape. The best-attested original event was a wide-area fireball on 9 December 1965, later analysed with photographs and a seismograph record as a meteor-like event over the [Great Lakes]({{ 'great-lakes/' | relative_url }}) region. The most familiar image today, however, is more specific: a car-sized, acorn-shaped object with markings, hauled away by the military. That image rests mainly on later witness accounts, television retellings, and a life-sized prop that became a local landmark. The key question is therefore not whether the Kecksburg story is “real” or “fake”, but when a reconstruction becomes so vivid that later audiences start treating it like original evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+In [the Kecksburg UFO incident]({{ 'the-kecksburg-ufo-incident/' | relative_url }}), media reconstruction did not merely popularise an old mystery; it helped give the mystery its most recognisable shape. The best-attested original event was a wide-area fireball on 9 December 1965, later analysed with photographs and a seismograph record as a meteor-like event over the [Great Lakes]({{ 'great-lakes/' | relative_url }}) region. The most familiar image today, however, is more specific: a car-sized, acorn-shaped object with markings, hauled away by the military. That image rests mainly on later witness accounts, television retellings, and a life-sized prop that became a local landmark. The key question is therefore not whether the Kecksburg story is “real” or “fake”, but when a reconstruction becomes so vivid that later audiences start treating it like original evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_media_reconstruction_9160d9-overview.webp" | relative_url }}" alt="Overview image for Media Effects" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Kecksburg image is stronger than the paper trail
 
-The original evidence base for Kecksburg is uneven. Contemporary reports and later scientific analysis support a dramatic sky event, but they do not provide a verified recovered object, a chain of custody, laboratory results, official inventory, or released photograph of the alleged acorn-shaped craft. A 1967 article in the *Journal of the Royal Astronomical Society of Canada* analysed the 9 December 1965 fireball using photographic and seismic evidence, placing the event in a broader Great Lakes context rather than treating Kecksburg as the sole physical endpoint. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+The original evidence base for Kecksburg is uneven. Contemporary reports and later scientific analysis support a dramatic sky event, but they do not provide a verified recovered object, a chain of custody, laboratory results, official inventory, or released photograph of the alleged acorn-shaped craft. A 1967 article in the *Journal of the Royal Astronomical Society of Canada* analysed the 9 December 1965 fireball using photographic and seismic evidence, placing the event in a broader Great Lakes context rather than treating Kecksburg as the sole physical endpoint.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
-That matters because a fireball can generate sincere local reports of something “coming down” without leaving a recoverable spacecraft-like object in the place where observers believe it landed. The early record also contains a tension that later retellings tend to smooth over: reports of officials searching and securing the area sit alongside accounts that state troopers and Air Force personnel found nothing after searching the woods. Later versions often foreground the military removal story, while the “no object found” strand becomes less memorable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+That matters because a fireball can generate sincere local reports of something “coming down” without leaving a recoverable spacecraft-like object in the place where observers believe it landed. The early record also contains a tension that later retellings tend to smooth over: reports of officials searching and securing the area sit alongside accounts that state troopers and Air Force personnel found nothing after searching the woods. Later versions often foreground the military removal story, while the “no object found” strand becomes less memorable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 The media version filled this gap with a coherent visual narrative. Instead of a confusing evening of fireball reports, police activity, rumours, and failed searches, viewers were given a compact scene: an object in the woods, [witnesses]({{ 'witnesses/' | relative_url }}) looking at it, soldiers arriving, and a covered shape leaving on a [flatbed]({{ 'flatbed/' | relative_url }}) truck. As storytelling, that is powerful. As evidence, it has to be separated from what can be traced to contemporary documentation.
 
 ## Documentary retellings
 
-The 1990 *Unsolved Mysteries* segment was a turning point because it translated scattered claims into television grammar. It used interviews, narration, suspense music, staged scenes, and a physical model to make the alleged recovery legible to a national audience. The programme’s account helped cement the [acorn shape]({{ 'acorn-shape/' | relative_url }}), the Volkswagen-size comparison, the strange [markings]({{ 'markings/' | relative_url }}), and the military removal sequence as the dominant public image of Kecksburg. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The 1990 *Unsolved Mysteries* segment was a turning point because it translated scattered claims into television grammar. It used interviews, narration, suspense music, staged scenes, and a physical model to make the alleged recovery legible to a national audience. The programme’s account helped cement the [acorn shape]({{ 'acorn-shape/' | relative_url }}), the Volkswagen-size comparison, the strange [markings]({{ 'markings/' | relative_url }}), and the military removal sequence as the dominant public image of Kecksburg.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 This is not unusual for mystery television. Reconstruction gives viewers a scene where the surviving evidence may only offer fragments. The problem is that the reconstructed scene can feel more complete than the underlying record. Once the same image is repeated in later articles, travel writing, festival material, documentaries, and online summaries, the line between “what a programme depicted” and “what was independently documented” becomes harder for casual readers to see.
 
-The 2003 Sci Fi Channel documentary, *The New Roswell: Kecksburg Exposed*, shows a second media mechanism: entertainment-driven investigation can generate real records while also intensifying the legend. The programme was tied to efforts by investigative reporter Leslie Kean and others to obtain government records, eventually leading to a Freedom of Information Act lawsuit against NASA. The resulting court record is important, but it documents search adequacy, missing records, and agency procedure rather than proving the object shown in television reconstructions existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imdb.com/title/tt0385120/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Open source on imdb.com.</span></span></span>
+The 2003 Sci Fi Channel documentary, *The New Roswell: Kecksburg Exposed*, shows a second media mechanism: entertainment-driven investigation can generate real records while also intensifying the legend. The programme was tied to efforts by investigative reporter Leslie Kean and others to obtain government records, eventually leading to a Freedom of Information Act lawsuit against NASA. The resulting court record is important, but it documents search adequacy, missing records, and agency procedure rather than proving the object shown in television reconstructions existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imdb.com/title/tt0385120/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Open source on imdb.com.</span></span></span>
 
-The court’s 2007 memorandum opinion says Kean sought NASA documents about the 1965 Kecksburg incident and that NASA admitted its first two searches were inadequate. It also states that NASA had conducted multiple searches and that the court found NASA had not yet met its burden of showing the search was adequate. That is meaningful evidence of a flawed records search, not evidence of a recovered extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/nasa/USCOURTS-dcd-1_03-cv-02509-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+The court’s 2007 memorandum opinion says Kean sought NASA documents about the 1965 Kecksburg incident and that NASA admitted its first two searches were inadequate. It also states that NASA had conducted multiple searches and that the court found NASA had not yet met its burden of showing the search was adequate. That is meaningful evidence of a flawed records search, not evidence of a recovered extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/nasa/USCOURTS-dcd-1_03-cv-02509-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_media_reconstruction_9160d9-Illustration-1-dark.svg" | relative_url }}" alt="Media Effects illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_media_reconstruction_9160d9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_media_reconstruction_9160d9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Props and visual anchors
 
-The most revealing object in the Kecksburg media story is not the alleged 1965 object. It is the later replica. Roadside America reports that *Unsolved Mysteries* built a life-sized “Space Acorn” for its 1990 docudrama because this was before inexpensive computer-generated effects; after filming, the prop was left in Kecksburg and eventually became a local roadside attraction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America.com Space Acorn</span><span class="citation-popover-snippet">Roadside America.com Space Acorn</span></span></span>
+The most revealing object in the Kecksburg media story is not the alleged 1965 object. It is the later replica. Roadside America reports that *Unsolved Mysteries* built a life-sized “Space Acorn” for its 1990 docudrama because this was before inexpensive computer-generated effects; after filming, the prop was left in Kecksburg and eventually became a local roadside attraction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America.com Space Acorn</span><span class="citation-popover-snippet">Roadside America.com Space Acorn</span></span></span>
 
 That prop changed the case because it gave an absence a [shape]({{ 'shape/' | relative_url }}). Before the replica, the alleged object existed mostly in descriptions: acorn-shaped, metallic, marked, about the size of a small car. After the replica, visitors, journalists, photographers, bloggers, and television crews could point to something. A physical object in a public place is easier to remember, easier to photograph, and easier to turn into a symbol than a disputed witness account.
 
-The replica also fed local identity and tourism. The Kecksburg Volunteer Fire Department used the acorn image for fundraising, souvenirs, festivals, and a UFO store. Reporting in JEMS described the replica as donated by *Unsolved Mysteries* and used as a beacon for visitors, while also noting that the fire department sold merchandise and hoped the mystery could support local fundraising. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jems.com/ems-operations/pa-fire-ems-service-cashes-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jems.com">[JEMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jems.com</span><span class="citation-popover-title">Pa. Fire &amp; EMS Service Cashes in on UFO Mystery</span><span class="citation-popover-snippet">Pa. Fire &amp; EMS Service Cashes in on UFO Mystery</span></span></span>
+The replica also fed local identity and tourism. The Kecksburg Volunteer Fire Department used the acorn image for fundraising, souvenirs, festivals, and a UFO store. Reporting in JEMS described the replica as donated by *Unsolved Mysteries* and used as a beacon for visitors, while also noting that the fire department sold merchandise and hoped the mystery could support local fundraising.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jems.com/ems-operations/pa-fire-ems-service-cashes-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jems.com">[JEMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jems.com</span><span class="citation-popover-title">Pa. Fire &amp; EMS Service Cashes in on UFO Mystery</span><span class="citation-popover-snippet">Pa. Fire &amp; EMS Service Cashes in on UFO Mystery</span></span></span>
 
 This does not mean the community cynically invented the whole story. It means the story acquired a durable visual anchor after the fact. A television prop became a monument; the monument became a tourist photograph; the photograph became the image many people now associate with the original event. That is a media feedback loop, not a chain of physical evidence.
 
@@ -486,7 +486,7 @@ This does not mean the community cynically invented the whole story. It means th
 
 ## How reconstruction can reshape memory
 
-Eyewitness memory is not a fixed recording. It is vulnerable to later information, repeated discussion, suggestion, and source confusion. Psychological research on the misinformation effect shows that post-event information can alter later recall, and source-monitoring research explains how people may struggle to separate what they personally saw from what they later heard, imagined, discussed, or saw depicted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">PMCA Behavioral Account of the Misinformation Effect</span></span></span>
+Eyewitness memory is not a fixed recording. It is vulnerable to later information, repeated discussion, suggestion, and source confusion. Psychological research on the misinformation effect shows that post-event information can alter later recall, and source-monitoring research explains how people may struggle to separate what they personally saw from what they later heard, imagined, discussed, or saw depicted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">PMCA Behavioral Account of the Misinformation Effect</span></span></span>
 
 Kecksburg is a useful case because many prominent details circulated years after the incident. A person who saw a fireball in 1965, heard rumours of a military search, watched a dramatic television reconstruction in 1990, attended local discussions, and saw the Space Acorn monument in later years may hold a sincere memory that blends direct perception with later narrative material. That does not make the person dishonest. It makes the testimony difficult to sort without early, independent records.
 
@@ -500,7 +500,7 @@ A practical separation looks like this:
 
 Claim or imageStronger source categoryCaution neededA bright fireball crossed a wide region on 9 December 1965Contemporary reports and later scientific fireball analysisDoes not by itself prove a local crash recoveryOfficials searched or secured areas near KecksburgEarly press accounts and witness recollectionsSearch activity can reflect uncertainty, public safety, or rumours as well as recoverySearchers found no objectContemporary press and official-style reporting cited in later summariesOften receives less attention than the recovery narrativeA metallic acorn-shaped craft with markings was removedLater witness accounts and media retellingsNeeds independent physical or documentary corroborationThe Space Acorn monument shows what crashedTelevision prop and local landmarkIt is a reconstruction, not the alleged 1965 object
 
-The NASA FOIA episode belongs in the same framework. Missing or inadequately searched records can keep suspicion alive, and The Black Vault’s later review of NASA-related releases notes that records retention, missing “Fragology Files”, and bureaucratic confusion left holes in the paper trail. But a hole in the archive is not the same as a recovered craft. It is evidence of archival incompleteness and institutional opacity, which can support several interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">the vault files the 1965 kecksburg pennsylvania crash</span></span></span>
+The NASA FOIA episode belongs in the same framework. Missing or inadequately searched records can keep suspicion alive, and The Black Vault’s later review of NASA-related releases notes that records retention, missing “Fragology Files”, and bureaucratic confusion left holes in the paper trail. But a hole in the archive is not the same as a recovered craft. It is evidence of archival incompleteness and institutional opacity, which can support several interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files the 1965 kecksburg pennsylvania crash</span><span class="citation-popover-snippet">the vault files the 1965 kecksburg pennsylvania crash</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_media_reconstruction_9160d9-Illustration-2-dark.svg" | relative_url }}" alt="Media Effects illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_media_reconstruction_9160d9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_media_reconstruction_9160d9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -508,7 +508,7 @@ The NASA FOIA episode belongs in the same framework. Missing or inadequately sea
 
 The acorn image works because it condenses several uncertainties into one memorable object. It is not merely a shape. It implies a crash site, witnesses close enough to inspect it, markings strange enough to be retold, and a recovery operation important enough to hide. Once that object is pictured, the story feels less like a fireball report and more like a scene from a crash-retrieval drama.
 
-That is why the prop matters so much. A stylised reconstruction can become a mnemonic shortcut: “Kecksburg” no longer means a [regional fireball]({{ 'fireball-map/' | relative_url }}) and disputed search; it means the brown acorn-shaped craft on a pole. Roadside America’s account captures this transformation clearly: a model built for a 1990 television reconstruction was left behind, later repaired, displayed, lit, and incorporated into a tourism identity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America.com Space Acorn</span><span class="citation-popover-snippet">Roadside America.com Space Acorn</span></span></span>
+That is why the prop matters so much. A stylised reconstruction can become a mnemonic shortcut: “Kecksburg” no longer means a [regional fireball]({{ 'fireball-map/' | relative_url }}) and disputed search; it means the brown acorn-shaped craft on a pole. Roadside America’s account captures this transformation clearly: a model built for a 1990 television reconstruction was left behind, later repaired, displayed, lit, and incorporated into a tourism identity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America.com Space Acorn</span><span class="citation-popover-snippet">Roadside America.com Space Acorn</span></span></span>
 
 The same mechanism explains why later speculative theories can attach themselves to the case. Once the object is imagined as a designed craft rather than a meteor-like fireball, it becomes easier to compare it with Soviet probes, secret US hardware, alleged Nazi devices, or extraterrestrial vehicles. These theories differ sharply, but they share a dependence on the acorn-shaped object as the central premise.
 
@@ -516,7 +516,7 @@ The same mechanism explains why later speculative theories can attach themselves
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_media_reconstruction_9160d9-Illustration-3-dark.svg" | relative_url }}" alt="Media Effects illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_media_reconstruction_9160d9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_media_reconstruction_9160d9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What media reconstruction can and cannot prove
 
-Media reconstruction can preserve interest, gather witnesses, stimulate document requests, and make a local case visible enough to attract serious scrutiny. In Kecksburg, television attention helped produce interviews, public awareness, tourism, and pressure for government records. The FOIA litigation is a concrete example of media-driven attention spilling into official procedure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aero-news.net/index.cfm?do=main.textpost&amp;id=8BA595DE-6C05-4452-9D8D-51EEF4CA54F5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aero-news.net">[Aero-News Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aero-news.net</span><span class="citation-popover-snippet">Open source on aero-news.net.</span></span></span>
+Media reconstruction can preserve interest, gather witnesses, stimulate document requests, and make a local case visible enough to attract serious scrutiny. In Kecksburg, television attention helped produce interviews, public awareness, tourism, and pressure for government records. The FOIA litigation is a concrete example of media-driven attention spilling into official procedure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aero-news.net/index.cfm?do=main.textpost&amp;id=8BA595DE-6C05-4452-9D8D-51EEF4CA54F5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aero-news.net">[Aero-News Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aero-news.net</span><span class="citation-popover-snippet">Open source on aero-news.net.</span></span></span>
 
 But reconstruction cannot supply missing primary evidence. A staged scene is not a photograph of the event. A prop is not debris. A repeated witness phrase is not a chain of custody. A documentary’s narrative sequence is not the same as a contemporaneous report written before the legend hardened.
 
@@ -536,194 +536,194 @@ The reader’s best safeguard is to ask a simple question whenever a vivid detai
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Does Reconstruction Become Memory?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Does Reconstruction Become Memory?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Explains perception, memory, and reconstruction errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains perception, memory, and reconstruction errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Remembering+Satan+by+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remembering Satan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zXRHAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Remembering Satan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Remembering+Satan+by+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remembering Satan">Remembering Satan</a>
-        </h4>
-        <p class="fr-book-author">By Lawrence Wright</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Remembering+Satan+by+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remembering Satan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zXRHAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Remembering Satan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Remembering+Satan+by+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remembering Satan">Remembering Satan</a>
+</h4>
+<p class="fr-book-author">By Lawrence Wright</p>
         
-        <p class="fr-book-desc">Shows how narratives can evolve into accepted memories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Remembering+Satan+by+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how narratives can evolve into accepted memories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Remembering+Satan+by+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Useful contrast between documentation and storytelling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful contrast between documentation and storytelling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Balances witness reports with evidence analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances witness reports with evidence analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Remembering+Satan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remembering Satan</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Remembering+Satan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remembering Satan</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="media-effects-when-does-reconstruction-become-memory-kecksburg-ufo-incide-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -739,7 +739,7 @@ The reader’s best safeguard is to ask a simple question whenever a vivid detai
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -759,7 +759,7 @@ The reader’s best safeguard is to ask a simple question whenever a vivid detai
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -791,7 +791,7 @@ The reader’s best safeguard is to ask a simple question whenever a vivid detai
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -843,7 +843,7 @@ The reader’s best safeguard is to ask a simple question whenever a vivid detai
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -888,7 +888,7 @@ The reader’s best safeguard is to ask a simple question whenever a vivid detai
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -929,166 +929,166 @@ The reader’s best safeguard is to ask a simple question whenever a vivid detai
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: roadsideamerica.com  
    Title: Roadside America.com Space Acorn  
-   Link: <a href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideamerica.com/story/16860</a>  
+   Link:<a href="https://www.roadsideamerica.com/story/16860" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideamerica.com/story/16860</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt0385120/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0385120/</a>  
+   Link:<a href="https://www.imdb.com/title/tt0385120/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0385120/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: documents2.theblackvault.com  
    Title: The Black Vault  
-   Link: <a href="https://documents2.theblackvault.com/documents/nasa/USCOURTS-dcd-1_03-cv-02509-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/nasa/USCOURTS-dcd-1_03-cv-02509-1.pdf</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/nasa/USCOURTS-dcd-1_03-cv-02509-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/nasa/USCOURTS-dcd-1_03-cv-02509-1.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jems.com  
    Title: Pa. Fire & EMS Service Cashes in on UFO Mystery  
-   Link: <a href="https://www.jems.com/ems-operations/pa-fire-ems-service-cashes-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.jems.com/ems-operations/pa-fire-ems-service-cashes-ufo/</a>  
+   Link:<a href="https://www.jems.com/ems-operations/pa-fire-ems-service-cashes-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.jems.com/ems-operations/pa-fire-ems-service-cashes-ufo/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: resolve.cambridge.org  
-   Link: <a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/D91E27C9DBCF5DA8E21FAAC672E3C263/9780511759192c2_p27-55_CBO.pdf/memory-source-monitoring-and-eyewitness-testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/D91E27C9DBCF5DA8E21FAAC672E3C263/9780511759192c2_p27-55_CBO.pdf/memory-source-monitoring-and-eyewitness-testimony.pdf</a>  
+   Link:<a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/D91E27C9DBCF5DA8E21FAAC672E3C263/9780511759192c2_p27-55_CBO.pdf/memory-source-monitoring-and-eyewitness-testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/D91E27C9DBCF5DA8E21FAAC672E3C263/9780511759192c2_p27-55_CBO.pdf/memory-source-monitoring-and-eyewitness-testimony.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aero-news.net  
-   Link: <a href="https://www.aero-news.net/index.cfm?do=main.textpost&amp;id=8BA595DE-6C05-4452-9D8D-51EEF4CA54F5" target="_blank" rel="noopener noreferrer nofollow">https://www.aero-news.net/index.cfm?do=main.textpost&amp;id=8BA595DE-6C05-4452-9D8D-51EEF4CA54F5</a>  
+   Link:<a href="https://www.aero-news.net/index.cfm?do=main.textpost&amp;id=8BA595DE-6C05-4452-9D8D-51EEF4CA54F5" target="_blank" rel="noopener noreferrer nofollow">https://www.aero-news.net/index.cfm?do=main.textpost&amp;id=8BA595DE-6C05-4452-9D8D-51EEF4CA54F5</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: unsolved.com  
    Title: Kecksburg UFO  
-   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
+   Link:<a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: space.com  
    Title: 7589 case finally closed 1965 pennsylvania ufo mystery  
-   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
+   Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Misinformation effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation_effect</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt1924036/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt1924036/</a>  
+   Link:<a href="https://www.imdb.com/title/tt1924036/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt1924036/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: adsabs.harvard.edu  
-   Link: <a href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1967JRASC..61..184C</a>  
+   Link:<a href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1967JRASC..61..184C</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA Behavioral Account of the Misinformation Effect  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theblackvault.com  
    Title: the vault files the 1965 kecksburg pennsylvania crash  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/</a>  
+   Link:<a href="https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-vault-files-the-1965-kecksburg-pennsylvania-crash/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: documents2.theblackvault.com  
-   Link: <a href="https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/nasa/21-HQ-F-00500.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: documents2.theblackvault.com  
    Title: Nov132024Hearing Shellenberger2  
-   Link: <a href="https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger2.pdf</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger2.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/2725271/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/2725271/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/2725271/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/2725271/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/16383166/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16383166/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/16383166/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16383166/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/8064252/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/8064252/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/8064252/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/8064252/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Kecksburg UFO  
-   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO</a>  
+   Link:<a href="https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Kecksburg_UFO</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theclio.com  
    Title: Kecksburg UFO Incident  
-   Link: <a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
+   Link:<a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thecoldfile.com  
    Title: 1965 kecksburg  
-   Link: <a href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecoldfile.com/articles/1965-kecksburg/</a>  
+   Link:<a href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecoldfile.com/articles/1965-kecksburg/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchers.mq.edu.au  
    Title: news as a form of post event information the effect of online med  
-   Link: <a href="https://researchers.mq.edu.au/en/publications/news-as-a-form-of-post-event-information-the-effect-of-online-med/" target="_blank" rel="noopener noreferrer nofollow">https://researchers.mq.edu.au/en/publications/news-as-a-form-of-post-event-information-the-effect-of-online-med/</a>  
+   Link:<a href="https://researchers.mq.edu.au/en/publications/news-as-a-form-of-post-event-information-the-effect-of-online-med/" target="_blank" rel="noopener noreferrer nofollow">https://researchers.mq.edu.au/en/publications/news-as-a-form-of-post-event-information-the-effect-of-online-med/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: atlasobscura.com  
    Title: space acorn  
-   Link: <a href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/space-acorn</a>  
+   Link:<a href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/space-acorn</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/story?id=3785376&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/story?id=3785376&amp;page=1</a>  
+   Link:<a href="https://abcnews.com/Technology/story?id=3785376&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/story?id=3785376&amp;page=1</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3dHn_VpQhoc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3dHn_VpQhoc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incident documentary evidence Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV® Sci...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3dHn_VpQhoc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3dHn_VpQhoc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incident documentary evidence Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV® Sci...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wIVIQ2IXWHY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wIVIQ2IXWHY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Witnesses Believe The Government Hid Information about Kecksburg in 1965 | UFO Witness...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wIVIQ2IXWHY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wIVIQ2IXWHY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Witnesses Believe The Government Hid Information about Kecksburg in 1965 | UFO Witness...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries with Robert Stack - Season 7, Episode 21 - Full Episode...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries with Robert Stack - Season 7, Episode 21 - Full Episode...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Unsolved Mysteries with Robert Stack  
-   Link: <a href="https://www.youtube.com/watch?v=dM2DFl1FJps" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dM2DFl1FJps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireman Jim Romansky talks witnessing the 1965 crashed UFO at Kecksburg and military cover-up...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dM2DFl1FJps" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dM2DFl1FJps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireman Jim Romansky talks witnessing the 1965 crashed UFO at Kecksburg and military cover-up...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: 60-year mystery: Questions surrounding Kecksburg UFO incident in Pennsylvania  
-   Link: <a href="https://www.youtube.com/watch?v=vROJdm_xGAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vROJdm_xGAQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vROJdm_xGAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vROJdm_xGAQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/venturebros/comments/1e0t847/acorn_shaped_object_floating_and_descending/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/venturebros/comments/1e0t847/acorn_shaped_object_floating_and_descending/</a>  
+   Link:<a href="https://www.reddit.com/r/venturebros/comments/1e0t847/acorn_shaped_object_floating_and_descending/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/venturebros/comments/1e0t847/acorn_shaped_object_floating_and_descending/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/6</a>  
+   Link:<a href="https://www.nationalacademies.org/read/18891/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/6</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-the-story-i-did-on-the-60th-anniversary-of-the-kecksburg-ufo-we-still-ha/1399476958213112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-the-story-i-did-on-the-60th-anniversary-of-the-kecksburg-ufo-we-still-ha/1399476958213112/</a>  
+   Link:<a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-the-story-i-did-on-the-60th-anniversary-of-the-kecksburg-ufo-we-still-ha/1399476958213112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-the-story-i-did-on-the-60th-anniversary-of-the-kecksburg-ufo-we-still-ha/1399476958213112/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: innocenceproject.org  
-   Link: <a href="https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf</a>  
+   Link:<a href="https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: foxnews.com  
-   Link: <a href="https://www.foxnews.com/science/is-case-finally-closed-on-65-ufo-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/is-case-finally-closed-on-65-ufo-mystery</a>  
+   Link:<a href="https://www.foxnews.com/science/is-case-finally-closed-on-65-ufo-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/is-case-finally-closed-on-65-ufo-mystery</a>  

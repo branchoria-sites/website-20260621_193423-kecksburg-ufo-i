@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e-cold-war/
 description: Focused pages that expand on Cold War.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_cold_war_secrecy_4389e3
 parent_title: Cold War
@@ -16,7 +16,7 @@ parent_permalink: /cold-war/
 
 # Explore Topics in Cold War
 
-The following pages expand on the main **[Cold War]({{ '/cold-war/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Cold War]({{ '/cold-war/' | relative_url }})** page and cover its key branches in.
 
 - [Blue Fly]({{ '/blue-fly/' | relative_url }})
 - [Report Control]({{ '/report-control/' | relative_url }})

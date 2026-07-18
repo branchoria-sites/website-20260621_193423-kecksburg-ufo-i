@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kecksburg-ufo-incide-ab793e-great/
 description: Focused pages that expand on Great Lakes.
-date: '2026-06-21'
+date: '2026'
 layout: default
 parent_basename: Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d
 parent_title: Great Lakes
@@ -16,7 +16,7 @@ parent_permalink: /great-lakes/
 
 # Explore Topics in Great Lakes
 
-The following pages expand on the main **[Great Lakes]({{ '/great-lakes/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Great Lakes]({{ '/great-lakes/' | relative_url }})** page and cover its key branches in.
 
 - [Blue Book]({{ '/blue-book/' | relative_url }})
 - [Sonic Booms]({{ '/sonic-booms/' | relative_url }})

@@ -274,19 +274,19 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8_seismo
 
 ## Introduction
 
-One of the less-discussed pieces of evidence connected to the Kecksburg incident is not a witness statement, a newspaper report, or a later recollection. It is an instrument record. Contemporary accounts reported that a seismograph near Detroit detected shock waves at the same time that a brilliant fireball crossed the sky on 9 December 1965. For researchers who favour a meteor or bolide explanation, this record is significant because it points to a real physical event energetic enough to generate atmospheric shock waves, not merely a visual misidentification or local rumour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+One of the less-discussed pieces of evidence connected to the Kecksburg incident is not a witness statement, a newspaper report, or a later recollection. It is an instrument record. Contemporary accounts reported that a seismograph near Detroit detected shock waves at the same time that a brilliant fireball crossed the sky on 9 December 1965. For researchers who favour a meteor or bolide explanation, this record is significant because it points to a real physical event energetic enough to generate atmospheric shock waves, not merely a visual misidentification or local rumour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8_seismograph_shock_wa_ac833b-Illustration-1-dark.svg" | relative_url }}" alt="Shock Waves illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8_seismograph_shock_wa_ac833b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8_seismograph_shock_wa_ac833b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The seismograph evidence does not identify exactly what reached the ground, nor does it prove where any debris landed. What it does provide is an independent technical observation that can be compared with [pilot reports]({{ 'pilot-reports/' | relative_url }}), photographs, and eyewitness accounts. In that sense, it serves as one of the strongest non-human observations associated with the wider fireball event that preceded the Kecksburg mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The seismograph evidence does not identify exactly what reached the ground, nor does it prove where any debris landed. What it does provide is an independent technical observation that can be compared with [pilot reports]({{ 'pilot-reports/' | relative_url }}), photographs, and eyewitness accounts. In that sense, it serves as one of the strongest non-human observations associated with the wider fireball event that preceded the Kecksburg mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 ## What the seismograph reportedly recorded
 
-According to a summary published in the February 1966 issue of *Sky & Telescope*, a seismograph approximately 25 miles (40 km) south-west of Detroit recorded shock waves produced by the fireball as it travelled through the atmosphere. The same report noted that the Federal [Aviation]({{ 'aviation/' | relative_url }}) Administration received 23 pilot reports beginning at about 4:44 p.m. Eastern Standard Time, providing a [timing]({{ 'timing/' | relative_url }}) correlation between the visual observations and the instrumental record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+According to a summary published in the February 1966 issue of *Sky & Telescope*, a seismograph approximately 25 miles (40 km) south-west of Detroit recorded shock waves produced by the fireball as it travelled through the atmosphere. The same report noted that the Federal [Aviation]({{ 'aviation/' | relative_url }}) Administration received 23 pilot reports beginning at about 4:44 p.m. Eastern Standard Time, providing a [timing]({{ 'timing/' | relative_url }}) correlation between the visual observations and the instrumental record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-The important point is that the instrument was not supposedly recording an impact into the ground. Instead, it was detecting vibrations generated when the object's passage through the atmosphere created powerful pressure waves. Large meteors, often called [bolides]({{ 'bolides/' | relative_url }}) or fireballs, travel at hypersonic speeds and can generate sonic [booms]({{ 'booms/' | relative_url }}) and shock fronts capable of coupling into the ground and being detected by sensitive instruments. Modern meteor research confirms that atmospheric shock waves from energetic fireballs can produce measurable seismic signatures even when no crater forms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1805.07842" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Physics of Meteor Generated Shock Waves in the Earth&#x27;s Atmosphere</span><span class="citation-popover-snippet">Physics of Meteor Generated Shock Waves in the Earth&#x27;s Atmosphere - A ReviewMay 21, 2018...</span><span class="citation-popover-meta">Published: May 21, 2018</span></span></span>
+The important point is that the instrument was not supposedly recording an impact into the ground. Instead, it was detecting vibrations generated when the object's passage through the atmosphere created powerful pressure waves. Large meteors, often called [bolides]({{ 'bolides/' | relative_url }}) or fireballs, travel at hypersonic speeds and can generate sonic [booms]({{ 'booms/' | relative_url }}) and shock fronts capable of coupling into the ground and being detected by sensitive instruments. Modern meteor research confirms that atmospheric shock waves from energetic fireballs can produce measurable seismic signatures even when no crater forms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1805.07842" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Physics of Meteor Generated Shock Waves in the Earth&#x27;s Atmosphere</span><span class="citation-popover-snippet">Physics of Meteor Generated Shock Waves in the Earth&#x27;s Atmosphere - A ReviewMay 21, 2018...</span><span class="citation-popover-meta">Published: May 21, 2018</span></span></span>
 
-Later scientific analysis of the 1965 event made further use of the timing information. Astronomers studying the fireball combined the seismographic record with photographs taken from different locations around Detroit. Their reconstruction placed the fireball over the Detroit region at approximately 4:43 p.m. and suggested a trajectory toward the Lake Erie area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Later scientific analysis of the 1965 event made further use of the timing information. Astronomers studying the fireball combined the seismographic record with photographs taken from different locations around Detroit. Their reconstruction placed the fireball over the Detroit region at approximately 4:43 p.m. and suggested a trajectory toward the Lake Erie area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/677kTin0ojI" title="Sonic booms heard around the U.S." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=677kTin0ojI" target="_blank" rel="noopener noreferrer">Sonic booms heard around the U.S.</a></p><p class="youtube-embed-meta">Channel: NBC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=677kTin0ojI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=677kTin0ojI">Open on YouTube</a></p></div></div></div>
@@ -295,11 +295,11 @@ Later scientific analysis of the 1965 event made further use of the timing infor
 
 The significance of the seismograph record lies in what it says about the scale of the phenomenon.
 
-Eyewitnesses can disagree about distance, altitude, speed, and direction. Instruments are not subject to the same perceptual errors. A recorded shock wave indicates that the object was energetic enough to disturb the atmosphere substantially. That finding aligns with reports of sonic booms, loud detonations, vibrations, and widespread visibility across several states and parts of Canada. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Eyewitnesses can disagree about distance, altitude, speed, and direction. Instruments are not subject to the same perceptual errors. A recorded shock wave indicates that the object was energetic enough to disturb the atmosphere substantially. That finding aligns with reports of sonic booms, loud detonations, vibrations, and widespread visibility across several states and parts of Canada.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-From a meteor-physics perspective, the evidence fits a known pattern. Large fireballs frequently generate shock waves through rapid atmospheric compression and, in some cases, fragmentation. These pressure waves can travel long distances and may be recorded by seismographs as ground-coupled airwaves. Modern studies have documented numerous examples in which seismic stations detected atmospheric fireballs without any corresponding impact crater. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1805.07842" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Physics of Meteor Generated Shock Waves in the Earth&#x27;s Atmosphere</span><span class="citation-popover-snippet">Physics of Meteor Generated Shock Waves in the Earth&#x27;s Atmosphere - A ReviewMay 21, 2018...</span><span class="citation-popover-meta">Published: May 21, 2018</span></span></span>
+From a meteor-physics perspective, the evidence fits a known pattern. Large fireballs frequently generate shock waves through rapid atmospheric compression and, in some cases, fragmentation. These pressure waves can travel long distances and may be recorded by seismographs as ground-coupled airwaves. Modern studies have documented numerous examples in which seismic stations detected atmospheric fireballs without any corresponding impact crater.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1805.07842" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Physics of Meteor Generated Shock Waves in the Earth&#x27;s Atmosphere</span><span class="citation-popover-snippet">Physics of Meteor Generated Shock Waves in the Earth&#x27;s Atmosphere - A ReviewMay 21, 2018...</span><span class="citation-popover-meta">Published: May 21, 2018</span></span></span>
 
-For investigators seeking to explain the Kecksburg event, the shock-wave record therefore strengthened the case that a substantial atmospheric fireball genuinely occurred. It provided a physical mechanism for reports of booming sounds and vibrations while supporting the conclusion that the object was more than a conventional aircraft or an ordinary light in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+For investigators seeking to explain the Kecksburg event, the shock-wave record therefore strengthened the case that a substantial atmospheric fireball genuinely occurred. It provided a physical mechanism for reports of booming sounds and vibrations while supporting the conclusion that the object was more than a conventional aircraft or an ordinary light in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8_seismograph_shock_wa_ac833b-Illustration-2-dark.svg" | relative_url }}" alt="Shock Waves illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8_seismograph_shock_wa_ac833b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8_seismograph_shock_wa_ac833b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -307,9 +307,9 @@ For investigators seeking to explain the Kecksburg event, the shock-wave record 
 
 The seismograph evidence gains additional value when viewed together with aviation observations.
 
-Pilot reports established that trained observers saw an unusual object crossing the region at roughly the same time. The seismograph offered a separate line of evidence generated by instrumentation rather than human perception. When independent forms of evidence point to the same event, confidence increases that a major atmospheric phenomenon occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Pilot reports established that trained observers saw an unusual object crossing the region at roughly the same time. The seismograph offered a separate line of evidence generated by instrumentation rather than human perception. When independent forms of evidence point to the same event, confidence increases that a major atmospheric phenomenon occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-This combination helped astronomers move beyond simple witness testimony. By matching timing information from pilots, photographs, and the shock-wave record, researchers could estimate the fireball's path and energy more reliably than would have been possible from eyewitness reports alone. The resulting analyses generally favoured a meteor or bolide explanation for the large-scale aerial event observed across the region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+This combination helped astronomers move beyond simple witness testimony. By matching timing information from pilots, photographs, and the shock-wave record, researchers could estimate the fireball's path and energy more reliably than would have been possible from eyewitness reports alone. The resulting analyses generally favoured a meteor or bolide explanation for the large-scale aerial event observed across the region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vkZszbMzl3Q" title="The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer">The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence</a></p><p class="youtube-embed-meta">Channel: Tiffany Bliss</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vkZszbMzl3Q">Open on YouTube</a></p></div></div></div>
@@ -318,213 +318,213 @@ This combination helped astronomers move beyond simple witness testimony. By mat
 
 Although the seismograph record is valuable, it has important limitations.
 
-A seismograph that detects a shock wave does not automatically reveal where an object landed. The instrument records the arrival of vibrations, but translating those vibrations into a precise trajectory or impact point requires multiple measurements and supporting data. A single station can confirm that a powerful atmospheric disturbance occurred without identifying its final destination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2102.11534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Statistical analysis of fireballs: Seismic signature survey</span><span class="citation-popover-snippet">arXiv Statistical analysis of fireballs: Seismic signature survey</span></span></span>
+A seismograph that detects a shock wave does not automatically reveal where an object landed. The instrument records the arrival of vibrations, but translating those vibrations into a precise trajectory or impact point requires multiple measurements and supporting data. A single station can confirm that a powerful atmospheric disturbance occurred without identifying its final destination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2102.11534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Statistical analysis of fireballs: Seismic signature survey</span><span class="citation-popover-snippet">arXiv Statistical analysis of fireballs: Seismic signature survey</span></span></span>
 
-This limitation became especially important in discussions of Kecksburg. While the shock-wave evidence supports the existence of a significant fireball, it does not independently verify claims that an object crashed in the woods near Kecksburg or that any recovered object was transported away by authorities. The instrument record speaks most directly to the atmospheric event itself, not to later stories about recovery operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+This limitation became especially important in discussions of Kecksburg. While the shock-wave evidence supports the existence of a significant fireball, it does not independently verify claims that an object crashed in the woods near Kecksburg or that any recovered object was transported away by authorities. The instrument record speaks most directly to the atmospheric event itself, not to later stories about recovery operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-Indeed, scientific reconstructions that incorporated the seismographic timing often pointed toward a trajectory ending near western Lake Erie rather than at Kecksburg. That does not settle every question about what [witnesses]({{ 'witnesses/' | relative_url }}) later reported in Pennsylvania, but it demonstrates why researchers distinguish between evidence for the [regional fireball]({{ 'fireball-map/' | relative_url }}) and evidence for a specific crash site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Indeed, scientific reconstructions that incorporated the seismographic timing often pointed toward a trajectory ending near western Lake Erie rather than at Kecksburg. That does not settle every question about what [witnesses]({{ 'witnesses/' | relative_url }}) later reported in Pennsylvania, but it demonstrates why researchers distinguish between evidence for the [regional fireball]({{ 'fireball-map/' | relative_url }}) and evidence for a specific crash site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8_seismograph_shock_wa_ac833b-Illustration-3-dark.svg" | relative_url }}" alt="Shock Waves illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8_seismograph_shock_wa_ac833b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8_seismograph_shock_wa_ac833b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The instrument record behind the fireball
 
-Among the many claims surrounding the Kecksburg incident, the reported seismograph detection remains one of the most technically grounded pieces of evidence. It indicates that the event produced measurable atmospheric shock waves and therefore possessed substantial physical energy. Combined with pilot reports and photographic analysis, the record helped establish that a major fireball crossed the region on 9 December 1965. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Among the many claims surrounding the Kecksburg incident, the reported seismograph detection remains one of the most technically grounded pieces of evidence. It indicates that the event produced measurable atmospheric shock waves and therefore possessed substantial physical energy. Combined with pilot reports and photographic analysis, the record helped establish that a major fireball crossed the region on 9 December 1965.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-What the seismograph does not do is resolve the enduring debate over what, if anything, reached the ground near Kecksburg. Its value lies in a narrower but important conclusion: independent instrumentation detected effects consistent with a powerful atmospheric fireball, providing a physical foundation beneath a case often dominated by eyewitness testimony and later legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+What the seismograph does not do is resolve the enduring debate over what, if anything, reached the ground near Kecksburg. Its value lies in a narrower but important conclusion: independent instrumentation detected effects consistent with a powerful atmospheric fireball, providing a physical foundation beneath a case often dominated by eyewitness testimony and later legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tU7WSHZye5w" title="Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer">Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 68.0K &middot; Uploaded: March 2025 &middot; Length: 1 hour 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tU7WSHZye5w">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The instrument record behind the fireball. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The instrument record behind the fireball. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites and their Parent Planets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pib50AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites and their Parent Planets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites and their Parent Planets">Meteorites and their Parent Planets</a>
-        </h4>
-        <p class="fr-book-author">By Harry Y. McSween</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites and their Parent Planets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pib50AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites and their Parent Planets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites and their Parent Planets">Meteorites and their Parent Planets</a>
+</h4>
+<p class="fr-book-author">By Harry Y. McSween</p>
         
-        <p class="fr-book-desc">Provides context for large atmospheric entries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for large atmospheric entries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Science and Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BSAIAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteor Science and Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
-        </h4>
-        <p class="fr-book-author">By Donald William Robert McKinley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Science and Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BSAIAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteor Science and Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
+</h4>
+<p class="fr-book-author">By Donald William Robert McKinley</p>
         
-        <p class="fr-book-desc">Explains atmospheric shock waves and fireball physics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains atmospheric shock waves and fireball physics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains the value of physical evidence and instrumentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the value of physical evidence and instrumentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmic+Debris+by+John+G.+Burke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmic Debris on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=c-XeEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cosmic Debris" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmic+Debris+by+John+G.+Burke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmic Debris">Cosmic Debris</a>
-        </h4>
-        <p class="fr-book-author">By John G. Burke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmic+Debris+by+John+G.+Burke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmic Debris on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=c-XeEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cosmic Debris" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cosmic+Debris+by+John+G.+Burke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmic Debris">Cosmic Debris</a>
+</h4>
+<p class="fr-book-author">By John G. Burke</p>
         
-        <p class="fr-book-desc">Provides historical examples of meteor-related observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmic+Debris+by+John+G.+Burke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical examples of meteor-related observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cosmic+Debris+by+John+G.+Burke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites and their Parent Planets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Science and Engineering</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites and their Parent Planets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Science and Engineering</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Avro Vulcan Strategic bomber Print - Cold War Aviation Art, White Cliffs"><img src="{{ '/assets/images/marketplace-covers/6347d0a92af0b94c9065.jpg' | relative_url }}" alt="Listing image for Avro Vulcan Strategic bomber Print - Cold War Aviation Art, White Cliffs" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Avro Vulcan Strategic bomber Print - Cold War Aviation Art, White Cliffs</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Avro Vulcan Strategic bomber Print - Cold War Aviation Art, White Cliffs"><img src="{{ '/assets/images/marketplace-covers/6347d0a92af0b94c9065.jpg' | relative_url }}" alt="Listing image for Avro Vulcan Strategic bomber Print - Cold War Aviation Art, White Cliffs" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Avro Vulcan Strategic bomber Print - Cold War Aviation Art, White Cliffs</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet magazine Cold War Anti Nazi Wehrmacht Adenauer Bonn aviation Poster art"><img src="{{ '/assets/images/marketplace-covers/866c218a51ab745bd1a2.jpg' | relative_url }}" alt="Listing image for Soviet magazine Cold War Anti Nazi Wehrmacht Adenauer Bonn aviation Poster art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet magazine Cold War Anti Nazi Wehrmacht Adenauer Bonn aviation Poster art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet magazine Cold War Anti Nazi Wehrmacht Adenauer Bonn aviation Poster art"><img src="{{ '/assets/images/marketplace-covers/866c218a51ab745bd1a2.jpg' | relative_url }}" alt="Listing image for Soviet magazine Cold War Anti Nazi Wehrmacht Adenauer Bonn aviation Poster art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet magazine Cold War Anti Nazi Wehrmacht Adenauer Bonn aviation Poster art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art"><img src="{{ '/assets/images/marketplace-covers/22488c4c57d926cd04b8.jpg' | relative_url }}" alt="Listing image for McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art"><img src="{{ '/assets/images/marketplace-covers/22488c4c57d926cd04b8.jpg' | relative_url }}" alt="Listing image for McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fallout Shelters Soviet Radiation Cold Nuclear War Big Vintage Poster 34&quot; x 23&quot;"><img src="{{ '/assets/images/marketplace-covers/1eeb57b9ab2add9a283b.jpg' | relative_url }}" alt="Listing image for Fallout Shelters Soviet Radiation Cold Nuclear War Big Vintage Poster 34&quot; x 23&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Fallout Shelters Soviet Radiation Cold Nuclear War Big Vintage Poster 34&quot; x 23&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fallout Shelters Soviet Radiation Cold Nuclear War Big Vintage Poster 34&quot; x 23&quot;"><img src="{{ '/assets/images/marketplace-covers/1eeb57b9ab2add9a283b.jpg' | relative_url }}" alt="Listing image for Fallout Shelters Soviet Radiation Cold Nuclear War Big Vintage Poster 34&quot; x 23&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Fallout Shelters Soviet Radiation Cold Nuclear War Big Vintage Poster 34&quot; x 23&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="shock-waves-the-instrument-record-behind-the-fireball-kecksburg-ufo-incide-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ What the seismograph does not do is resolve the enduring debate over what, if an
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ What the seismograph does not do is resolve the enduring debate over what, if an
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ What the seismograph does not do is resolve the enduring debate over what, if an
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ What the seismograph does not do is resolve the enduring debate over what, if an
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ What the seismograph does not do is resolve the enduring debate over what, if an
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,97 +730,97 @@ What the seismograph does not do is resolve the enduring debate over what, if an
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Physics of Meteor Generated Shock Waves in the Earth's Atmosphere  
-   Link: <a href="https://arxiv.org/abs/1805.07842" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1805.07842</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Physics of Meteor Generated Shock Waves in the Earth&#x27;s Atmosphere - A ReviewMay 21, 2018...</p></details>
+   Link:<a href="https://arxiv.org/abs/1805.07842" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1805.07842</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Physics of Meteor Generated Shock Waves in the Earth&#x27;s Atmosphere - A ReviewMay 21, 2018...</p></details>
    Published: May 21, 2018  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Statistical analysis of fireballs: Seismic signature survey  
-   Link: <a href="https://arxiv.org/abs/2102.11534" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2102.11534</a>  
+   Link:<a href="https://arxiv.org/abs/2102.11534" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2102.11534</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Meteor air burst  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteor_air_burst" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor_air_burst</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Meteor_air_burst" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor_air_burst</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
    Title: The Kecksburg Mystery | Sunday Roast  
-   Link: <a href="https://www.facebook.com/sunday.roast.media/videos/the-kecksburg-mystery/830434049690187/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sunday.roast.media/videos/the-kecksburg-mystery/830434049690187/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[The Kecksburg UFO incident](&amp;#123;&amp;#123; &#x27;the-kecksburg-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;) occurred on December 9, 1965, at Kecksburg, Pennsylvania. 00:05. The...</p></details>
+   Link:<a href="https://www.facebook.com/sunday.roast.media/videos/the-kecksburg-mystery/830434049690187/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sunday.roast.media/videos/the-kecksburg-mystery/830434049690187/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[The Kecksburg UFO incident](&amp;#123;&amp;#123; &#x27;the-kecksburg-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;) occurred on December 9, 1965, at Kecksburg, Pennsylvania. 00:05. The...</p></details>
    Published: December 9, 1965  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: adsabs.harvard.edu  
    Title: Loud sonic booms were heard in the Detroit-Windsor  
-   Link: <a href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1967JRASC..61..184C</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS AbsThe Fireball of December 9, 1965-Part I - Astrophysics Data Systemstimated that, as seen from Detroit, Michigan, the fireball had...</p></details>
+   Link:<a href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1967JRASC..61..184C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS AbsThe Fireball of December 9, 1965-Part I - Astrophysics Data Systemstimated that, as seen from Detroit, Michigan, the fireball had...</p></details>
    Published: December 9, 1965  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: Today is the 60th Anniversary of Western  
-   Link: <a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 2025 — It is believed, by many, that on the early evening of December 9, 1965, “something” fell from the sky - and into some...</p></details>
+   Link:<a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 2025 — It is believed, by many, that on the early evening of December 9, 1965, “something” fell from the sky - and into some...</p></details>
    Published: December 9, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 1965, something mysterious fell from the sky near the small town of Kecksburg, Pennsylvania. Witnesses reported a glowing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 1965, something mysterious fell from the sky near the small town of Kecksburg, Pennsylvania. Witnesses reported a glowing...</p></details>
    Published: December 9, 1965  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: roadunraveled.com  
    Title: kecksburg ufo crash pennsylvania  
-   Link: <a href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Crash and the Roswell of Pennsylvania1 Oct 2020 — A raging fireball was reportedly seen falling from the sky before fin...</p></details>
+   Link:<a href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Crash and the Roswell of Pennsylvania1 Oct 2020 — A raging fireball was reportedly seen falling from the sky before fin...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: states and Canada over Detroit,  
-   Link: <a href="https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On the evening of December 9, 1965, a massive, brilliant fireball...March 26, 2026 — The Kecksburg UFO incident occurred on December 9...</p></details>
+   Link:<a href="https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On the evening of December 9, 1965, a massive, brilliant fireball...March 26, 2026 — The Kecksburg UFO incident occurred on December 9...</p></details>
    Published: December 9, 1965  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: open.spotify.com  
    Title: com254: Kecksburg UFO Incident  
-   Link: <a href="https://open.spotify.com/episode/786dJjQhJQ7YcPFGhlLga2" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/786dJjQhJQ7YcPFGhlLga2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com254: Kecksburg UFO Incident - SpotifyFebruary 12, 2026 — The guys&#x27; discussion is “out of this world” good…The Kecksburg UFO In...</p></details>
+   Link:<a href="https://open.spotify.com/episode/786dJjQhJQ7YcPFGhlLga2" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/786dJjQhJQ7YcPFGhlLga2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com254: Kecksburg UFO Incident - SpotifyFebruary 12, 2026 — The guys&#x27; discussion is “out of this world” good…The Kecksburg UFO In...</p></details>
    Published: February 12, 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/articles/dec-9-1965-night-sky-112913215.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/dec-9-1965-night-sky-112913215.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dec 9, 1965: The night the sky caught fire over Pennsylvania9 Dec 2025 — Thousands witnessed the fireball, yet no conclusive explanation...</p></details>
+   Link:<a href="https://www.aol.com/articles/dec-9-1965-night-sky-112913215.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/dec-9-1965-night-sky-112913215.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dec 9, 1965: The night the sky caught fire over Pennsylvania9 Dec 2025 — Thousands witnessed the fireball, yet no conclusive explanation...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theclio.com  
    Title: Kecksburg UFO Incident  
-   Link: <a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ClioThe Kecksburg UFO Incident happened December 9, 1965 when a mysterious glowing ball of fire crash landed in a small Pennsylvanian town...</p></details>
+   Link:<a href="https://theclio.com/entry/63413" target="_blank" rel="noopener noreferrer nofollow">https://theclio.com/entry/63413</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ClioThe Kecksburg UFO Incident happened December 9, 1965 when a mysterious glowing ball of fire crash landed in a small Pennsylvanian town...</p></details>
    Published: December 9, 1965  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Sonic booms heard around the U.S  
-   Link: <a href="https://www.youtube.com/watch?v=677kTin0ojI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=677kTin0ojI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV® - YouTube Kecksburg UFO Crash: The Untold Story...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=677kTin0ojI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=677kTin0ojI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV® - YouTube Kecksburg UFO Crash: The Untold Story...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HX_RrO7ZQaU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HX_RrO7ZQaU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Other Roswell: the Kecksburg UFO | Conspiracy (S1, E13)July 1, 2025 — What came down in the forest outside the sleepy hamlet of...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HX_RrO7ZQaU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HX_RrO7ZQaU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Other Roswell: the Kecksburg UFO | Conspiracy (S1, E13)July 1, 2025 — What came down in the forest outside the sleepy hamlet of...</p></details>
    Published: July 1, 2025  

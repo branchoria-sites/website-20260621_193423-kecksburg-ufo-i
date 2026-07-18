@@ -278,15 +278,15 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_kosmos96_traj
 
 ## Introduction
 
-A central problem for the [Kosmos]({{ 'kosmos-96/' | relative_url }}) 96 explanation of the Kecksburg incident is not simply whether the Soviet probe re-entered on the same day, but whether its expected flight path matched the fireball that thousands of people actually observed. The [Great Lakes]({{ 'great-lakes/' | relative_url }}) fireball of 9 December 1965 was seen across a wide region of the United States and Canada, allowing astronomers to reconstruct its trajectory from photographs, eyewitness reports, aircraft observations and a seismographic record. Those reconstructions generally indicated a steep, meteor-like descent ending near western Lake Erie. That conclusion creates a direct conflict with the behaviour normally expected from orbital debris such as Kosmos 96, which would have approached Earth along a much shallower path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+A central problem for the [Kosmos]({{ 'kosmos-96/' | relative_url }}) 96 explanation of the Kecksburg incident is not simply whether the Soviet probe re-entered on the same day, but whether its expected flight path matched the fireball that thousands of people actually observed. The [Great Lakes]({{ 'great-lakes/' | relative_url }}) fireball of 9 December 1965 was seen across a wide region of the United States and Canada, allowing astronomers to reconstruct its trajectory from photographs, eyewitness reports, aircraft observations and a seismographic record. Those reconstructions generally indicated a steep, meteor-like descent ending near western Lake Erie. That conclusion creates a direct conflict with the behaviour normally expected from orbital debris such as Kosmos 96, which would have approached Earth along a much shallower path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_kosmos96_trajectory_4bb883-Illustration-1-dark.svg" | relative_url }}" alt="Trajectory illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_kosmos96_trajectory_4bb883-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_kosmos96_trajectory_4bb883-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Astronomers Reconstructed from the Fireball
 
-The most important evidence comes from scientific analysis conducted shortly after the event. Researchers used photographs taken north of Detroit together with seismic and observational data to estimate the fireball's trajectory. Their reconstruction placed the object on a southwest-to-northeast track descending at a relatively steep angle through the atmosphere. They concluded that the luminous flight most likely terminated near the north-western shore of Lake Erie, close to the Windsor–Detroit region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The most important evidence comes from scientific analysis conducted shortly after the event. Researchers used photographs taken north of Detroit together with seismic and observational data to estimate the fireball's trajectory. Their reconstruction placed the object on a southwest-to-northeast track descending at a relatively steep angle through the atmosphere. They concluded that the luminous flight most likely terminated near the north-western shore of Lake Erie, close to the Windsor–Detroit region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-Other contemporary analyses reached similar conclusions. Reports collected from pilots, ground observers and instruments indicated that the visible phenomenon crossed the Great Lakes region before ending in or near western Lake Erie. The significance of this reconstruction is that it was based on observations spread across a large geographic area rather than solely on reports from Kecksburg itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Other contemporary analyses reached similar conclusions. Reports collected from pilots, ground observers and instruments indicated that the visible phenomenon crossed the Great Lakes region before ending in or near western Lake Erie. The significance of this reconstruction is that it was based on observations spread across a large geographic area rather than solely on reports from Kecksburg itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 For advocates of the Kosmos 96 theory, this presents a challenge. If the astronomical reconstruction is broadly correct, then the most probable end point of the observed fireball was hundreds of kilometres from the Pennsylvania woods where later crash stories emerged. The debate therefore becomes less about a single witness account and more about whether the regional observations or the local crash narrative deserve greater weight.
 
@@ -297,9 +297,9 @@ For advocates of the Kosmos 96 theory, this presents a challenge. If the astrono
 
 The trajectory issue matters because objects returning from Earth orbit do not normally behave like meteors arriving from interplanetary space.
 
-A natural meteoroid can plunge into the atmosphere at a steep angle and very high velocity, producing a bright bolide that appears to dive sharply toward the horizon. Orbital debris begins with a velocity that is already tangent to Earth's surface. During [re-entry]({{ 're-entry/' | relative_url }}) it gradually loses altitude while continuing to travel downrange for great distances. Re-entry trajectories are therefore typically shallow compared with many meteor paths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/sites/faa.gov/files/about/office_org/headquarters_offices/avs/III.4.1.7_Returning_from_Space.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationReturning from Space: Re-entryMay 30, 2003 — by R Motion · Cited by 6 — Of course, unlike the meteor, in e...</span><span class="citation-popover-meta">Published: May 30, 2003</span></span></span>
+A natural meteoroid can plunge into the atmosphere at a steep angle and very high velocity, producing a bright bolide that appears to dive sharply toward the horizon. Orbital debris begins with a velocity that is already tangent to Earth's surface. During [re-entry]({{ 're-entry/' | relative_url }}) it gradually loses altitude while continuing to travel downrange for great distances. Re-entry trajectories are therefore typically shallow compared with many meteor paths.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/sites/faa.gov/files/about/office_org/headquarters_offices/avs/III.4.1.7_Returning_from_Space.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationReturning from Space: Re-entryMay 30, 2003 — by R Motion · Cited by 6 — Of course, unlike the meteor, in e...</span><span class="citation-popover-meta">Published: May 30, 2003</span></span></span>
 
-This distinction became a major argument against identifying the Great Lakes fireball with Kosmos 96. Later summaries of the case noted that the reconstructed atmospheric track appeared too steep to be consistent with a spacecraft returning from low Earth orbit. Instead, the geometry looked more compatible with a meteoroid arriving from a heliocentric orbit and burning through the atmosphere in the manner expected of a large fireball. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">Kosmos 96</span></span></span>
+This distinction became a major argument against identifying the Great Lakes fireball with Kosmos 96. Later summaries of the case noted that the reconstructed atmospheric track appeared too steep to be consistent with a spacecraft returning from low Earth orbit. Instead, the geometry looked more compatible with a meteoroid arriving from a heliocentric orbit and burning through the atmosphere in the manner expected of a large fireball.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">Kosmos 96</span></span></span>
 
 The issue is not that spacecraft can never produce spectacular fireballs. Re-entering satellites certainly can. The question is whether the specific geometry inferred from the 1965 observations resembles orbital decay. Critics of the Kosmos 96 hypothesis argue that it does not.
 
@@ -309,9 +309,9 @@ The issue is not that spacecraft can never produce spectacular fireballs. Re-ent
 
 The strongest trajectory-based objection to the Kosmos 96 theory emerges when the reconstructed fireball path is compared with later claims of a crash near Kecksburg.
 
-If the object's luminous flight ended near Lake Erie, as several astronomical analyses suggested, then the observed fireball and the alleged Pennsylvania crash site may not represent the same event at all. In that interpretation, [witnesses]({{ 'witnesses/' | relative_url }}) near Kecksburg could have misjudged the distance and direction of a dramatic atmospheric phenomenon occurring far away, a common problem in fireball observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+If the object's luminous flight ended near Lake Erie, as several astronomical analyses suggested, then the observed fireball and the alleged Pennsylvania crash site may not represent the same event at all. In that interpretation, [witnesses]({{ 'witnesses/' | relative_url }}) near Kecksburg could have misjudged the distance and direction of a dramatic atmospheric phenomenon occurring far away, a common problem in fireball observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-Supporters of a Pennsylvania landing counter that many local witnesses reported hearing sounds, seeing smoke or believing an object descended into nearby woods. However, trajectory reconstructions derived from multiple observation points generally carry greater weight than single-location estimates of where a bright object appeared to fall. The apparent location of a fireball can be misleading because observers naturally project a distant atmospheric event onto the local landscape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Supporters of a Pennsylvania landing counter that many local witnesses reported hearing sounds, seeing smoke or believing an object descended into nearby woods. However, trajectory reconstructions derived from multiple observation points generally carry greater weight than single-location estimates of where a bright object appeared to fall. The apparent location of a fireball can be misleading because observers naturally project a distant atmospheric event onto the local landscape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 As a result, the trajectory evidence creates two competing pictures:
 
@@ -323,7 +323,7 @@ As a result, the trajectory evidence creates two competing pictures:
 
 </div>
 
-Reconciling those two pictures has proven difficult. If the Great Lakes fireball truly followed the path reconstructed by astronomers, then it becomes harder to identify it with Kosmos 96 and harder to connect it directly to a physical object reaching the ground near Kecksburg. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Reconciling those two pictures has proven difficult. If the Great Lakes fireball truly followed the path reconstructed by astronomers, then it becomes harder to identify it with Kosmos 96 and harder to connect it directly to a physical object reaching the ground near Kecksburg.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W2MZy2fTfFI" title="Kecksburg 1965 UFO Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W2MZy2fTfFI" target="_blank" rel="noopener noreferrer">Kecksburg 1965 UFO Incident</a></p><p class="youtube-embed-meta">Channel: DisclosureDDAY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W2MZy2fTfFI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W2MZy2fTfFI">Open on YouTube</a></p></div></div></div>
@@ -335,200 +335,200 @@ Reconciling those two pictures has proven difficult. If the Great Lakes fireball
 
 Among all objections to the Kosmos 96 explanation, the trajectory question is one of the most technical and persistent. [Timing]({{ 'timing/' | relative_url }}) uncertainties, witness recollections and recovery claims can all be debated, but orbital mechanics place strict limits on how a re-entering spacecraft should appear.
 
-The fireball observed across the Great Lakes region was reconstructed as a steeply descending event with a probable end point near Lake Erie. Because ordinary orbital re-entries generally follow shallower atmospheric paths, many investigators have regarded this geometry as evidence against the idea that the visible fireball was Kosmos 96. Whether one accepts that conclusion or not, the trajectory evidence remains one of the key reasons the Kosmos 96 space-debris theory has never achieved broad scientific acceptance as a complete explanation for the Kecksburg incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The fireball observed across the Great Lakes region was reconstructed as a steeply descending event with a probable end point near Lake Erie. Because ordinary orbital re-entries generally follow shallower atmospheric paths, many investigators have regarded this geometry as evidence against the idea that the visible fireball was Kosmos 96. Whether one accepts that conclusion or not, the trajectory evidence remains one of the key reasons the Kosmos 96 space-debris theory has never achieved broad scientific acceptance as a complete explanation for the Kecksburg incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_kosmos96_trajectory_4bb883-Illustration-3-dark.svg" | relative_url }}" alt="Trajectory illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_kosmos96_trajectory_4bb883-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_kosmos_96_e5ea32_kosmos96_trajectory_4bb883-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Fireball Path Fit Space Debris?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Fireball Path Fit Space Debris?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Discusses evidence standards, government records and notable cases, themes central to disputes over Kecksburg documentation and explanati...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evidence standards, government records and notable cases, themes central to disputes over Kecksburg documentation and explanati...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
-        </h4>
-        <p class="fr-book-author">By Emile Souvestre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
+</h4>
+<p class="fr-book-author">By Emile Souvestre</p>
         
-        <p class="fr-book-desc">Provides scientific discussion of UFO reports, witness evidence and conventional explanations relevant to evaluating Kecksburg and the Ko...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides scientific discussion of UFO reports, witness evidence and conventional explanations relevant to evaluating Kecksburg and the Ko...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chi+Gong+by+Paul+Dong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chi Gong on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oXYLGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Chi Gong" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chi+Gong+by+Paul+Dong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chi Gong">Chi Gong</a>
-        </h4>
-        <p class="fr-book-author">By Paul Dong, Aristide H. Esser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Chi+Gong+by+Paul+Dong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chi Gong on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oXYLGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Chi Gong" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chi+Gong+by+Paul+Dong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chi Gong">Chi Gong</a>
+</h4>
+<p class="fr-book-author">By Paul Dong, Aristide H. Esser</p>
         
-        <p class="fr-book-desc">Useful for readers interested in how alleged recoveries, government records and competing explanations are investigated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chi+Gong+by+Paul+Dong&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for readers interested in how alleged recoveries, government records and competing explanations are investigated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chi+Gong+by+Paul+Dong&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines government handling of UFO reports and evidence, directly relevant to questions about trajectory analyses and official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines government handling of UFO reports and evidence, directly relevant to questions about trajectory analyses and official records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Chi+Gong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chi Gong</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Chi+Gong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chi Gong</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Exploration Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/eee1121a7093dd873134.jpg' | relative_url }}" alt="Listing image for Space Exploration Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Space Exploration Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Exploration Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/eee1121a7093dd873134.jpg' | relative_url }}" alt="Listing image for Space Exploration Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Space Exploration Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space exploration Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6cf057c61cd8e4785ac6.jpg' | relative_url }}" alt="Listing image for Space exploration Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Space exploration Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space exploration Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6cf057c61cd8e4785ac6.jpg' | relative_url }}" alt="Listing image for Space exploration Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Space exploration Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Space Exploration Poster 🌌 - General Dynamics - 24x36” - 200gsm Paper🗞️"><img src="{{ '/assets/images/marketplace-covers/d8ac6108b42d97dfa964.jpg' | relative_url }}" alt="Listing image for Retro Space Exploration Poster 🌌 - General Dynamics - 24x36” - 200gsm Paper🗞️" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Space Exploration Poster 🌌 - General Dynamics - 24x36” - 200gsm Paper🗞️</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Space Exploration Poster 🌌 - General Dynamics - 24x36” - 200gsm Paper🗞️"><img src="{{ '/assets/images/marketplace-covers/d8ac6108b42d97dfa964.jpg' | relative_url }}" alt="Listing image for Retro Space Exploration Poster 🌌 - General Dynamics - 24x36” - 200gsm Paper🗞️" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Space Exploration Poster 🌌 - General Dynamics - 24x36” - 200gsm Paper🗞️</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Space Exploration Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/63a1e1b56bdd814d1fef.jpg' | relative_url }}" alt="Listing image for Retro Space Exploration Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Space Exploration Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Space Exploration Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/63a1e1b56bdd814d1fef.jpg' | relative_url }}" alt="Listing image for Retro Space Exploration Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Space Exploration Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="trajectory-did-the-fireball-path-fit-space-debris-kecksburg-ufo-incide-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ The fireball observed across the Great Lakes region was reconstructed as a steep
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ The fireball observed across the Great Lakes region was reconstructed as a steep
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ The fireball observed across the Great Lakes region was reconstructed as a steep
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ The fireball observed across the Great Lakes region was reconstructed as a steep
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ The fireball observed across the Great Lakes region was reconstructed as a steep
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,82 +734,82 @@ The fireball observed across the Great Lakes region was reconstructed as a steep
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Kosmos 96  
-   Link: <a href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kosmos_96</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kosmos_96</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/about/office_org/headquarters_offices/avs/III.4.1.7_Returning_from_Space.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/about/office_org/headquarters_offices/avs/III.4.1.7_Returning_from_Space.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal [Aviation](&amp;#123;&amp;#123; &#x27;aviation/&#x27; | relative_url &amp;#125;&amp;#125;) AdministrationReturning from Space: Re-entryMay 30, 2003 — by R Motion · Cited by 6 — Of course, unlike the meteor, in e...</p></details>
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/about/office_org/headquarters_offices/avs/III.4.1.7_Returning_from_Space.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/about/office_org/headquarters_offices/avs/III.4.1.7_Returning_from_Space.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal [Aviation](&amp;#123;&amp;#123; &#x27;aviation/&#x27; | relative_url &amp;#125;&amp;#125;) AdministrationReturning from Space: Re-entryMay 30, 2003 — by R Motion · Cited by 6 — Of course, unlike the meteor, in e...</p></details>
    Published: May 30, 2003  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: post-gazette.com  
-   Link: <a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Five decades later, the Kecksburg UFO is identified...5 Dec 2015 — The unidentified flying object that came down Dec...</p></details>
+   Link:<a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Five decades later, the Kecksburg UFO is identified...5 Dec 2015 — The unidentified flying object that came down Dec...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/1r5ghc2/eli5_why_dont_spacecraft_reenter_at_a_shallow/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1r5ghc2/eli5_why_dont_spacecraft_reenter_at_a_shallow/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5 why don&#x27;t spacecraft re-enter at a shallow angle to...Why don’t orbiting spacecraft re-enter at a shallow angle (using a much longe...</p></details>
+   Link:<a href="https://www.reddit.com/r/explainlikeimfive/comments/1r5ghc2/eli5_why_dont_spacecraft_reenter_at_a_shallow/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1r5ghc2/eli5_why_dont_spacecraft_reenter_at_a_shallow/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5 why don&#x27;t spacecraft re-enter at a shallow angle to...Why don’t orbiting spacecraft re-enter at a shallow angle (using a much longe...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: space.umich.edu  
-   Link: <a href="https://space.umich.edu/enduring-the-fireball-of-spacecraft-re-entry-through-improved-radiative-heating-prediction/" target="_blank" rel="noopener noreferrer nofollow">https://space.umich.edu/enduring-the-fireball-of-spacecraft-re-entry-through-improved-radiative-heating-prediction/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enduring the Fireball of Spacecraft Re-entry through...31 Jul 2024 — Among the many lasting memories from these endeavors, the image of...</p></details>
+   Link:<a href="https://space.umich.edu/enduring-the-fireball-of-spacecraft-re-entry-through-improved-radiative-heating-prediction/" target="_blank" rel="noopener noreferrer nofollow">https://space.umich.edu/enduring-the-fireball-of-spacecraft-re-entry-through-improved-radiative-heating-prediction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enduring the Fireball of Spacecraft Re-entry through...31 Jul 2024 — Among the many lasting memories from these endeavors, the image of...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: enigmalabs.io  
    Title: Enigma Labs | Report a UFO sighting Kecksburg Incident At approximately 4:45 p.m  
-   Link: <a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg IncidentAt approximately 4:45 p.m. on the afternoon of December 9, 1965, several reports of a “fireball” streaking through the...</p></details>
+   Link:<a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg IncidentAt approximately 4:45 p.m. on the afternoon of December 9, 1965, several reports of a “fireball” streaking through the...</p></details>
    Published: December 9, 1965  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WVIATVFM/posts/was-it-a-ufo-a-meteor-a-[russian-satellite" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WVIATVFM/posts/was-it-a-ufo-a-meteor-a-[russian-satellite</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 1965, “something” fell from the sky - and into some woods - near Kecksburg...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/WVIATVFM/posts/was-it-a-ufo-a-meteor-a-[russian-satellite" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WVIATVFM/posts/was-it-a-ufo-a-meteor-a-[russian-satellite</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 1965, “something” fell from the sky - and into some woods - near Kecksburg...Read more...</p></details>
    Published: December 9, 1965  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/335120697_The_Hamburg_meteorite_fall_Fireball_trajectory_orbit_and_dynamics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335120697_The_Hamburg_meteorite_fall_Fireball_trajectory_orbit_and_dynamics</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>te fall Žďár nad Sázavou, which occurred in the Czech Republic on December 9, 2014, at...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/335120697_The_Hamburg_meteorite_fall_Fireball_trajectory_orbit_and_dynamics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335120697_The_Hamburg_meteorite_fall_Fireball_trajectory_orbit_and_dynamics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>te fall Žďár nad Sázavou, which occurred in the Czech Republic on December 9, 2014, at...Read more...</p></details>
    Published: December 9, 2014  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/334316427_The_Hamburg_Meteorite_Fall_Fireball_trajectory_orbit_and_dynamics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334316427_The_Hamburg_Meteorite_Fall_Fireball_trajectory_orbit_and_dynamics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract– We report an analysis of instrumental observations of a very bright fireball which terminated with a meteorite fall near the to...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/334316427_The_Hamburg_Meteorite_Fall_Fireball_trajectory_orbit_and_dynamics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334316427_The_Hamburg_Meteorite_Fall_Fireball_trajectory_orbit_and_dynamics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract– We report an analysis of instrumental observations of a very bright fireball which terminated with a meteorite fall near the to...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hothardware.com  
    Title: doomed blue green fireball meteor streaks over great lakes  
-   Link: <a href="https://hothardware.com/news/doomed-blue-green-fireball-meteor-streaks-over-great-lakes" target="_blank" rel="noopener noreferrer nofollow">https://hothardware.com/news/doomed-blue-green-fireball-meteor-streaks-over-great-lakes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Doomed Blue-Green Fireball Meteor Streaks Over Great...3 Jun 2026 — Trajectory data compiled by meteorologists indicates that the spac...</p></details>
+   Link:<a href="https://hothardware.com/news/doomed-blue-green-fireball-meteor-streaks-over-great-lakes" target="_blank" rel="noopener noreferrer nofollow">https://hothardware.com/news/doomed-blue-green-fireball-meteor-streaks-over-great-lakes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Doomed Blue-Green Fireball Meteor Streaks Over Great...3 Jun 2026 — Trajectory data compiled by meteorologists indicates that the spac...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: crash site of the 1965 kecksburg ufo  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kosmos 96 was a Soviet probe allegedly intended to go to Venus, but it blew up while parked in Earth orbit. If the US recovered part of i...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16fl4t0/crash_site_of_the_1965_kecksburg_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kosmos 96 was a Soviet probe allegedly intended to go to Venus, but it blew up while parked in Earth orbit. If the US recovered part of i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: discoveryuk.com  
    Title: [the kecksburg ufo incident](&#123;&#123; 'the-kecksburg-ufo-incident/' | relative_url &#125;&#125;) a cold war mystery  
-   Link: <a href="https://www.discoveryuk.com/mysteries/the-kecksburg-ufo-incident-a-cold-war-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-kecksburg-ufo-incident-a-cold-war-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As the Cold War simmered, a ball of fire tore through the darkening sky, its trajectory forever changing that...Read more...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/the-kecksburg-ufo-incident-a-cold-war-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-kecksburg-ufo-incident-a-cold-war-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As the Cold War simmered, a ball of fire tore through the darkening sky, its trajectory forever changing that...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>g UFO incident, in which the sky lit up...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PghGhostTour/posts/%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7-%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%B2%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AC-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%94%F0%9D%90%85%F0%9D%90%8E-%F0%9D%90%94%F0%9D%90%80%F0%9D%90%8F-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%8A%F0%9D%90%9E/1265688535592727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>g UFO incident, in which the sky lit up...Read more...</p></details>

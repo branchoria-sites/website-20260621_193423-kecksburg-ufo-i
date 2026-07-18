@@ -280,30 +280,30 @@ image: /assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_detroi
 
 ## Introduction
 
-One of the most important clues in the Detroit–Windsor reconstruction of the Kecksburg event is not what people saw, but what they heard. On 9 December 1965, [witnesses]({{ 'witnesses/' | relative_url }}) around Detroit, Windsor, and other parts of the [Great Lakes]({{ 'great-lakes/' | relative_url }}) region reported loud booms, vibrations, and shock-like effects after a brilliant fireball crossed the sky. Later astronomical studies treated these reports as a key piece of evidence because they fit the behaviour of a large meteor, or bolide, travelling high in the atmosphere rather than a low-flying object descending into a nearby field. The resulting “fireball shock problem” helps explain why many sincere observers concluded that something had crashed close to them even when the actual source was far away. Scientific reconstructions of the event specifically noted loud sonic booms in the Detroit–Windsor region and used associated shock-wave evidence as part of the trajectory analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">fireball had an apparent magnitude of at least -15. Loud sonic booms were heard in the Detroit-Windsor region at intervals after the visu...</span></span></span>
+One of the most important clues in the Detroit–Windsor reconstruction of the Kecksburg event is not what people saw, but what they heard. On 9 December 1965, [witnesses]({{ 'witnesses/' | relative_url }}) around Detroit, Windsor, and other parts of the [Great Lakes]({{ 'great-lakes/' | relative_url }}) region reported loud booms, vibrations, and shock-like effects after a brilliant fireball crossed the sky. Later astronomical studies treated these reports as a key piece of evidence because they fit the behaviour of a large meteor, or bolide, travelling high in the atmosphere rather than a low-flying object descending into a nearby field. The resulting “fireball shock problem” helps explain why many sincere observers concluded that something had crashed close to them even when the actual source was far away. Scientific reconstructions of the event specifically noted loud sonic booms in the Detroit–Windsor region and used associated shock-wave evidence as part of the trajectory analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">fireball had an apparent magnitude of at least -15. Loud sonic booms were heard in the Detroit-Windsor region at intervals after the visu...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_detroit_sonic_booms_a18627-Illustration-1-dark.svg" | relative_url }}" alt="Sonic Booms illustration 1" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_detroit_sonic_booms_a18627-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_detroit_sonic_booms_a18627-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Witnesses Heard Around Detroit and Windsor
 
-Contemporary reports consistently described more than a visual spectacle. People in the Detroit–Windsor area reported explosive sounds and pressure effects following the passage of the fireball. A seismograph southwest of Detroit recorded atmospheric [shock waves]({{ 'shock-waves/' | relative_url }}) associated with the event, providing an instrumental record that something energetic had occurred in the atmosphere rather than merely a distant light display. The [timing]({{ 'timing/' | relative_url }}) of these shock signatures helped investigators reconstruct the fireball's movement across the region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+Contemporary reports consistently described more than a visual spectacle. People in the Detroit–Windsor area reported explosive sounds and pressure effects following the passage of the fireball. A seismograph southwest of Detroit recorded atmospheric [shock waves]({{ 'shock-waves/' | relative_url }}) associated with the event, providing an instrumental record that something energetic had occurred in the atmosphere rather than merely a distant light display. The [timing]({{ 'timing/' | relative_url }}) of these shock signatures helped investigators reconstruct the fireball's movement across the region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
-The significance of these reports lies in their geographical concentration. The 1967 analysis by V. D. Chamberlain and colleagues noted that loud sonic [booms]({{ 'booms/' | relative_url }}) were heard in the Detroit–Windsor region after the visual sighting. Rather than treating the booms as evidence of an impact near individual witnesses, the investigators regarded them as part of a regional atmospheric event generated by the fireball's passage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">fireball had an apparent magnitude of at least -15. Loud sonic booms were heard in the Detroit-Windsor region at intervals after the visu...</span></span></span>
+The significance of these reports lies in their geographical concentration. The 1967 analysis by V. D. Chamberlain and colleagues noted that loud sonic [booms]({{ 'booms/' | relative_url }}) were heard in the Detroit–Windsor region after the visual sighting. Rather than treating the booms as evidence of an impact near individual witnesses, the investigators regarded them as part of a regional atmospheric event generated by the fireball's passage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">fireball had an apparent magnitude of at least -15. Loud sonic booms were heard in the Detroit-Windsor region at intervals after the visu...</span></span></span>
 
-This distinction matters because many early news accounts across the broader sighting area connected booms, tremors, smoke reports, and apparent falling debris to presumed crash locations. Similar reports appeared across multiple states, demonstrating how a single high-energy fireball could generate numerous localised interpretations of where it had supposedly come down. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+This distinction matters because many early news accounts across the broader sighting area connected booms, tremors, smoke reports, and apparent falling debris to presumed crash locations. Similar reports appeared across multiple states, demonstrating how a single high-energy fireball could generate numerous localised interpretations of where it had supposedly come down.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ev_cWr0EU8E" title="Meteor sightings in the U.S." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ev_cWr0EU8E" target="_blank" rel="noopener noreferrer">Meteor sightings in the U.S.</a></p><p class="youtube-embed-meta">Channel: CBS Detroit</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ev_cWr0EU8E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ev_cWr0EU8E">Open on YouTube</a></p></div></div></div>
 
 ## Why Fireballs Can Produce Delayed Booms
 
-The key mechanism is the separation between light and sound. A bright meteor becomes visible almost instantly because light reaches observers essentially without delay. The sound generated by the same event travels far more slowly through the atmosphere. As a result, witnesses may see a fireball first and hear one or more booms many seconds or even minutes later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Rare daytime fireball spotted from orbit as residents report powerful sonic boom</span><span class="citation-popover-snippet">The meteor’s atmospheric entry was so forceful that the resulting boom caused homes to shake and was captured on video by several individ...</span></span></span>
+The key mechanism is the separation between light and sound. A bright meteor becomes visible almost instantly because light reaches observers essentially without delay. The sound generated by the same event travels far more slowly through the atmosphere. As a result, witnesses may see a fireball first and hear one or more booms many seconds or even minutes later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Rare daytime fireball spotted from orbit as residents report powerful sonic boom</span><span class="citation-popover-snippet">The meteor’s atmospheric entry was so forceful that the resulting boom caused homes to shake and was captured on video by several individ...</span></span></span>
 
-Large meteoroids travel at hypersonic speeds, vastly exceeding the speed of sound. As they compress and disturb the atmosphere, they generate shock waves. If the object fragments or undergoes an airburst, those shock waves can become especially pronounced. The resulting acoustic energy may be heard as a single boom, multiple booms, distant artillery-like reports, or vibrations felt in buildings and on the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor_air_burst" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Meteor air burst</span><span class="citation-popover-snippet">Meteor air burst</span></span></span>
+Large meteoroids travel at hypersonic speeds, vastly exceeding the speed of sound. As they compress and disturb the atmosphere, they generate shock waves. If the object fragments or undergoes an airburst, those shock waves can become especially pronounced. The resulting acoustic energy may be heard as a single boom, multiple booms, distant artillery-like reports, or vibrations felt in buildings and on the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor_air_burst" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Meteor air burst</span><span class="citation-popover-snippet">Meteor air burst</span></span></span>
 
-Modern fireball events demonstrate the same pattern. Recent meteor airbursts over North America have produced reports of shaking houses, rattling windows, and loud explosions despite occurring high in the atmosphere and leaving no direct impact at the locations where the sounds were heard. Experts note that when a large fireball survives deep enough into the atmosphere, the delayed arrival of sonic booms is expected and can occur far from any eventual meteorite fall zone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Rare daytime fireball spotted from orbit as residents report powerful sonic boom</span><span class="citation-popover-snippet">The meteor’s atmospheric entry was so forceful that the resulting boom caused homes to shake and was captured on video by several individ...</span></span></span>
+Modern fireball events demonstrate the same pattern. Recent meteor airbursts over North America have produced reports of shaking houses, rattling windows, and loud explosions despite occurring high in the atmosphere and leaving no direct impact at the locations where the sounds were heard. Experts note that when a large fireball survives deep enough into the atmosphere, the delayed arrival of sonic booms is expected and can occur far from any eventual meteorite fall zone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Rare daytime fireball spotted from orbit as residents report powerful sonic boom</span><span class="citation-popover-snippet">The meteor’s atmospheric entry was so forceful that the resulting boom caused homes to shake and was captured on video by several individ...</span></span></span>
 
-For the 1965 event, this means that hearing a boom in Detroit, Windsor, western Pennsylvania, or elsewhere did not automatically indicate a nearby crash. It indicated that atmospheric shock waves had reached those locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+For the 1965 event, this means that hearing a boom in Detroit, Windsor, western Pennsylvania, or elsewhere did not automatically indicate a nearby crash. It indicated that atmospheric shock waves had reached those locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_detroit_sonic_booms_a18627-Illustration-2-dark.svg" | relative_url }}" alt="Sonic Booms illustration 2" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_detroit_sonic_booms_a18627-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_detroit_sonic_booms_a18627-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -316,9 +316,9 @@ In reality, atmospheric shock waves can create a misleading sense of proximity. 
 * **Delayed arrival:** People often underestimate the time gap between seeing a fireball and hearing its sound.
 * **Atmospheric refraction:** Temperature and wind layers can bend sound, making its origin difficult to judge accurately.
 * **Wide-area shock fronts:** A single fireball can generate booms heard over hundreds of kilometres.
-* **Psychological localisation:** Once observers expect an impact, they tend to interpret sounds, smoke, or vibrations as confirmation of a nearby crash. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/19920001390/downloads/19920001390.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">A simple.Read more</span><span class="citation-popover-snippet">NASA Technical Reports Server10 Sonic Boom 7by DJ Maglieri · 1991 · Cited by 58 — Any body which moves through the air at speeds exceedin...</span></span></span>
+* **Psychological localisation:** Once observers expect an impact, they tend to interpret sounds, smoke, or vibrations as confirmation of a nearby crash.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/19920001390/downloads/19920001390.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">A simple.Read more</span><span class="citation-popover-snippet">NASA Technical Reports Server10 Sonic Boom 7by DJ Maglieri · 1991 · Cited by 58 — Any body which moves through the air at speeds exceedin...</span></span></span>
 
-The 1965 fireball generated proposed landing sites across a remarkably broad area. Reports connected the event to locations in Michigan, Ohio, Pennsylvania, and elsewhere. This pattern is exactly what would be expected if many observers independently interpreted delayed sonic booms and related effects as evidence that the object had come down near them. The resulting patchwork of local crash stories became one of the defining features of the wider Kecksburg narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
+The 1965 fireball generated proposed landing sites across a remarkably broad area. Reports connected the event to locations in Michigan, Ohio, Pennsylvania, and elsewhere. This pattern is exactly what would be expected if many observers independently interpreted delayed sonic booms and related effects as evidence that the object had come down near them. The resulting patchwork of local crash stories became one of the defining features of the wider Kecksburg narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ac3hYt3k-Eo" title="The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer">The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 149.6K &middot; Uploaded: July 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ac3hYt3k-Eo">Open on YouTube</a></p></div></div></div>
@@ -328,202 +328,202 @@ The 1965 fireball generated proposed landing sites across a remarkably broad are
 
 ## Why the Booms Felt So Close
 
-The Detroit–Windsor evidence demonstrates an important lesson in reconstructing the Kecksburg incident. Loud booms and physical vibrations are not reliable indicators of where a fireball ended its flight. A high-altitude bolide can produce shock waves that seem startlingly local even when the object itself is distant. Investigators studying the December 1965 event therefore treated the sonic booms as evidence of a powerful atmospheric passage, not as proof of a crash at any particular location. The combination of visual observations, photographs, and shock-wave records pointed toward a regional Great Lakes fireball whose acoustic effects spread across a much wider area than the fireball's actual path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">fireball had an apparent magnitude of at least -15. Loud sonic booms were heard in the Detroit-Windsor region at intervals after the visu...</span></span></span>
+The Detroit–Windsor evidence demonstrates an important lesson in reconstructing the Kecksburg incident. Loud booms and physical vibrations are not reliable indicators of where a fireball ended its flight. A high-altitude bolide can produce shock waves that seem startlingly local even when the object itself is distant. Investigators studying the December 1965 event therefore treated the sonic booms as evidence of a powerful atmospheric passage, not as proof of a crash at any particular location. The combination of visual observations, photographs, and shock-wave records pointed toward a regional Great Lakes fireball whose acoustic effects spread across a much wider area than the fireball's actual path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">fireball had an apparent magnitude of at least -15. Loud sonic booms were heard in the Detroit-Windsor region at intervals after the visu...</span></span></span>
 
-Seen in this light, the Detroit and Windsor booms help explain one of the enduring mysteries of the Kecksburg case: why so many witnesses in different places felt certain that the object had come down near them. The answer may lie less in where the fireball was and more in how its shock waves travelled through the atmosphere after it had already passed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">fireball had an apparent magnitude of at least -15. Loud sonic booms were heard in the Detroit-Windsor region at intervals after the visu...</span></span></span>
+Seen in this light, the Detroit and Windsor booms help explain one of the enduring mysteries of the Kecksburg case: why so many witnesses in different places felt certain that the object had come down near them. The answer may lie less in where the fireball was and more in how its shock waves travelled through the atmosphere after it had already passed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">fireball had an apparent magnitude of at least -15. Loud sonic booms were heard in the Detroit-Windsor region at intervals after the visu...</span></span></span>
 
 
 <img src="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_detroit_sonic_booms_a18627-Illustration-3-dark.svg" | relative_url }}" alt="Sonic Booms illustration 3" data-theme-src-dark="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_detroit_sonic_booms_a18627-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_detroit_sonic_booms_a18627-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Booms Felt So Close. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Booms Felt So Close. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites and their Parent Planets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pib50AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites and their Parent Planets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites and their Parent Planets">Meteorites and their Parent Planets</a>
-        </h4>
-        <p class="fr-book-author">By Harry Y. McSween</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites and their Parent Planets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pib50AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites and their Parent Planets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites and their Parent Planets">Meteorites and their Parent Planets</a>
+</h4>
+<p class="fr-book-author">By Harry Y. McSween</p>
         
-        <p class="fr-book-desc">Provides context for energetic atmospheric entries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for energetic atmospheric entries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets+by+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Science and Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BSAIAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteor Science and Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
-        </h4>
-        <p class="fr-book-author">By Donald William Robert McKinley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Science and Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BSAIAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteor Science and Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
+</h4>
+<p class="fr-book-author">By Donald William Robert McKinley</p>
         
-        <p class="fr-book-desc">Directly relevant to sonic booms and atmospheric effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to sonic booms and atmospheric effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypTvAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rocks from Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypTvAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rocks from Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
+</h4>
+<p class="fr-book-author">By O. Richard Norton</p>
         
-        <p class="fr-book-desc">Contains examples of dramatic meteor events and observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains examples of dramatic meteor events and observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kecksburg UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kecksburg UFO Incident">The Kecksburg UFO Incident</a>
-        </h4>
-        <p class="fr-book-author">By George Dudding</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kecksburg UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kecksburg UFO Incident">The Kecksburg UFO Incident</a>
+</h4>
+<p class="fr-book-author">By George Dudding</p>
         
-        <p class="fr-book-desc">Discusses reports of sounds and associated interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses reports of sounds and associated interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites and their Parent Planets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Science and Engineering</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites+and+their+Parent+Planets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites and their Parent Planets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Science and Engineering</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Great Lakes including Canals and Tributary Navigable Streams Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/13030d3d769dd34fbc3e.jpg' | relative_url }}" alt="Listing image for Great Lakes including Canals and Tributary Navigable Streams Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Great Lakes including Canals and Tributary Navigable Streams Map Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Great Lakes including Canals and Tributary Navigable Streams Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/13030d3d769dd34fbc3e.jpg' | relative_url }}" alt="Listing image for Great Lakes including Canals and Tributary Navigable Streams Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Great Lakes including Canals and Tributary Navigable Streams Map Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/d08323b3733fc5c4b9fd.jpg' | relative_url }}" alt="Listing image for Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/d08323b3733fc5c4b9fd.jpg' | relative_url }}" alt="Listing image for Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of Eastern Canada &amp; The Great Lakes 1705 Vintage Historic Map Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print"><img src="{{ '/assets/images/marketplace-covers/31fb5486de8394b97a2a.jpg' | relative_url }}" alt="Listing image for Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print"><img src="{{ '/assets/images/marketplace-covers/31fb5486de8394b97a2a.jpg' | relative_url }}" alt="Listing image for Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Great Lakes Map, Great Lakes US &amp; Canada Vintage 2D Relief Map - 2D Flat Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/a4702a69b8c69ab6582b.jpg' | relative_url }}" alt="Listing image for Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/a4702a69b8c69ab6582b.jpg' | relative_url }}" alt="Listing image for Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of The Great Lakes USA 1780 Vintage Historic Map Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Great Lakes map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Great Lakes map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Great+Lakes+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Great Lakes map print" data-ebay-reference="sonic-booms-why-the-booms-felt-so-close-kecksburg-ufo-incide-great-lakes-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ Seen in this light, the Detroit and Windsor booms help explain one of the enduri
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ Seen in this light, the Detroit and Windsor booms help explain one of the enduri
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ Seen in this light, the Detroit and Windsor booms help explain one of the enduri
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ Seen in this light, the Detroit and Windsor booms help explain one of the enduri
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ Seen in this light, the Detroit and Windsor booms help explain one of the enduri
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,102 +729,102 @@ Seen in this light, the Detroit and Windsor booms help explain one of the enduri
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: space.com  
    Title: Rare daytime fireball spotted from orbit as residents report powerful sonic boom  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The meteor’s atmospheric entry was so forceful that the resulting boom caused homes to shake and was captured on video by several individ...</p></details>
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The meteor’s atmospheric entry was so forceful that the resulting boom caused homes to shake and was captured on video by several individ...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ntrs.nasa.gov  
    Title: A simple.Read more  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/19920001390/downloads/19920001390.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19920001390/downloads/19920001390.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports Server10 Sonic Boom 7by DJ Maglieri · 1991 · Cited by 58 — Any body which moves through the air at speeds exceedin...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/19920001390/downloads/19920001390.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19920001390/downloads/19920001390.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports Server10 Sonic Boom 7by DJ Maglieri · 1991 · Cited by 58 — Any body which moves through the air at speeds exceedin...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Meteor air burst  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteor_air_burst" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor_air_burst</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Meteor_air_burst" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor_air_burst</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reuters.com  
    Title: meteor fireball triggered loud boom across new england nasa confirms 2026 05 31  
-   Link: <a href="https://www.reuters.com/business/environment/meteor-fireball-triggered-loud-boom-across-new-england-nasa-confirms-2026-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/environment/meteor-fireball-triggered-loud-boom-across-new-england-nasa-confirms-2026-05-31/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor fireball triggered loud boom across New England...31 May 2026 — A bright fireball streaked across a loud boom, after a meteor bro...</p></details>
+   Link:<a href="https://www.reuters.com/business/environment/meteor-fireball-triggered-loud-boom-across-new-england-nasa-confirms-2026-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/environment/meteor-fireball-triggered-loud-boom-across-new-england-nasa-confirms-2026-05-31/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor fireball triggered loud boom across New England...31 May 2026 — A bright fireball streaked across a loud boom, after a meteor bro...</p></details>
    Published: May 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: adsabs.harvard.edu  
-   Link: <a href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1967JRASC..61..184C</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>fireball had an apparent magnitude of at least -15. Loud sonic booms were heard in the Detroit-Windsor region at intervals after the visu...</p></details>
+   Link:<a href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1967JRASC..61..184C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fireball had an apparent magnitude of at least -15. Loud sonic booms were heard in the Detroit-Windsor region at intervals after the visu...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: d20advanced.fandom.com  
-   Link: <a href="https://d20advanced.fandom.com/wiki/Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://d20advanced.fandom.com/wiki/Kecksburg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>D20 Advanced Wiki - FandomThe Kecksburg UFO incident occurred on December 9, 1965 at Kecksburg, Pennsylvania, USA. A large, brilliant fir...</p></details>
+   Link:<a href="https://d20advanced.fandom.com/wiki/Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://d20advanced.fandom.com/wiki/Kecksburg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>D20 Advanced Wiki - FandomThe Kecksburg UFO incident occurred on December 9, 1965 at Kecksburg, Pennsylvania, USA. A large, brilliant fir...</p></details>
    Published: December 9, 1965  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
    Title: Mothership on Instagram: "This is not Guile's sonic boom  
-   Link: <a href="https://www.instagram.com/reel/DZCdVEAs_kd/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZCdVEAs_kd/?hl=en-gb</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On May 30, a fireball meteor travelled over Massachusetts, U.S., at about 120000 km/hr, producing a loud boom while shakes were felt acro...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZCdVEAs_kd/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZCdVEAs_kd/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On May 30, a fireball meteor travelled over Massachusetts, U.S., at about 120000 km/hr, producing a loud boom while shakes were felt acro...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
    Title: The military quickly sealed off the area, claiming  
-   Link: <a href="https://www.instagram.com/reel/DSB4fRqAvMw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSB4fRqAvMw/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Big Bang Bogan | The Kecksburg UFO: Did Aliens Crash in PA...On this day in 1965, a mysterious fireball crashed into the woods of Kecksb...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DSB4fRqAvMw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSB4fRqAvMw/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Big Bang Bogan | The Kecksburg UFO: Did Aliens Crash in PA...On this day in 1965, a mysterious fireball crashed into the woods of Kecksb...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: amazon.nl  
-   Link: <a href="https://www.amazon.nl/-/en/Benoit-Kn%C3%BAtr/dp/6131671338?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/-/en/Benoit-Kn%C3%BAtr/dp/6131671338?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Incident: Sonic booms, Meteor...[The Kecksburg UFO incident](&amp;#123;&amp;#123; &#x27;the-kecksburg-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;) occurred on December 9, 1965 at Kecksburg, Pennsylvania, USA...</p></details>
+   Link:<a href="https://www.amazon.nl/-/en/Benoit-Kn%C3%BAtr/dp/6131671338?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/-/en/Benoit-Kn%C3%BAtr/dp/6131671338?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Incident: Sonic booms, Meteor...[The Kecksburg UFO incident](&amp;#123;&amp;#123; &#x27;the-kecksburg-ufo-incident/&#x27; | relative_url &amp;#125;&amp;#125;) occurred on December 9, 1965 at Kecksburg, Pennsylvania, USA...</p></details>
    Published: December 9, 1965  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WCPO9/posts/the-american-meteor-society-said-that-the-booms-people-heard-were-actually-cause/1447843727373580/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WCPO9/posts/the-american-meteor-society-said-that-the-booms-people-heard-were-actually-cause/1447843727373580/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>meter) wide entering the atmosphere this brief fireball may now...</p></details>
+   Link:<a href="https://www.facebook.com/WCPO9/posts/the-american-meteor-society-said-that-the-booms-people-heard-were-actually-cause/1447843727373580/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WCPO9/posts/the-american-meteor-society-said-that-the-booms-people-heard-were-actually-cause/1447843727373580/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>meter) wide entering the atmosphere this brief fireball may now...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: What fell from the sky in Kecksburg PA  
-   Link: <a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;On December 9, 1965, a brilliant fireball was seen streaking across the sky over Michigan and northern Ohio. Sonic booms were heard over...</p></details>
+   Link:<a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-a-little-preview-of-what-we-have-on-four-the-record-at-1100am-this-morni/1396547218506086/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;On December 9, 1965, a brilliant fireball was seen streaking across the sky over Michigan and northern Ohio. Sonic booms were heard over...</p></details>
    Published: December 9, 1965  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DDWsudiO0SM/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DDWsudiO0SM/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hexeglaawe: The Kecksburg UFO Incident Pennsylvania&#x27;s...On the evening of December 9, 1965, a large, brilliant fireball was seen in at l...</p></details>
+   Link:<a href="https://www.instagram.com/p/DDWsudiO0SM/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DDWsudiO0SM/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hexeglaawe: The Kecksburg UFO Incident Pennsylvania&#x27;s...On the evening of December 9, 1965, a large, brilliant fireball was seen in at l...</p></details>
    Published: December 9, 1965  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheUnXplainedZone/posts/in-december-of-1965-a-strange-fireball-was-reported-by-six-us-states-conspiracy/1130426735953424/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/in-december-of-1965-a-strange-fireball-was-reported-by-six-us-states-conspiracy/1130426735953424/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In December of 1965, a strange fireball was reported by six...On December 9th, 1965 a brilliant fireball tore across the sky over six US...</p></details>
+   Link:<a href="https://www.facebook.com/TheUnXplainedZone/posts/in-december-of-1965-a-strange-fireball-was-reported-by-six-us-states-conspiracy/1130426735953424/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/in-december-of-1965-a-strange-fireball-was-reported-by-six-us-states-conspiracy/1130426735953424/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In December of 1965, a strange fireball was reported by six...On December 9th, 1965 a brilliant fireball tore across the sky over six US...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: This is not Guile's sonic boom  
-   Link: <a href="https://www.facebook.com/MothershipSG/videos/this-is-not-guiles-sonic-boomon-may-30-a-fireball-meteor-travelled-over-massachu/1004825605879197/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MothershipSG/videos/this-is-not-guiles-sonic-boomon-may-30-a-fireball-meteor-travelled-over-massachu/1004825605879197/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On May 30, a fireball meteor travelled over Massachusetts, U.S., at about 120000 km/hr, producing a loud boom while shakes were felt acro...</p></details>
+   Link:<a href="https://www.facebook.com/MothershipSG/videos/this-is-not-guiles-sonic-boomon-may-30-a-fireball-meteor-travelled-over-massachu/1004825605879197/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MothershipSG/videos/this-is-not-guiles-sonic-boomon-may-30-a-fireball-meteor-travelled-over-massachu/1004825605879197/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On May 30, a fireball meteor travelled over Massachusetts, U.S., at about 120000 km/hr, producing a loud boom while shakes were felt acro...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pabook.libraries.psu.edu  
    Title: acorn space kecksburg incident  
-   Link: <a href="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident" target="_blank" rel="noopener noreferrer nofollow">https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>from Space: The Kecksburg IncidentDec 9th, 1965. A fireball streaks across the sky above northeastern North America. Sightings as far apa...</p></details>
+   Link:<a href="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident" target="_blank" rel="noopener noreferrer nofollow">https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>from Space: The Kecksburg IncidentDec 9th, 1965. A fireball streaks across the sky above northeastern North America. Sightings as far apa...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/786dJjQhJQ7YcPFGhlLga2" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/786dJjQhJQ7YcPFGhlLga2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com254: Kecksburg UFO Incident12 Feb 2026 — The guys&#x27; discussion is “out of this world” good…The Kecksburg UFO Incident occurred...</p></details>
+   Link:<a href="https://open.spotify.com/episode/786dJjQhJQ7YcPFGhlLga2" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/786dJjQhJQ7YcPFGhlLga2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com254: Kecksburg UFO Incident12 Feb 2026 — The guys&#x27; discussion is “out of this world” good…The Kecksburg UFO Incident occurred...</p></details>
