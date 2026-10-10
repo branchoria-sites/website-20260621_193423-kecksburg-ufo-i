@@ -4,7 +4,7 @@ title_full: Science Trail Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /kecksburg-ufo-incide-ab793e-fireball/
+permalink: /kecksburg-ufo-incide-ab793e-science/
 description: Focused pages that expand on Science Trail.
 date: '2026'
 layout: default
