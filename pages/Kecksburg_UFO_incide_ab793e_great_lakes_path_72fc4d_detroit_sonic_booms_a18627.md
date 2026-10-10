@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 22:40:52'
 level: 3
 basename: Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_detroit_sonic_booms_a18627
 parent_basename: Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d

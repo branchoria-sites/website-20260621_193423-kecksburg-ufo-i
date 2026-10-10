@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:44:18'
 level: 3
 basename: Kecksburg_UFO_incide_ab793e_kecksburg_roswell_co_339d60_acorn_object_origins_9290ee
 parent_basename: Kecksburg_UFO_incide_ab793e_kecksburg_roswell_co_339d60

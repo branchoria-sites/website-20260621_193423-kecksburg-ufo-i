@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:44:18'
 level: 3
 basename: Kecksburg_UFO_incide_ab793e_acorn_object_335442_acorn_shape_fireball_7c49e4
 parent_basename: Kecksburg_UFO_incide_ab793e_acorn_object_335442

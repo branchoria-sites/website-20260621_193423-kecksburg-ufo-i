@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:44:18'
 level: 3
 basename: Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2_fireball_crash_locat_8e72c3
 parent_basename: Kecksburg_UFO_incide_ab793e_witness_memory_24e1f2

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:44:18'
 level: 3
 basename: Kecksburg_UFO_incide_ab793e_fireball_science_3dbbe4_detroit_seismic_sign_4ae30c
 parent_basename: Kecksburg_UFO_incide_ab793e_fireball_science_3dbbe4
