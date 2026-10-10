@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:24:21'
 level: 3
 basename: Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_military_presence_cl_874768
 parent_basename: Kecksburg_UFO_incide_ab793e_stan_gordon_896e09

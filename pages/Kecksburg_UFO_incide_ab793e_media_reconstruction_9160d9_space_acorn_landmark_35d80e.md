@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:44:18'
 level: 3
 basename: Kecksburg_UFO_incide_ab793e_media_reconstruction_9160d9_space_acorn_landmark_35d80e
 parent_basename: Kecksburg_UFO_incide_ab793e_media_reconstruction_9160d9

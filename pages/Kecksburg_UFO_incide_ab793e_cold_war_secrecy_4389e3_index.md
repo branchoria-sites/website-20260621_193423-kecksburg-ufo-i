@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 22:40:52'
 title: Cold War Sub-Topic Index
 title_full: Cold War Sub-Topic Index
 display_title: Sub-Topic Index

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:24:21'
 level: 3
 basename: Kecksburg_UFO_incide_ab793e_media_reconstruction_9160d9_fireball_vs_recovery_6d6a26
 parent_basename: Kecksburg_UFO_incide_ab793e_media_reconstruction_9160d9

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:24:21'
 level: 2
 basename: Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8
 parent_basename: Kecksburg_UFO_incide_ab793e

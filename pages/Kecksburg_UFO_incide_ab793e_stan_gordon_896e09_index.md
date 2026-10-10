@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 22:40:52'
 title: Stan Gordon Sub-Topic Index
 title_full: Stan Gordon Sub-Topic Index
 display_title: Sub-Topic Index

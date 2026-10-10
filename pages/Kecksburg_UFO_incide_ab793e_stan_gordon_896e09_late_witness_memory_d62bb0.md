@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:44:18'
 level: 3
 basename: Kecksburg_UFO_incide_ab793e_stan_gordon_896e09_late_witness_memory_d62bb0
 parent_basename: Kecksburg_UFO_incide_ab793e_stan_gordon_896e09

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:44:18'
 level: 3
 basename: Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d_umich_seismic_record_9b0dac
 parent_basename: Kecksburg_UFO_incide_ab793e_great_lakes_path_72fc4d

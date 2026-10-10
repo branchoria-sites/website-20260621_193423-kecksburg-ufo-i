@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 22:40:52'
 level: 3
 basename: Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8_detroit_windsor_fire_f407ca
 parent_basename: Kecksburg_UFO_incide_ab793e_aviation_reports_a758e8
