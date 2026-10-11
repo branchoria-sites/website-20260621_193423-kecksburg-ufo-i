@@ -28,8 +28,8 @@ sidebar_expanded_urls:
 - /the-kecksburg-ufo-incident/
 - /tv-image/
 nav_short_title: Romansky Claim
-title: How One Witness Shaped the Space Acorn
-title_full: How One Witness Shaped the Space Acorn
+title: "How One Witness Shaped the Space Acorn (romansky claim)"
+title_full: "How One Witness Shaped the Space Acorn (romansky claim)"
 display_title_short: Romansky Claim
 display_title: Romansky Claim
 heading_title: How One Witness Shaped the Space Acorn

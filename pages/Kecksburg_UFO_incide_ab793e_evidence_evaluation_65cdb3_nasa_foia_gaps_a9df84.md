@@ -28,8 +28,8 @@ sidebar_expanded_urls:
 - /the-kecksburg-ufo-incident/
 - /fair-test/
 nav_short_title: FOIA gaps
-title: Do Missing NASA Files Prove Anything?
-title_full: Do Missing NASA Files Prove Anything?
+title: "Do Missing NASA Files Prove Anything? (foia gaps)"
+title_full: "Do Missing NASA Files Prove Anything? (foia gaps)"
 display_title_short: FOIA gaps
 display_title: FOIA gaps
 heading_title: Do Missing NASA Files Prove Anything?
