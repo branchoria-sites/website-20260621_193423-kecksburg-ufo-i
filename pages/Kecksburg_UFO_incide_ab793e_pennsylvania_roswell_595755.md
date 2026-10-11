@@ -56,8 +56,8 @@ permalink: /pa-roswell/
 sidebar_expanded_urls:
 - /the-kecksburg-ufo-incident/
 nav_short_title: PA Roswell
-title: Is Kecksburg Really Pennsylvania's Roswell?
-title_full: Is Kecksburg Really Pennsylvania's Roswell?
+title: "Is Kecksburg Really Pennsylvania's Roswell? (pa roswell)"
+title_full: "Is Kecksburg Really Pennsylvania's Roswell? (pa roswell)"
 display_title_short: PA Roswell
 display_title: PA Roswell
 heading_title: Is Kecksburg Really Pennsylvania's Roswell?

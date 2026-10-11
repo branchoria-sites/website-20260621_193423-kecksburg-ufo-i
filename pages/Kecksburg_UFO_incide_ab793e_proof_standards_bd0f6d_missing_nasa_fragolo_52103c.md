@@ -28,8 +28,8 @@ sidebar_expanded_urls:
 - /the-kecksburg-ufo-incident/
 - /proof-test/
 nav_short_title: Missing Files
-title: Do Missing NASA Files Prove Anything?
-title_full: Do Missing NASA Files Prove Anything?
+title: "Do Missing NASA Files Prove Anything? (missing files)"
+title_full: "Do Missing NASA Files Prove Anything? (missing files)"
 display_title_short: Missing Files
 display_title: Missing Files
 heading_title: Do Missing NASA Files Prove Anything?

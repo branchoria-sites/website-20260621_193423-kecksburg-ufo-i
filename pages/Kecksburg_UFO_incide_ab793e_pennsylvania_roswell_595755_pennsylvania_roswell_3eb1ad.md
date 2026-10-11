@@ -28,8 +28,8 @@ sidebar_expanded_urls:
 - /the-kecksburg-ufo-incident/
 - /pa-roswell/
 nav_short_title: Roswell Label
-title: Is Kecksburg Really Pennsylvania's Roswell?
-title_full: Is Kecksburg Really Pennsylvania's Roswell?
+title: "Is Kecksburg Really Pennsylvania's Roswell? (roswell label)"
+title_full: "Is Kecksburg Really Pennsylvania's Roswell? (roswell label)"
 display_title_short: Roswell Label
 display_title: Roswell Label
 heading_title: Is Kecksburg Really Pennsylvania's Roswell?

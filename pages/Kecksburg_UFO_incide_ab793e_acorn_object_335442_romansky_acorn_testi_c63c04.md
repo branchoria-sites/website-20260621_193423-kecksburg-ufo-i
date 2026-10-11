@@ -28,8 +28,8 @@ sidebar_expanded_urls:
 - /the-kecksburg-ufo-incident/
 - /space-acorn/
 nav_short_title: Romansky
-title: How One Witness Shaped the Space Acorn
-title_full: How One Witness Shaped the Space Acorn
+title: "How One Witness Shaped the Space Acorn (romansky)"
+title_full: "How One Witness Shaped the Space Acorn (romansky)"
 display_title_short: Romansky
 display_title: Romansky
 heading_title: How One Witness Shaped the Space Acorn
